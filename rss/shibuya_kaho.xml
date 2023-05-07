@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@shibuya_kaho</id>
   <title>shibuya_kaho TikTok</title>
-  <updated>2023-05-03T16:47:00+00:00</updated>
+  <updated>2023-05-07T05:17:04+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from shibuya_kaho</subtitle>
-  <entry>
-    <id>https://tiktok.com/@shibuya_kaho/video/7224209158998936833</id>
-    <title>Love trying different look🍁 #kimono アメコミ帯かわいいよねヾ(๑╹◡╹)ﾉ"</title>
-    <updated>2023-04-20T19:01:16+00:00</updated>
-    <content>Love trying different look🍁 #kimono アメコミ帯かわいいよねヾ(๑╹◡╹)ﾉ"</content>
-    <link href="https://tiktok.com/@shibuya_kaho/video/7224209158998936833" rel="alternate"/>
-    <published>2023-04-20T19:01:16+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@shibuya_kaho/video/7225479615936990466</id>
     <title>Maid-ay‼️ #メイドコス </title>
@@ -51,5 +43,13 @@
     <content>My editor @Frog_Shield64 made this video from my stream(っ ॑꒳ ॑c) Sometimes such an accident happens! #クレーンゲーム これが本当の棚ぼた〜</content>
     <link href="https://tiktok.com/@shibuya_kaho/video/7228998671478689026" rel="alternate"/>
     <published>2023-05-03T16:47:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@shibuya_kaho/video/7230305209107467521</id>
+    <title>Who's your Sailor scout crush❓ (Mine was actually Mars in the beginning) #SailorJupiter #セーラージュピター </title>
+    <updated>2023-05-07T05:17:04+00:00</updated>
+    <content>Who's your Sailor scout crush❓ (Mine was actually Mars in the beginning) #SailorJupiter #セーラージュピター </content>
+    <link href="https://tiktok.com/@shibuya_kaho/video/7230305209107467521" rel="alternate"/>
+    <published>2023-05-07T05:17:04+00:00</published>
   </entry>
 </feed>
