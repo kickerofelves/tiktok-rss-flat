@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://tiktok.com/@poupeemimistar</id>
+  <title>poupeemimistar TikTok</title>
+  <updated>2023-05-06T12:48:57+00:00</updated>
+  <author>
+    <name>Conor ONeill</name>
+    <email>conor@conoroneill.com</email>
+  </author>
+  <link href="http://tiktok.com" rel="alternate"/>
+  <link href="https://kickerofelves.github.io/tiktok-rss-flat/rss/poupeemimistar.xml" rel="self"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
+  <subtitle>OK Boomer, all the latest TikToks from poupeemimistar</subtitle>
+  <entry>
+    <id>https://tiktok.com/@poupeemimistar/video/7229059070957833478</id>
+    <title>No Title</title>
+    <updated>2023-05-03T20:41:22+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@poupeemimistar/video/7229059070957833478" rel="alternate"/>
+    <published>2023-05-03T20:41:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@poupeemimistar/video/7229629084781890822</id>
+    <title>No Title</title>
+    <updated>2023-05-05T09:33:17+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@poupeemimistar/video/7229629084781890822" rel="alternate"/>
+    <published>2023-05-05T09:33:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@poupeemimistar/video/7229631980936121605</id>
+    <title>No Title</title>
+    <updated>2023-05-05T09:44:30+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@poupeemimistar/video/7229631980936121605" rel="alternate"/>
+    <published>2023-05-05T09:44:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@poupeemimistar/video/7229662290516266246</id>
+    <title>No Title</title>
+    <updated>2023-05-05T11:42:07+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@poupeemimistar/video/7229662290516266246" rel="alternate"/>
+    <published>2023-05-05T11:42:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@poupeemimistar/video/7230050598681316614</id>
+    <title>No Title</title>
+    <updated>2023-05-06T12:48:57+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@poupeemimistar/video/7230050598681316614" rel="alternate"/>
+    <published>2023-05-06T12:48:57+00:00</published>
+  </entry>
+</feed>
