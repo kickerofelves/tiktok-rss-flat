@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kristline__</id>
   <title>kristline__ TikTok</title>
-  <updated>2023-05-02T14:28:32+00:00</updated>
+  <updated>2023-05-10T14:23:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from kristline__</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kristline__/video/7223824735032102190</id>
-    <title>Come make our weekly wellness shots with me ___ Green •kale  •celery  •cucumbers •lime •pineapple  •ginger Orange shots •Orange  •lemon •pineapple  •pear •ginger 2 shots per day and watch your digestive system thanking you.</title>
-    <updated>2023-04-19T18:09:50+00:00</updated>
-    <content>Come make our weekly wellness shots with me ___ Green •kale  •celery  •cucumbers •lime •pineapple  •ginger Orange shots •Orange  •lemon •pineapple  •pear •ginger 2 shots per day and watch your digestive system thanking you.</content>
-    <link href="https://tiktok.com/@kristline__/video/7223824735032102190" rel="alternate"/>
-    <published>2023-04-19T18:09:50+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kristline__/video/7224193791903714602</id>
     <title>💕🤎</title>
@@ -51,5 +43,13 @@
     <content>Come cook dinner with me ___ Bae wanted to try dirty rice for the first time and I made him this for him. __ 📣📣𝐏𝐑𝐄𝐎𝐑𝐃𝐄𝐑 𝐅𝐎𝐑 𝐌𝐘 𝐂𝐎𝐎𝐊 𝐁𝐎𝐎𝐊 𝐈𝐒 𝐍𝐎𝐖 𝐋𝐈𝐕𝐄 𝐎𝐍 𝐌𝐘 𝐖𝐄𝐁𝐒𝐈𝐓𝐄  𝐒𝐈𝐒𝐓𝐄𝐑𝐒 &amp; 𝐁𝐑𝐎𝐓𝐇𝐀𝐒!!🎉 𝐒𝐊𝐈𝐍 𝐂𝐀𝐑𝐄 @goddess_gleam</content>
     <link href="https://tiktok.com/@kristline__/video/7228591800414440746" rel="alternate"/>
     <published>2023-05-02T14:28:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kristline__/video/7231559310654950702</id>
+    <title>@Lull   Get up to $700 OFF your Lull mattress during Lull's Memorial Day Sale with my link: lull.com/christianaTT</title>
+    <updated>2023-05-10T14:23:56+00:00</updated>
+    <content>@Lull   Get up to $700 OFF your Lull mattress during Lull's Memorial Day Sale with my link: lull.com/christianaTT</content>
+    <link href="https://tiktok.com/@kristline__/video/7231559310654950702" rel="alternate"/>
+    <published>2023-05-10T14:23:56+00:00</published>
   </entry>
 </feed>
