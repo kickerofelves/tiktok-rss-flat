@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@circusfaery33</id>
   <title>circusfaery33 TikTok</title>
-  <updated>2023-05-09T00:55:32+00:00</updated>
+  <updated>2023-05-10T00:01:38+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from circusfaery33</subtitle>
-  <entry>
-    <id>https://tiktok.com/@circusfaery33/video/7229749777313926442</id>
-    <title>#greenscreen I'll be covering the Chinese Education Mission for AAPI History Month. #aapiheritagemonth #asianamerican #modelminority </title>
-    <updated>2023-05-05T17:21:46+00:00</updated>
-    <content>#greenscreen I'll be covering the Chinese Education Mission for AAPI History Month. #aapiheritagemonth #asianamerican #modelminority </content>
-    <link href="https://tiktok.com/@circusfaery33/video/7229749777313926442" rel="alternate"/>
-    <published>2023-05-05T17:21:46+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@circusfaery33/video/7229774407424822574</id>
     <title>Replying to @usercut1256 Even if your intent in  asking this question, which is irrelevant to the video, was not harmful, your impact is. #asianamerican #modelminority #antiracist #solidarity </title>
@@ -51,5 +43,13 @@
     <content>Replying to @donalddprospect1 All you've done with this comment is show that your project your bigotry onto others to he divisive. Fortunately, we are familiar with this tactic already. #asianamerican #modelminority #antiracist #solidarity </content>
     <link href="https://tiktok.com/@circusfaery33/video/7230979973450845483" rel="alternate"/>
     <published>2023-05-09T00:55:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@circusfaery33/video/7231337193925528875</id>
+    <title>#stitch with @ryuhhnn Because racism is not just exclusion, it's exclusion plus being centered. </title>
+    <updated>2023-05-10T00:01:38+00:00</updated>
+    <content>#stitch with @ryuhhnn Because racism is not just exclusion, it's exclusion plus being centered. </content>
+    <link href="https://tiktok.com/@circusfaery33/video/7231337193925528875" rel="alternate"/>
+    <published>2023-05-10T00:01:38+00:00</published>
   </entry>
 </feed>
