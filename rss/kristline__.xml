@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kristline__</id>
   <title>kristline__ TikTok</title>
-  <updated>2023-05-10T14:23:56+00:00</updated>
+  <updated>2023-05-11T15:40:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from kristline__</subtitle>
-  <entry>
-    <id>https://tiktok.com/@kristline__/video/7224193791903714602</id>
-    <title>💕🤎</title>
-    <updated>2023-04-20T18:01:40+00:00</updated>
-    <content>💕🤎</content>
-    <link href="https://tiktok.com/@kristline__/video/7224193791903714602" rel="alternate"/>
-    <published>2023-04-20T18:01:40+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@kristline__/video/7226030805557005614</id>
     <title>Hey🥰 Y’all lmk if natural hairstyle of the week would be a vibe? _ Dress @kdkollection1  #fyp </title>
@@ -51,5 +43,13 @@
     <content>@Lull   Get up to $700 OFF your Lull mattress during Lull's Memorial Day Sale with my link: lull.com/christianaTT</content>
     <link href="https://tiktok.com/@kristline__/video/7231559310654950702" rel="alternate"/>
     <published>2023-05-10T14:23:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@kristline__/video/7231950147645918510</id>
+    <title>Cook Sunday dinner with me. Babe first time having “marry me chicken” __ 📣📣𝐏𝐑𝐄𝐎𝐑𝐃𝐄𝐑 𝐅𝐎𝐑 𝐌𝐘 𝐂𝐎𝐎𝐊 𝐁𝐎𝐎𝐊 𝐈𝐒 𝐍𝐎𝐖 𝐋𝐈𝐕𝐄 𝐎𝐍 𝐌𝐘 𝐖𝐄𝐁𝐒𝐈𝐓𝐄  𝐒𝐈𝐒𝐓𝐄𝐑𝐒 &amp; 𝐁𝐑𝐎𝐓𝐇𝐀𝐒!!🎉 𝐒𝐊𝐈𝐍 𝐂𝐀𝐑𝐄 @goddess_gleam Cooking knife @middletonmadeknives 🤌🏾</title>
+    <updated>2023-05-11T15:40:41+00:00</updated>
+    <content>Cook Sunday dinner with me. Babe first time having “marry me chicken” __ 📣📣𝐏𝐑𝐄𝐎𝐑𝐃𝐄𝐑 𝐅𝐎𝐑 𝐌𝐘 𝐂𝐎𝐎𝐊 𝐁𝐎𝐎𝐊 𝐈𝐒 𝐍𝐎𝐖 𝐋𝐈𝐕𝐄 𝐎𝐍 𝐌𝐘 𝐖𝐄𝐁𝐒𝐈𝐓𝐄  𝐒𝐈𝐒𝐓𝐄𝐑𝐒 &amp; 𝐁𝐑𝐎𝐓𝐇𝐀𝐒!!🎉 𝐒𝐊𝐈𝐍 𝐂𝐀𝐑𝐄 @goddess_gleam Cooking knife @middletonmadeknives 🤌🏾</content>
+    <link href="https://tiktok.com/@kristline__/video/7231950147645918510" rel="alternate"/>
+    <published>2023-05-11T15:40:41+00:00</published>
   </entry>
 </feed>
