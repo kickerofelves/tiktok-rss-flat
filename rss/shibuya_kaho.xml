@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@shibuya_kaho</id>
   <title>shibuya_kaho TikTok</title>
-  <updated>2023-05-10T21:37:29+00:00</updated>
+  <updated>2023-05-11T20:25:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from shibuya_kaho</subtitle>
-  <entry>
-    <id>https://tiktok.com/@shibuya_kaho/video/7227050790454578433</id>
-    <title>The season for #JoJo kimono is right around the corner🌻 ジョジョの着物を注文するために大阪展まで行ったな〜</title>
-    <updated>2023-04-28T10:48:12+00:00</updated>
-    <content>The season for #JoJo kimono is right around the corner🌻 ジョジョの着物を注文するために大阪展まで行ったな〜</content>
-    <link href="https://tiktok.com/@shibuya_kaho/video/7227050790454578433" rel="alternate"/>
-    <published>2023-04-28T10:48:12+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@shibuya_kaho/video/7228582301809134850</id>
     <title>The #SuperMarioMovie has finally arrived in Japan🍄✨ #スーパーマリオシアター </title>
@@ -51,5 +43,13 @@
     <content>I should look less evil now...! #angeldeess  これで私も天使に見えるかな🪽</content>
     <link href="https://tiktok.com/@shibuya_kaho/video/7231671065422892290" rel="alternate"/>
     <published>2023-05-10T21:37:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@shibuya_kaho/video/7232023504202255618</id>
+    <title>Behind the scenes footage from #FujiQ shoot on CDawgVA's #YouTube channel🗻 Go watch and make the view count go up✨ #BTS ユーチューブ撮影で富士急行った時の！</title>
+    <updated>2023-05-11T20:25:00+00:00</updated>
+    <content>Behind the scenes footage from #FujiQ shoot on CDawgVA's #YouTube channel🗻 Go watch and make the view count go up✨ #BTS ユーチューブ撮影で富士急行った時の！</content>
+    <link href="https://tiktok.com/@shibuya_kaho/video/7232023504202255618" rel="alternate"/>
+    <published>2023-05-11T20:25:00+00:00</published>
   </entry>
 </feed>
