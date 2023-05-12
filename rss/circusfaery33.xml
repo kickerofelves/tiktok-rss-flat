@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@circusfaery33</id>
   <title>circusfaery33 TikTok</title>
-  <updated>2023-05-11T18:10:09+00:00</updated>
+  <updated>2023-05-12T02:12:29+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from circusfaery33</subtitle>
-  <entry>
-    <id>https://tiktok.com/@circusfaery33/video/7230979973450845483</id>
-    <title>Replying to @donalddprospect1 All you've done with this comment is show that your project your bigotry onto others to he divisive. Fortunately, we are familiar with this tactic already. #asianamerican #modelminority #antiracist #solidarity </title>
-    <updated>2023-05-09T00:55:32+00:00</updated>
-    <content>Replying to @donalddprospect1 All you've done with this comment is show that your project your bigotry onto others to he divisive. Fortunately, we are familiar with this tactic already. #asianamerican #modelminority #antiracist #solidarity </content>
-    <link href="https://tiktok.com/@circusfaery33/video/7230979973450845483" rel="alternate"/>
-    <published>2023-05-09T00:55:32+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@circusfaery33/video/7231337193925528875</id>
     <title>#stitch with @ryuhhnn Because racism is not just exclusion, it's exclusion plus being centered. </title>
@@ -51,5 +43,13 @@
     <content>#duet with @yellowotter101 #aapi So well said! </content>
     <link href="https://tiktok.com/@circusfaery33/video/7231988682230746410" rel="alternate"/>
     <published>2023-05-11T18:10:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@circusfaery33/video/7232113075166416171</id>
+    <title>Replying to @b_sizzla I hope that you don't also tell Black people that 1964 was too long ago to still be talking about racism. #asianamerican #modelminority #antiracist #solidarity </title>
+    <updated>2023-05-12T02:12:29+00:00</updated>
+    <content>Replying to @b_sizzla I hope that you don't also tell Black people that 1964 was too long ago to still be talking about racism. #asianamerican #modelminority #antiracist #solidarity </content>
+    <link href="https://tiktok.com/@circusfaery33/video/7232113075166416171" rel="alternate"/>
+    <published>2023-05-12T02:12:29+00:00</published>
   </entry>
 </feed>
