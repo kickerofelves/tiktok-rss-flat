@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@kikyrr1</id>
   <title>kikyrr1 TikTok</title>
-  <updated>2023-05-13T13:33:49+00:00</updated>
+  <updated>2023-05-12T14:16:46+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -35,21 +35,5 @@
     <content>#parati #foryou #fyp #pourtoi #fakebody </content>
     <link href="https://tiktok.com/@kikyrr1/video/7232299734705212677" rel="alternate"/>
     <published>2023-05-12T14:16:46+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kikyrr1/video/7232659078072274182</id>
-    <title>#foryou #fyp </title>
-    <updated>2023-05-13T13:31:11+00:00</updated>
-    <content>#foryou #fyp </content>
-    <link href="https://tiktok.com/@kikyrr1/video/7232659078072274182" rel="alternate"/>
-    <published>2023-05-13T13:31:11+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kikyrr1/video/7232659756538793221</id>
-    <title>#foryou </title>
-    <updated>2023-05-13T13:33:49+00:00</updated>
-    <content>#foryou </content>
-    <link href="https://tiktok.com/@kikyrr1/video/7232659756538793221" rel="alternate"/>
-    <published>2023-05-13T13:33:49+00:00</published>
   </entry>
 </feed>
