@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@circusfaery33</id>
   <title>circusfaery33 TikTok</title>
-  <updated>2023-05-12T21:56:24+00:00</updated>
+  <updated>2023-05-13T00:35:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from circusfaery33</subtitle>
-  <entry>
-    <id>https://tiktok.com/@circusfaery33/video/7231571835488357675</id>
-    <title>Replying to @hankdrankasank What does this comment have to do about intrusions on safe spaces for Black, Brown, Indigenous and people of color, other than proving the point? And if you have a problem with what I said, why are you disparaging African histo</title>
-    <updated>2023-05-10T15:12:28+00:00</updated>
-    <content>Replying to @hankdrankasank What does this comment have to do about intrusions on safe spaces for Black, Brown, Indigenous and people of color, other than proving the point? And if you have a problem with what I said, why are you disparaging African history? </content>
-    <link href="https://tiktok.com/@circusfaery33/video/7231571835488357675" rel="alternate"/>
-    <published>2023-05-10T15:12:28+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@circusfaery33/video/7231603696604433707</id>
     <title>Replying to @hankdrankasank The European Age of Exploration itself shows how late Europeans were to exploring. </title>
@@ -51,5 +43,13 @@
     <content>Replying to @leon51l You're proving the point--Irish indentured themselves because they were recognized as people with the status to form contracts. Whereas enslaved Black people were treated as property under chattel slavery. Were both awful, yes. And the beneficiary of both systems were the same. </content>
     <link href="https://tiktok.com/@circusfaery33/video/7232418147951725866" rel="alternate"/>
     <published>2023-05-12T21:56:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@circusfaery33/video/7232459101182119210</id>
+    <title>Fibroid Awareness and Resources---Run F.A.R. 5k, July 15th in Atlanta, GA (with a virtual option). RunFar5k.com to register with discount code: circusfaery #fibroidawareness </title>
+    <updated>2023-05-13T00:35:20+00:00</updated>
+    <content>Fibroid Awareness and Resources---Run F.A.R. 5k, July 15th in Atlanta, GA (with a virtual option). RunFar5k.com to register with discount code: circusfaery #fibroidawareness </content>
+    <link href="https://tiktok.com/@circusfaery33/video/7232459101182119210" rel="alternate"/>
+    <published>2023-05-13T00:35:20+00:00</published>
   </entry>
 </feed>
