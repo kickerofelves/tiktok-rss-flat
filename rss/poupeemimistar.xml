@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@poupeemimistar</id>
   <title>poupeemimistar TikTok</title>
-  <updated>2023-05-13T17:10:25+00:00</updated>
+  <updated>2023-05-14T15:27:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from poupeemimistar</subtitle>
-  <entry>
-    <id>https://tiktok.com/@poupeemimistar/video/7232322590759472390</id>
-    <title>No Title</title>
-    <updated>2023-05-12T15:45:27+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@poupeemimistar/video/7232322590759472390" rel="alternate"/>
-    <published>2023-05-12T15:45:27+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@poupeemimistar/video/7232368737465257221</id>
     <title>No Title</title>
@@ -51,5 +43,13 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@poupeemimistar/video/7232715566748929285" rel="alternate"/>
     <published>2023-05-13T17:10:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@poupeemimistar/video/7233060028138163461</id>
+    <title>No Title</title>
+    <updated>2023-05-14T15:27:05+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@poupeemimistar/video/7233060028138163461" rel="alternate"/>
+    <published>2023-05-14T15:27:05+00:00</published>
   </entry>
 </feed>
