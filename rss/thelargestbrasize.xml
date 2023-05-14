@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@thelargestbrasize</id>
   <title>thelargestbrasize TikTok</title>
-  <updated>2023-05-14T15:53:07+00:00</updated>
+  <updated>2023-05-11T18:25:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from thelargestbrasize</subtitle>
+  <entry>
+    <id>https://tiktok.com/@thelargestbrasize/video/7230134847585422618</id>
+    <title>No Title</title>
+    <updated>2023-05-06T18:15:55+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@thelargestbrasize/video/7230134847585422618" rel="alternate"/>
+    <published>2023-05-06T18:15:55+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@thelargestbrasize/video/7230843274230074651</id>
     <title>No Title</title>
@@ -43,13 +51,5 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@thelargestbrasize/video/7231992613329538331" rel="alternate"/>
     <published>2023-05-11T18:25:07+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@thelargestbrasize/video/7233066695869484314</id>
-    <title>No Title</title>
-    <updated>2023-05-14T15:53:07+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@thelargestbrasize/video/7233066695869484314" rel="alternate"/>
-    <published>2023-05-14T15:53:07+00:00</published>
   </entry>
 </feed>
