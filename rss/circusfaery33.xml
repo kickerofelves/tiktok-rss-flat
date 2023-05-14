@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@circusfaery33</id>
   <title>circusfaery33 TikTok</title>
-  <updated>2023-05-14T16:36:55+00:00</updated>
+  <updated>2023-05-14T20:55:51+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from circusfaery33</subtitle>
-  <entry>
-    <id>https://tiktok.com/@circusfaery33/video/7232113075166416171</id>
-    <title>Replying to @b_sizzla I hope that you don't also tell Black people that 1964 was too long ago to still be talking about racism. #asianamerican #modelminority #antiracist #solidarity </title>
-    <updated>2023-05-12T02:12:29+00:00</updated>
-    <content>Replying to @b_sizzla I hope that you don't also tell Black people that 1964 was too long ago to still be talking about racism. #asianamerican #modelminority #antiracist #solidarity </content>
-    <link href="https://tiktok.com/@circusfaery33/video/7232113075166416171" rel="alternate"/>
-    <published>2023-05-12T02:12:29+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@circusfaery33/video/7232418147951725866</id>
     <title>Replying to @leon51l You're proving the point--Irish indentured themselves because they were recognized as people with the status to form contracts. Whereas enslaved Black people were treated as property under chattel slavery. Were both awful, yes. And th</title>
@@ -51,5 +43,13 @@
     <content>Replying to @patchydatchy If you feel not centering ✉️ people in a video addressing a comment that specifically attacked African civilizations is erasure of ✉️ culture, I hope you use that same energy to advocate for inclusive education for everybody. </content>
     <link href="https://tiktok.com/@circusfaery33/video/7233077995525639467" rel="alternate"/>
     <published>2023-05-14T16:36:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@circusfaery33/video/7233144716680973614</id>
+    <title>Replying to @gabejohnson72 I ran this by my ✉️ friends, and they said please stop trying to help.  🤣</title>
+    <updated>2023-05-14T20:55:51+00:00</updated>
+    <content>Replying to @gabejohnson72 I ran this by my ✉️ friends, and they said please stop trying to help.  🤣</content>
+    <link href="https://tiktok.com/@circusfaery33/video/7233144716680973614" rel="alternate"/>
+    <published>2023-05-14T20:55:51+00:00</published>
   </entry>
 </feed>
