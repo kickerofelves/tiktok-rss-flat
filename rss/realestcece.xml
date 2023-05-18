@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://tiktok.com/@realestcece</id>
+  <title>realestcece TikTok</title>
+  <updated>2023-05-03T18:23:38+00:00</updated>
+  <author>
+    <name>Conor ONeill</name>
+    <email>conor@conoroneill.com</email>
+  </author>
+  <link href="http://tiktok.com" rel="alternate"/>
+  <link href="https://kickerofelves.github.io/tiktok-rss-flat/rss/realestcece.xml" rel="self"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
+  <subtitle>OK Boomer, all the latest TikToks from realestcece</subtitle>
+  <entry>
+    <id>https://tiktok.com/@realestcece/video/7216805266011065646</id>
+    <title>Sub to my Youtube 📲  </title>
+    <updated>2023-03-31T20:10:25+00:00</updated>
+    <content>Sub to my Youtube 📲  </content>
+    <link href="https://tiktok.com/@realestcece/video/7216805266011065646" rel="alternate"/>
+    <published>2023-03-31T20:10:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@realestcece/video/7217172081430154542</id>
+    <title>No Title</title>
+    <updated>2023-04-01T19:53:54+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@realestcece/video/7217172081430154542" rel="alternate"/>
+    <published>2023-04-01T19:53:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@realestcece/video/7220179925645528363</id>
+    <title>The Real Easter Bunny 🤣🐰 #easter </title>
+    <updated>2023-04-09T22:25:52+00:00</updated>
+    <content>The Real Easter Bunny 🤣🐰 #easter </content>
+    <link href="https://tiktok.com/@realestcece/video/7220179925645528363" rel="alternate"/>
+    <published>2023-04-09T22:25:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@realestcece/video/7221934930446667050</id>
+    <title>What people think gon happen if they catch a std 😂😂 #fyp </title>
+    <updated>2023-04-14T15:56:08+00:00</updated>
+    <content>What people think gon happen if they catch a std 😂😂 #fyp </content>
+    <link href="https://tiktok.com/@realestcece/video/7221934930446667050" rel="alternate"/>
+    <published>2023-04-14T15:56:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@realestcece/video/7229023487187373355</id>
+    <title>Subscribe to my YouTube for PART 2 ! 😏 Link in bio 📲</title>
+    <updated>2023-05-03T18:23:38+00:00</updated>
+    <content>Subscribe to my YouTube for PART 2 ! 😏 Link in bio 📲</content>
+    <link href="https://tiktok.com/@realestcece/video/7229023487187373355" rel="alternate"/>
+    <published>2023-05-03T18:23:38+00:00</published>
+  </entry>
+</feed>
