@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://tiktok.com/@jackie_852</id>
+  <title>jackie_852 TikTok</title>
+  <updated>2023-05-17T05:21:44+00:00</updated>
+  <author>
+    <name>Conor ONeill</name>
+    <email>conor@conoroneill.com</email>
+  </author>
+  <link href="http://tiktok.com" rel="alternate"/>
+  <link href="https://kickerofelves.github.io/tiktok-rss-flat/rss/jackie_852.xml" rel="self"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
+  <subtitle>OK Boomer, all the latest TikToks from jackie_852</subtitle>
+  <entry>
+    <id>https://tiktok.com/@jackie_852/video/7233541802077211910</id>
+    <title>#foryou #foryoupage #viral #foryourpage #tiktok #usa </title>
+    <updated>2023-05-15T22:36:38+00:00</updated>
+    <content>#foryou #foryoupage #viral #foryourpage #tiktok #usa </content>
+    <link href="https://tiktok.com/@jackie_852/video/7233541802077211910" rel="alternate"/>
+    <published>2023-05-15T22:36:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jackie_852/video/7233542703101775110</id>
+    <title>#foryou #foryoupage #viral #foryourpage #tiktok #usa </title>
+    <updated>2023-05-15T22:40:07+00:00</updated>
+    <content>#foryou #foryoupage #viral #foryourpage #tiktok #usa </content>
+    <link href="https://tiktok.com/@jackie_852/video/7233542703101775110" rel="alternate"/>
+    <published>2023-05-15T22:40:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jackie_852/video/7233543698619829509</id>
+    <title>#foryou #foryoupage #viral #tiktok #foryourpage #usa </title>
+    <updated>2023-05-15T22:43:59+00:00</updated>
+    <content>#foryou #foryoupage #viral #tiktok #foryourpage #usa </content>
+    <link href="https://tiktok.com/@jackie_852/video/7233543698619829509" rel="alternate"/>
+    <published>2023-05-15T22:43:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jackie_852/video/7234016593406135557</id>
+    <title>#foryou #foryoupage #viral #tiktok #foryourpage #usa #foryiupage @Manuela Cadavidh </title>
+    <updated>2023-05-17T05:19:04+00:00</updated>
+    <content>#foryou #foryoupage #viral #tiktok #foryourpage #usa #foryiupage @Manuela Cadavidh </content>
+    <link href="https://tiktok.com/@jackie_852/video/7234016593406135557" rel="alternate"/>
+    <published>2023-05-17T05:19:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jackie_852/video/7234017267439226118</id>
+    <title>#foryou #foryoupage #viral #tiktok #foryourpage #usa #foryiupage </title>
+    <updated>2023-05-17T05:21:44+00:00</updated>
+    <content>#foryou #foryoupage #viral #tiktok #foryourpage #usa #foryiupage </content>
+    <link href="https://tiktok.com/@jackie_852/video/7234017267439226118" rel="alternate"/>
+    <published>2023-05-17T05:21:44+00:00</published>
+  </entry>
+</feed>
