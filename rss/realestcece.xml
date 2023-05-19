@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@realestcece</id>
   <title>realestcece TikTok</title>
-  <updated>2023-05-03T18:23:38+00:00</updated>
+  <updated>2023-05-18T23:18:44+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from realestcece</subtitle>
-  <entry>
-    <id>https://tiktok.com/@realestcece/video/7216805266011065646</id>
-    <title>Sub to my Youtube 📲  </title>
-    <updated>2023-03-31T20:10:25+00:00</updated>
-    <content>Sub to my Youtube 📲  </content>
-    <link href="https://tiktok.com/@realestcece/video/7216805266011065646" rel="alternate"/>
-    <published>2023-03-31T20:10:25+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@realestcece/video/7217172081430154542</id>
     <title>No Title</title>
@@ -51,5 +43,13 @@
     <content>Subscribe to my YouTube for PART 2 ! 😏 Link in bio 📲</content>
     <link href="https://tiktok.com/@realestcece/video/7229023487187373355" rel="alternate"/>
     <published>2023-05-03T18:23:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@realestcece/video/7234665891571649838</id>
+    <title>Should I bring Coach Cece Back ? 🤣 👀</title>
+    <updated>2023-05-18T23:18:44+00:00</updated>
+    <content>Should I bring Coach Cece Back ? 🤣 👀</content>
+    <link href="https://tiktok.com/@realestcece/video/7234665891571649838" rel="alternate"/>
+    <published>2023-05-18T23:18:44+00:00</published>
   </entry>
 </feed>
