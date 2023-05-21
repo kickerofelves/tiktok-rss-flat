@@ -1,55 +1,55 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-  <id>https://tiktok.com/@shotzbydrip</id>
-  <title>shotzbydrip TikTok</title>
+  <id>https://www.tiktok.com/@shotzbydrip</id>
+  <title>@shotzbydrip | TikTok</title>
   <updated>2023-04-20T00:04:58+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
   </author>
-  <link href="http://tiktok.com" rel="alternate"/>
+  <link href="https://www.tiktok.com/@shotzbydrip" rel="alternate"/>
   <link href="https://kickerofelves.github.io/tiktok-rss-flat/rss/shotzbydrip.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
-  <subtitle>OK Boomer, all the latest TikToks from shotzbydrip</subtitle>
+  <subtitle>Latest TikToks from @shotzbydrip</subtitle>
   <entry>
-    <id>https://tiktok.com/@shotzbydrip/video/7200570631870680366</id>
+    <id>https://www.tiktok.com/@shotzbydrip/video/7200570631870680366</id>
     <title>Instagram has more fun😮‍💨  #fyp #explorepage #explore #hoetok #viral </title>
     <updated>2023-02-16T02:11:50+00:00</updated>
     <content>Instagram has more fun😮‍💨  #fyp #explorepage #explore #hoetok #viral </content>
-    <link href="https://tiktok.com/@shotzbydrip/video/7200570631870680366" rel="alternate"/>
+    <link href="https://www.tiktok.com/@shotzbydrip/video/7200570631870680366" rel="alternate"/>
     <published>2023-02-16T02:11:50+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@shotzbydrip/video/7201658672508833070</id>
+    <id>https://www.tiktok.com/@shotzbydrip/video/7201658672508833070</id>
     <title>Who follows me on IG😮‍💨? #fyp #explorepage #explore #viral </title>
     <updated>2023-02-19T00:33:51+00:00</updated>
     <content>Who follows me on IG😮‍💨? #fyp #explorepage #explore #viral </content>
-    <link href="https://tiktok.com/@shotzbydrip/video/7201658672508833070" rel="alternate"/>
+    <link href="https://www.tiktok.com/@shotzbydrip/video/7201658672508833070" rel="alternate"/>
     <published>2023-02-19T00:33:51+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@shotzbydrip/video/7202986472570408234</id>
+    <id>https://www.tiktok.com/@shotzbydrip/video/7202986472570408234</id>
     <title>That red hair🥹❤️‍🔥 @daa.lisch  #explorepage #fyp #explore #viral </title>
     <updated>2023-02-22T14:26:29+00:00</updated>
     <content>That red hair🥹❤️‍🔥 @daa.lisch  #explorepage #fyp #explore #viral </content>
-    <link href="https://tiktok.com/@shotzbydrip/video/7202986472570408234" rel="alternate"/>
+    <link href="https://www.tiktok.com/@shotzbydrip/video/7202986472570408234" rel="alternate"/>
     <published>2023-02-22T14:26:29+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@shotzbydrip/video/7210122453245283630</id>
+    <id>https://www.tiktok.com/@shotzbydrip/video/7210122453245283630</id>
     <title>@sexyyred314 always droppin🔥😮‍💨 #sexyyred #fyp #explore </title>
     <updated>2023-03-13T19:57:45+00:00</updated>
     <content>@sexyyred314 always droppin🔥😮‍💨 #sexyyred #fyp #explore </content>
-    <link href="https://tiktok.com/@shotzbydrip/video/7210122453245283630" rel="alternate"/>
+    <link href="https://www.tiktok.com/@shotzbydrip/video/7210122453245283630" rel="alternate"/>
     <published>2023-03-13T19:57:45+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@shotzbydrip/video/7223916323917614378</id>
+    <id>https://www.tiktok.com/@shotzbydrip/video/7223916323917614378</id>
     <title>Nice day at the park with @daa.lisch 😮‍💨🍑👏🏾 #fyp #explore #viral </title>
     <updated>2023-04-20T00:04:58+00:00</updated>
     <content>Nice day at the park with @daa.lisch 😮‍💨🍑👏🏾 #fyp #explore #viral </content>
-    <link href="https://tiktok.com/@shotzbydrip/video/7223916323917614378" rel="alternate"/>
+    <link href="https://www.tiktok.com/@shotzbydrip/video/7223916323917614378" rel="alternate"/>
     <published>2023-04-20T00:04:58+00:00</published>
   </entry>
 </feed>

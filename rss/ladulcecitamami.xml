@@ -1,55 +1,55 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-  <id>https://tiktok.com/@ladulcecitamami</id>
-  <title>ladulcecitamami TikTok</title>
-  <updated>2023-05-17T19:19:58+00:00</updated>
+  <id>https://www.tiktok.com/@ladulcecitamami</id>
+  <title>@ladulcecitamami | TikTok</title>
+  <updated>2023-05-20T01:32:53+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
   </author>
-  <link href="http://tiktok.com" rel="alternate"/>
+  <link href="https://www.tiktok.com/@ladulcecitamami" rel="alternate"/>
   <link href="https://kickerofelves.github.io/tiktok-rss-flat/rss/ladulcecitamami.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
-  <subtitle>OK Boomer, all the latest TikToks from ladulcecitamami</subtitle>
+  <subtitle>Latest TikToks from @ladulcecitamami</subtitle>
   <entry>
-    <id>https://tiktok.com/@ladulcecitamami/video/7229801142157561134</id>
-    <title>No Title</title>
-    <updated>2023-05-05T20:41:03+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@ladulcecitamami/video/7229801142157561134" rel="alternate"/>
-    <published>2023-05-05T20:41:03+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@ladulcecitamami/video/7230593051469696299</id>
-    <title>No Title</title>
+    <id>https://www.tiktok.com/@ladulcecitamami/video/7230593051469696299</id>
+    <title>[no title]</title>
     <updated>2023-05-07T23:54:09+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@ladulcecitamami/video/7230593051469696299" rel="alternate"/>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@ladulcecitamami/video/7230593051469696299" rel="alternate"/>
     <published>2023-05-07T23:54:09+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@ladulcecitamami/video/7231608162527300907</id>
-    <title>No Title</title>
+    <id>https://www.tiktok.com/@ladulcecitamami/video/7231608162527300907</id>
+    <title>[no title]</title>
     <updated>2023-05-10T17:33:28+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@ladulcecitamami/video/7231608162527300907" rel="alternate"/>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@ladulcecitamami/video/7231608162527300907" rel="alternate"/>
     <published>2023-05-10T17:33:28+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@ladulcecitamami/video/7232321375418207534</id>
+    <id>https://www.tiktok.com/@ladulcecitamami/video/7232321375418207534</id>
     <title>#fakebody #viral #melanine </title>
     <updated>2023-05-12T15:41:02+00:00</updated>
     <content>#fakebody #viral #melanine </content>
-    <link href="https://tiktok.com/@ladulcecitamami/video/7232321375418207534" rel="alternate"/>
+    <link href="https://www.tiktok.com/@ladulcecitamami/video/7232321375418207534" rel="alternate"/>
     <published>2023-05-12T15:41:02+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@ladulcecitamami/video/7234233267656985899</id>
-    <title>No Title</title>
+    <id>https://www.tiktok.com/@ladulcecitamami/video/7234233267656985899</id>
+    <title>[no title]</title>
     <updated>2023-05-17T19:19:58+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@ladulcecitamami/video/7234233267656985899" rel="alternate"/>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@ladulcecitamami/video/7234233267656985899" rel="alternate"/>
     <published>2023-05-17T19:19:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ladulcecitamami/video/7235071538482089262</id>
+    <title>[no title]</title>
+    <updated>2023-05-20T01:32:53+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@ladulcecitamami/video/7235071538482089262" rel="alternate"/>
+    <published>2023-05-20T01:32:53+00:00</published>
   </entry>
 </feed>
