@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@circusfaery33</id>
   <title>@circusfaery33 | TikTok</title>
-  <updated>2023-05-21T15:38:21+00:00</updated>
+  <updated>2023-05-21T17:29:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @circusfaery33</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7234619728118025515</id>
-    <title>Replying to @xso2hvn Puberty blockers, like when used to treat precocious puberty, actually give trans youth exactly what you suggest--more time to be children while they figure out next steps.</title>
-    <updated>2023-05-18T20:19:38+00:00</updated>
-    <content>Replying to @xso2hvn Puberty blockers, like when used to treat precocious puberty, actually give trans youth exactly what you suggest--more time to be children while they figure out next steps.</content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7234619728118025515" rel="alternate"/>
-    <published>2023-05-18T20:19:38+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@circusfaery33/video/7234917132243406122</id>
     <title>Replying to @how_have_you_been_today Thank you! I didn't know this--I was taught it in school. But I looked it up. </title>
@@ -51,5 +43,13 @@
     <content>Replying to @dontlikemedontcare50 #greenscreen I am not your model minority to weaponize. #asianamerican #modelminority #antiracist #solidarity </content>
     <link href="https://www.tiktok.com/@circusfaery33/video/7235660450854210858" rel="alternate"/>
     <published>2023-05-21T15:38:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7235689242024873258</id>
+    <title>Replying to @aneye4talent So, I investigated this situation for you, and here were my findings...</title>
+    <updated>2023-05-21T17:29:59+00:00</updated>
+    <content>Replying to @aneye4talent So, I investigated this situation for you, and here were my findings...</content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7235689242024873258" rel="alternate"/>
+    <published>2023-05-21T17:29:59+00:00</published>
   </entry>
 </feed>
