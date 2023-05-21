@@ -32,7 +32,7 @@ async def runAll():
         currentFileNumber = 0
         log("attempt to load subscription file number to run")
         with open("nextSubscriptionFileToRun.txt") as f:
-            currentFileNumber = f.read()
+            currentFileNumber = strip(f.read())
             log(f"currentFileNumber = { currentFileNumber }")
 
         fileToRun = "subscriptions" + currentFileNumber + ".csv"
