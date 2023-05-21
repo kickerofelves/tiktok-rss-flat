@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@luceroblackk</id>
   <title>@luceroblackk | TikTok</title>
-  <updated>2023-05-20T19:35:52+00:00</updated>
+  <updated>2023-05-21T14:21:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @luceroblackk</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@luceroblackk/video/7234552224150473989</id>
-    <title>[no title]</title>
-    <updated>2023-05-18T15:57:34+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@luceroblackk/video/7234552224150473989" rel="alternate"/>
-    <published>2023-05-18T15:57:34+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@luceroblackk/video/7234990111149100294</id>
     <title>I like this trend #fypシ #foryoupage #foryou </title>
@@ -51,5 +43,13 @@
     <content>Do you like it? #fyp #fypシ </content>
     <link href="https://www.tiktok.com/@luceroblackk/video/7235350651566443781" rel="alternate"/>
     <published>2023-05-20T19:35:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@luceroblackk/video/7235640821171703045</id>
+    <title>Jump, jump #fypシ #fyp #viral </title>
+    <updated>2023-05-21T14:21:52+00:00</updated>
+    <content>Jump, jump #fypシ #fyp #viral </content>
+    <link href="https://www.tiktok.com/@luceroblackk/video/7235640821171703045" rel="alternate"/>
+    <published>2023-05-21T14:21:52+00:00</published>
   </entry>
 </feed>
