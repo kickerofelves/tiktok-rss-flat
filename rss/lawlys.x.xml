@@ -1,55 +1,55 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-  <id>https://tiktok.com/@lawlys.x</id>
-  <title>lawlys.x TikTok</title>
-  <updated>2023-05-19T01:29:58+00:00</updated>
+  <id>https://www.tiktok.com/@lawlys.x</id>
+  <title>@lawlys.x | TikTok</title>
+  <updated>2023-05-20T03:15:51+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
   </author>
-  <link href="http://tiktok.com" rel="alternate"/>
+  <link href="https://www.tiktok.com/@lawlys.x" rel="alternate"/>
   <link href="https://kickerofelves.github.io/tiktok-rss-flat/rss/lawlys.x.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
-  <subtitle>OK Boomer, all the latest TikToks from lawlys.x</subtitle>
+  <subtitle>Latest TikToks from @lawlys.x</subtitle>
   <entry>
-    <id>https://tiktok.com/@lawlys.x/video/7234335920097463558</id>
-    <title>#foryou </title>
-    <updated>2023-05-18T01:58:12+00:00</updated>
-    <content>#foryou </content>
-    <link href="https://tiktok.com/@lawlys.x/video/7234335920097463558" rel="alternate"/>
-    <published>2023-05-18T01:58:12+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@lawlys.x/video/7234336757800586502</id>
-    <title>#viral </title>
-    <updated>2023-05-18T02:01:27+00:00</updated>
-    <content>#viral </content>
-    <link href="https://tiktok.com/@lawlys.x/video/7234336757800586502" rel="alternate"/>
-    <published>2023-05-18T02:01:27+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@lawlys.x/video/7234699068956527877</id>
-    <title>#parati </title>
-    <updated>2023-05-19T01:27:25+00:00</updated>
-    <content>#parati </content>
-    <link href="https://tiktok.com/@lawlys.x/video/7234699068956527877" rel="alternate"/>
-    <published>2023-05-19T01:27:25+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@lawlys.x/video/7234699140297477382</id>
-    <title>No Title</title>
+    <id>https://www.tiktok.com/@lawlys.x/video/7234699140297477382</id>
+    <title>[no title]</title>
     <updated>2023-05-19T01:27:41+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@lawlys.x/video/7234699140297477382" rel="alternate"/>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@lawlys.x/video/7234699140297477382" rel="alternate"/>
     <published>2023-05-19T01:27:41+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@lawlys.x/video/7234699728523398406</id>
-    <title>No Title</title>
+    <id>https://www.tiktok.com/@lawlys.x/video/7234699728523398406</id>
+    <title>[no title]</title>
     <updated>2023-05-19T01:29:58+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@lawlys.x/video/7234699728523398406" rel="alternate"/>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@lawlys.x/video/7234699728523398406" rel="alternate"/>
     <published>2023-05-19T01:29:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lawlys.x/video/7235096061176499461</id>
+    <title>#parati </title>
+    <updated>2023-05-20T03:07:57+00:00</updated>
+    <content>#parati </content>
+    <link href="https://www.tiktok.com/@lawlys.x/video/7235096061176499461" rel="alternate"/>
+    <published>2023-05-20T03:07:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lawlys.x/video/7235096247814688006</id>
+    <title>#viral </title>
+    <updated>2023-05-20T03:08:40+00:00</updated>
+    <content>#viral </content>
+    <link href="https://www.tiktok.com/@lawlys.x/video/7235096247814688006" rel="alternate"/>
+    <published>2023-05-20T03:08:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lawlys.x/video/7235098094998752518</id>
+    <title>[no title]</title>
+    <updated>2023-05-20T03:15:51+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@lawlys.x/video/7235098094998752518" rel="alternate"/>
+    <published>2023-05-20T03:15:51+00:00</published>
   </entry>
 </feed>

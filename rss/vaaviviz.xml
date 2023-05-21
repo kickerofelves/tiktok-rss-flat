@@ -1,55 +1,55 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-  <id>https://tiktok.com/@vaaviviz</id>
-  <title>vaaviviz TikTok</title>
+  <id>https://www.tiktok.com/@vaaviviz</id>
+  <title>@vaaviviz | TikTok</title>
   <updated>2023-05-10T16:12:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
   </author>
-  <link href="http://tiktok.com" rel="alternate"/>
+  <link href="https://www.tiktok.com/@vaaviviz" rel="alternate"/>
   <link href="https://kickerofelves.github.io/tiktok-rss-flat/rss/vaaviviz.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
-  <subtitle>OK Boomer, all the latest TikToks from vaaviviz</subtitle>
+  <subtitle>Latest TikToks from @vaaviviz</subtitle>
   <entry>
-    <id>https://tiktok.com/@vaaviviz/video/7226052676696427782</id>
+    <id>https://www.tiktok.com/@vaaviviz/video/7226052676696427782</id>
     <title>0% efuerzo amo este trend</title>
     <updated>2023-04-25T18:14:58+00:00</updated>
     <content>0% efuerzo amo este trend</content>
-    <link href="https://tiktok.com/@vaaviviz/video/7226052676696427782" rel="alternate"/>
+    <link href="https://www.tiktok.com/@vaaviviz/video/7226052676696427782" rel="alternate"/>
     <published>2023-04-25T18:14:58+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@vaaviviz/video/7227506966837333254</id>
+    <id>https://www.tiktok.com/@vaaviviz/video/7227506966837333254</id>
     <title>Borrador ✌🏻</title>
     <updated>2023-04-29T16:18:22+00:00</updated>
     <content>Borrador ✌🏻</content>
-    <link href="https://tiktok.com/@vaaviviz/video/7227506966837333254" rel="alternate"/>
+    <link href="https://www.tiktok.com/@vaaviviz/video/7227506966837333254" rel="alternate"/>
     <published>2023-04-29T16:18:22+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@vaaviviz/video/7228625626712837382</id>
+    <id>https://www.tiktok.com/@vaaviviz/video/7228625626712837382</id>
     <title>Ya no se ni q trend hacer lol </title>
     <updated>2023-05-02T16:39:21+00:00</updated>
     <content>Ya no se ni q trend hacer lol </content>
-    <link href="https://tiktok.com/@vaaviviz/video/7228625626712837382" rel="alternate"/>
+    <link href="https://www.tiktok.com/@vaaviviz/video/7228625626712837382" rel="alternate"/>
     <published>2023-05-02T16:39:21+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@vaaviviz/video/7230096371448040710</id>
+    <id>https://www.tiktok.com/@vaaviviz/video/7230096371448040710</id>
     <title>Body check 🫡 nunca habia tenido las piernas así 🤍</title>
     <updated>2023-05-06T15:46:34+00:00</updated>
     <content>Body check 🫡 nunca habia tenido las piernas así 🤍</content>
-    <link href="https://tiktok.com/@vaaviviz/video/7230096371448040710" rel="alternate"/>
+    <link href="https://www.tiktok.com/@vaaviviz/video/7230096371448040710" rel="alternate"/>
     <published>2023-05-06T15:46:34+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@vaaviviz/video/7231587435015179525</id>
+    <id>https://www.tiktok.com/@vaaviviz/video/7231587435015179525</id>
     <title>Borrador 🥹 ig: vaviviz </title>
     <updated>2023-05-10T16:12:42+00:00</updated>
     <content>Borrador 🥹 ig: vaviviz </content>
-    <link href="https://tiktok.com/@vaaviviz/video/7231587435015179525" rel="alternate"/>
+    <link href="https://www.tiktok.com/@vaaviviz/video/7231587435015179525" rel="alternate"/>
     <published>2023-05-10T16:12:42+00:00</published>
   </entry>
 </feed>

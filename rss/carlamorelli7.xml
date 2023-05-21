@@ -1,55 +1,55 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-  <id>https://tiktok.com/@carlamorelli7</id>
-  <title>carlamorelli7 TikTok</title>
+  <id>https://www.tiktok.com/@carlamorelli7</id>
+  <title>@carlamorelli7 | TikTok</title>
   <updated>2023-05-09T18:16:21+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
   </author>
-  <link href="http://tiktok.com" rel="alternate"/>
+  <link href="https://www.tiktok.com/@carlamorelli7" rel="alternate"/>
   <link href="https://kickerofelves.github.io/tiktok-rss-flat/rss/carlamorelli7.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
-  <subtitle>OK Boomer, all the latest TikToks from carlamorelli7</subtitle>
+  <subtitle>Latest TikToks from @carlamorelli7</subtitle>
   <entry>
-    <id>https://tiktok.com/@carlamorelli7/video/7228690782465707270</id>
+    <id>https://www.tiktok.com/@carlamorelli7/video/7228690782465707270</id>
     <title>Tu morena 🤗🌸🌼🌺  #fypシ #pageforyou #tiktok </title>
     <updated>2023-05-02T20:52:12+00:00</updated>
     <content>Tu morena 🤗🌸🌼🌺  #fypシ #pageforyou #tiktok </content>
-    <link href="https://tiktok.com/@carlamorelli7/video/7228690782465707270" rel="alternate"/>
+    <link href="https://www.tiktok.com/@carlamorelli7/video/7228690782465707270" rel="alternate"/>
     <published>2023-05-02T20:52:12+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@carlamorelli7/video/7228691489440779525</id>
+    <id>https://www.tiktok.com/@carlamorelli7/video/7228691489440779525</id>
     <title>Ho tengo un moriticito incansable 🫠😅 🔥#fypシ #tiktok </title>
     <updated>2023-05-02T20:54:58+00:00</updated>
     <content>Ho tengo un moriticito incansable 🫠😅 🔥#fypシ #tiktok </content>
-    <link href="https://tiktok.com/@carlamorelli7/video/7228691489440779525" rel="alternate"/>
+    <link href="https://www.tiktok.com/@carlamorelli7/video/7228691489440779525" rel="alternate"/>
     <published>2023-05-02T20:54:58+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@carlamorelli7/video/7231225313022266630</id>
+    <id>https://www.tiktok.com/@carlamorelli7/video/7231225313022266630</id>
     <title>Algo asi 😅 sigueme en IG 😉#fypシ #usa🇺🇸 </title>
     <updated>2023-05-09T16:47:27+00:00</updated>
     <content>Algo asi 😅 sigueme en IG 😉#fypシ #usa🇺🇸 </content>
-    <link href="https://tiktok.com/@carlamorelli7/video/7231225313022266630" rel="alternate"/>
+    <link href="https://www.tiktok.com/@carlamorelli7/video/7231225313022266630" rel="alternate"/>
     <published>2023-05-09T16:47:27+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@carlamorelli7/video/7231227382143765766</id>
+    <id>https://www.tiktok.com/@carlamorelli7/video/7231227382143765766</id>
     <title>En mi azul se escucha esos aplausos magestuosos 😜😏 #fypシ #tiktok </title>
     <updated>2023-05-09T16:55:34+00:00</updated>
     <content>En mi azul se escucha esos aplausos magestuosos 😜😏 #fypシ #tiktok </content>
-    <link href="https://tiktok.com/@carlamorelli7/video/7231227382143765766" rel="alternate"/>
+    <link href="https://www.tiktok.com/@carlamorelli7/video/7231227382143765766" rel="alternate"/>
     <published>2023-05-09T16:55:34+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@carlamorelli7/video/7231248196222078213</id>
+    <id>https://www.tiktok.com/@carlamorelli7/video/7231248196222078213</id>
     <title>#tiktok #viral #usa🇺🇸 #bonce </title>
     <updated>2023-05-09T18:16:21+00:00</updated>
     <content>#tiktok #viral #usa🇺🇸 #bonce </content>
-    <link href="https://tiktok.com/@carlamorelli7/video/7231248196222078213" rel="alternate"/>
+    <link href="https://www.tiktok.com/@carlamorelli7/video/7231248196222078213" rel="alternate"/>
     <published>2023-05-09T18:16:21+00:00</published>
   </entry>
 </feed>

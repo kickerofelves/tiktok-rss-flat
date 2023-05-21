@@ -1,55 +1,55 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-  <id>https://tiktok.com/@sophie.jane96</id>
-  <title>sophie.jane96 TikTok</title>
+  <id>https://www.tiktok.com/@sophie.jane96</id>
+  <title>@sophie.jane96 | TikTok</title>
   <updated>2023-05-19T13:41:40+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
   </author>
-  <link href="http://tiktok.com" rel="alternate"/>
+  <link href="https://www.tiktok.com/@sophie.jane96" rel="alternate"/>
   <link href="https://kickerofelves.github.io/tiktok-rss-flat/rss/sophie.jane96.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
-  <subtitle>OK Boomer, all the latest TikToks from sophie.jane96</subtitle>
+  <subtitle>Latest TikToks from @sophie.jane96</subtitle>
   <entry>
-    <id>https://tiktok.com/@sophie.jane96/video/7231987406944161051</id>
+    <id>https://www.tiktok.com/@sophie.jane96/video/7231987406944161051</id>
     <title>Reading obviously 😂</title>
     <updated>2023-05-11T18:04:55+00:00</updated>
     <content>Reading obviously 😂</content>
-    <link href="https://tiktok.com/@sophie.jane96/video/7231987406944161051" rel="alternate"/>
+    <link href="https://www.tiktok.com/@sophie.jane96/video/7231987406944161051" rel="alternate"/>
     <published>2023-05-11T18:04:55+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@sophie.jane96/video/7232280287160438042</id>
+    <id>https://www.tiktok.com/@sophie.jane96/video/7232280287160438042</id>
     <title>Surprise 😛💓</title>
     <updated>2023-05-12T13:01:24+00:00</updated>
     <content>Surprise 😛💓</content>
-    <link href="https://tiktok.com/@sophie.jane96/video/7232280287160438042" rel="alternate"/>
+    <link href="https://www.tiktok.com/@sophie.jane96/video/7232280287160438042" rel="alternate"/>
     <published>2023-05-12T13:01:24+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@sophie.jane96/video/7232653481788607770</id>
+    <id>https://www.tiktok.com/@sophie.jane96/video/7232653481788607770</id>
     <title>Deep breaths 😘 #fyp #redhead </title>
     <updated>2023-05-13T13:09:33+00:00</updated>
     <content>Deep breaths 😘 #fyp #redhead </content>
-    <link href="https://tiktok.com/@sophie.jane96/video/7232653481788607770" rel="alternate"/>
+    <link href="https://www.tiktok.com/@sophie.jane96/video/7232653481788607770" rel="alternate"/>
     <published>2023-05-13T13:09:33+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@sophie.jane96/video/7232974103915842843</id>
+    <id>https://www.tiktok.com/@sophie.jane96/video/7232974103915842843</id>
     <title>😏☺️ #fyp #redhead </title>
     <updated>2023-05-14T09:53:45+00:00</updated>
     <content>😏☺️ #fyp #redhead </content>
-    <link href="https://tiktok.com/@sophie.jane96/video/7232974103915842843" rel="alternate"/>
+    <link href="https://www.tiktok.com/@sophie.jane96/video/7232974103915842843" rel="alternate"/>
     <published>2023-05-14T09:53:45+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@sophie.jane96/video/7234888252627488027</id>
+    <id>https://www.tiktok.com/@sophie.jane96/video/7234888252627488027</id>
     <title>Replying to @lost soul our secret 🤫 </title>
     <updated>2023-05-19T13:41:40+00:00</updated>
     <content>Replying to @lost soul our secret 🤫 </content>
-    <link href="https://tiktok.com/@sophie.jane96/video/7234888252627488027" rel="alternate"/>
+    <link href="https://www.tiktok.com/@sophie.jane96/video/7234888252627488027" rel="alternate"/>
     <published>2023-05-19T13:41:40+00:00</published>
   </entry>
 </feed>

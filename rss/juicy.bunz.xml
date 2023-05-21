@@ -1,55 +1,55 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-  <id>https://tiktok.com/@juicy.bunz</id>
-  <title>juicy.bunz TikTok</title>
+  <id>https://www.tiktok.com/@juicy.bunz</id>
+  <title>@juicy.bunz | TikTok</title>
   <updated>2023-05-17T17:15:17+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
   </author>
-  <link href="http://tiktok.com" rel="alternate"/>
+  <link href="https://www.tiktok.com/@juicy.bunz" rel="alternate"/>
   <link href="https://kickerofelves.github.io/tiktok-rss-flat/rss/juicy.bunz.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
-  <subtitle>OK Boomer, all the latest TikToks from juicy.bunz</subtitle>
+  <subtitle>Latest TikToks from @juicy.bunz</subtitle>
   <entry>
-    <id>https://tiktok.com/@juicy.bunz/video/7218337382758731051</id>
+    <id>https://www.tiktok.com/@juicy.bunz/video/7218337382758731051</id>
     <title>Orange shorts for the win 😁 I’m happy today :) its a good day. #gym #fitness #gymoutfit #fitcheck </title>
     <updated>2023-04-04T23:15:55+00:00</updated>
     <content>Orange shorts for the win 😁 I’m happy today :) its a good day. #gym #fitness #gymoutfit #fitcheck </content>
-    <link href="https://tiktok.com/@juicy.bunz/video/7218337382758731051" rel="alternate"/>
+    <link href="https://www.tiktok.com/@juicy.bunz/video/7218337382758731051" rel="alternate"/>
     <published>2023-04-04T23:15:55+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@juicy.bunz/video/7224628274138271018</id>
+    <id>https://www.tiktok.com/@juicy.bunz/video/7224628274138271018</id>
     <title>I just love hanging out with my dog 🥹 he’s the best cuddle buddy ❤️ #dogsoftiktok #fyp #dog #love </title>
     <updated>2023-04-21T22:07:41+00:00</updated>
     <content>I just love hanging out with my dog 🥹 he’s the best cuddle buddy ❤️ #dogsoftiktok #fyp #dog #love </content>
-    <link href="https://tiktok.com/@juicy.bunz/video/7224628274138271018" rel="alternate"/>
+    <link href="https://www.tiktok.com/@juicy.bunz/video/7224628274138271018" rel="alternate"/>
     <published>2023-04-21T22:07:41+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@juicy.bunz/video/7231285076456213802</id>
+    <id>https://www.tiktok.com/@juicy.bunz/video/7231285076456213802</id>
     <title>I skipped breakfast so i was a lil bit hangry making my post workout meal. 40g of protein and it was delicious 😋 #cooking #lunch #proteinmeals #fitness </title>
     <updated>2023-05-09T20:39:25+00:00</updated>
     <content>I skipped breakfast so i was a lil bit hangry making my post workout meal. 40g of protein and it was delicious 😋 #cooking #lunch #proteinmeals #fitness </content>
-    <link href="https://tiktok.com/@juicy.bunz/video/7231285076456213802" rel="alternate"/>
+    <link href="https://www.tiktok.com/@juicy.bunz/video/7231285076456213802" rel="alternate"/>
     <published>2023-05-09T20:39:25+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@juicy.bunz/video/7232411058982440238</id>
+    <id>https://www.tiktok.com/@juicy.bunz/video/7232411058982440238</id>
     <title>Just give me a week and I’ll be back to my usual self 😭 #gym #fitness #gymhumor #gymgirl </title>
     <updated>2023-05-12T21:28:55+00:00</updated>
     <content>Just give me a week and I’ll be back to my usual self 😭 #gym #fitness #gymhumor #gymgirl </content>
-    <link href="https://tiktok.com/@juicy.bunz/video/7232411058982440238" rel="alternate"/>
+    <link href="https://www.tiktok.com/@juicy.bunz/video/7232411058982440238" rel="alternate"/>
     <published>2023-05-12T21:28:55+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@juicy.bunz/video/7234201121227820334</id>
+    <id>https://www.tiktok.com/@juicy.bunz/video/7234201121227820334</id>
     <title>Enjoying my day off. And i finally got a new blender. I love it 🥰 #minivlog #vlog #fitness #smoothie </title>
     <updated>2023-05-17T17:15:17+00:00</updated>
     <content>Enjoying my day off. And i finally got a new blender. I love it 🥰 #minivlog #vlog #fitness #smoothie </content>
-    <link href="https://tiktok.com/@juicy.bunz/video/7234201121227820334" rel="alternate"/>
+    <link href="https://www.tiktok.com/@juicy.bunz/video/7234201121227820334" rel="alternate"/>
     <published>2023-05-17T17:15:17+00:00</published>
   </entry>
 </feed>

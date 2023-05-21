@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://www.tiktok.com/@my.of.is.averyabara</id>
+  <title>@my.of.is.averyabara | TikTok</title>
+  <updated>2023-05-19T00:59:48+00:00</updated>
+  <author>
+    <name>Conor ONeill</name>
+    <email>conor@conoroneill.com</email>
+  </author>
+  <link href="https://www.tiktok.com/@my.of.is.averyabara" rel="alternate"/>
+  <link href="https://kickerofelves.github.io/tiktok-rss-flat/rss/my.of.is.averyabara.xml" rel="self"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
+  <subtitle>Latest TikToks from @my.of.is.averyabara</subtitle>
+  <entry>
+    <id>https://www.tiktok.com/@my.of.is.averyabara/video/7233974953731771694</id>
+    <title>😉</title>
+    <updated>2023-05-17T02:37:38+00:00</updated>
+    <content>😉</content>
+    <link href="https://www.tiktok.com/@my.of.is.averyabara/video/7233974953731771694" rel="alternate"/>
+    <published>2023-05-17T02:37:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@my.of.is.averyabara/video/7234206491438353706</id>
+    <title>#averyabara </title>
+    <updated>2023-05-17T17:36:06+00:00</updated>
+    <content>#averyabara </content>
+    <link href="https://www.tiktok.com/@my.of.is.averyabara/video/7234206491438353706" rel="alternate"/>
+    <published>2023-05-17T17:36:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@my.of.is.averyabara/video/7234306314510306606</id>
+    <title>#baggy #averyabara </title>
+    <updated>2023-05-18T00:03:23+00:00</updated>
+    <content>#baggy #averyabara </content>
+    <link href="https://www.tiktok.com/@my.of.is.averyabara/video/7234306314510306606" rel="alternate"/>
+    <published>2023-05-18T00:03:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@my.of.is.averyabara/video/7234567757868698922</id>
+    <title>#daddy #averyabara </title>
+    <updated>2023-05-18T16:58:00+00:00</updated>
+    <content>#daddy #averyabara </content>
+    <link href="https://www.tiktok.com/@my.of.is.averyabara/video/7234567757868698922" rel="alternate"/>
+    <published>2023-05-18T16:58:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@my.of.is.averyabara/video/7234691933229075755</id>
+    <title>#whaletail #averyabara </title>
+    <updated>2023-05-19T00:59:48+00:00</updated>
+    <content>#whaletail #averyabara </content>
+    <link href="https://www.tiktok.com/@my.of.is.averyabara/video/7234691933229075755" rel="alternate"/>
+    <published>2023-05-19T00:59:48+00:00</published>
+  </entry>
+</feed>
