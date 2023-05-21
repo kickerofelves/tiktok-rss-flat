@@ -1,55 +1,55 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-  <id>https://tiktok.com/@yourminiloona</id>
-  <title>yourminiloona TikTok</title>
+  <id>https://www.tiktok.com/@yourminiloona</id>
+  <title>@yourminiloona | TikTok</title>
   <updated>2023-05-19T00:58:53+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
   </author>
-  <link href="http://tiktok.com" rel="alternate"/>
+  <link href="https://www.tiktok.com/@yourminiloona" rel="alternate"/>
   <link href="https://kickerofelves.github.io/tiktok-rss-flat/rss/yourminiloona.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
-  <subtitle>OK Boomer, all the latest TikToks from yourminiloona</subtitle>
+  <subtitle>Latest TikToks from @yourminiloona</subtitle>
   <entry>
-    <id>https://tiktok.com/@yourminiloona/video/7233949469824535854</id>
+    <id>https://www.tiktok.com/@yourminiloona/video/7233949469824535854</id>
     <title>Babies… #weightgain </title>
     <updated>2023-05-17T00:58:39+00:00</updated>
     <content>Babies… #weightgain </content>
-    <link href="https://tiktok.com/@yourminiloona/video/7233949469824535854" rel="alternate"/>
+    <link href="https://www.tiktok.com/@yourminiloona/video/7233949469824535854" rel="alternate"/>
     <published>2023-05-17T00:58:39+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@yourminiloona/video/7234286065476144430</id>
+    <id>https://www.tiktok.com/@yourminiloona/video/7234286065476144430</id>
     <title>What would you do? #foru </title>
     <updated>2023-05-17T22:44:49+00:00</updated>
     <content>What would you do? #foru </content>
-    <link href="https://tiktok.com/@yourminiloona/video/7234286065476144430" rel="alternate"/>
+    <link href="https://www.tiktok.com/@yourminiloona/video/7234286065476144430" rel="alternate"/>
     <published>2023-05-17T22:44:49+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@yourminiloona/video/7234326495127227690</id>
+    <id>https://www.tiktok.com/@yourminiloona/video/7234326495127227690</id>
     <title>Not too thick? #wipeit </title>
     <updated>2023-05-18T01:21:42+00:00</updated>
     <content>Not too thick? #wipeit </content>
-    <link href="https://tiktok.com/@yourminiloona/video/7234326495127227690" rel="alternate"/>
+    <link href="https://www.tiktok.com/@yourminiloona/video/7234326495127227690" rel="alternate"/>
     <published>2023-05-18T01:21:42+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@yourminiloona/video/7234330327672442155</id>
+    <id>https://www.tiktok.com/@yourminiloona/video/7234330327672442155</id>
     <title>Wanna see? #gain </title>
     <updated>2023-05-18T01:36:32+00:00</updated>
     <content>Wanna see? #gain </content>
-    <link href="https://tiktok.com/@yourminiloona/video/7234330327672442155" rel="alternate"/>
+    <link href="https://www.tiktok.com/@yourminiloona/video/7234330327672442155" rel="alternate"/>
     <published>2023-05-18T01:36:32+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@yourminiloona/video/7234691704211672363</id>
+    <id>https://www.tiktok.com/@yourminiloona/video/7234691704211672363</id>
     <title>Yeah it’s heavy #heavy </title>
     <updated>2023-05-19T00:58:53+00:00</updated>
     <content>Yeah it’s heavy #heavy </content>
-    <link href="https://tiktok.com/@yourminiloona/video/7234691704211672363" rel="alternate"/>
+    <link href="https://www.tiktok.com/@yourminiloona/video/7234691704211672363" rel="alternate"/>
     <published>2023-05-19T00:58:53+00:00</published>
   </entry>
 </feed>

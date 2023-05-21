@@ -1,55 +1,55 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-  <id>https://tiktok.com/@kikry1</id>
-  <title>kikry1 TikTok</title>
+  <id>https://www.tiktok.com/@kikry1</id>
+  <title>@kikry1 | TikTok</title>
   <updated>2023-05-20T11:45:36+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
   </author>
-  <link href="http://tiktok.com" rel="alternate"/>
+  <link href="https://www.tiktok.com/@kikry1" rel="alternate"/>
   <link href="https://kickerofelves.github.io/tiktok-rss-flat/rss/kikry1.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
-  <subtitle>OK Boomer, all the latest TikToks from kikry1</subtitle>
+  <subtitle>Latest TikToks from @kikry1</subtitle>
   <entry>
-    <id>https://tiktok.com/@kikry1/video/7227470065577315590</id>
+    <id>https://www.tiktok.com/@kikry1/video/7227470065577315590</id>
     <title>#fy #yogagirls #bikinibabes #kiky #bodysweet #haitiantiktok🇭🇹 #tiktokfrance🇨🇵 #fakebodyy⚠️ </title>
     <updated>2023-04-29T13:55:12+00:00</updated>
     <content>#fy #yogagirls #bikinibabes #kiky #bodysweet #haitiantiktok🇭🇹 #tiktokfrance🇨🇵 #fakebodyy⚠️ </content>
-    <link href="https://tiktok.com/@kikry1/video/7227470065577315590" rel="alternate"/>
+    <link href="https://www.tiktok.com/@kikry1/video/7227470065577315590" rel="alternate"/>
     <published>2023-04-29T13:55:12+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@kikry1/video/7227879982146538757</id>
+    <id>https://www.tiktok.com/@kikry1/video/7227879982146538757</id>
     <title>#bodysweet #fy #yogagirls #bikinibabes #kiky #fakebodyy⚠️ #haitiantiktok🇭🇹 #tiktokfrance🇨🇵 </title>
     <updated>2023-04-30T16:25:51+00:00</updated>
     <content>#bodysweet #fy #yogagirls #bikinibabes #kiky #fakebodyy⚠️ #haitiantiktok🇭🇹 #tiktokfrance🇨🇵 </content>
-    <link href="https://tiktok.com/@kikry1/video/7227879982146538757" rel="alternate"/>
+    <link href="https://www.tiktok.com/@kikry1/video/7227879982146538757" rel="alternate"/>
     <published>2023-04-30T16:25:51+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@kikry1/video/7229042878750674182</id>
+    <id>https://www.tiktok.com/@kikry1/video/7229042878750674182</id>
     <title>#kiky #fakebodyy⚠️ #haitiantiktok🇭🇹 </title>
     <updated>2023-05-03T19:38:30+00:00</updated>
     <content>#kiky #fakebodyy⚠️ #haitiantiktok🇭🇹 </content>
-    <link href="https://tiktok.com/@kikry1/video/7229042878750674182" rel="alternate"/>
+    <link href="https://www.tiktok.com/@kikry1/video/7229042878750674182" rel="alternate"/>
     <published>2023-05-03T19:38:30+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@kikry1/video/7232272590650346758</id>
+    <id>https://www.tiktok.com/@kikry1/video/7232272590650346758</id>
     <title>#parati #fypシ #yogagirl #fakebodyy⚠️ @Kiky🍑 </title>
     <updated>2023-05-12T12:31:27+00:00</updated>
     <content>#parati #fypシ #yogagirl #fakebodyy⚠️ @Kiky🍑 </content>
-    <link href="https://tiktok.com/@kikry1/video/7232272590650346758" rel="alternate"/>
+    <link href="https://www.tiktok.com/@kikry1/video/7232272590650346758" rel="alternate"/>
     <published>2023-05-12T12:31:27+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@kikry1/video/7235229463045360901</id>
+    <id>https://www.tiktok.com/@kikry1/video/7235229463045360901</id>
     <title>#parati #fypシ #yogagirl #fakebodyy⚠️ </title>
     <updated>2023-05-20T11:45:36+00:00</updated>
     <content>#parati #fypシ #yogagirl #fakebodyy⚠️ </content>
-    <link href="https://tiktok.com/@kikry1/video/7235229463045360901" rel="alternate"/>
+    <link href="https://www.tiktok.com/@kikry1/video/7235229463045360901" rel="alternate"/>
     <published>2023-05-20T11:45:36+00:00</published>
   </entry>
 </feed>

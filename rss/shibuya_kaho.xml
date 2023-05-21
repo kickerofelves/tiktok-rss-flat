@@ -1,55 +1,55 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-  <id>https://tiktok.com/@shibuya_kaho</id>
-  <title>shibuya_kaho TikTok</title>
+  <id>https://www.tiktok.com/@shibuya_kaho</id>
+  <title>@shibuya_kaho | TikTok</title>
   <updated>2023-05-11T20:25:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
   </author>
-  <link href="http://tiktok.com" rel="alternate"/>
+  <link href="https://www.tiktok.com/@shibuya_kaho" rel="alternate"/>
   <link href="https://kickerofelves.github.io/tiktok-rss-flat/rss/shibuya_kaho.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
-  <subtitle>OK Boomer, all the latest TikToks from shibuya_kaho</subtitle>
+  <subtitle>Latest TikToks from @shibuya_kaho</subtitle>
   <entry>
-    <id>https://tiktok.com/@shibuya_kaho/video/7228582301809134850</id>
+    <id>https://www.tiktok.com/@shibuya_kaho/video/7228582301809134850</id>
     <title>The #SuperMarioMovie has finally arrived in Japan🍄✨ #スーパーマリオシアター </title>
     <updated>2023-05-02T13:51:16+00:00</updated>
     <content>The #SuperMarioMovie has finally arrived in Japan🍄✨ #スーパーマリオシアター </content>
-    <link href="https://tiktok.com/@shibuya_kaho/video/7228582301809134850" rel="alternate"/>
+    <link href="https://www.tiktok.com/@shibuya_kaho/video/7228582301809134850" rel="alternate"/>
     <published>2023-05-02T13:51:16+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@shibuya_kaho/video/7228998671478689026</id>
+    <id>https://www.tiktok.com/@shibuya_kaho/video/7228998671478689026</id>
     <title>My editor @Frog_Shield64 made this video from my stream(っ ॑꒳ ॑c) Sometimes such an accident happens! #クレーンゲーム これが本当の棚ぼた〜</title>
     <updated>2023-05-03T16:47:00+00:00</updated>
     <content>My editor @Frog_Shield64 made this video from my stream(っ ॑꒳ ॑c) Sometimes such an accident happens! #クレーンゲーム これが本当の棚ぼた〜</content>
-    <link href="https://tiktok.com/@shibuya_kaho/video/7228998671478689026" rel="alternate"/>
+    <link href="https://www.tiktok.com/@shibuya_kaho/video/7228998671478689026" rel="alternate"/>
     <published>2023-05-03T16:47:00+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@shibuya_kaho/video/7230305209107467521</id>
+    <id>https://www.tiktok.com/@shibuya_kaho/video/7230305209107467521</id>
     <title>Who's your Sailor scout crush❓ (Mine was actually Mars in the beginning) #SailorJupiter #セーラージュピター </title>
     <updated>2023-05-07T05:17:04+00:00</updated>
     <content>Who's your Sailor scout crush❓ (Mine was actually Mars in the beginning) #SailorJupiter #セーラージュピター </content>
-    <link href="https://tiktok.com/@shibuya_kaho/video/7230305209107467521" rel="alternate"/>
+    <link href="https://www.tiktok.com/@shibuya_kaho/video/7230305209107467521" rel="alternate"/>
     <published>2023-05-07T05:17:04+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@shibuya_kaho/video/7231671065422892290</id>
+    <id>https://www.tiktok.com/@shibuya_kaho/video/7231671065422892290</id>
     <title>I should look less evil now...! #angeldeess  これで私も天使に見えるかな🪽</title>
     <updated>2023-05-10T21:37:29+00:00</updated>
     <content>I should look less evil now...! #angeldeess  これで私も天使に見えるかな🪽</content>
-    <link href="https://tiktok.com/@shibuya_kaho/video/7231671065422892290" rel="alternate"/>
+    <link href="https://www.tiktok.com/@shibuya_kaho/video/7231671065422892290" rel="alternate"/>
     <published>2023-05-10T21:37:29+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@shibuya_kaho/video/7232023504202255618</id>
+    <id>https://www.tiktok.com/@shibuya_kaho/video/7232023504202255618</id>
     <title>Behind the scenes footage from #FujiQ shoot on CDawgVA's #YouTube channel🗻 Go watch and make the view count go up✨ #BTS ユーチューブ撮影で富士急行った時の！</title>
     <updated>2023-05-11T20:25:00+00:00</updated>
     <content>Behind the scenes footage from #FujiQ shoot on CDawgVA's #YouTube channel🗻 Go watch and make the view count go up✨ #BTS ユーチューブ撮影で富士急行った時の！</content>
-    <link href="https://tiktok.com/@shibuya_kaho/video/7232023504202255618" rel="alternate"/>
+    <link href="https://www.tiktok.com/@shibuya_kaho/video/7232023504202255618" rel="alternate"/>
     <published>2023-05-11T20:25:00+00:00</published>
   </entry>
 </feed>

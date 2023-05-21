@@ -1,55 +1,55 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-  <id>https://tiktok.com/@thelargestbrasize</id>
-  <title>thelargestbrasize TikTok</title>
+  <id>https://www.tiktok.com/@thelargestbrasize</id>
+  <title>@thelargestbrasize | TikTok</title>
   <updated>2023-05-20T20:28:37+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
   </author>
-  <link href="http://tiktok.com" rel="alternate"/>
+  <link href="https://www.tiktok.com/@thelargestbrasize" rel="alternate"/>
   <link href="https://kickerofelves.github.io/tiktok-rss-flat/rss/thelargestbrasize.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
-  <subtitle>OK Boomer, all the latest TikToks from thelargestbrasize</subtitle>
+  <subtitle>Latest TikToks from @thelargestbrasize</subtitle>
   <entry>
-    <id>https://tiktok.com/@thelargestbrasize/video/7233838522912771354</id>
-    <title>No Title</title>
+    <id>https://www.tiktok.com/@thelargestbrasize/video/7233838522912771354</id>
+    <title>[no title]</title>
     <updated>2023-05-16T17:48:06+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@thelargestbrasize/video/7233838522912771354" rel="alternate"/>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@thelargestbrasize/video/7233838522912771354" rel="alternate"/>
     <published>2023-05-16T17:48:06+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@thelargestbrasize/video/7234193194693528859</id>
-    <title>No Title</title>
+    <id>https://www.tiktok.com/@thelargestbrasize/video/7234193194693528859</id>
+    <title>[no title]</title>
     <updated>2023-05-17T16:44:25+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@thelargestbrasize/video/7234193194693528859" rel="alternate"/>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@thelargestbrasize/video/7234193194693528859" rel="alternate"/>
     <published>2023-05-17T16:44:25+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@thelargestbrasize/video/7234619113958690074</id>
-    <title>No Title</title>
+    <id>https://www.tiktok.com/@thelargestbrasize/video/7234619113958690074</id>
+    <title>[no title]</title>
     <updated>2023-05-18T20:17:14+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@thelargestbrasize/video/7234619113958690074" rel="alternate"/>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@thelargestbrasize/video/7234619113958690074" rel="alternate"/>
     <published>2023-05-18T20:17:14+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@thelargestbrasize/video/7234978566239243546</id>
-    <title>No Title</title>
+    <id>https://www.tiktok.com/@thelargestbrasize/video/7234978566239243546</id>
+    <title>[no title]</title>
     <updated>2023-05-19T19:32:13+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@thelargestbrasize/video/7234978566239243546" rel="alternate"/>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@thelargestbrasize/video/7234978566239243546" rel="alternate"/>
     <published>2023-05-19T19:32:13+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@thelargestbrasize/video/7235364208232156442</id>
-    <title>No Title</title>
+    <id>https://www.tiktok.com/@thelargestbrasize/video/7235364208232156442</id>
+    <title>[no title]</title>
     <updated>2023-05-20T20:28:37+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@thelargestbrasize/video/7235364208232156442" rel="alternate"/>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@thelargestbrasize/video/7235364208232156442" rel="alternate"/>
     <published>2023-05-20T20:28:37+00:00</published>
   </entry>
 </feed>
