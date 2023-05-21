@@ -1,55 +1,55 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-  <id>https://tiktok.com/@kathryn.celestre</id>
-  <title>kathryn.celestre TikTok</title>
-  <updated>2023-05-11T19:59:37+00:00</updated>
+  <id>https://www.tiktok.com/@kathryn.celestre</id>
+  <title>@kathryn.celestre | TikTok</title>
+  <updated>2023-05-20T17:50:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
   </author>
-  <link href="http://tiktok.com" rel="alternate"/>
+  <link href="https://www.tiktok.com/@kathryn.celestre" rel="alternate"/>
   <link href="https://kickerofelves.github.io/tiktok-rss-flat/rss/kathryn.celestre.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
-  <subtitle>OK Boomer, all the latest TikToks from kathryn.celestre</subtitle>
+  <subtitle>Latest TikToks from @kathryn.celestre</subtitle>
   <entry>
-    <id>https://tiktok.com/@kathryn.celestre/video/7229790211461467435</id>
-    <title>Top tier </title>
-    <updated>2023-05-05T19:58:37+00:00</updated>
-    <content>Top tier </content>
-    <link href="https://tiktok.com/@kathryn.celestre/video/7229790211461467435" rel="alternate"/>
-    <published>2023-05-05T19:58:37+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@kathryn.celestre/video/7230138587734396202</id>
+    <id>https://www.tiktok.com/@kathryn.celestre/video/7230138587734396202</id>
     <title>I suck at transitionssss</title>
     <updated>2023-05-06T18:30:36+00:00</updated>
     <content>I suck at transitionssss</content>
-    <link href="https://tiktok.com/@kathryn.celestre/video/7230138587734396202" rel="alternate"/>
+    <link href="https://www.tiktok.com/@kathryn.celestre/video/7230138587734396202" rel="alternate"/>
     <published>2023-05-06T18:30:36+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@kathryn.celestre/video/7230474626659388714</id>
+    <id>https://www.tiktok.com/@kathryn.celestre/video/7230474626659388714</id>
     <title>Bye. </title>
     <updated>2023-05-07T16:14:39+00:00</updated>
     <content>Bye. </content>
-    <link href="https://tiktok.com/@kathryn.celestre/video/7230474626659388714" rel="alternate"/>
+    <link href="https://www.tiktok.com/@kathryn.celestre/video/7230474626659388714" rel="alternate"/>
     <published>2023-05-07T16:14:39+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@kathryn.celestre/video/7231251006581984555</id>
+    <id>https://www.tiktok.com/@kathryn.celestre/video/7231251006581984555</id>
     <title>🤍</title>
     <updated>2023-05-09T18:27:18+00:00</updated>
     <content>🤍</content>
-    <link href="https://tiktok.com/@kathryn.celestre/video/7231251006581984555" rel="alternate"/>
+    <link href="https://www.tiktok.com/@kathryn.celestre/video/7231251006581984555" rel="alternate"/>
     <published>2023-05-09T18:27:18+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@kathryn.celestre/video/7232016944487025963</id>
+    <id>https://www.tiktok.com/@kathryn.celestre/video/7232016944487025963</id>
     <title>🫡</title>
     <updated>2023-05-11T19:59:37+00:00</updated>
     <content>🫡</content>
-    <link href="https://tiktok.com/@kathryn.celestre/video/7232016944487025963" rel="alternate"/>
+    <link href="https://www.tiktok.com/@kathryn.celestre/video/7232016944487025963" rel="alternate"/>
     <published>2023-05-11T19:59:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@kathryn.celestre/video/7235323466302426411</id>
+    <title>What he said💅🏽</title>
+    <updated>2023-05-20T17:50:32+00:00</updated>
+    <content>What he said💅🏽</content>
+    <link href="https://www.tiktok.com/@kathryn.celestre/video/7235323466302426411" rel="alternate"/>
+    <published>2023-05-20T17:50:32+00:00</published>
   </entry>
 </feed>
