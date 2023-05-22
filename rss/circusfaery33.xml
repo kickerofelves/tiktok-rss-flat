@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@circusfaery33</id>
   <title>@circusfaery33 | TikTok</title>
-  <updated>2023-05-21T17:29:59+00:00</updated>
+  <updated>2023-05-22T16:54:30+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @circusfaery33</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7234917132243406122</id>
-    <title>Replying to @how_have_you_been_today Thank you! I didn't know this--I was taught it in school. But I looked it up. </title>
-    <updated>2023-05-19T15:33:56+00:00</updated>
-    <content>Replying to @how_have_you_been_today Thank you! I didn't know this--I was taught it in school. But I looked it up. </content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7234917132243406122" rel="alternate"/>
-    <published>2023-05-19T15:33:56+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@circusfaery33/video/7234955369498299691</id>
     <title>Replying to @aylin2x3 I think there are a lot of ✉️ anti-racists who understand how you are feeling about this. I hope you'll eventually be able to center working towards solution over discomfort. It's a very freeing and inclusive space on the other side.</title>
@@ -51,5 +43,13 @@
     <content>Replying to @aneye4talent So, I investigated this situation for you, and here were my findings...</content>
     <link href="https://www.tiktok.com/@circusfaery33/video/7235689242024873258" rel="alternate"/>
     <published>2023-05-21T17:29:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7236051135361076523</id>
+    <title>#duet with @lifeaffirmingnectar #aanhpi </title>
+    <updated>2023-05-22T16:54:30+00:00</updated>
+    <content>#duet with @lifeaffirmingnectar #aanhpi </content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7236051135361076523" rel="alternate"/>
+    <published>2023-05-22T16:54:30+00:00</published>
   </entry>
 </feed>
