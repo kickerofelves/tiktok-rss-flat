@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@emilylittless</id>
   <title>@emilylittless | TikTok</title>
-  <updated>2023-05-19T19:30:52+00:00</updated>
+  <updated>2023-05-22T03:37:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @emilylittless</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@emilylittless/video/7231417880980606251</id>
-    <title>sorry i forgot it was tuesday😭</title>
-    <updated>2023-05-10T05:15:12+00:00</updated>
-    <content>sorry i forgot it was tuesday😭</content>
-    <link href="https://www.tiktok.com/@emilylittless/video/7231417880980606251" rel="alternate"/>
-    <published>2023-05-10T05:15:12+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@emilylittless/video/7233256181156875562</id>
     <title>whats up knob slobbers</title>
@@ -51,5 +43,13 @@
     <content>recovering from my live last night😵‍💫</content>
     <link href="https://www.tiktok.com/@emilylittless/video/7234978209379519787" rel="alternate"/>
     <published>2023-05-19T19:30:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@emilylittless/video/7235845775157218602</id>
+    <title>living my best life🥲</title>
+    <updated>2023-05-22T03:37:28+00:00</updated>
+    <content>living my best life🥲</content>
+    <link href="https://www.tiktok.com/@emilylittless/video/7235845775157218602" rel="alternate"/>
+    <published>2023-05-22T03:37:28+00:00</published>
   </entry>
 </feed>
