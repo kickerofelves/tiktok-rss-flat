@@ -44,12 +44,12 @@ async def runAll():
             # TODO: Switch to 3.11 TaskGroup or trio nursery
             await asyncio.gather(*[
                 # run(row['username']) for row in csv.DictReader(f, fieldnames=['username'])])
-                run(row[0] for row in name_list[start_range:end_range])])
+                run(str(row[0]) for row in name_list[start_range:end_range])])
     except Exception as e:
         logError(e)
 
 
-async def run(str(tiktokUsername)):
+async def run(tiktokUsername):
     log(f"run start ( { tiktokUsername } )")
     try:
         feedGenerator = FeedGenerator()
