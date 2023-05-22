@@ -23,6 +23,7 @@ def logError(exception):
 
 maxItems = 5
 now = dt.now()
+print(f"github time:{now}")
 log(f"Github time: {now}")
 hour = now.hour
 hour -= 12 if hour >= 13 else hour
