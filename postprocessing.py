@@ -45,6 +45,7 @@ async def runAll():
             await asyncio.gather(*[
                 # run(row['username']) for row in csv.DictReader(f, fieldnames=['username'])])
                 run(row[0] for row in name_list[start_range:end_range])])
+            log(f"Type of row[0]: {type(row[0])}")
     except Exception as e:
         logError(e)
 
