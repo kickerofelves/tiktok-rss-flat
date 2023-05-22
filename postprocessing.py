@@ -28,6 +28,7 @@ log(f"Github time: {now}")
 hour = now.hour
 hour -= 12 if hour >= 13 else hour
 num_lines = sum(1 for _ in open('subscriptions.csv'))
+log(f"Number of subscriptions: {num_lines}")
 block_size = ceil(num_lines/12)
 start_range = hour*block_size
 end_range = start_range+block_size
@@ -39,7 +40,7 @@ async def runAll():
         with open('subscriptions.csv') as f:
             reader = csv.reader(f)
             name_list = list(reader)
-            log(f"Type of username: {type(name_list[0][0]}")
+            log(f"Type of username: {type(name_list[0][0])}")
             # TODO: Switch to 3.11 TaskGroup or trio nursery
             await asyncio.gather(*[
                 # run(row['username']) for row in csv.DictReader(f, fieldnames=['username'])])
