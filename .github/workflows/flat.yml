@@ -20,7 +20,7 @@ jobs:
         run: sudo apt-get update
       - name: Fetch data
         uses: githubocto/flat@v3
-        with:
-          http_url: https://conoroneill.com/index.xml
-          downloaded_filename: conor_rss.xml
-          postprocess: postprocess.ts
+        # with:
+        #   http_url: https://conoroneill.com/index.xml
+        #   downloaded_filename: conor_rss.xml
+        #   postprocess: postprocess.ts
