@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@luceroblackk</id>
   <title>@luceroblackk | TikTok</title>
-  <updated>2023-05-22T13:50:08+00:00</updated>
+  <updated>2023-05-23T00:34:58+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @luceroblackk</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@luceroblackk/video/7235281333356956933</id>
-    <title>I love the ending #foryoupage #foryou </title>
-    <updated>2023-05-20T15:06:52+00:00</updated>
-    <content>I love the ending #foryoupage #foryou </content>
-    <link href="https://www.tiktok.com/@luceroblackk/video/7235281333356956933" rel="alternate"/>
-    <published>2023-05-20T15:06:52+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@luceroblackk/video/7235350651566443781</id>
     <title>Do you like it? #fyp #fypシ </title>
@@ -51,5 +43,13 @@
     <content>The end #usa #usa_tiktok </content>
     <link href="https://www.tiktok.com/@luceroblackk/video/7236003727948238085" rel="alternate"/>
     <published>2023-05-22T13:50:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@luceroblackk/video/7236169891504557317</id>
+    <title>Hard #fyp #fypシ #usa </title>
+    <updated>2023-05-23T00:34:58+00:00</updated>
+    <content>Hard #fyp #fypシ #usa </content>
+    <link href="https://www.tiktok.com/@luceroblackk/video/7236169891504557317" rel="alternate"/>
+    <published>2023-05-23T00:34:58+00:00</published>
   </entry>
 </feed>
