@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@juicy.bunz</id>
   <title>@juicy.bunz | TikTok</title>
-  <updated>2023-05-17T17:15:17+00:00</updated>
+  <updated>2023-05-22T22:23:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @juicy.bunz</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@juicy.bunz/video/7218337382758731051</id>
-    <title>Orange shorts for the win 😁 I’m happy today :) its a good day. #gym #fitness #gymoutfit #fitcheck </title>
-    <updated>2023-04-04T23:15:55+00:00</updated>
-    <content>Orange shorts for the win 😁 I’m happy today :) its a good day. #gym #fitness #gymoutfit #fitcheck </content>
-    <link href="https://www.tiktok.com/@juicy.bunz/video/7218337382758731051" rel="alternate"/>
-    <published>2023-04-04T23:15:55+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@juicy.bunz/video/7224628274138271018</id>
     <title>I just love hanging out with my dog 🥹 he’s the best cuddle buddy ❤️ #dogsoftiktok #fyp #dog #love </title>
@@ -51,5 +43,13 @@
     <content>Enjoying my day off. And i finally got a new blender. I love it 🥰 #minivlog #vlog #fitness #smoothie </content>
     <link href="https://www.tiktok.com/@juicy.bunz/video/7234201121227820334" rel="alternate"/>
     <published>2023-05-17T17:15:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@juicy.bunz/video/7236135900667759914</id>
+    <title>High protein, low cal chicken quesadilla 👩🏻‍🍳😋 48g protein, 328 calories. so yummy for dinner #cooking #proteinmeals #dinner #lunch #fitness </title>
+    <updated>2023-05-22T22:23:12+00:00</updated>
+    <content>High protein, low cal chicken quesadilla 👩🏻‍🍳😋 48g protein, 328 calories. so yummy for dinner #cooking #proteinmeals #dinner #lunch #fitness </content>
+    <link href="https://www.tiktok.com/@juicy.bunz/video/7236135900667759914" rel="alternate"/>
+    <published>2023-05-22T22:23:12+00:00</published>
   </entry>
 </feed>
