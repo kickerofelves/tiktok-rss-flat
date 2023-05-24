@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@circusfaery33</id>
   <title>@circusfaery33 | TikTok</title>
-  <updated>2023-05-22T20:19:22+00:00</updated>
+  <updated>2023-05-24T15:42:01+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @circusfaery33</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7235378752929287466</id>
-    <title>Replying to @titadarden I'm not here to attract flies, or trap anybody into changing their mind. </title>
-    <updated>2023-05-20T21:25:06+00:00</updated>
-    <content>Replying to @titadarden I'm not here to attract flies, or trap anybody into changing their mind. </content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7235378752929287466" rel="alternate"/>
-    <published>2023-05-20T21:25:06+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@circusfaery33/video/7235660450854210858</id>
     <title>Replying to @dontlikemedontcare50 #greenscreen I am not your model minority to weaponize. #asianamerican #modelminority #antiracist #solidarity </title>
@@ -51,5 +43,13 @@
     <content>Replying to @annemarie6591 #asiansmerican #asianamericanproblems #modelminority </content>
     <link href="https://www.tiktok.com/@circusfaery33/video/7236103977782299947" rel="alternate"/>
     <published>2023-05-22T20:19:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7236774690549746987</id>
+    <title>Replying to @mylar_bowtie There is a difference between experiencing actual harm and weaponizing theoretical concerns of harm for the purpose of maintaining an exclusionary space. </title>
+    <updated>2023-05-24T15:42:01+00:00</updated>
+    <content>Replying to @mylar_bowtie There is a difference between experiencing actual harm and weaponizing theoretical concerns of harm for the purpose of maintaining an exclusionary space. </content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7236774690549746987" rel="alternate"/>
+    <published>2023-05-24T15:42:01+00:00</published>
   </entry>
 </feed>
