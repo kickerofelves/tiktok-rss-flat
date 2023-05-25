@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@luceroblackk</id>
   <title>@luceroblackk | TikTok</title>
-  <updated>2023-05-25T16:02:07+00:00</updated>
+  <updated>2023-05-25T20:12:58+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @luceroblackk</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@luceroblackk/video/7236370687537974534</id>
-    <title>#fypシ #fyp #foryoupage </title>
-    <updated>2023-05-23T13:34:07+00:00</updated>
-    <content>#fypシ #fyp #foryoupage </content>
-    <link href="https://www.tiktok.com/@luceroblackk/video/7236370687537974534" rel="alternate"/>
-    <published>2023-05-23T13:34:07+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@luceroblackk/video/7236457725662629126</id>
     <title>#yogagirl #yogaflow #yogastretch </title>
@@ -51,5 +43,13 @@
     <content>Trend #usa #usa_tiktok </content>
     <link href="https://www.tiktok.com/@luceroblackk/video/7237150990879837446" rel="alternate"/>
     <published>2023-05-25T16:02:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@luceroblackk/video/7237215635103567110</id>
+    <title>Watch the end #fypシ #fyp @</title>
+    <updated>2023-05-25T20:12:58+00:00</updated>
+    <content>Watch the end #fypシ #fyp @</content>
+    <link href="https://www.tiktok.com/@luceroblackk/video/7237215635103567110" rel="alternate"/>
+    <published>2023-05-25T20:12:58+00:00</published>
   </entry>
 </feed>
