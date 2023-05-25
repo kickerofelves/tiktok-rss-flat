@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@sonia_barbie</id>
   <title>@sonia_barbie | TikTok</title>
-  <updated>2023-05-25T16:56:18+00:00</updated>
+  <updated>2023-05-25T18:03:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @sonia_barbie</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@sonia_barbie/video/7234981481976778026</id>
-    <title>You can tell that i can’t dance lol  With the Wild n Out Goddesses @Big Stepper @Virginia Sanhouse @Ocean @Macie Mosley @Katieanne </title>
-    <updated>2023-05-19T19:43:32+00:00</updated>
-    <content>You can tell that i can’t dance lol  With the Wild n Out Goddesses @Big Stepper @Virginia Sanhouse @Ocean @Macie Mosley @Katieanne </content>
-    <link href="https://www.tiktok.com/@sonia_barbie/video/7234981481976778026" rel="alternate"/>
-    <published>2023-05-19T19:43:32+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@sonia_barbie/video/7235351247195344171</id>
     <title>I won’t cry for you, my mascara is too expensive.😜  .</title>
@@ -51,5 +43,13 @@
     <content>@wildnout tune on tonight for all night episodes at 9/8c on @VH1 </content>
     <link href="https://www.tiktok.com/@sonia_barbie/video/7237164894209183022" rel="alternate"/>
     <published>2023-05-25T16:56:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@sonia_barbie/video/7237182228885916974</id>
+    <title>We dancing now 😂😂🥰🥰🥰</title>
+    <updated>2023-05-25T18:03:27+00:00</updated>
+    <content>We dancing now 😂😂🥰🥰🥰</content>
+    <link href="https://www.tiktok.com/@sonia_barbie/video/7237182228885916974" rel="alternate"/>
+    <published>2023-05-25T18:03:27+00:00</published>
   </entry>
 </feed>
