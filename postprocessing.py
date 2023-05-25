@@ -61,6 +61,7 @@ async def runAll():
 
 async def run(tiktokUsername):
     log(f"run start ( { tiktokUsername } )")
+    log(f"type of username: {type(tiktokUsername)}")
     try:
         feedGenerator = FeedGenerator()
         feedGenerator.id("https://www.tiktok.com/@" + tiktokUsername)
