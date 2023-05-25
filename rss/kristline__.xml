@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@kristline__</id>
   <title>@kristline__ | TikTok</title>
-  <updated>2023-05-24T14:26:37+00:00</updated>
+  <updated>2023-05-25T15:43:55+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kristline__</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@kristline__/video/7231559310654950702</id>
-    <title>@Lull   Get up to $700 OFF your Lull mattress during Lull's Memorial Day Sale with my link: lull.com/christianaTT</title>
-    <updated>2023-05-10T14:23:56+00:00</updated>
-    <content>@Lull   Get up to $700 OFF your Lull mattress during Lull's Memorial Day Sale with my link: lull.com/christianaTT</content>
-    <link href="https://www.tiktok.com/@kristline__/video/7231559310654950702" rel="alternate"/>
-    <published>2023-05-10T14:23:56+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@kristline__/video/7231950147645918510</id>
     <title>Cook Sunday dinner with me. Babe first time having “marry me chicken” __ 📣📣𝐏𝐑𝐄𝐎𝐑𝐃𝐄𝐑 𝐅𝐎𝐑 𝐌𝐘 𝐂𝐎𝐎𝐊 𝐁𝐎𝐎𝐊 𝐈𝐒 𝐍𝐎𝐖 𝐋𝐈𝐕𝐄 𝐎𝐍 𝐌𝐘 𝐖𝐄𝐁𝐒𝐈𝐓𝐄  𝐒𝐈𝐒𝐓𝐄𝐑𝐒 &amp; 𝐁𝐑𝐎𝐓𝐇𝐀𝐒!!🎉 𝐒𝐊𝐈𝐍 𝐂𝐀𝐑𝐄 @goddess_gleam Cooking knife @middletonmadeknives 🤌🏾</title>
@@ -51,5 +43,13 @@
     <content>At home mini date night featuring babe #datenight #fyp </content>
     <link href="https://www.tiktok.com/@kristline__/video/7236755266031602987" rel="alternate"/>
     <published>2023-05-24T14:26:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@kristline__/video/7237146230504164654</id>
+    <title>POV: your fiancé  got his dream job working at  home and he retires  you from working so you can focus on your dreams🥰 ___ Breakfast is always best wjrh @@Bloom Nutrition</title>
+    <updated>2023-05-25T15:43:55+00:00</updated>
+    <content>POV: your fiancé  got his dream job working at  home and he retires  you from working so you can focus on your dreams🥰 ___ Breakfast is always best wjrh @@Bloom Nutrition</content>
+    <link href="https://www.tiktok.com/@kristline__/video/7237146230504164654" rel="alternate"/>
+    <published>2023-05-25T15:43:55+00:00</published>
   </entry>
 </feed>
