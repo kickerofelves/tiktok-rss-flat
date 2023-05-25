@@ -3,6 +3,7 @@ on:
   push:
     branches:
       - main
+      - time_devel
   workflow_dispatch:
   schedule:
     - cron: '1 * * * *'
