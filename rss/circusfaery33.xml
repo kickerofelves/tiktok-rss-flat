@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@circusfaery33</id>
   <title>@circusfaery33 | TikTok</title>
-  <updated>2023-05-24T23:57:54+00:00</updated>
+  <updated>2023-05-25T20:03:53+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @circusfaery33</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7235689242024873258</id>
-    <title>Replying to @aneye4talent So, I investigated this situation for you, and here were my findings...</title>
-    <updated>2023-05-21T17:29:59+00:00</updated>
-    <content>Replying to @aneye4talent So, I investigated this situation for you, and here were my findings...</content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7235689242024873258" rel="alternate"/>
-    <published>2023-05-21T17:29:59+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@circusfaery33/video/7236051135361076523</id>
     <title>#duet with @lifeaffirmingnectar #aanhpi </title>
@@ -51,5 +43,13 @@
     <content>Replying to @mylar_bowtie That you maliciously misinterpret what I commented this way shows you will make up anything to villify others to get your way. </content>
     <link href="https://www.tiktok.com/@circusfaery33/video/7236902495681826090" rel="alternate"/>
     <published>2023-05-24T23:57:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7237213270808104238</id>
+    <title>Replying to @titadarden Also, if all I was interested in was likes, I could easily accomplish that as an Asian American woman by pandering to the alt right. The fact that I don't is why some of lose their sh!t over my content. I'm interested in integrity,</title>
+    <updated>2023-05-25T20:03:53+00:00</updated>
+    <content>Replying to @titadarden Also, if all I was interested in was likes, I could easily accomplish that as an Asian American woman by pandering to the alt right. The fact that I don't is why some of lose their sh!t over my content. I'm interested in integrity, and real recognizes real.</content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7237213270808104238" rel="alternate"/>
+    <published>2023-05-25T20:03:53+00:00</published>
   </entry>
 </feed>
