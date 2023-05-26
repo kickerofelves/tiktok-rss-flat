@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@circusfaery33</id>
   <title>@circusfaery33 | TikTok</title>
-  <updated>2023-05-26T14:41:08+00:00</updated>
+  <updated>2023-05-26T18:08:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @circusfaery33</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7236103977782299947</id>
-    <title>Replying to @annemarie6591 #asiansmerican #asianamericanproblems #modelminority </title>
-    <updated>2023-05-22T20:19:22+00:00</updated>
-    <content>Replying to @annemarie6591 #asiansmerican #asianamericanproblems #modelminority </content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7236103977782299947" rel="alternate"/>
-    <published>2023-05-22T20:19:22+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@circusfaery33/video/7236774690549746987</id>
     <title>Replying to @mylar_bowtie There is a difference between experiencing actual harm and weaponizing theoretical concerns of harm for the purpose of maintaining an exclusionary space. </title>
@@ -51,5 +43,13 @@
     <content>Replying to @titadarden Please take some time to reflect on how dehumanizing this is. Until you can see that and unlearn this kind of thinking, you will continue to be harmful to Black, Brown, Indigenous and other people of color. #asianamerican #modelminoroty #antiracist </content>
     <link href="https://www.tiktok.com/@circusfaery33/video/7237501190253071659" rel="alternate"/>
     <published>2023-05-26T14:41:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7237554747253787946</id>
+    <title>Replying to @stevorino4us While we disagree significantly on some things, I've never thought of you as being this far off the mark.</title>
+    <updated>2023-05-26T18:08:59+00:00</updated>
+    <content>Replying to @stevorino4us While we disagree significantly on some things, I've never thought of you as being this far off the mark.</content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7237554747253787946" rel="alternate"/>
+    <published>2023-05-26T18:08:59+00:00</published>
   </entry>
 </feed>
