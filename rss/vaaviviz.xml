@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@vaaviviz</id>
   <title>@vaaviviz | TikTok</title>
-  <updated>2023-05-26T00:45:43+00:00</updated>
+  <updated>2023-05-25T23:24:31+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @vaaviviz</subtitle>
+  <entry>
+    <id>https://www.tiktok.com/@vaaviviz/video/7236077333503937798</id>
+    <title>Mi actividad favorita 🫦 #parati </title>
+    <updated>2023-05-22T18:35:47+00:00</updated>
+    <content>Mi actividad favorita 🫦 #parati </content>
+    <link href="https://www.tiktok.com/@vaaviviz/video/7236077333503937798" rel="alternate"/>
+    <published>2023-05-22T18:35:47+00:00</published>
+  </entry>
   <entry>
     <id>https://www.tiktok.com/@vaaviviz/video/7236080075031006469</id>
     <title>Alv ya rompí el legging ☹️ #parati </title>
@@ -43,13 +51,5 @@
     <content>Lo haré diario lol amooo #fyppppppppppppppppppppppp </content>
     <link href="https://www.tiktok.com/@vaaviviz/video/7237264991882169605" rel="alternate"/>
     <published>2023-05-25T23:24:31+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@vaaviviz/video/7237285922646019333</id>
-    <title>Idk anymore </title>
-    <updated>2023-05-26T00:45:43+00:00</updated>
-    <content>Idk anymore </content>
-    <link href="https://www.tiktok.com/@vaaviviz/video/7237285922646019333" rel="alternate"/>
-    <published>2023-05-26T00:45:43+00:00</published>
   </entry>
 </feed>
