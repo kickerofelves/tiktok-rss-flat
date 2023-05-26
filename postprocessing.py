@@ -38,8 +38,8 @@ async def runAll():
         with open('subscriptions.csv') as f:
             reader = csv.reader(f)
             name_list = list(reader)
-            for name in name_list:
-                log(f"Name: {name}, Type: {type(name)}")
+            for name in name_list[start_range:end_range]:
+                log(f"Name: {name[0]}, Type: {type(name)}")
             # log(f"Type of username: {type(name_list[0][0])}")
             # TODO: Switch to 3.11 TaskGroup or trio nursery
             await asyncio.gather(*[
