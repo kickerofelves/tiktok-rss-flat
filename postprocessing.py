@@ -23,13 +23,13 @@ def logError(exception):
 
 maxItems = 5
 now = dt.now()
-log(f"Github time: {now}")
 hour = now.hour
 hour -= 12 if hour >= 13 else hour
 num_lines = sum(1 for _ in open('subscriptions.csv'))
 block_size = ceil(num_lines/12)
 start_range = hour*block_size
 end_range = start_range+block_size
+log(f"Github time: {now}, Hour: {hour}, Num Lines: {num_lines}, Start: {start_range}, End: {end_range}")
 
 async def runAll():
     try:
