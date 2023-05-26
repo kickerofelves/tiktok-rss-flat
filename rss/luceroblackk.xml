@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@luceroblackk</id>
   <title>@luceroblackk | TikTok</title>
-  <updated>2023-05-25T20:12:58+00:00</updated>
+  <updated>2023-05-26T14:24:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @luceroblackk</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@luceroblackk/video/7236457725662629126</id>
-    <title>#yogagirl #yogaflow #yogastretch </title>
-    <updated>2023-05-23T19:11:53+00:00</updated>
-    <content>#yogagirl #yogaflow #yogastretch </content>
-    <link href="https://www.tiktok.com/@luceroblackk/video/7236457725662629126" rel="alternate"/>
-    <published>2023-05-23T19:11:53+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@luceroblackk/video/7236745369504288005</id>
     <title>🤭🤭 #fyp #fypシ #foryou </title>
@@ -51,5 +43,13 @@
     <content>Watch the end #fypシ #fyp @</content>
     <link href="https://www.tiktok.com/@luceroblackk/video/7237215635103567110" rel="alternate"/>
     <published>2023-05-25T20:12:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@luceroblackk/video/7237496794727468293</id>
+    <title>Comment green heart 💚 #viral #usa #usa_tiktok </title>
+    <updated>2023-05-26T14:24:00+00:00</updated>
+    <content>Comment green heart 💚 #viral #usa #usa_tiktok </content>
+    <link href="https://www.tiktok.com/@luceroblackk/video/7237496794727468293" rel="alternate"/>
+    <published>2023-05-26T14:24:00+00:00</published>
   </entry>
 </feed>
