@@ -1,9 +1,9 @@
-#split -a1 --numeric-suffixes=1 -l10 subscriptions.csv subscriptions
 import asyncio
 import csv
-#from datetime import datetime, timezone
+from datetime import datetime as dt
 from feedgen.feed import FeedGenerator
 from tiktokapipy.async_api import AsyncTikTokAPI
+from math import ceil
 
 # Now using a new TikTok library https://github.com/Russell-Newton/TikTokPy
 
@@ -13,10 +13,6 @@ ghPagesURL = "https://kickerofelves.github.io/tiktok-rss-flat/"
 # Custom Domain
 # ghPagesURL = "https://tiktokrss.conoroneill.com/"
 
-maxItems = 5
-subscriptionFileCount = 3
-
-
 def log(message):
     print(f"-------------------- { message } --------------------")
 
@@ -25,38 +21,32 @@ def logError(exception):
     log("!!!!! ERROR !!!!!")
     log(exception)
 
+maxItems = 5
+now = dt.now()
+hour = now.hour
+hour -= 12 if hour >= 13 else hour
+num_lines = sum(1 for _ in open('subscriptions.csv'))
+block_size = ceil(num_lines/12)
+start_range = hour*block_size
+end_range = start_range+block_size
+log(f"Github time: {now}, Hour: {hour}, Num Lines: {num_lines}, Start: {start_range}, End: {end_range}")
 
 async def runAll():
     try:
         log("runAll start")
-
-        currentFileNumber = 0
         log("attempt to load subscription file number to run")
-        with open("nextSubscriptionFileToRun.txt") as f:
-            currentFileNumber = f.read().strip()
-            log(f"currentFileNumber = { currentFileNumber }")
-
-        fileToRun = "subscriptions" + currentFileNumber + ".csv"
-        log(f"fileToRun = { fileToRun }")
-
-        with open(fileToRun) as f:
+        with open('subscriptions.csv') as f:
+            reader = csv.reader(f)
+            name_list = list(reader)
+            # for name in name_list[start_range:end_range]:
+            #     log(f"Name: {name[0]}, Type: {type(name[0])}")
+            # log(f"Type of username: {type(name_list[0][0])}")
             # TODO: Switch to 3.11 TaskGroup or trio nursery
             await asyncio.gather(*[
-                run(row["tiktokUsername"]) for row in csv.DictReader(f, fieldnames=["tiktokUsername"])])
-
-        nextFileNumber = int(currentFileNumber) + 1
-        if (nextFileNumber > subscriptionFileCount):
-            nextFileNumber = 1
-        log(f"nextFileNumber = { nextFileNumber }")
-
-        log(
-            f"attempt to store next subscription file number to run ( subscriptions{ nextFileNumber }.csv )")
-        with open("nextSubscriptionFileToRun.txt", "w") as f:
-            f.write(str(nextFileNumber))
+                # run(row['username']) for row in csv.DictReader(f, fieldnames=['username'])])
+                run(str(row[0])) for row in name_list[start_range:end_range]])
     except Exception as e:
         logError(e)
-
-    log("runAll end")
 
 
 async def run(tiktokUsername):
