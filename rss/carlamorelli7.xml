@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@carlamorelli7</id>
   <title>@carlamorelli7 | TikTok</title>
-  <updated>2023-05-27T06:46:26+00:00</updated>
+  <updated>2023-05-27T14:54:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @carlamorelli7</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@carlamorelli7/video/7228691489440779525</id>
-    <title>Ho tengo un moriticito incansable 🫠😅 🔥#fypシ #tiktok </title>
-    <updated>2023-05-02T20:54:58+00:00</updated>
-    <content>Ho tengo un moriticito incansable 🫠😅 🔥#fypシ #tiktok </content>
-    <link href="https://www.tiktok.com/@carlamorelli7/video/7228691489440779525" rel="alternate"/>
-    <published>2023-05-02T20:54:58+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@carlamorelli7/video/7231225313022266630</id>
     <title>Algo asi 😅 sigueme en IG 😉#fypシ #usa🇺🇸 </title>
@@ -51,5 +43,13 @@
     <content>[no description]</content>
     <link href="https://www.tiktok.com/@carlamorelli7/video/7237749961117420805" rel="alternate"/>
     <published>2023-05-27T06:46:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@carlamorelli7/video/7237875676118781189</id>
+    <title>Dias… </title>
+    <updated>2023-05-27T14:54:14+00:00</updated>
+    <content>Dias… </content>
+    <link href="https://www.tiktok.com/@carlamorelli7/video/7237875676118781189" rel="alternate"/>
+    <published>2023-05-27T14:54:14+00:00</published>
   </entry>
 </feed>
