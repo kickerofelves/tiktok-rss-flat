@@ -29,7 +29,8 @@ num_lines = sum(1 for _ in open('subscriptions.csv'))
 block_size = ceil(num_lines/12)
 start_range = hour*block_size
 end_range = start_range+block_size
-log(f"Github time: {now}, Hour: {hour}, Num Lines: {num_lines}, Start: {start_range}, End: {end_range}")
+log(f"Github time: {now}, True Hour: {now.hour}, Adjusted Hour: {hour}")
+log(f"Num Lines: {num_lines}, Start: {start_range}, End: {end_range}")
 
 async def runAll():
     try:
