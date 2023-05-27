@@ -23,13 +23,13 @@ def logError(exception):
 
 maxItems = 5
 now = dt.now()
-log(f"Github time: {now}")
 hour = now.hour
 hour -= 12 if hour >= 13 else hour
 num_lines = sum(1 for _ in open('subscriptions.csv'))
 block_size = ceil(num_lines/12)
 start_range = hour*block_size
 end_range = start_range+block_size
+log(f"Github time: {now}, Hour: {hour}, Num Lines: {num_lines}, Start: {start_range}, End: {end_range}")
 
 async def runAll():
     try:
@@ -38,11 +38,13 @@ async def runAll():
         with open('subscriptions.csv') as f:
             reader = csv.reader(f)
             name_list = list(reader)
-            log(f"Type of username: {type(name_list[0][0])}")
+            for name in name_list[start_range:end_range]:
+                log(f"Name: {name[0]}, Type: {type(name[0])}")
+            # log(f"Type of username: {type(name_list[0][0])}")
             # TODO: Switch to 3.11 TaskGroup or trio nursery
             await asyncio.gather(*[
                 # run(row['username']) for row in csv.DictReader(f, fieldnames=['username'])])
-                run(row[0] for row in name_list[start_range:end_range])])
+                run(str(row[0])) for row in name_list[start_range:end_range]])
     except Exception as e:
         logError(e)
 
