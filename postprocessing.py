@@ -24,7 +24,9 @@ def logError(exception):
 maxItems = 5
 now = dt.now()
 hour = now.hour
-hour -= 12 if hour >= 13 else hour
+#hour -= 12 if hour >= 13 else hour
+if hour >= 13:
+    hour = hour - 12
 num_lines = sum(1 for _ in open('subscriptions.csv'))
 block_size = ceil(num_lines/12)
 start_range = hour*block_size
