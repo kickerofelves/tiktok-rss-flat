@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@yourminiloona</id>
   <title>@yourminiloona | TikTok</title>
-  <updated>2023-05-19T00:58:53+00:00</updated>
+  <updated>2023-05-29T15:01:15+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @yourminiloona</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@yourminiloona/video/7233949469824535854</id>
-    <title>Babies… #weightgain </title>
-    <updated>2023-05-17T00:58:39+00:00</updated>
-    <content>Babies… #weightgain </content>
-    <link href="https://www.tiktok.com/@yourminiloona/video/7233949469824535854" rel="alternate"/>
-    <published>2023-05-17T00:58:39+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@yourminiloona/video/7234286065476144430</id>
     <title>What would you do? #foru </title>
@@ -51,5 +43,13 @@
     <content>Yeah it’s heavy #heavy </content>
     <link href="https://www.tiktok.com/@yourminiloona/video/7234691704211672363" rel="alternate"/>
     <published>2023-05-19T00:58:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@yourminiloona/video/7238619551443815723</id>
+    <title>Guess my height! #dance #height </title>
+    <updated>2023-05-29T15:01:15+00:00</updated>
+    <content>Guess my height! #dance #height </content>
+    <link href="https://www.tiktok.com/@yourminiloona/video/7238619551443815723" rel="alternate"/>
+    <published>2023-05-29T15:01:15+00:00</published>
   </entry>
 </feed>
