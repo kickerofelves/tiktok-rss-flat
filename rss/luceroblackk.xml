@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@luceroblackk</id>
   <title>@luceroblackk | TikTok</title>
-  <updated>2023-05-28T20:30:31+00:00</updated>
+  <updated>2023-05-29T12:50:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @luceroblackk</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@luceroblackk/video/7237496794727468293</id>
-    <title>Comment green heart 💚 #viral #usa #usa_tiktok </title>
-    <updated>2023-05-26T14:24:00+00:00</updated>
-    <content>Comment green heart 💚 #viral #usa #usa_tiktok </content>
-    <link href="https://www.tiktok.com/@luceroblackk/video/7237496794727468293" rel="alternate"/>
-    <published>2023-05-26T14:24:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@luceroblackk/video/7237648441952750853</id>
     <title>I love this color</title>
@@ -51,5 +43,13 @@
     <content>#fypシ #fyp </content>
     <link href="https://www.tiktok.com/@luceroblackk/video/7238333412942073094" rel="alternate"/>
     <published>2023-05-28T20:30:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@luceroblackk/video/7238586035138055429</id>
+    <title>#usa #usa_tiktok #tiktok </title>
+    <updated>2023-05-29T12:50:49+00:00</updated>
+    <content>#usa #usa_tiktok #tiktok </content>
+    <link href="https://www.tiktok.com/@luceroblackk/video/7238586035138055429" rel="alternate"/>
+    <published>2023-05-29T12:50:49+00:00</published>
   </entry>
 </feed>
