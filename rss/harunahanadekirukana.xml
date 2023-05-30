@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://www.tiktok.com/@harunahanadekirukana</id>
+  <title>@harunahanadekirukana | TikTok</title>
+  <updated>2023-05-30T07:59:59+00:00</updated>
+  <author>
+    <name>Conor ONeill</name>
+    <email>conor@conoroneill.com</email>
+  </author>
+  <link href="https://www.tiktok.com/@harunahanadekirukana" rel="alternate"/>
+  <link href="https://kickerofelves.github.io/tiktok-rss-flat/rss/harunahanadekirukana.xml" rel="self"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
+  <subtitle>Latest TikToks from @harunahanadekirukana</subtitle>
+  <entry>
+    <id>https://www.tiktok.com/@harunahanadekirukana/video/7202349908144196866</id>
+    <title>春菜はな踊ってみた #春菜はな</title>
+    <updated>2023-02-20T21:16:23+00:00</updated>
+    <content>春菜はな踊ってみた #春菜はな</content>
+    <link href="https://www.tiktok.com/@harunahanadekirukana/video/7202349908144196866" rel="alternate"/>
+    <published>2023-02-20T21:16:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@harunahanadekirukana/video/7236674430473112833</id>
+    <title>#春菜はな #パチンコ女子  #パチンコ #パチンカス  #牙狼  #youtube </title>
+    <updated>2023-05-24T09:12:50+00:00</updated>
+    <content>#春菜はな #パチンコ女子  #パチンコ #パチンカス  #牙狼  #youtube </content>
+    <link href="https://www.tiktok.com/@harunahanadekirukana/video/7236674430473112833" rel="alternate"/>
+    <published>2023-05-24T09:12:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@harunahanadekirukana/video/7238593079362587911</id>
+    <title>#春菜はな 続きはイチゲキショップで</title>
+    <updated>2023-05-29T13:18:09+00:00</updated>
+    <content>#春菜はな 続きはイチゲキショップで</content>
+    <link href="https://www.tiktok.com/@harunahanadekirukana/video/7238593079362587911" rel="alternate"/>
+    <published>2023-05-29T13:18:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@harunahanadekirukana/video/7238882170209701128</id>
+    <title>#春菜はな ファンティアみてね</title>
+    <updated>2023-05-30T07:59:59+00:00</updated>
+    <content>#春菜はな ファンティアみてね</content>
+    <link href="https://www.tiktok.com/@harunahanadekirukana/video/7238882170209701128" rel="alternate"/>
+    <published>2023-05-30T07:59:59+00:00</published>
+  </entry>
+</feed>
