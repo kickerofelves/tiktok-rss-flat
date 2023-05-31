@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@6averyabara9</id>
   <title>@6averyabara9 | TikTok</title>
-  <updated>2023-05-31T03:38:34+00:00</updated>
+  <updated>2023-05-31T20:21:46+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @6averyabara9</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@6averyabara9/video/7238652518597758254</id>
-    <title>[no title]</title>
-    <updated>2023-05-29T17:08:59+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@6averyabara9/video/7238652518597758254" rel="alternate"/>
-    <published>2023-05-29T17:08:59+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@6averyabara9/video/7238792831928732970</id>
-    <title>#wifeymaterial #averyabara </title>
-    <updated>2023-05-30T02:13:28+00:00</updated>
-    <content>#wifeymaterial #averyabara </content>
-    <link href="https://www.tiktok.com/@6averyabara9/video/7238792831928732970" rel="alternate"/>
-    <published>2023-05-30T02:13:28+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@6averyabara9/video/7239002492044840238</id>
     <title>#averyabara </title>
@@ -51,5 +35,21 @@
     <content>#averyabara </content>
     <link href="https://www.tiktok.com/@6averyabara9/video/7239185841560702254" rel="alternate"/>
     <published>2023-05-31T03:38:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@6averyabara9/video/7239389994677308718</id>
+    <title>#averyabara </title>
+    <updated>2023-05-31T16:50:42+00:00</updated>
+    <content>#averyabara </content>
+    <link href="https://www.tiktok.com/@6averyabara9/video/7239389994677308718" rel="alternate"/>
+    <published>2023-05-31T16:50:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@6averyabara9/video/7239444387732737322</id>
+    <title>🤦🏾‍♀️</title>
+    <updated>2023-05-31T20:21:46+00:00</updated>
+    <content>🤦🏾‍♀️</content>
+    <link href="https://www.tiktok.com/@6averyabara9/video/7239444387732737322" rel="alternate"/>
+    <published>2023-05-31T20:21:46+00:00</published>
   </entry>
 </feed>
