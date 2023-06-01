@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@luceroblackk</id>
   <title>@luceroblackk | TikTok</title>
-  <updated>2023-05-31T14:55:51+00:00</updated>
+  <updated>2023-06-01T13:11:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @luceroblackk</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@luceroblackk/video/7238586035138055429</id>
-    <title>#usa #usa_tiktok #tiktok </title>
-    <updated>2023-05-29T12:50:49+00:00</updated>
-    <content>#usa #usa_tiktok #tiktok </content>
-    <link href="https://www.tiktok.com/@luceroblackk/video/7238586035138055429" rel="alternate"/>
-    <published>2023-05-29T12:50:49+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@luceroblackk/video/7238772473695636742</id>
     <title>One, two… 🤭 #viral #usa_tiktok #usa </title>
@@ -51,5 +43,13 @@
     <content>It bounces a lot #usa #tiktok #usa_tiktok </content>
     <link href="https://www.tiktok.com/@luceroblackk/video/7239360430198590726" rel="alternate"/>
     <published>2023-05-31T14:55:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@luceroblackk/video/7239704705293634821</id>
+    <title>#yogagirl #yogastretch </title>
+    <updated>2023-06-01T13:11:49+00:00</updated>
+    <content>#yogagirl #yogastretch </content>
+    <link href="https://www.tiktok.com/@luceroblackk/video/7239704705293634821" rel="alternate"/>
+    <published>2023-06-01T13:11:49+00:00</published>
   </entry>
 </feed>
