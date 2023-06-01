@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@circusfaery33</id>
   <title>@circusfaery33 | TikTok</title>
-  <updated>2023-05-31T03:03:52+00:00</updated>
+  <updated>2023-05-31T16:58:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @circusfaery33</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7238278441328512299</id>
-    <title>Replying to @user7111900740533 It was based on poverty until redlining, which was about segregation and providing opportunities to poor ✉️ people that were withheld from Black people. </title>
-    <updated>2023-05-28T16:57:24+00:00</updated>
-    <content>Replying to @user7111900740533 It was based on poverty until redlining, which was about segregation and providing opportunities to poor ✉️ people that were withheld from Black people. </content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7238278441328512299" rel="alternate"/>
-    <published>2023-05-28T16:57:24+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@circusfaery33/video/7239026829762333994</id>
     <title>Replying to @starsongecho As a place to start, instead of viewing it as using your privilege to help others, try asking, how can you share power so that others gain access to privilege that you have that other's don't. #antiracist #solidarity </title>
@@ -51,5 +43,13 @@
     <content>Replying to @kusalilama How have you consumed so much Buddhism and still talk in terms of guilt and redemrption? #asianamerican #modelminority #antiracist #solidarity </content>
     <link href="https://www.tiktok.com/@circusfaery33/video/7239176903662423342" rel="alternate"/>
     <published>2023-05-31T03:03:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7239391947461365035</id>
+    <title>Replying to @didyouknowtensei If my earnestness seems astounding, the secret is that I'm not doing it for others--I'm doing it for myself, with others. 🥰</title>
+    <updated>2023-05-31T16:58:14+00:00</updated>
+    <content>Replying to @didyouknowtensei If my earnestness seems astounding, the secret is that I'm not doing it for others--I'm doing it for myself, with others. 🥰</content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7239391947461365035" rel="alternate"/>
+    <published>2023-05-31T16:58:14+00:00</published>
   </entry>
 </feed>
