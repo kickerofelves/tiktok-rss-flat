@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@luceroblackk</id>
   <title>@luceroblackk | TikTok</title>
-  <updated>2023-06-02T02:28:41+00:00</updated>
+  <updated>2023-06-02T13:37:53+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @luceroblackk</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@luceroblackk/video/7239153623282879749</id>
-    <title>Time to exercise #usa #fyp </title>
-    <updated>2023-05-31T01:33:21+00:00</updated>
-    <content>Time to exercise #usa #fyp </content>
-    <link href="https://www.tiktok.com/@luceroblackk/video/7239153623282879749" rel="alternate"/>
-    <published>2023-05-31T01:33:21+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@luceroblackk/video/7239360430198590726</id>
     <title>It bounces a lot #usa #tiktok #usa_tiktok </title>
@@ -51,5 +43,13 @@
     <content>#fypシ #foryoupage #usa </content>
     <link href="https://www.tiktok.com/@luceroblackk/video/7239910054869126406" rel="alternate"/>
     <published>2023-06-02T02:28:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@luceroblackk/video/7240082511177485573</id>
+    <title>Yoga is important #yoga #yogagirl #yogaflow </title>
+    <updated>2023-06-02T13:37:53+00:00</updated>
+    <content>Yoga is important #yoga #yogagirl #yogaflow </content>
+    <link href="https://www.tiktok.com/@luceroblackk/video/7240082511177485573" rel="alternate"/>
+    <published>2023-06-02T13:37:53+00:00</published>
   </entry>
 </feed>
