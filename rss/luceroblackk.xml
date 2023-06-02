@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@luceroblackk</id>
   <title>@luceroblackk | TikTok</title>
-  <updated>2023-06-01T13:11:49+00:00</updated>
+  <updated>2023-06-02T02:28:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @luceroblackk</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@luceroblackk/video/7238772473695636742</id>
-    <title>One, two… 🤭 #viral #usa_tiktok #usa </title>
-    <updated>2023-05-30T00:54:20+00:00</updated>
-    <content>One, two… 🤭 #viral #usa_tiktok #usa </content>
-    <link href="https://www.tiktok.com/@luceroblackk/video/7238772473695636742" rel="alternate"/>
-    <published>2023-05-30T00:54:20+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@luceroblackk/video/7238966568514899206</id>
-    <title>[no title]</title>
-    <updated>2023-05-30T13:27:28+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@luceroblackk/video/7238966568514899206" rel="alternate"/>
-    <published>2023-05-30T13:27:28+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@luceroblackk/video/7239153623282879749</id>
     <title>Time to exercise #usa #fyp </title>
@@ -51,5 +35,21 @@
     <content>#yogagirl #yogastretch </content>
     <link href="https://www.tiktok.com/@luceroblackk/video/7239704705293634821" rel="alternate"/>
     <published>2023-06-01T13:11:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@luceroblackk/video/7239880101826006278</id>
+    <title>💣💣</title>
+    <updated>2023-06-02T00:32:29+00:00</updated>
+    <content>💣💣</content>
+    <link href="https://www.tiktok.com/@luceroblackk/video/7239880101826006278" rel="alternate"/>
+    <published>2023-06-02T00:32:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@luceroblackk/video/7239910054869126406</id>
+    <title>#fypシ #foryoupage #usa </title>
+    <updated>2023-06-02T02:28:41+00:00</updated>
+    <content>#fypシ #foryoupage #usa </content>
+    <link href="https://www.tiktok.com/@luceroblackk/video/7239910054869126406" rel="alternate"/>
+    <published>2023-06-02T02:28:41+00:00</published>
   </entry>
 </feed>

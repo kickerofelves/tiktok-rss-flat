@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@emilylittless</id>
   <title>@emilylittless | TikTok</title>
-  <updated>2023-06-01T04:16:24+00:00</updated>
+  <updated>2023-06-01T20:34:40+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @emilylittless</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@emilylittless/video/7236591431006178602</id>
-    <title>happy tuesday :)</title>
-    <updated>2023-05-24T03:51:07+00:00</updated>
-    <content>happy tuesday :)</content>
-    <link href="https://www.tiktok.com/@emilylittless/video/7236591431006178602" rel="alternate"/>
-    <published>2023-05-24T03:51:07+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@emilylittless/video/7237305348304964907</id>
     <title>sorry no live tonight :/</title>
@@ -51,5 +43,13 @@
     <content>its my birthday🥰</content>
     <link href="https://www.tiktok.com/@emilylittless/video/7239566688738381102" rel="alternate"/>
     <published>2023-06-01T04:16:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@emilylittless/video/7239818806623800618</id>
+    <title>waited a month to do this on my bday 🥰 #23 #fyp #birthday </title>
+    <updated>2023-06-01T20:34:40+00:00</updated>
+    <content>waited a month to do this on my bday 🥰 #23 #fyp #birthday </content>
+    <link href="https://www.tiktok.com/@emilylittless/video/7239818806623800618" rel="alternate"/>
+    <published>2023-06-01T20:34:40+00:00</published>
   </entry>
 </feed>
