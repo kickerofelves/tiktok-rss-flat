@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@sophie.jane96</id>
   <title>@sophie.jane96 | TikTok</title>
-  <updated>2023-05-31T14:32:17+00:00</updated>
+  <updated>2023-06-02T18:13:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @sophie.jane96</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@sophie.jane96/video/7238646003757272346</id>
-    <title>Sorry 😇 </title>
-    <updated>2023-05-29T16:43:37+00:00</updated>
-    <content>Sorry 😇 </content>
-    <link href="https://www.tiktok.com/@sophie.jane96/video/7238646003757272346" rel="alternate"/>
-    <published>2023-05-29T16:43:37+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@sophie.jane96/video/7238875078014864666</id>
-    <title>Morning! ☀️ </title>
-    <updated>2023-05-30T07:32:36+00:00</updated>
-    <content>Morning! ☀️ </content>
-    <link href="https://www.tiktok.com/@sophie.jane96/video/7238875078014864666" rel="alternate"/>
-    <published>2023-05-30T07:32:36+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@sophie.jane96/video/7238913494987394331</id>
     <title>Replying to @︎︎︎︎ fixed 🤣</title>
@@ -51,5 +35,21 @@
     <content>💓💓😏</content>
     <link href="https://www.tiktok.com/@sophie.jane96/video/7239354334071278874" rel="alternate"/>
     <published>2023-05-31T14:32:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@sophie.jane96/video/7240141236533873947</id>
+    <title>My treat 😌💓</title>
+    <updated>2023-06-02T17:25:56+00:00</updated>
+    <content>My treat 😌💓</content>
+    <link href="https://www.tiktok.com/@sophie.jane96/video/7240141236533873947" rel="alternate"/>
+    <published>2023-06-02T17:25:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@sophie.jane96/video/7240153441799064858</id>
+    <title>Stop it </title>
+    <updated>2023-06-02T18:13:14+00:00</updated>
+    <content>Stop it </content>
+    <link href="https://www.tiktok.com/@sophie.jane96/video/7240153441799064858" rel="alternate"/>
+    <published>2023-06-02T18:13:14+00:00</published>
   </entry>
 </feed>
