@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@shibuya_kaho</id>
   <title>@shibuya_kaho | TikTok</title>
-  <updated>2023-05-29T01:14:50+00:00</updated>
+  <updated>2023-06-03T10:30:25+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @shibuya_kaho</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@shibuya_kaho/video/7230305209107467521</id>
-    <title>Who's your Sailor scout crush❓ (Mine was actually Mars in the beginning) #SailorJupiter #セーラージュピター </title>
-    <updated>2023-05-07T05:17:04+00:00</updated>
-    <content>Who's your Sailor scout crush❓ (Mine was actually Mars in the beginning) #SailorJupiter #セーラージュピター </content>
-    <link href="https://www.tiktok.com/@shibuya_kaho/video/7230305209107467521" rel="alternate"/>
-    <published>2023-05-07T05:17:04+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@shibuya_kaho/video/7231671065422892290</id>
     <title>I should look less evil now...! #angeldeess  これで私も天使に見えるかな🪽</title>
@@ -51,5 +43,13 @@
     <content>ポプテピピックラテ☕️ #popteamepic #latteart </content>
     <link href="https://www.tiktok.com/@shibuya_kaho/video/7238406634001812738" rel="alternate"/>
     <published>2023-05-29T01:14:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@shibuya_kaho/video/7240405276459879681</id>
+    <title>What's your favorite unit of #Evangelion ❓ ツンデレ色ワンピ(੭´ ꒫`)</title>
+    <updated>2023-06-03T10:30:25+00:00</updated>
+    <content>What's your favorite unit of #Evangelion ❓ ツンデレ色ワンピ(੭´ ꒫`)</content>
+    <link href="https://www.tiktok.com/@shibuya_kaho/video/7240405276459879681" rel="alternate"/>
+    <published>2023-06-03T10:30:25+00:00</published>
   </entry>
 </feed>
