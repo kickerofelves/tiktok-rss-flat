@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@woesenpai69</id>
   <title>@woesenpai69 | TikTok</title>
-  <updated>2023-05-27T17:07:37+00:00</updated>
+  <updated>2023-06-03T05:17:31+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @woesenpai69</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@woesenpai69/video/7235886612188532014</id>
-    <title>[no title]</title>
-    <updated>2023-05-22T06:16:12+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@woesenpai69/video/7235886612188532014" rel="alternate"/>
-    <published>2023-05-22T06:16:12+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@woesenpai69/video/7236183538440080686</id>
     <title>[no title]</title>
@@ -51,5 +43,13 @@
     <content>#duet with @Interesting #fyp </content>
     <link href="https://www.tiktok.com/@woesenpai69/video/7237909988662955307" rel="alternate"/>
     <published>2023-05-27T17:07:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@woesenpai69/video/7240324584166214955</id>
+    <title>#duet with @🏎️ #fyp </title>
+    <updated>2023-06-03T05:17:31+00:00</updated>
+    <content>#duet with @🏎️ #fyp </content>
+    <link href="https://www.tiktok.com/@woesenpai69/video/7240324584166214955" rel="alternate"/>
+    <published>2023-06-03T05:17:31+00:00</published>
   </entry>
 </feed>
