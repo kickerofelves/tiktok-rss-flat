@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@sophie.jane96</id>
   <title>@sophie.jane96 | TikTok</title>
-  <updated>2023-06-03T18:56:14+00:00</updated>
+  <updated>2023-06-04T12:36:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @sophie.jane96</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@sophie.jane96/video/7239354334071278874</id>
-    <title>💓💓😏</title>
-    <updated>2023-05-31T14:32:17+00:00</updated>
-    <content>💓💓😏</content>
-    <link href="https://www.tiktok.com/@sophie.jane96/video/7239354334071278874" rel="alternate"/>
-    <published>2023-05-31T14:32:17+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@sophie.jane96/video/7240141236533873947</id>
     <title>My treat 😌💓</title>
@@ -51,5 +43,13 @@
     <content>Do you actually like margaritas? 😉</content>
     <link href="https://www.tiktok.com/@sophie.jane96/video/7240535605409549595" rel="alternate"/>
     <published>2023-06-03T18:56:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@sophie.jane96/video/7240808821113883930</id>
+    <title>Sundresses are cute ☀️ </title>
+    <updated>2023-06-04T12:36:27+00:00</updated>
+    <content>Sundresses are cute ☀️ </content>
+    <link href="https://www.tiktok.com/@sophie.jane96/video/7240808821113883930" rel="alternate"/>
+    <published>2023-06-04T12:36:27+00:00</published>
   </entry>
 </feed>
