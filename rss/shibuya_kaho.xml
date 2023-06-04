@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@shibuya_kaho</id>
   <title>@shibuya_kaho | TikTok</title>
-  <updated>2023-06-03T10:30:25+00:00</updated>
+  <updated>2023-06-04T08:44:43+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @shibuya_kaho</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@shibuya_kaho/video/7231671065422892290</id>
-    <title>I should look less evil now...! #angeldeess  これで私も天使に見えるかな🪽</title>
-    <updated>2023-05-10T21:37:29+00:00</updated>
-    <content>I should look less evil now...! #angeldeess  これで私も天使に見えるかな🪽</content>
-    <link href="https://www.tiktok.com/@shibuya_kaho/video/7231671065422892290" rel="alternate"/>
-    <published>2023-05-10T21:37:29+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@shibuya_kaho/video/7232023504202255618</id>
-    <title>Behind the scenes footage from #FujiQ shoot on CDawgVA's #YouTube channel🗻 Go watch and make the view count go up✨ #BTS ユーチューブ撮影で富士急行った時の！</title>
-    <updated>2023-05-11T20:25:00+00:00</updated>
-    <content>Behind the scenes footage from #FujiQ shoot on CDawgVA's #YouTube channel🗻 Go watch and make the view count go up✨ #BTS ユーチューブ撮影で富士急行った時の！</content>
-    <link href="https://www.tiktok.com/@shibuya_kaho/video/7232023504202255618" rel="alternate"/>
-    <published>2023-05-11T20:25:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@shibuya_kaho/video/7237789546543353090</id>
     <title>Longer version of full #OnePiece gym experience💪 長尺バージョン！翌日ちゃんと筋肉痛でした‥</title>
@@ -51,5 +35,21 @@
     <content>What's your favorite unit of #Evangelion ❓ ツンデレ色ワンピ(੭´ ꒫`)</content>
     <link href="https://www.tiktok.com/@shibuya_kaho/video/7240405276459879681" rel="alternate"/>
     <published>2023-06-03T10:30:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@shibuya_kaho/video/7240591083221028098</id>
+    <title>I like the color of #evaunit01 💜 So iconic💚 やっぱり初号機カラー推し！</title>
+    <updated>2023-06-03T22:31:47+00:00</updated>
+    <content>I like the color of #evaunit01 💜 So iconic💚 やっぱり初号機カラー推し！</content>
+    <link href="https://www.tiktok.com/@shibuya_kaho/video/7240591083221028098" rel="alternate"/>
+    <published>2023-06-03T22:31:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@shibuya_kaho/video/7240749112319102210</id>
+    <title>Miniture size IRL #Evangelion at #SmallWorldTokyo ❣️ It felt so real...  発信の動きに興奮すてしまうし、マヤさんのオペレーター声入ってるんですよ(°▽°)</title>
+    <updated>2023-06-04T08:44:43+00:00</updated>
+    <content>Miniture size IRL #Evangelion at #SmallWorldTokyo ❣️ It felt so real...  発信の動きに興奮すてしまうし、マヤさんのオペレーター声入ってるんですよ(°▽°)</content>
+    <link href="https://www.tiktok.com/@shibuya_kaho/video/7240749112319102210" rel="alternate"/>
+    <published>2023-06-04T08:44:43+00:00</published>
   </entry>
 </feed>
