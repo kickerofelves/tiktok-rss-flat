@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@shibuya_kaho</id>
   <title>@shibuya_kaho | TikTok</title>
-  <updated>2023-06-04T08:44:43+00:00</updated>
+  <updated>2023-06-04T19:37:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @shibuya_kaho</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@shibuya_kaho/video/7237789546543353090</id>
-    <title>Longer version of full #OnePiece gym experience💪 長尺バージョン！翌日ちゃんと筋肉痛でした‥</title>
-    <updated>2023-05-27T09:20:03+00:00</updated>
-    <content>Longer version of full #OnePiece gym experience💪 長尺バージョン！翌日ちゃんと筋肉痛でした‥</content>
-    <link href="https://www.tiktok.com/@shibuya_kaho/video/7237789546543353090" rel="alternate"/>
-    <published>2023-05-27T09:20:03+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@shibuya_kaho/video/7238406634001812738</id>
     <title>ポプテピピックラテ☕️ #popteamepic #latteart </title>
@@ -51,5 +43,13 @@
     <content>Miniture size IRL #Evangelion at #SmallWorldTokyo ❣️ It felt so real...  発信の動きに興奮すてしまうし、マヤさんのオペレーター声入ってるんですよ(°▽°)</content>
     <link href="https://www.tiktok.com/@shibuya_kaho/video/7240749112319102210" rel="alternate"/>
     <published>2023-06-04T08:44:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@shibuya_kaho/video/7240917306119818497</id>
+    <title>Working on my clothing line with US based fashion brand #mochipan 🩷 Right now, we're checking samples! 実は服をデザイン中でして、サンプル試着してみました(っ ॑꒳ ॑c)</title>
+    <updated>2023-06-04T19:37:26+00:00</updated>
+    <content>Working on my clothing line with US based fashion brand #mochipan 🩷 Right now, we're checking samples! 実は服をデザイン中でして、サンプル試着してみました(っ ॑꒳ ॑c)</content>
+    <link href="https://www.tiktok.com/@shibuya_kaho/video/7240917306119818497" rel="alternate"/>
+    <published>2023-06-04T19:37:26+00:00</published>
   </entry>
 </feed>
