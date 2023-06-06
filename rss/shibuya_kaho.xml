@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@shibuya_kaho</id>
   <title>@shibuya_kaho | TikTok</title>
-  <updated>2023-06-04T19:37:26+00:00</updated>
+  <updated>2023-06-06T12:54:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @shibuya_kaho</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@shibuya_kaho/video/7238406634001812738</id>
-    <title>ポプテピピックラテ☕️ #popteamepic #latteart </title>
-    <updated>2023-05-29T01:14:50+00:00</updated>
-    <content>ポプテピピックラテ☕️ #popteamepic #latteart </content>
-    <link href="https://www.tiktok.com/@shibuya_kaho/video/7238406634001812738" rel="alternate"/>
-    <published>2023-05-29T01:14:50+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@shibuya_kaho/video/7240405276459879681</id>
-    <title>What's your favorite unit of #Evangelion ❓ ツンデレ色ワンピ(੭´ ꒫`)</title>
-    <updated>2023-06-03T10:30:25+00:00</updated>
-    <content>What's your favorite unit of #Evangelion ❓ ツンデレ色ワンピ(੭´ ꒫`)</content>
-    <link href="https://www.tiktok.com/@shibuya_kaho/video/7240405276459879681" rel="alternate"/>
-    <published>2023-06-03T10:30:25+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@shibuya_kaho/video/7240591083221028098</id>
     <title>I like the color of #evaunit01 💜 So iconic💚 やっぱり初号機カラー推し！</title>
@@ -51,5 +35,21 @@
     <content>Working on my clothing line with US based fashion brand #mochipan 🩷 Right now, we're checking samples! 実は服をデザイン中でして、サンプル試着してみました(っ ॑꒳ ॑c)</content>
     <link href="https://www.tiktok.com/@shibuya_kaho/video/7240917306119818497" rel="alternate"/>
     <published>2023-06-04T19:37:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@shibuya_kaho/video/7241448791063153921</id>
+    <title>I made a #Totoro plushy at #TeddyBearMuseum 💖 トトロ手作りしちゃった(о´∀`о)</title>
+    <updated>2023-06-06T05:59:48+00:00</updated>
+    <content>I made a #Totoro plushy at #TeddyBearMuseum 💖 トトロ手作りしちゃった(о´∀`о)</content>
+    <link href="https://www.tiktok.com/@shibuya_kaho/video/7241448791063153921" rel="alternate"/>
+    <published>2023-06-06T05:59:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@shibuya_kaho/video/7241555713879706881</id>
+    <title>When I had a #hotdogonstick during my Shizuoka trip🌭  観光中は沢山歩くので沢山食べます（＾Ｏ＾）</title>
+    <updated>2023-06-06T12:54:42+00:00</updated>
+    <content>When I had a #hotdogonstick during my Shizuoka trip🌭  観光中は沢山歩くので沢山食べます（＾Ｏ＾）</content>
+    <link href="https://www.tiktok.com/@shibuya_kaho/video/7241555713879706881" rel="alternate"/>
+    <published>2023-06-06T12:54:42+00:00</published>
   </entry>
 </feed>
