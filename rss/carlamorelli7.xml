@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@carlamorelli7</id>
   <title>@carlamorelli7 | TikTok</title>
-  <updated>2023-05-27T14:54:14+00:00</updated>
+  <updated>2023-06-06T23:33:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @carlamorelli7</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@carlamorelli7/video/7231225313022266630</id>
-    <title>Algo asi 😅 sigueme en IG 😉#fypシ #usa🇺🇸 </title>
-    <updated>2023-05-09T16:47:27+00:00</updated>
-    <content>Algo asi 😅 sigueme en IG 😉#fypシ #usa🇺🇸 </content>
-    <link href="https://www.tiktok.com/@carlamorelli7/video/7231225313022266630" rel="alternate"/>
-    <published>2023-05-09T16:47:27+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@carlamorelli7/video/7231227382143765766</id>
     <title>En mi azul se escucha esos aplausos magestuosos 😜😏 #fypシ #tiktok </title>
@@ -51,5 +43,13 @@
     <content>Dias… </content>
     <link href="https://www.tiktok.com/@carlamorelli7/video/7237875676118781189" rel="alternate"/>
     <published>2023-05-27T14:54:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@carlamorelli7/video/7241720301472664838</id>
+    <title>Encuentra el error 😅 @Lavega_ @Steffy Moreno @Stefany Piett @Hollyshit_8 @nikollmonroy8 @Kat </title>
+    <updated>2023-06-06T23:33:23+00:00</updated>
+    <content>Encuentra el error 😅 @Lavega_ @Steffy Moreno @Stefany Piett @Hollyshit_8 @nikollmonroy8 @Kat </content>
+    <link href="https://www.tiktok.com/@carlamorelli7/video/7241720301472664838" rel="alternate"/>
+    <published>2023-06-06T23:33:23+00:00</published>
   </entry>
 </feed>
