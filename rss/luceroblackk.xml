@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@luceroblackk</id>
   <title>@luceroblackk | TikTok</title>
-  <updated>2023-06-06T16:49:52+00:00</updated>
+  <updated>2023-06-08T14:46:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @luceroblackk</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@luceroblackk/video/7239880101826006278</id>
-    <title>💣💣</title>
-    <updated>2023-06-02T00:32:29+00:00</updated>
-    <content>💣💣</content>
-    <link href="https://www.tiktok.com/@luceroblackk/video/7239880101826006278" rel="alternate"/>
-    <published>2023-06-02T00:32:29+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@luceroblackk/video/7239910054869126406</id>
-    <title>#fypシ #foryoupage #usa </title>
-    <updated>2023-06-02T02:28:41+00:00</updated>
-    <content>#fypシ #foryoupage #usa </content>
-    <link href="https://www.tiktok.com/@luceroblackk/video/7239910054869126406" rel="alternate"/>
-    <published>2023-06-02T02:28:41+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@luceroblackk/video/7240082511177485573</id>
     <title>Yoga is important #yoga #yogagirl #yogaflow </title>
@@ -51,5 +35,21 @@
     <content>[no description]</content>
     <link href="https://www.tiktok.com/@luceroblackk/video/7241616317600599301" rel="alternate"/>
     <published>2023-06-06T16:49:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@luceroblackk/video/7242326073541758214</id>
+    <title>[no title]</title>
+    <updated>2023-06-08T14:44:03+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@luceroblackk/video/7242326073541758214" rel="alternate"/>
+    <published>2023-06-08T14:44:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@luceroblackk/video/7242326776897260805</id>
+    <title>[no title]</title>
+    <updated>2023-06-08T14:46:47+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@luceroblackk/video/7242326776897260805" rel="alternate"/>
+    <published>2023-06-08T14:46:47+00:00</published>
   </entry>
 </feed>
