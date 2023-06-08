@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@sophie.jane96</id>
   <title>@sophie.jane96 | TikTok</title>
-  <updated>2023-06-07T10:56:48+00:00</updated>
+  <updated>2023-06-07T18:33:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @sophie.jane96</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@sophie.jane96/video/7240516598828780827</id>
-    <title>🥵😂</title>
-    <updated>2023-06-03T17:42:51+00:00</updated>
-    <content>🥵😂</content>
-    <link href="https://www.tiktok.com/@sophie.jane96/video/7240516598828780827" rel="alternate"/>
-    <published>2023-06-03T17:42:51+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@sophie.jane96/video/7240535605409549595</id>
     <title>Do you actually like margaritas? 😉</title>
@@ -51,5 +43,13 @@
     <content>🫶🏻</content>
     <link href="https://www.tiktok.com/@sophie.jane96/video/7241896358448287002" rel="alternate"/>
     <published>2023-06-07T10:56:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@sophie.jane96/video/7242013964056530203</id>
+    <title>Again?!?!</title>
+    <updated>2023-06-07T18:33:03+00:00</updated>
+    <content>Again?!?!</content>
+    <link href="https://www.tiktok.com/@sophie.jane96/video/7242013964056530203" rel="alternate"/>
+    <published>2023-06-07T18:33:03+00:00</published>
   </entry>
 </feed>
