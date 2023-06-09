@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@sophie.jane96</id>
   <title>@sophie.jane96 | TikTok</title>
-  <updated>2023-06-07T18:33:03+00:00</updated>
+  <updated>2023-06-09T17:03:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @sophie.jane96</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@sophie.jane96/video/7240535605409549595</id>
-    <title>Do you actually like margaritas? 😉</title>
-    <updated>2023-06-03T18:56:14+00:00</updated>
-    <content>Do you actually like margaritas? 😉</content>
-    <link href="https://www.tiktok.com/@sophie.jane96/video/7240535605409549595" rel="alternate"/>
-    <published>2023-06-03T18:56:14+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@sophie.jane96/video/7240808821113883930</id>
-    <title>Sundresses are cute ☀️ </title>
-    <updated>2023-06-04T12:36:27+00:00</updated>
-    <content>Sundresses are cute ☀️ </content>
-    <link href="https://www.tiktok.com/@sophie.jane96/video/7240808821113883930" rel="alternate"/>
-    <published>2023-06-04T12:36:27+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@sophie.jane96/video/7241666548748782874</id>
     <title>😉😂</title>
@@ -51,5 +35,21 @@
     <content>Again?!?!</content>
     <link href="https://www.tiktok.com/@sophie.jane96/video/7242013964056530203" rel="alternate"/>
     <published>2023-06-07T18:33:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@sophie.jane96/video/7242636746201042203</id>
+    <title>🫶🏻😘</title>
+    <updated>2023-06-09T10:49:52+00:00</updated>
+    <content>🫶🏻😘</content>
+    <link href="https://www.tiktok.com/@sophie.jane96/video/7242636746201042203" rel="alternate"/>
+    <published>2023-06-09T10:49:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@sophie.jane96/video/7242732949488012570</id>
+    <title>Yellow? </title>
+    <updated>2023-06-09T17:03:03+00:00</updated>
+    <content>Yellow? </content>
+    <link href="https://www.tiktok.com/@sophie.jane96/video/7242732949488012570" rel="alternate"/>
+    <published>2023-06-09T17:03:03+00:00</published>
   </entry>
 </feed>
