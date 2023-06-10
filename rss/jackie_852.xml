@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jackie_852</id>
   <title>@jackie_852 | TikTok</title>
-  <updated>2023-06-09T15:54:40+00:00</updated>
+  <updated>2023-06-09T20:58:44+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -13,28 +13,12 @@
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @jackie_852</subtitle>
   <entry>
-    <id>https://www.tiktok.com/@jackie_852/video/7241945178599148806</id>
-    <title>#foryou #foryoupage #viral #usa🇺🇸 #tiktok </title>
-    <updated>2023-06-07T14:06:00+00:00</updated>
-    <content>#foryou #foryoupage #viral #usa🇺🇸 #tiktok </content>
-    <link href="https://www.tiktok.com/@jackie_852/video/7241945178599148806" rel="alternate"/>
-    <published>2023-06-07T14:06:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.tiktok.com/@jackie_852/video/7241945608259489030</id>
     <title>#foryou #foryoupage #viral #usa🇺🇸 #tiktok #usa </title>
     <updated>2023-06-07T14:07:39+00:00</updated>
     <content>#foryou #foryoupage #viral #usa🇺🇸 #tiktok #usa </content>
     <link href="https://www.tiktok.com/@jackie_852/video/7241945608259489030" rel="alternate"/>
     <published>2023-06-07T14:07:39+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@jackie_852/video/7242320650872966406</id>
-    <title>#foryou #foryoupage #viral #usa🇺🇸 #tiktok #usa #flypシ </title>
-    <updated>2023-06-08T14:23:02+00:00</updated>
-    <content>#foryou #foryoupage #viral #usa🇺🇸 #tiktok #usa #flypシ </content>
-    <link href="https://www.tiktok.com/@jackie_852/video/7242320650872966406" rel="alternate"/>
-    <published>2023-06-08T14:23:02+00:00</published>
   </entry>
   <entry>
     <id>https://www.tiktok.com/@jackie_852/video/7242351649396706566</id>
@@ -51,5 +35,21 @@
     <content>#foryou #foryoupage #viral #usa🇺🇸 #tiktok #usa #flypシ </content>
     <link href="https://www.tiktok.com/@jackie_852/video/7242715350108818694" rel="alternate"/>
     <published>2023-06-09T15:54:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@jackie_852/video/7242793397734362374</id>
+    <title>#foryou #foryoupage #viral #usa🇺🇸 #tiktok </title>
+    <updated>2023-06-09T20:57:33+00:00</updated>
+    <content>#foryou #foryoupage #viral #usa🇺🇸 #tiktok </content>
+    <link href="https://www.tiktok.com/@jackie_852/video/7242793397734362374" rel="alternate"/>
+    <published>2023-06-09T20:57:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@jackie_852/video/7242793704619085061</id>
+    <title>#foryou #foryoupage #usa🇺🇸 #viral </title>
+    <updated>2023-06-09T20:58:44+00:00</updated>
+    <content>#foryou #foryoupage #usa🇺🇸 #viral </content>
+    <link href="https://www.tiktok.com/@jackie_852/video/7242793704619085061" rel="alternate"/>
+    <published>2023-06-09T20:58:44+00:00</published>
   </entry>
 </feed>
