@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@kristline__</id>
   <title>@kristline__ | TikTok</title>
-  <updated>2023-05-31T13:59:38+00:00</updated>
+  <updated>2023-06-09T15:41:02+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kristline__</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@kristline__/video/7234196395429760298</id>
-    <title>It’s the black boy joy at the end for me🥺 __ Monthly locs retouch, A year ago babe told me he wanted to start a loc journey, so I decided to learn how to do loc for the fun of it. Special thanks to YouTube university.🤪 happy one year of  loc to you pumpki</title>
-    <updated>2023-05-17T16:56:56+00:00</updated>
-    <content>It’s the black boy joy at the end for me🥺 __ Monthly locs retouch, A year ago babe told me he wanted to start a loc journey, so I decided to learn how to do loc for the fun of it. Special thanks to YouTube university.🤪 happy one year of  loc to you pumpkin 😘</content>
-    <link href="https://www.tiktok.com/@kristline__/video/7234196395429760298" rel="alternate"/>
-    <published>2023-05-17T16:56:56+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@kristline__/video/7236755266031602987</id>
     <title>At home mini date night featuring babe #datenight #fyp </title>
@@ -51,5 +43,13 @@
     <content>Lets cook dinner 🥘 ___ Click the link in my bio for all of my recipes __ A new YouTube video is now live on my YouTube channel 🥰 #fyp </content>
     <link href="https://www.tiktok.com/@kristline__/video/7239345906749902123" rel="alternate"/>
     <published>2023-05-31T13:59:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@kristline__/video/7242711788398071082</id>
+    <title>POV: bae said he wanted fry chicken &amp; Tostones for lunch and I made this for us. #fyp </title>
+    <updated>2023-06-09T15:41:02+00:00</updated>
+    <content>POV: bae said he wanted fry chicken &amp; Tostones for lunch and I made this for us. #fyp </content>
+    <link href="https://www.tiktok.com/@kristline__/video/7242711788398071082" rel="alternate"/>
+    <published>2023-06-09T15:41:02+00:00</published>
   </entry>
 </feed>
