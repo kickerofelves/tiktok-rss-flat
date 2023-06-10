@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@woesenpai69</id>
   <title>@woesenpai69 | TikTok</title>
-  <updated>2023-06-06T19:27:11+00:00</updated>
+  <updated>2023-06-09T20:51:45+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @woesenpai69</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@woesenpai69/video/7237909988662955307</id>
-    <title>#duet with @Interesting #fyp </title>
-    <updated>2023-05-27T17:07:37+00:00</updated>
-    <content>#duet with @Interesting #fyp </content>
-    <link href="https://www.tiktok.com/@woesenpai69/video/7237909988662955307" rel="alternate"/>
-    <published>2023-05-27T17:07:37+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@woesenpai69/video/7240324584166214955</id>
-    <title>#duet with @🏎️ #fyp </title>
-    <updated>2023-06-03T05:17:31+00:00</updated>
-    <content>#duet with @🏎️ #fyp </content>
-    <link href="https://www.tiktok.com/@woesenpai69/video/7240324584166214955" rel="alternate"/>
-    <published>2023-06-03T05:17:31+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@woesenpai69/video/7240982995698748718</id>
     <title>Throw some Ds on that bih!</title>
@@ -51,5 +35,21 @@
     <content>No you rlly dont deserve me </content>
     <link href="https://www.tiktok.com/@woesenpai69/video/7241656844375215406" rel="alternate"/>
     <published>2023-06-06T19:27:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@woesenpai69/video/7242787463230524715</id>
+    <title>Lmaooo damn </title>
+    <updated>2023-06-09T20:34:37+00:00</updated>
+    <content>Lmaooo damn </content>
+    <link href="https://www.tiktok.com/@woesenpai69/video/7242787463230524715" rel="alternate"/>
+    <published>2023-06-09T20:34:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@woesenpai69/video/7242791893183008043</id>
+    <title>#duet with @➤ Ngl ☻  #dcnuell </title>
+    <updated>2023-06-09T20:51:45+00:00</updated>
+    <content>#duet with @➤ Ngl ☻  #dcnuell </content>
+    <link href="https://www.tiktok.com/@woesenpai69/video/7242791893183008043" rel="alternate"/>
+    <published>2023-06-09T20:51:45+00:00</published>
   </entry>
 </feed>
