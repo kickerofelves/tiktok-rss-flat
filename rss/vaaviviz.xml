@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@vaaviviz</id>
   <title>@vaaviviz | TikTok</title>
-  <updated>2023-06-01T00:33:28+00:00</updated>
+  <updated>2023-06-10T01:22:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @vaaviviz</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@vaaviviz/video/7237255048865090822</id>
-    <title>@BELLAKATH te amo </title>
-    <updated>2023-05-25T22:45:56+00:00</updated>
-    <content>@BELLAKATH te amo </content>
-    <link href="https://www.tiktok.com/@vaaviviz/video/7237255048865090822" rel="alternate"/>
-    <published>2023-05-25T22:45:56+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@vaaviviz/video/7237264991882169605</id>
-    <title>Lo haré diario lol amooo #fyppppppppppppppppppppppp </title>
-    <updated>2023-05-25T23:24:31+00:00</updated>
-    <content>Lo haré diario lol amooo #fyppppppppppppppppppppppp </content>
-    <link href="https://www.tiktok.com/@vaaviviz/video/7237264991882169605" rel="alternate"/>
-    <published>2023-05-25T23:24:31+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@vaaviviz/video/7239116909118000390</id>
-    <title>Mi teend fv </title>
-    <updated>2023-05-30T23:10:53+00:00</updated>
-    <content>Mi teend fv </content>
-    <link href="https://www.tiktok.com/@vaaviviz/video/7239116909118000390" rel="alternate"/>
-    <published>2023-05-30T23:10:53+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@vaaviviz/video/7239117345963117829</id>
     <title>[no title]</title>
@@ -51,5 +27,29 @@
     <content>Siempre seré</content>
     <link href="https://www.tiktok.com/@vaaviviz/video/7239509262819462405" rel="alternate"/>
     <published>2023-06-01T00:33:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@vaaviviz/video/7242851474944920837</id>
+    <title>🤍 #parati #fyp </title>
+    <updated>2023-06-10T00:42:55+00:00</updated>
+    <content>🤍 #parati #fyp </content>
+    <link href="https://www.tiktok.com/@vaaviviz/video/7242851474944920837" rel="alternate"/>
+    <published>2023-06-10T00:42:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@vaaviviz/video/7242860988821785862</id>
+    <title>#parati #fyp </title>
+    <updated>2023-06-10T01:19:49+00:00</updated>
+    <content>#parati #fyp </content>
+    <link href="https://www.tiktok.com/@vaaviviz/video/7242860988821785862" rel="alternate"/>
+    <published>2023-06-10T01:19:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@vaaviviz/video/7242861593472584966</id>
+    <title>Uh uh uh </title>
+    <updated>2023-06-10T01:22:09+00:00</updated>
+    <content>Uh uh uh </content>
+    <link href="https://www.tiktok.com/@vaaviviz/video/7242861593472584966" rel="alternate"/>
+    <published>2023-06-10T01:22:09+00:00</published>
   </entry>
 </feed>
