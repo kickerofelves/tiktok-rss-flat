@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@shibuya_kaho</id>
   <title>@shibuya_kaho | TikTok</title>
-  <updated>2023-06-08T20:24:17+00:00</updated>
+  <updated>2023-06-10T14:49:45+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @shibuya_kaho</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@shibuya_kaho/video/7240917306119818497</id>
-    <title>Working on my clothing line with US based fashion brand #mochipan 🩷 Right now, we're checking samples! 実は服をデザイン中でして、サンプル試着してみました(っ ॑꒳ ॑c)</title>
-    <updated>2023-06-04T19:37:26+00:00</updated>
-    <content>Working on my clothing line with US based fashion brand #mochipan 🩷 Right now, we're checking samples! 実は服をデザイン中でして、サンプル試着してみました(っ ॑꒳ ॑c)</content>
-    <link href="https://www.tiktok.com/@shibuya_kaho/video/7240917306119818497" rel="alternate"/>
-    <published>2023-06-04T19:37:26+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@shibuya_kaho/video/7241448791063153921</id>
     <title>I made a #Totoro plushy at #TeddyBearMuseum 💖 トトロ手作りしちゃった(о´∀`о)</title>
@@ -51,5 +43,13 @@
     <content>Joining ironmouse's "Speak of the Devil" as guest on 6/9... Friday🩷 トップVTuberのトークショーにゲスト出演します(* ॑ ॑* ) 英語で頑張るぞ！</content>
     <link href="https://www.tiktok.com/@shibuya_kaho/video/7242413719710338306" rel="alternate"/>
     <published>2023-06-08T20:24:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@shibuya_kaho/video/7243069703516589314</id>
+    <title>Always finish my meal! よく食べる方かと思いますʕʘ‿ʘʔ</title>
+    <updated>2023-06-10T14:49:45+00:00</updated>
+    <content>Always finish my meal! よく食べる方かと思いますʕʘ‿ʘʔ</content>
+    <link href="https://www.tiktok.com/@shibuya_kaho/video/7243069703516589314" rel="alternate"/>
+    <published>2023-06-10T14:49:45+00:00</published>
   </entry>
 </feed>
