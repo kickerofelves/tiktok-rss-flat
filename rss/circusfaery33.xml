@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@circusfaery33</id>
   <title>@circusfaery33 | TikTok</title>
-  <updated>2023-06-12T02:19:27+00:00</updated>
+  <updated>2023-06-12T22:36:13+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @circusfaery33</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7243279687353486638</id>
-    <title>Replying to @HCWT77   Here's your video about it. Enjoy! </title>
-    <updated>2023-06-11T04:24:47+00:00</updated>
-    <content>Replying to @HCWT77   Here's your video about it. Enjoy! </content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7243279687353486638" rel="alternate"/>
-    <published>2023-06-11T04:24:47+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7243463333544742186</id>
-    <title>Replying to @filthy_k1ng21 Stop using internal conflict to justify colonization and white supremacy. #asianamerican #modelminority #antiracism #solidarity </title>
-    <updated>2023-06-11T16:17:27+00:00</updated>
-    <content>Replying to @filthy_k1ng21 Stop using internal conflict to justify colonization and white supremacy. #asianamerican #modelminority #antiracism #solidarity </content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7243463333544742186" rel="alternate"/>
-    <published>2023-06-11T16:17:27+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7243465322668248363</id>
-    <title>Replying to @HCWT77   If that's your point, then just make that point--say you want to be associated with ✉️ saviorship and you want to uphold ✉️ supremacist narratives </title>
-    <updated>2023-06-11T16:25:05+00:00</updated>
-    <content>Replying to @HCWT77   If that's your point, then just make that point--say you want to be associated with ✉️ saviorship and you want to uphold ✉️ supremacist narratives </content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7243465322668248363" rel="alternate"/>
-    <published>2023-06-11T16:25:05+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@circusfaery33/video/7243541000948419883</id>
     <title>Replying to @Drew  That offer was made yesterday, but you've made your bad faith apparent. Enlighten yourself. If you can't, reflect on why. </title>
@@ -51,5 +27,29 @@
     <content>Replying to @HCWT77   The only ignorant person here is you. You are not fooling any of us. #asianamerican #modelminority #antiracism #solidarity </content>
     <link href="https://www.tiktok.com/@circusfaery33/video/7243618492149140782" rel="alternate"/>
     <published>2023-06-12T02:19:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7243855017457863979</id>
+    <title>Replying to @HCWT77  How dare you disrespect United States veterans by saying they made mo difference. Is racial bigotry so precious to you that you would denigrate veterans to uphold it?  #asianamerican #modelminority #antiracism #solidarity</title>
+    <updated>2023-06-12T17:37:17+00:00</updated>
+    <content>Replying to @HCWT77  How dare you disrespect United States veterans by saying they made mo difference. Is racial bigotry so precious to you that you would denigrate veterans to uphold it?  #asianamerican #modelminority #antiracism #solidarity</content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7243855017457863979" rel="alternate"/>
+    <published>2023-06-12T17:37:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7243886342516542762</id>
+    <title>Replying to @Fortune Forbes   My thoughts are, I am sure that there are Asians with anti-Black bias against The Little Mermaid, but US media is engaging in divide and conquer tactics. </title>
+    <updated>2023-06-12T19:38:48+00:00</updated>
+    <content>Replying to @Fortune Forbes   My thoughts are, I am sure that there are Asians with anti-Black bias against The Little Mermaid, but US media is engaging in divide and conquer tactics. </content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7243886342516542762" rel="alternate"/>
+    <published>2023-06-12T19:38:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7243932060526726442</id>
+    <title>Replying to @HCWT77   What a weird way to say you can't manage yourself and your ego is more important to you than truth. </title>
+    <updated>2023-06-12T22:36:13+00:00</updated>
+    <content>Replying to @HCWT77   What a weird way to say you can't manage yourself and your ego is more important to you than truth. </content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7243932060526726442" rel="alternate"/>
+    <published>2023-06-12T22:36:13+00:00</published>
   </entry>
 </feed>
