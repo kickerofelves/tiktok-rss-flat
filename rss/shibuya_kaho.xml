@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@shibuya_kaho</id>
   <title>@shibuya_kaho | TikTok</title>
-  <updated>2023-06-10T14:49:45+00:00</updated>
+  <updated>2023-06-13T15:27:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @shibuya_kaho</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@shibuya_kaho/video/7241448791063153921</id>
-    <title>I made a #Totoro plushy at #TeddyBearMuseum 💖 トトロ手作りしちゃった(о´∀`о)</title>
-    <updated>2023-06-06T05:59:48+00:00</updated>
-    <content>I made a #Totoro plushy at #TeddyBearMuseum 💖 トトロ手作りしちゃった(о´∀`о)</content>
-    <link href="https://www.tiktok.com/@shibuya_kaho/video/7241448791063153921" rel="alternate"/>
-    <published>2023-06-06T05:59:48+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@shibuya_kaho/video/7241709437617032450</id>
     <title>Quite a surprise to a first timer😮 "開けゴマ"の瞬間が楽しいブックカフェ！</title>
@@ -51,5 +43,13 @@
     <content>Always finish my meal! よく食べる方かと思いますʕʘ‿ʘʔ</content>
     <link href="https://www.tiktok.com/@shibuya_kaho/video/7243069703516589314" rel="alternate"/>
     <published>2023-06-10T14:49:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@shibuya_kaho/video/7244192655880621314</id>
+    <title>I got the opportunity to promote #AOT #ukiyoe and owe one❣️ I'll definitely hang it on my wall...  進撃の巨人浮世絵PR案件が来たので、報酬として私もいただきます(￣∀￣) 本当に素敵✨</title>
+    <updated>2023-06-13T15:27:24+00:00</updated>
+    <content>I got the opportunity to promote #AOT #ukiyoe and owe one❣️ I'll definitely hang it on my wall...  進撃の巨人浮世絵PR案件が来たので、報酬として私もいただきます(￣∀￣) 本当に素敵✨</content>
+    <link href="https://www.tiktok.com/@shibuya_kaho/video/7244192655880621314" rel="alternate"/>
+    <published>2023-06-13T15:27:24+00:00</published>
   </entry>
 </feed>
