@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@harunahanadekirukana</id>
   <title>@harunahanadekirukana | TikTok</title>
-  <updated>2023-05-30T07:59:59+00:00</updated>
+  <updated>2023-06-14T09:03:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -35,5 +35,13 @@
     <content>#春菜はな ファンティアみてね</content>
     <link href="https://www.tiktok.com/@harunahanadekirukana/video/7238882170209701128" rel="alternate"/>
     <published>2023-05-30T07:59:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@harunahanadekirukana/video/7244464719547944194</id>
+    <title>春菜はなのYouTube。 今回も面白いので観てください。#パチンコ女子 #パチンコ #パチンカス #春菜はな</title>
+    <updated>2023-06-14T09:03:09+00:00</updated>
+    <content>春菜はなのYouTube。 今回も面白いので観てください。#パチンコ女子 #パチンコ #パチンカス #春菜はな</content>
+    <link href="https://www.tiktok.com/@harunahanadekirukana/video/7244464719547944194" rel="alternate"/>
+    <published>2023-06-14T09:03:09+00:00</published>
   </entry>
 </feed>
