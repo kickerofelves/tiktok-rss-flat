@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@realestcece</id>
   <title>@realestcece | TikTok</title>
-  <updated>2023-06-12T00:28:33+00:00</updated>
+  <updated>2023-06-14T02:22:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @realestcece</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@realestcece/video/7229023487187373355</id>
-    <title>Subscribe to my YouTube for PART 2 ! 😏 Link in bio 📲</title>
-    <updated>2023-05-03T18:23:38+00:00</updated>
-    <content>Subscribe to my YouTube for PART 2 ! 😏 Link in bio 📲</content>
-    <link href="https://www.tiktok.com/@realestcece/video/7229023487187373355" rel="alternate"/>
-    <published>2023-05-03T18:23:38+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@realestcece/video/7234665891571649838</id>
     <title>Should I bring Coach Cece Back ? 🤣 👀</title>
@@ -51,5 +43,13 @@
     <content>McDonalds be hiring anybody 😂😂</content>
     <link href="https://www.tiktok.com/@realestcece/video/7243589912539417902" rel="alternate"/>
     <published>2023-06-12T00:28:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@realestcece/video/7244361531901758763</id>
+    <title>Chickfila New Hire 😂😂</title>
+    <updated>2023-06-14T02:22:47+00:00</updated>
+    <content>Chickfila New Hire 😂😂</content>
+    <link href="https://www.tiktok.com/@realestcece/video/7244361531901758763" rel="alternate"/>
+    <published>2023-06-14T02:22:47+00:00</published>
   </entry>
 </feed>
