@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@woesenpai69</id>
   <title>@woesenpai69 | TikTok</title>
-  <updated>2023-06-13T06:49:05+00:00</updated>
+  <updated>2023-06-15T00:13:25+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @woesenpai69</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@woesenpai69/video/7241319536652324138</id>
-    <title>This was on my bucket list</title>
-    <updated>2023-06-05T21:38:25+00:00</updated>
-    <content>This was on my bucket list</content>
-    <link href="https://www.tiktok.com/@woesenpai69/video/7241319536652324138" rel="alternate"/>
-    <published>2023-06-05T21:38:25+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@woesenpai69/video/7241656844375215406</id>
-    <title>No you rlly dont deserve me </title>
-    <updated>2023-06-06T19:27:11+00:00</updated>
-    <content>No you rlly dont deserve me </content>
-    <link href="https://www.tiktok.com/@woesenpai69/video/7241656844375215406" rel="alternate"/>
-    <published>2023-06-06T19:27:11+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@woesenpai69/video/7242787463230524715</id>
     <title>Lmaooo damn </title>
@@ -45,11 +29,27 @@
     <published>2023-06-09T20:51:45+00:00</published>
   </entry>
   <entry>
-    <id>https://www.tiktok.com/@woesenpai69/video/7244059064798301483</id>
-    <title>[no title]</title>
-    <updated>2023-06-13T06:49:05+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@woesenpai69/video/7244059064798301483" rel="alternate"/>
-    <published>2023-06-13T06:49:05+00:00</published>
+    <id>https://www.tiktok.com/@woesenpai69/video/7244697499456261419</id>
+    <title>@jlorrainedesigns is my favorite rn</title>
+    <updated>2023-06-15T00:06:40+00:00</updated>
+    <content>@jlorrainedesigns is my favorite rn</content>
+    <link href="https://www.tiktok.com/@woesenpai69/video/7244697499456261419" rel="alternate"/>
+    <published>2023-06-15T00:06:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@woesenpai69/video/7244698162772938027</id>
+    <title>100 eaters</title>
+    <updated>2023-06-15T00:09:08+00:00</updated>
+    <content>100 eaters</content>
+    <link href="https://www.tiktok.com/@woesenpai69/video/7244698162772938027" rel="alternate"/>
+    <published>2023-06-15T00:09:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@woesenpai69/video/7244699257091935531</id>
+    <title>@jlorrainedesigns </title>
+    <updated>2023-06-15T00:13:25+00:00</updated>
+    <content>@jlorrainedesigns </content>
+    <link href="https://www.tiktok.com/@woesenpai69/video/7244699257091935531" rel="alternate"/>
+    <published>2023-06-15T00:13:25+00:00</published>
   </entry>
 </feed>
