@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://www.tiktok.com/@foodsciencebabe</id>
+  <title>@foodsciencebabe | TikTok</title>
+  <updated>2023-06-14T21:29:32+00:00</updated>
+  <author>
+    <name>Conor ONeill</name>
+    <email>conor@conoroneill.com</email>
+  </author>
+  <link href="https://www.tiktok.com/@foodsciencebabe" rel="alternate"/>
+  <link href="https://kickerofelves.github.io/tiktok-rss-flat/rss/foodsciencebabe.xml" rel="self"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
+  <subtitle>Latest TikToks from @foodsciencebabe</subtitle>
+  <entry>
+    <id>https://www.tiktok.com/@foodsciencebabe/video/7241322438015929646</id>
+    <title>#stitch with @Jordan_The_Stallion8 #foodlabels #foodsafety #greatvalue #foodscience #greenscreen </title>
+    <updated>2023-06-05T21:49:38+00:00</updated>
+    <content>#stitch with @Jordan_The_Stallion8 #foodlabels #foodsafety #greatvalue #foodscience #greenscreen </content>
+    <link href="https://www.tiktok.com/@foodsciencebabe/video/7241322438015929646" rel="alternate"/>
+    <published>2023-06-05T21:49:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@foodsciencebabe/video/7241354303737253166</id>
+    <title>Replying to @Josh Williams one plausible explanation. #foodmanufacturing #foodsafety #greatvalue #foodscience #marshmallows </title>
+    <updated>2023-06-05T23:53:19+00:00</updated>
+    <content>Replying to @Josh Williams one plausible explanation. #foodmanufacturing #foodsafety #greatvalue #foodscience #marshmallows </content>
+    <link href="https://www.tiktok.com/@foodsciencebabe/video/7241354303737253166" rel="alternate"/>
+    <published>2023-06-05T23:53:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@foodsciencebabe/video/7242417379236449579</id>
+    <title>On April 23, 2021, the Food Allergy Safety, Treatment, Education, and Research (FASTER) Act was signed into law, declaring sesame as the 9th major food allergen recognized by the United States. The change was effective on January 1, 2023. All FDA requirem</title>
+    <updated>2023-06-08T20:38:28+00:00</updated>
+    <content>On April 23, 2021, the Food Allergy Safety, Treatment, Education, and Research (FASTER) Act was signed into law, declaring sesame as the 9th major food allergen recognized by the United States. The change was effective on January 1, 2023. All FDA requirements applicable to major food allergens, including labeling and manufacturing requirements, apply to sesame as of January 1, 2023. Products already in interstate commerce—for example, products that are on retail shelves, before January 1, 2023—do not need to be removed from the marketplace or relabeled. So, consumers should be aware that some products may not carry allergen labeling for sesame right away. During the transition period, the FDA recommends consumers check with the manufacturer or distributor identified on the food product if not sure whether a food product contains, or potentially contains, sesame. #foodallergy #foodsafety #foodlabels #foodscience </content>
+    <link href="https://www.tiktok.com/@foodsciencebabe/video/7242417379236449579" rel="alternate"/>
+    <published>2023-06-08T20:38:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@foodsciencebabe/video/7244627851855678766</id>
+    <title>Replying to @Josh Williams  While allergen advisory statements are often used, consumers should be aware that these statements are voluntary and there is no uniform rule that governs what they mean. Thus, a “produced in a facility” statement is not necess</title>
+    <updated>2023-06-14T19:36:18+00:00</updated>
+    <content>Replying to @Josh Williams  While allergen advisory statements are often used, consumers should be aware that these statements are voluntary and there is no uniform rule that governs what they mean. Thus, a “produced in a facility” statement is not necessarily different from a “may contain” statement with regards to whether allergen cross-contact is more likely, or allergen presence is higher and poses greater risk. #greatvalue #foodsafety #foodallergy #foodscience </content>
+    <link href="https://www.tiktok.com/@foodsciencebabe/video/7244627851855678766" rel="alternate"/>
+    <published>2023-06-14T19:36:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@foodsciencebabe/video/7244657033264237866</id>
+    <title>#stitch with @Cheeses3xdeath When a food shows heavy mold growth, "root" threads have invaded it deeply. In dangerous molds, poisonous substances are often contained in and around these threads. In some cases, toxins may have spread throughout the food. M</title>
+    <updated>2023-06-14T21:29:32+00:00</updated>
+    <content>#stitch with @Cheeses3xdeath When a food shows heavy mold growth, "root" threads have invaded it deeply. In dangerous molds, poisonous substances are often contained in and around these threads. In some cases, toxins may have spread throughout the food. More info here: https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/molds-food-are-they-dangerous #cheese #moldycheese #foodsafety #foodscience </content>
+    <link href="https://www.tiktok.com/@foodsciencebabe/video/7244657033264237866" rel="alternate"/>
+    <published>2023-06-14T21:29:32+00:00</published>
+  </entry>
+</feed>
