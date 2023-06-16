@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@sophie.jane96</id>
   <title>@sophie.jane96 | TikTok</title>
-  <updated>2023-06-15T16:55:52+00:00</updated>
+  <updated>2023-06-15T21:20:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -13,20 +13,20 @@
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @sophie.jane96</subtitle>
   <entry>
+    <id>https://www.tiktok.com/@sophie.jane96/video/7242636746201042203</id>
+    <title>🫶🏻😘</title>
+    <updated>2023-06-09T10:49:52+00:00</updated>
+    <content>🫶🏻😘</content>
+    <link href="https://www.tiktok.com/@sophie.jane96/video/7242636746201042203" rel="alternate"/>
+    <published>2023-06-09T10:49:52+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.tiktok.com/@sophie.jane96/video/7243098810728205595</id>
     <title>😂😂</title>
     <updated>2023-06-10T16:42:48+00:00</updated>
     <content>😂😂</content>
     <link href="https://www.tiktok.com/@sophie.jane96/video/7243098810728205595" rel="alternate"/>
     <published>2023-06-10T16:42:48+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@sophie.jane96/video/7244200068377611546</id>
-    <title>Haha oh no 😂💀</title>
-    <updated>2023-06-13T15:56:12+00:00</updated>
-    <content>Haha oh no 😂💀</content>
-    <link href="https://www.tiktok.com/@sophie.jane96/video/7244200068377611546" rel="alternate"/>
-    <published>2023-06-13T15:56:12+00:00</published>
   </entry>
   <entry>
     <id>https://www.tiktok.com/@sophie.jane96/video/7244646350871153947</id>
@@ -45,11 +45,11 @@
     <published>2023-06-15T10:16:13+00:00</published>
   </entry>
   <entry>
-    <id>https://www.tiktok.com/@sophie.jane96/video/7244957609160150298</id>
-    <title>New bikini?💓</title>
-    <updated>2023-06-15T16:55:52+00:00</updated>
-    <content>New bikini?💓</content>
-    <link href="https://www.tiktok.com/@sophie.jane96/video/7244957609160150298" rel="alternate"/>
-    <published>2023-06-15T16:55:52+00:00</published>
+    <id>https://www.tiktok.com/@sophie.jane96/video/7245025793108233498</id>
+    <title>Omg 💀</title>
+    <updated>2023-06-15T21:20:28+00:00</updated>
+    <content>Omg 💀</content>
+    <link href="https://www.tiktok.com/@sophie.jane96/video/7245025793108233498" rel="alternate"/>
+    <published>2023-06-15T21:20:28+00:00</published>
   </entry>
 </feed>
