@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@foodsciencebabe</id>
   <title>@foodsciencebabe | TikTok</title>
-  <updated>2023-06-14T21:29:32+00:00</updated>
+  <updated>2023-06-16T13:44:34+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @foodsciencebabe</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@foodsciencebabe/video/7241322438015929646</id>
-    <title>#stitch with @Jordan_The_Stallion8 #foodlabels #foodsafety #greatvalue #foodscience #greenscreen </title>
-    <updated>2023-06-05T21:49:38+00:00</updated>
-    <content>#stitch with @Jordan_The_Stallion8 #foodlabels #foodsafety #greatvalue #foodscience #greenscreen </content>
-    <link href="https://www.tiktok.com/@foodsciencebabe/video/7241322438015929646" rel="alternate"/>
-    <published>2023-06-05T21:49:38+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@foodsciencebabe/video/7241354303737253166</id>
     <title>Replying to @Josh Williams one plausible explanation. #foodmanufacturing #foodsafety #greatvalue #foodscience #marshmallows </title>
@@ -51,5 +43,13 @@
     <content>#stitch with @Cheeses3xdeath When a food shows heavy mold growth, "root" threads have invaded it deeply. In dangerous molds, poisonous substances are often contained in and around these threads. In some cases, toxins may have spread throughout the food. More info here: https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/molds-food-are-they-dangerous #cheese #moldycheese #foodsafety #foodscience </content>
     <link href="https://www.tiktok.com/@foodsciencebabe/video/7244657033264237866" rel="alternate"/>
     <published>2023-06-14T21:29:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@foodsciencebabe/video/7245279367218220330</id>
+    <title>Replying to @J G   high moisture, soft, porous foods can be contaminated below the surface, and may have harmful bacteria growing along with the mold, so best to discard if any part has mold. Mold on lower moisture, firm fruits and veggies, hard cheeses, </title>
+    <updated>2023-06-16T13:44:34+00:00</updated>
+    <content>Replying to @J G   high moisture, soft, porous foods can be contaminated below the surface, and may have harmful bacteria growing along with the mold, so best to discard if any part has mold. Mold on lower moisture, firm fruits and veggies, hard cheeses, hard salami and dry cured country hams can be cut at least 1 inch around and below the mold spot. Be sure not to touch the knife to the mold. #foodsafety #moldyfood #microbiology #foodscience #greenscreen </content>
+    <link href="https://www.tiktok.com/@foodsciencebabe/video/7245279367218220330" rel="alternate"/>
+    <published>2023-06-16T13:44:34+00:00</published>
   </entry>
 </feed>
