@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@sonia_barbie</id>
   <title>@sonia_barbie | TikTok</title>
-  <updated>2023-06-15T02:33:38+00:00</updated>
+  <updated>2023-06-15T23:29:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @sonia_barbie</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@sonia_barbie/video/7242060879217315114</id>
-    <title>[no title]</title>
-    <updated>2023-06-07T21:35:04+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@sonia_barbie/video/7242060879217315114" rel="alternate"/>
-    <published>2023-06-07T21:35:04+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@sonia_barbie/video/7242317432734502186</id>
-    <title>Going crazy ❤️❤️❤️@Justina Valentine </title>
-    <updated>2023-06-08T14:10:41+00:00</updated>
-    <content>Going crazy ❤️❤️❤️@Justina Valentine </content>
-    <link href="https://www.tiktok.com/@sonia_barbie/video/7242317432734502186" rel="alternate"/>
-    <published>2023-06-08T14:10:41+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@sonia_barbie/video/7242327553338314026</id>
-    <title>We going crazy!!!! Out here with the Queen @Justina Valentine </title>
-    <updated>2023-06-08T14:50:01+00:00</updated>
-    <content>We going crazy!!!! Out here with the Queen @Justina Valentine </content>
-    <link href="https://www.tiktok.com/@sonia_barbie/video/7242327553338314026" rel="alternate"/>
-    <published>2023-06-08T14:50:01+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@sonia_barbie/video/7243050994957831466</id>
     <title>[no title]</title>
@@ -51,5 +27,29 @@
     <content>Dress @Shop Troy Massa </content>
     <link href="https://www.tiktok.com/@sonia_barbie/video/7244735394992885034" rel="alternate"/>
     <published>2023-06-15T02:33:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@sonia_barbie/video/7244909682605935918</id>
+    <title>[no title]</title>
+    <updated>2023-06-15T13:50:26+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@sonia_barbie/video/7244909682605935918" rel="alternate"/>
+    <published>2023-06-15T13:50:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@sonia_barbie/video/7244933179260439854</id>
+    <title>#onthisday </title>
+    <updated>2023-06-15T15:21:11+00:00</updated>
+    <content>#onthisday </content>
+    <link href="https://www.tiktok.com/@sonia_barbie/video/7244933179260439854" rel="alternate"/>
+    <published>2023-06-15T15:21:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@sonia_barbie/video/7245058971000917294</id>
+    <title>be the reason why people believe in pure hearts, good vibes and kind souls.🥰🙌🏿👸🏾 . . Outfit @@Shop Troy Massa </title>
+    <updated>2023-06-15T23:29:20+00:00</updated>
+    <content>be the reason why people believe in pure hearts, good vibes and kind souls.🥰🙌🏿👸🏾 . . Outfit @@Shop Troy Massa </content>
+    <link href="https://www.tiktok.com/@sonia_barbie/video/7245058971000917294" rel="alternate"/>
+    <published>2023-06-15T23:29:20+00:00</published>
   </entry>
 </feed>
