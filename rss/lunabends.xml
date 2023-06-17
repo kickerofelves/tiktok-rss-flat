@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@lunabends</id>
   <title>@lunabends | TikTok</title>
-  <updated>2023-06-16T18:26:32+00:00</updated>
+  <updated>2023-06-17T19:35:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @lunabends</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@lunabends/video/7244897595678526762</id>
-    <title>Miss spinning on my pole 🥲 #pole #dancer #poledancer #spinpole #poletricks </title>
-    <updated>2023-06-15T13:03:23+00:00</updated>
-    <content>Miss spinning on my pole 🥲 #pole #dancer #poledancer #spinpole #poletricks </content>
-    <link href="https://www.tiktok.com/@lunabends/video/7244897595678526762" rel="alternate"/>
-    <published>2023-06-15T13:03:23+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@lunabends/video/7244992965494541611</id>
-    <title>Bendy pole things  #pole #poledancer #poletricks #flexible #stronggirl </title>
-    <updated>2023-06-15T19:13:10+00:00</updated>
-    <content>Bendy pole things  #pole #poledancer #poletricks #flexible #stronggirl </content>
-    <link href="https://www.tiktok.com/@lunabends/video/7244992965494541611" rel="alternate"/>
-    <published>2023-06-15T19:13:10+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@lunabends/video/7245131261323283758</id>
-    <title>Flexible activities 🤓 #flexible #yoga #yogi #stretch #poletricks </title>
-    <updated>2023-06-16T04:09:45+00:00</updated>
-    <content>Flexible activities 🤓 #flexible #yoga #yogi #stretch #poletricks </content>
-    <link href="https://www.tiktok.com/@lunabends/video/7245131261323283758" rel="alternate"/>
-    <published>2023-06-16T04:09:45+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@lunabends/video/7245288361378975022</id>
     <title>🫡 #pole #poletricks #poledancer #flexible #dancer #stronggirl </title>
@@ -51,5 +27,29 @@
     <content>Time for some new pleasers 🤭 #pole #poletricks #poledance #poledancer #spinpole #stronggirl </content>
     <link href="https://www.tiktok.com/@lunabends/video/7245352058482871598" rel="alternate"/>
     <published>2023-06-16T18:26:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lunabends/video/7245647135541185835</id>
+    <title>Pole fun last night 🤓 #pole #poletricks #spinpole #poledancer #stronggirl #gymtok #dancer </title>
+    <updated>2023-06-17T13:31:59+00:00</updated>
+    <content>Pole fun last night 🤓 #pole #poletricks #spinpole #poledancer #stronggirl #gymtok #dancer </content>
+    <link href="https://www.tiktok.com/@lunabends/video/7245647135541185835" rel="alternate"/>
+    <published>2023-06-17T13:31:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lunabends/video/7245699200456068398</id>
+    <title>How's my arch ? 🧐  #yogi #yoga #flexible #puppypose #downdog #stretching </title>
+    <updated>2023-06-17T16:53:46+00:00</updated>
+    <content>How's my arch ? 🧐  #yogi #yoga #flexible #puppypose #downdog #stretching </content>
+    <link href="https://www.tiktok.com/@lunabends/video/7245699200456068398" rel="alternate"/>
+    <published>2023-06-17T16:53:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lunabends/video/7245740852717423915</id>
+    <title>🤭 leg extensions  #yogi #yoga #flexible #stretching #splits </title>
+    <updated>2023-06-17T19:35:20+00:00</updated>
+    <content>🤭 leg extensions  #yogi #yoga #flexible #stretching #splits </content>
+    <link href="https://www.tiktok.com/@lunabends/video/7245740852717423915" rel="alternate"/>
+    <published>2023-06-17T19:35:20+00:00</published>
   </entry>
 </feed>
