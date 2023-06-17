@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@shotzbydrip</id>
   <title>@shotzbydrip | TikTok</title>
-  <updated>2023-05-30T02:48:10+00:00</updated>
+  <updated>2023-06-16T23:40:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @shotzbydrip</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@shotzbydrip/video/7202986472570408234</id>
-    <title>That red hair🥹❤️‍🔥 @daa.lisch  #explorepage #fyp #explore #viral </title>
-    <updated>2023-02-22T14:26:29+00:00</updated>
-    <content>That red hair🥹❤️‍🔥 @daa.lisch  #explorepage #fyp #explore #viral </content>
-    <link href="https://www.tiktok.com/@shotzbydrip/video/7202986472570408234" rel="alternate"/>
-    <published>2023-02-22T14:26:29+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@shotzbydrip/video/7210122453245283630</id>
     <title>@sexyyred314 always droppin🔥😮‍💨 #sexyyred #fyp #explore </title>
@@ -51,5 +43,13 @@
     <content>Bounce with @Ladii Rose 🇭🇹 😮‍💨</content>
     <link href="https://www.tiktok.com/@shotzbydrip/video/7238801783911386410" rel="alternate"/>
     <published>2023-05-30T02:48:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@shotzbydrip/video/7245432868653092142</id>
+    <title>Thirstyy😮‍💨? </title>
+    <updated>2023-06-16T23:40:14+00:00</updated>
+    <content>Thirstyy😮‍💨? </content>
+    <link href="https://www.tiktok.com/@shotzbydrip/video/7245432868653092142" rel="alternate"/>
+    <published>2023-06-16T23:40:14+00:00</published>
   </entry>
 </feed>
