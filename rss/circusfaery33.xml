@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@circusfaery33</id>
   <title>@circusfaery33 | TikTok</title>
-  <updated>2023-06-17T01:46:35+00:00</updated>
+  <updated>2023-06-18T01:59:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @circusfaery33</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7245025242639469870</id>
-    <title>Replying to @gdk4p4L   Either systemic racism and ✉️ saviorship both don't exist or they do. You can't have it both ways.</title>
-    <updated>2023-06-15T21:18:25+00:00</updated>
-    <content>Replying to @gdk4p4L   Either systemic racism and ✉️ saviorship both don't exist or they do. You can't have it both ways.</content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7245025242639469870" rel="alternate"/>
-    <published>2023-06-15T21:18:25+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7245355944685636907</id>
-    <title>Replying to @gdk4p4L   Actually--this is the most botched attempt to apply the model minority myth I've ever seen. You debunked it yourself. Please read and re-read your own question until you recognize how ridiculous it is. #asianamerican #modelminority </title>
-    <updated>2023-06-16T18:41:42+00:00</updated>
-    <content>Replying to @gdk4p4L   Actually--this is the most botched attempt to apply the model minority myth I've ever seen. You debunked it yourself. Please read and re-read your own question until you recognize how ridiculous it is. #asianamerican #modelminority #antiracism #solidarity </content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7245355944685636907" rel="alternate"/>
-    <published>2023-06-16T18:41:42+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@circusfaery33/video/7245397803382443307</id>
     <title>Replying to @Darry   You're not afraid that people won't accept it. You're afraid that people will. #asianamerican #modelminority #antiracism #solidarity </title>
@@ -51,5 +35,21 @@
     <content>Replying to @gdk4p4L  Now do the same thing with Black males exonerated and learn something. (It bothers me that it's 'males' because it's dehumanizing, but such is the prison industrial complex.)</content>
     <link href="https://www.tiktok.com/@circusfaery33/video/7245465432663117102" rel="alternate"/>
     <published>2023-06-17T01:46:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7245690675923045678</id>
+    <title>Replying to @carolinecain268  You're the one supporting as president a father who objectifies his own children.</title>
+    <updated>2023-06-17T16:20:37+00:00</updated>
+    <content>Replying to @carolinecain268  You're the one supporting as president a father who objectifies his own children.</content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7245690675923045678" rel="alternate"/>
+    <published>2023-06-17T16:20:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7245839765902380334</id>
+    <title>I don't juggle much these days, so I'm super rusty. But I still enjoy it from time to time.#worldjugglingday #circuseveryday #jugglingisfun </title>
+    <updated>2023-06-18T01:59:10+00:00</updated>
+    <content>I don't juggle much these days, so I'm super rusty. But I still enjoy it from time to time.#worldjugglingday #circuseveryday #jugglingisfun </content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7245839765902380334" rel="alternate"/>
+    <published>2023-06-18T01:59:10+00:00</published>
   </entry>
 </feed>
