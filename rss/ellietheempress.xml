@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://www.tiktok.com/@ellietheempress</id>
+  <title>@ellietheempress | TikTok</title>
+  <updated>2023-06-19T18:44:27+00:00</updated>
+  <author>
+    <name>Conor ONeill</name>
+    <email>conor@conoroneill.com</email>
+  </author>
+  <link href="https://www.tiktok.com/@ellietheempress" rel="alternate"/>
+  <link href="https://kickerofelves.github.io/tiktok-rss-flat/rss/ellietheempress.xml" rel="self"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
+  <subtitle>Latest TikToks from @ellietheempress</subtitle>
+  <entry>
+    <id>https://www.tiktok.com/@ellietheempress/video/7245990993927949610</id>
+    <title>#foryou #fyp </title>
+    <updated>2023-06-18T11:46:57+00:00</updated>
+    <content>#foryou #fyp </content>
+    <link href="https://www.tiktok.com/@ellietheempress/video/7245990993927949610" rel="alternate"/>
+    <published>2023-06-18T11:46:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ellietheempress/video/7246024587740450094</id>
+    <title>Happy Fathers Day! #fathersday #fyp #foryou </title>
+    <updated>2023-06-18T13:56:36+00:00</updated>
+    <content>Happy Fathers Day! #fathersday #fyp #foryou </content>
+    <link href="https://www.tiktok.com/@ellietheempress/video/7246024587740450094" rel="alternate"/>
+    <published>2023-06-18T13:56:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ellietheempress/video/7246137861064363306</id>
+    <title>#fyp #foryou #viral </title>
+    <updated>2023-06-18T21:15:53+00:00</updated>
+    <content>#fyp #foryou #viral </content>
+    <link href="https://www.tiktok.com/@ellietheempress/video/7246137861064363306" rel="alternate"/>
+    <published>2023-06-18T21:15:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ellietheempress/video/7246368055482436910</id>
+    <title>#foryou #fyp #viral #foryoupage </title>
+    <updated>2023-06-19T12:09:57+00:00</updated>
+    <content>#foryou #fyp #viral #foryoupage </content>
+    <link href="https://www.tiktok.com/@ellietheempress/video/7246368055482436910" rel="alternate"/>
+    <published>2023-06-19T12:09:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ellietheempress/video/7246469899587996971</id>
+    <title>#foryou #viral #fyp </title>
+    <updated>2023-06-19T18:44:27+00:00</updated>
+    <content>#foryou #viral #fyp </content>
+    <link href="https://www.tiktok.com/@ellietheempress/video/7246469899587996971" rel="alternate"/>
+    <published>2023-06-19T18:44:27+00:00</published>
+  </entry>
+</feed>
