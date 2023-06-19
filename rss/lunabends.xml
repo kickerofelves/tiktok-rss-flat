@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@lunabends</id>
   <title>@lunabends | TikTok</title>
-  <updated>2023-06-18T21:34:47+00:00</updated>
+  <updated>2023-06-18T13:31:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @lunabends</subtitle>
+  <entry>
+    <id>https://www.tiktok.com/@lunabends/video/7245352058482871598</id>
+    <title>Time for some new pleasers 🤭 #pole #poletricks #poledance #poledancer #spinpole #stronggirl </title>
+    <updated>2023-06-16T18:26:32+00:00</updated>
+    <content>Time for some new pleasers 🤭 #pole #poletricks #poledance #poledancer #spinpole #stronggirl </content>
+    <link href="https://www.tiktok.com/@lunabends/video/7245352058482871598" rel="alternate"/>
+    <published>2023-06-16T18:26:32+00:00</published>
+  </entry>
   <entry>
     <id>https://www.tiktok.com/@lunabends/video/7245647135541185835</id>
     <title>Pole fun last night 🤓 #pole #poletricks #spinpole #poledancer #stronggirl #gymtok #dancer </title>
@@ -43,13 +51,5 @@
     <content>Magical beach vibes with @Tdohfit ✨  #beach #beachvibes #summer2023 #bikini </content>
     <link href="https://www.tiktok.com/@lunabends/video/7246018197839760686" rel="alternate"/>
     <published>2023-06-18T13:31:41+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@lunabends/video/7246142701308087595</id>
-    <title>Pole brusies me up 😅🥴 #pole #poledancer #dancer #fishnets #sheinfit </title>
-    <updated>2023-06-18T21:34:47+00:00</updated>
-    <content>Pole brusies me up 😅🥴 #pole #poledancer #dancer #fishnets #sheinfit </content>
-    <link href="https://www.tiktok.com/@lunabends/video/7246142701308087595" rel="alternate"/>
-    <published>2023-06-18T21:34:47+00:00</published>
   </entry>
 </feed>
