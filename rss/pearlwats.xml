@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://www.tiktok.com/@pearlwats</id>
+  <title>@pearlwats | TikTok</title>
+  <updated>2023-06-15T13:31:27+00:00</updated>
+  <author>
+    <name>Conor ONeill</name>
+    <email>conor@conoroneill.com</email>
+  </author>
+  <link href="https://www.tiktok.com/@pearlwats" rel="alternate"/>
+  <link href="https://kickerofelves.github.io/tiktok-rss-flat/rss/pearlwats.xml" rel="self"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
+  <subtitle>Latest TikToks from @pearlwats</subtitle>
+  <entry>
+    <id>https://www.tiktok.com/@pearlwats/video/7236804188347567365</id>
+    <title>My foundation finish so i borrow my friend own. Make una no vex abeg🤭😂😂</title>
+    <updated>2023-05-24T17:36:20+00:00</updated>
+    <content>My foundation finish so i borrow my friend own. Make una no vex abeg🤭😂😂</content>
+    <link href="https://www.tiktok.com/@pearlwats/video/7236804188347567365" rel="alternate"/>
+    <published>2023-05-24T17:36:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@pearlwats/video/7237947812367846661</id>
+    <title>[no title]</title>
+    <updated>2023-05-27T19:34:11+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@pearlwats/video/7237947812367846661" rel="alternate"/>
+    <published>2023-05-27T19:34:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@pearlwats/video/7240477863139495173</id>
+    <title>It is what it is! 😂</title>
+    <updated>2023-06-03T15:12:05+00:00</updated>
+    <content>It is what it is! 😂</content>
+    <link href="https://www.tiktok.com/@pearlwats/video/7240477863139495173" rel="alternate"/>
+    <published>2023-06-03T15:12:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@pearlwats/video/7240529599405362438</id>
+    <title>Replying to @Molly😊 Now both of you can REST in peace!!  @kiwo .jr Retards </title>
+    <updated>2023-06-03T18:32:51+00:00</updated>
+    <content>Replying to @Molly😊 Now both of you can REST in peace!!  @kiwo .jr Retards </content>
+    <link href="https://www.tiktok.com/@pearlwats/video/7240529599405362438" rel="alternate"/>
+    <published>2023-06-03T18:32:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@pearlwats/video/7244904956610792709</id>
+    <title>#CapCut </title>
+    <updated>2023-06-15T13:31:27+00:00</updated>
+    <content>#CapCut </content>
+    <link href="https://www.tiktok.com/@pearlwats/video/7244904956610792709" rel="alternate"/>
+    <published>2023-06-15T13:31:27+00:00</published>
+  </entry>
+</feed>
