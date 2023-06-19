@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://www.tiktok.com/@sincerelypisces</id>
+  <title>@sincerelypisces | TikTok</title>
+  <updated>2023-06-18T15:19:01+00:00</updated>
+  <author>
+    <name>Conor ONeill</name>
+    <email>conor@conoroneill.com</email>
+  </author>
+  <link href="https://www.tiktok.com/@sincerelypisces" rel="alternate"/>
+  <link href="https://kickerofelves.github.io/tiktok-rss-flat/rss/sincerelypisces.xml" rel="self"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
+  <subtitle>Latest TikToks from @sincerelypisces</subtitle>
+  <entry>
+    <id>https://www.tiktok.com/@sincerelypisces/video/7242789527251635499</id>
+    <title>almost missed my train for this </title>
+    <updated>2023-06-09T20:42:36+00:00</updated>
+    <content>almost missed my train for this </content>
+    <link href="https://www.tiktok.com/@sincerelypisces/video/7242789527251635499" rel="alternate"/>
+    <published>2023-06-09T20:42:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@sincerelypisces/video/7243180221480914222</id>
+    <title>my phone almost fell into the tracks😅</title>
+    <updated>2023-06-10T21:58:45+00:00</updated>
+    <content>my phone almost fell into the tracks😅</content>
+    <link href="https://www.tiktok.com/@sincerelypisces/video/7243180221480914222" rel="alternate"/>
+    <published>2023-06-10T21:58:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@sincerelypisces/video/7243464226042318122</id>
+    <title>zoes dad did not fully understand the assignment but a for effort </title>
+    <updated>2023-06-11T16:20:56+00:00</updated>
+    <content>zoes dad did not fully understand the assignment but a for effort </content>
+    <link href="https://www.tiktok.com/@sincerelypisces/video/7243464226042318122" rel="alternate"/>
+    <published>2023-06-11T16:20:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@sincerelypisces/video/7246033759940742446</id>
+    <title>🤍</title>
+    <updated>2023-06-18T14:32:06+00:00</updated>
+    <content>🤍</content>
+    <link href="https://www.tiktok.com/@sincerelypisces/video/7246033759940742446" rel="alternate"/>
+    <published>2023-06-18T14:32:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@sincerelypisces/video/7246045848096918830</id>
+    <title>girlfriend/boyfriend applications open</title>
+    <updated>2023-06-18T15:19:01+00:00</updated>
+    <content>girlfriend/boyfriend applications open</content>
+    <link href="https://www.tiktok.com/@sincerelypisces/video/7246045848096918830" rel="alternate"/>
+    <published>2023-06-18T15:19:01+00:00</published>
+  </entry>
+</feed>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://www.tiktok.com/@onlyemmmy</id>
+  <title>@onlyemmmy | TikTok</title>
+  <updated>2023-04-15T02:35:16+00:00</updated>
+  <author>
+    <name>Conor ONeill</name>
+    <email>conor@conoroneill.com</email>
+  </author>
+  <link href="https://www.tiktok.com/@onlyemmmy" rel="alternate"/>
+  <link href="https://kickerofelves.github.io/tiktok-rss-flat/rss/onlyemmmy.xml" rel="self"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
+  <subtitle>Latest TikToks from @onlyemmmy</subtitle>
+  <entry>
+    <id>https://www.tiktok.com/@onlyemmmy/video/7220204808546864430</id>
+    <title>Wyd? / just a bikini im an adult</title>
+    <updated>2023-04-10T00:02:23+00:00</updated>
+    <content>Wyd? / just a bikini im an adult</content>
+    <link href="https://www.tiktok.com/@onlyemmmy/video/7220204808546864430" rel="alternate"/>
+    <published>2023-04-10T00:02:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@onlyemmmy/video/7221318067941346606</id>
+    <title>Hiii // its just a bikini and im an adult </title>
+    <updated>2023-04-13T00:02:24+00:00</updated>
+    <content>Hiii // its just a bikini and im an adult </content>
+    <link href="https://www.tiktok.com/@onlyemmmy/video/7221318067941346606" rel="alternate"/>
+    <published>2023-04-13T00:02:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@onlyemmmy/video/7221318170458639662</id>
+    <title>Happy wednesday 🐣 // im 20</title>
+    <updated>2023-04-13T00:02:47+00:00</updated>
+    <content>Happy wednesday 🐣 // im 20</content>
+    <link href="https://www.tiktok.com/@onlyemmmy/video/7221318170458639662" rel="alternate"/>
+    <published>2023-04-13T00:02:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@onlyemmmy/video/7222099564247944490</id>
+    <title>Hi me wearing jeans </title>
+    <updated>2023-04-15T02:35:02+00:00</updated>
+    <content>Hi me wearing jeans </content>
+    <link href="https://www.tiktok.com/@onlyemmmy/video/7222099564247944490" rel="alternate"/>
+    <published>2023-04-15T02:35:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@onlyemmmy/video/7222099635718917418</id>
+    <title>What did you do today </title>
+    <updated>2023-04-15T02:35:16+00:00</updated>
+    <content>What did you do today </content>
+    <link href="https://www.tiktok.com/@onlyemmmy/video/7222099635718917418" rel="alternate"/>
+    <published>2023-04-15T02:35:16+00:00</published>
+  </entry>
+</feed>
