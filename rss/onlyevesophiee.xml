@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@onlyevesophiee</id>
   <title>@onlyevesophiee | TikTok</title>
-  <updated>2023-06-18T23:47:38+00:00</updated>
+  <updated>2023-06-19T22:21:37+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @onlyevesophiee</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@onlyevesophiee/video/7244929626605096219</id>
-    <title>[no title]</title>
-    <updated>2023-06-15T15:07:17+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@onlyevesophiee/video/7244929626605096219" rel="alternate"/>
-    <published>2023-06-15T15:07:17+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@onlyevesophiee/video/7245408821689011482</id>
     <title>Did my skirt fail the demon challange ? 😅</title>
@@ -51,5 +43,13 @@
     <content>Not the tag on my shirt 😩😩</content>
     <link href="https://www.tiktok.com/@onlyevesophiee/video/7246176861951216923" rel="alternate"/>
     <published>2023-06-18T23:47:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@onlyevesophiee/video/7246525863477480731</id>
+    <title>I make it clap like he got the right answer</title>
+    <updated>2023-06-19T22:21:37+00:00</updated>
+    <content>I make it clap like he got the right answer</content>
+    <link href="https://www.tiktok.com/@onlyevesophiee/video/7246525863477480731" rel="alternate"/>
+    <published>2023-06-19T22:21:37+00:00</published>
   </entry>
 </feed>
