@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@sonia_barbie</id>
   <title>@sonia_barbie | TikTok</title>
-  <updated>2023-06-17T17:14:13+00:00</updated>
+  <updated>2023-06-19T21:16:21+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @sonia_barbie</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@sonia_barbie/video/7244909682605935918</id>
-    <title>[no title]</title>
-    <updated>2023-06-15T13:50:26+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@sonia_barbie/video/7244909682605935918" rel="alternate"/>
-    <published>2023-06-15T13:50:26+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@sonia_barbie/video/7244933179260439854</id>
-    <title>#onthisday </title>
-    <updated>2023-06-15T15:21:11+00:00</updated>
-    <content>#onthisday </content>
-    <link href="https://www.tiktok.com/@sonia_barbie/video/7244933179260439854" rel="alternate"/>
-    <published>2023-06-15T15:21:11+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@sonia_barbie/video/7245058971000917294</id>
     <title>be the reason why people believe in pure hearts, good vibes and kind souls.🥰🙌🏿👸🏾 . . Outfit @@Shop Troy Massa </title>
@@ -51,5 +35,21 @@
     <content>Serving summer sorbet 🍧 . Waist beads from @@Sia Jas waistbeadplug ❤️</content>
     <link href="https://www.tiktok.com/@sonia_barbie/video/7245704475120373038" rel="alternate"/>
     <published>2023-06-17T17:14:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@sonia_barbie/video/7246477189485546798</id>
+    <title>Dress from @Shop Troy Massa accessories @Trufacebygrace </title>
+    <updated>2023-06-19T19:12:41+00:00</updated>
+    <content>Dress from @Shop Troy Massa accessories @Trufacebygrace </content>
+    <link href="https://www.tiktok.com/@sonia_barbie/video/7246477189485546798" rel="alternate"/>
+    <published>2023-06-19T19:12:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@sonia_barbie/video/7246509068083285290</id>
+    <title>Happy Juneteenth . 👸🏾 Accessories @Trufacebygrace </title>
+    <updated>2023-06-19T21:16:21+00:00</updated>
+    <content>Happy Juneteenth . 👸🏾 Accessories @Trufacebygrace </content>
+    <link href="https://www.tiktok.com/@sonia_barbie/video/7246509068083285290" rel="alternate"/>
+    <published>2023-06-19T21:16:21+00:00</published>
   </entry>
 </feed>
