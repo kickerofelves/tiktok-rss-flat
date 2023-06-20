@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@foodsciencebabe</id>
   <title>@foodsciencebabe | TikTok</title>
-  <updated>2023-06-17T18:38:22+00:00</updated>
+  <updated>2023-06-19T19:49:58+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @foodsciencebabe</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@foodsciencebabe/video/7242417379236449579</id>
-    <title>On April 23, 2021, the Food Allergy Safety, Treatment, Education, and Research (FASTER) Act was signed into law, declaring sesame as the 9th major food allergen recognized by the United States. The change was effective on January 1, 2023. All FDA requirem</title>
-    <updated>2023-06-08T20:38:28+00:00</updated>
-    <content>On April 23, 2021, the Food Allergy Safety, Treatment, Education, and Research (FASTER) Act was signed into law, declaring sesame as the 9th major food allergen recognized by the United States. The change was effective on January 1, 2023. All FDA requirements applicable to major food allergens, including labeling and manufacturing requirements, apply to sesame as of January 1, 2023. Products already in interstate commerce—for example, products that are on retail shelves, before January 1, 2023—do not need to be removed from the marketplace or relabeled. So, consumers should be aware that some products may not carry allergen labeling for sesame right away. During the transition period, the FDA recommends consumers check with the manufacturer or distributor identified on the food product if not sure whether a food product contains, or potentially contains, sesame. #foodallergy #foodsafety #foodlabels #foodscience </content>
-    <link href="https://www.tiktok.com/@foodsciencebabe/video/7242417379236449579" rel="alternate"/>
-    <published>2023-06-08T20:38:28+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@foodsciencebabe/video/7244627851855678766</id>
     <title>Replying to @Josh Williams  While allergen advisory statements are often used, consumers should be aware that these statements are voluntary and there is no uniform rule that governs what they mean. Thus, a “produced in a facility” statement is not necess</title>
@@ -51,5 +43,13 @@
     <content>🚩🚩🚩</content>
     <link href="https://www.tiktok.com/@foodsciencebabe/video/7245726182296046891" rel="alternate"/>
     <published>2023-06-17T18:38:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@foodsciencebabe/video/7246486783372954923</id>
+    <title>To think this could have been avoided with a 2 second google search 🤦🏼‍♀️ #whatistablesalt #salt #celticsalt #himalayansalt #foodscience #chemistry </title>
+    <updated>2023-06-19T19:49:58+00:00</updated>
+    <content>To think this could have been avoided with a 2 second google search 🤦🏼‍♀️ #whatistablesalt #salt #celticsalt #himalayansalt #foodscience #chemistry </content>
+    <link href="https://www.tiktok.com/@foodsciencebabe/video/7246486783372954923" rel="alternate"/>
+    <published>2023-06-19T19:49:58+00:00</published>
   </entry>
 </feed>
