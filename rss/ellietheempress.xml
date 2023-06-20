@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ellietheempress</id>
   <title>@ellietheempress | TikTok</title>
-  <updated>2023-06-19T18:44:27+00:00</updated>
+  <updated>2023-06-20T19:25:40+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ellietheempress</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@ellietheempress/video/7245990993927949610</id>
-    <title>#foryou #fyp </title>
-    <updated>2023-06-18T11:46:57+00:00</updated>
-    <content>#foryou #fyp </content>
-    <link href="https://www.tiktok.com/@ellietheempress/video/7245990993927949610" rel="alternate"/>
-    <published>2023-06-18T11:46:57+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@ellietheempress/video/7246024587740450094</id>
-    <title>Happy Fathers Day! #fathersday #fyp #foryou </title>
-    <updated>2023-06-18T13:56:36+00:00</updated>
-    <content>Happy Fathers Day! #fathersday #fyp #foryou </content>
-    <link href="https://www.tiktok.com/@ellietheempress/video/7246024587740450094" rel="alternate"/>
-    <published>2023-06-18T13:56:36+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@ellietheempress/video/7246137861064363306</id>
     <title>#fyp #foryou #viral </title>
@@ -51,5 +35,21 @@
     <content>#foryou #viral #fyp </content>
     <link href="https://www.tiktok.com/@ellietheempress/video/7246469899587996971" rel="alternate"/>
     <published>2023-06-19T18:44:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ellietheempress/video/7246723502701661483</id>
+    <title>@MsKayDee </title>
+    <updated>2023-06-20T11:09:19+00:00</updated>
+    <content>@MsKayDee </content>
+    <link href="https://www.tiktok.com/@ellietheempress/video/7246723502701661483" rel="alternate"/>
+    <published>2023-06-20T11:09:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ellietheempress/video/7246851607739075883</id>
+    <title>@MsKayDee </title>
+    <updated>2023-06-20T19:25:40+00:00</updated>
+    <content>@MsKayDee </content>
+    <link href="https://www.tiktok.com/@ellietheempress/video/7246851607739075883" rel="alternate"/>
+    <published>2023-06-20T19:25:40+00:00</published>
   </entry>
 </feed>
