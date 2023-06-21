@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@izzg__</id>
   <title>@izzg__ | TikTok</title>
-  <updated>2023-06-20T16:55:15+00:00</updated>
+  <updated>2023-06-21T17:33:15+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @izzg__</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@izzg__/video/7246432780417043754</id>
-    <title>[no title]</title>
-    <updated>2023-06-19T16:20:27+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@izzg__/video/7246432780417043754" rel="alternate"/>
-    <published>2023-06-19T16:20:27+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@izzg__/video/7246437338811764010</id>
-    <title>[no title]</title>
-    <updated>2023-06-19T16:38:05+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@izzg__/video/7246437338811764010" rel="alternate"/>
-    <published>2023-06-19T16:38:05+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@izzg__/video/7246800340828589358</id>
-    <title>[no title]</title>
-    <updated>2023-06-20T16:06:52+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@izzg__/video/7246800340828589358" rel="alternate"/>
-    <published>2023-06-20T16:06:52+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@izzg__/video/7246802397710847278</id>
     <title>[no title]</title>
@@ -51,5 +27,29 @@
     <content>[no description]</content>
     <link href="https://www.tiktok.com/@izzg__/video/7246812837341957419" rel="alternate"/>
     <published>2023-06-20T16:55:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@izzg__/video/7247185479043435819</id>
+    <title>#stitch with @anna cohen  not my usual content but it needed to be said. this is absolutely ridiculous and these women should be embarrassed.</title>
+    <updated>2023-06-21T17:01:08+00:00</updated>
+    <content>#stitch with @anna cohen  not my usual content but it needed to be said. this is absolutely ridiculous and these women should be embarrassed.</content>
+    <link href="https://www.tiktok.com/@izzg__/video/7247185479043435819" rel="alternate"/>
+    <published>2023-06-21T17:01:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@izzg__/video/7247190724804873514</id>
+    <title>[no title]</title>
+    <updated>2023-06-21T17:21:27+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@izzg__/video/7247190724804873514" rel="alternate"/>
+    <published>2023-06-21T17:21:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@izzg__/video/7247193746754866475</id>
+    <title>[no title]</title>
+    <updated>2023-06-21T17:33:15+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@izzg__/video/7247193746754866475" rel="alternate"/>
+    <published>2023-06-21T17:33:15+00:00</published>
   </entry>
 </feed>

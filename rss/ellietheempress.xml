@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ellietheempress</id>
   <title>@ellietheempress | TikTok</title>
-  <updated>2023-06-20T19:25:40+00:00</updated>
+  <updated>2023-06-21T15:57:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ellietheempress</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@ellietheempress/video/7246137861064363306</id>
-    <title>#fyp #foryou #viral </title>
-    <updated>2023-06-18T21:15:53+00:00</updated>
-    <content>#fyp #foryou #viral </content>
-    <link href="https://www.tiktok.com/@ellietheempress/video/7246137861064363306" rel="alternate"/>
-    <published>2023-06-18T21:15:53+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@ellietheempress/video/7246368055482436910</id>
     <title>#foryou #fyp #viral #foryoupage </title>
@@ -51,5 +43,13 @@
     <content>@MsKayDee </content>
     <link href="https://www.tiktok.com/@ellietheempress/video/7246851607739075883" rel="alternate"/>
     <published>2023-06-20T19:25:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ellietheempress/video/7247169076756368683</id>
+    <title>I hope your day is going well 🥰 #fyp #foryou </title>
+    <updated>2023-06-21T15:57:33+00:00</updated>
+    <content>I hope your day is going well 🥰 #fyp #foryou </content>
+    <link href="https://www.tiktok.com/@ellietheempress/video/7247169076756368683" rel="alternate"/>
+    <published>2023-06-21T15:57:33+00:00</published>
   </entry>
 </feed>
