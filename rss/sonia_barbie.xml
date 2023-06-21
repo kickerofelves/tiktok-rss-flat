@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@sonia_barbie</id>
   <title>@sonia_barbie | TikTok</title>
-  <updated>2023-06-19T21:16:21+00:00</updated>
+  <updated>2023-06-20T21:09:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @sonia_barbie</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@sonia_barbie/video/7245058971000917294</id>
-    <title>be the reason why people believe in pure hearts, good vibes and kind souls.🥰🙌🏿👸🏾 . . Outfit @@Shop Troy Massa </title>
-    <updated>2023-06-15T23:29:20+00:00</updated>
-    <content>be the reason why people believe in pure hearts, good vibes and kind souls.🥰🙌🏿👸🏾 . . Outfit @@Shop Troy Massa </content>
-    <link href="https://www.tiktok.com/@sonia_barbie/video/7245058971000917294" rel="alternate"/>
-    <published>2023-06-15T23:29:20+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@sonia_barbie/video/7245294364153597230</id>
     <title>Bombastic side eye! 😂🙄 Dresses: @Shop Troy Massa   Accessories: @Trufacebygrace </title>
@@ -51,5 +43,13 @@
     <content>Happy Juneteenth . 👸🏾 Accessories @Trufacebygrace </content>
     <link href="https://www.tiktok.com/@sonia_barbie/video/7246509068083285290" rel="alternate"/>
     <published>2023-06-19T21:16:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@sonia_barbie/video/7246878502056693035</id>
+    <title>@Sia Jas waistbeads 💕</title>
+    <updated>2023-06-20T21:09:59+00:00</updated>
+    <content>@Sia Jas waistbeads 💕</content>
+    <link href="https://www.tiktok.com/@sonia_barbie/video/7246878502056693035" rel="alternate"/>
+    <published>2023-06-20T21:09:59+00:00</published>
   </entry>
 </feed>
