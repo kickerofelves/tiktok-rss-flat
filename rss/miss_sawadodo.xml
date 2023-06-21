@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://www.tiktok.com/@miss_sawadodo</id>
+  <title>@miss_sawadodo | TikTok</title>
+  <updated>2023-05-18T18:14:26+00:00</updated>
+  <author>
+    <name>Conor ONeill</name>
+    <email>conor@conoroneill.com</email>
+  </author>
+  <link href="https://www.tiktok.com/@miss_sawadodo" rel="alternate"/>
+  <link href="https://kickerofelves.github.io/tiktok-rss-flat/rss/miss_sawadodo.xml" rel="self"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
+  <subtitle>Latest TikToks from @miss_sawadodo</subtitle>
+  <entry>
+    <id>https://www.tiktok.com/@miss_sawadodo/video/7229356708911533318</id>
+    <title>[no title]</title>
+    <updated>2023-05-04T15:56:20+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@miss_sawadodo/video/7229356708911533318" rel="alternate"/>
+    <published>2023-05-04T15:56:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@miss_sawadodo/video/7229359396667657478</id>
+    <title>[no title]</title>
+    <updated>2023-05-04T16:06:45+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@miss_sawadodo/video/7229359396667657478" rel="alternate"/>
+    <published>2023-05-04T16:06:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@miss_sawadodo/video/7229361112502881542</id>
+    <title>[no title]</title>
+    <updated>2023-05-04T16:13:24+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@miss_sawadodo/video/7229361112502881542" rel="alternate"/>
+    <published>2023-05-04T16:13:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@miss_sawadodo/video/7229396123373423877</id>
+    <title>[no title]</title>
+    <updated>2023-05-04T18:29:16+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@miss_sawadodo/video/7229396123373423877" rel="alternate"/>
+    <published>2023-05-04T18:29:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@miss_sawadodo/video/7234587490118536453</id>
+    <title>[no title]</title>
+    <updated>2023-05-18T18:14:26+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@miss_sawadodo/video/7234587490118536453" rel="alternate"/>
+    <published>2023-05-18T18:14:26+00:00</published>
+  </entry>
+</feed>
