@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jackie_852</id>
   <title>@jackie_852 | TikTok</title>
-  <updated>2023-06-17T16:32:21+00:00</updated>
+  <updated>2023-06-20T21:46:01+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @jackie_852</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@jackie_852/video/7244624383455595781</id>
-    <title>[no title]</title>
-    <updated>2023-06-14T19:22:43+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@jackie_852/video/7244624383455595781" rel="alternate"/>
-    <published>2023-06-14T19:22:43+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@jackie_852/video/7244624792060448005</id>
     <title>#foryou #usa🇺🇸 #foryoupage </title>
@@ -51,5 +43,13 @@
     <content>#foryou #usa🇺🇸 </content>
     <link href="https://www.tiktok.com/@jackie_852/video/7245693740608670981" rel="alternate"/>
     <published>2023-06-17T16:32:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@jackie_852/video/7246887819791158534</id>
+    <title>#foryou #usa🇺🇸 #foryoupage </title>
+    <updated>2023-06-20T21:46:01+00:00</updated>
+    <content>#foryou #usa🇺🇸 #foryoupage </content>
+    <link href="https://www.tiktok.com/@jackie_852/video/7246887819791158534" rel="alternate"/>
+    <published>2023-06-20T21:46:01+00:00</published>
   </entry>
 </feed>
