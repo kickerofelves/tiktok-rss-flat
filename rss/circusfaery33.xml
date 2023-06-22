@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@circusfaery33</id>
   <title>@circusfaery33 | TikTok</title>
-  <updated>2023-06-20T23:43:23+00:00</updated>
+  <updated>2023-06-21T19:25:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @circusfaery33</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7246132422314593578</id>
-    <title>Replying to @user2226760269096  In a few minutes, I will block you so you don't waste anybody else's time and energy. Or you can block me. Your choice for the next 10 minutes, then I make mine.</title>
-    <updated>2023-06-18T20:54:51+00:00</updated>
-    <content>Replying to @user2226760269096  In a few minutes, I will block you so you don't waste anybody else's time and energy. Or you can block me. Your choice for the next 10 minutes, then I make mine.</content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7246132422314593578" rel="alternate"/>
-    <published>2023-06-18T20:54:51+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7246183256888986922</id>
-    <title>Replying to @user6515460192583  If it was so small and contained, why did it take a whole civil war to end?</title>
-    <updated>2023-06-19T00:12:03+00:00</updated>
-    <content>Replying to @user6515460192583  If it was so small and contained, why did it take a whole civil war to end?</content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7246183256888986922" rel="alternate"/>
-    <published>2023-06-19T00:12:03+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@circusfaery33/video/7246470383883357483</id>
     <title>Replying to @Anne Marie  You couldm't even give it a rest for Juneteenth, could you? </title>
@@ -51,5 +35,21 @@
     <content>Replying to @robertcampbell575  Your whataboutism is showing! </content>
     <link href="https://www.tiktok.com/@circusfaery33/video/7246918037750713643" rel="alternate"/>
     <published>2023-06-20T23:43:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7247171743301815594</id>
+    <title>Replying to @whatever  We did not get here by reflecting on how historical harms dhape current systems of injustice. We got here through racism, stealing, genocide and chattel slavery. #asianamerican #modelminority #antiracism #solidarity </title>
+    <updated>2023-06-21T16:07:52+00:00</updated>
+    <content>Replying to @whatever  We did not get here by reflecting on how historical harms dhape current systems of injustice. We got here through racism, stealing, genocide and chattel slavery. #asianamerican #modelminority #antiracism #solidarity </content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7247171743301815594" rel="alternate"/>
+    <published>2023-06-21T16:07:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7247222637125061931</id>
+    <title>Replying to @pieota jello   People are capable of acknowledging and accomodating or appreciating differences. What a weird way to say that acknowledging differences can only lead to -isms for you. </title>
+    <updated>2023-06-21T19:25:20+00:00</updated>
+    <content>Replying to @pieota jello   People are capable of acknowledging and accomodating or appreciating differences. What a weird way to say that acknowledging differences can only lead to -isms for you. </content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7247222637125061931" rel="alternate"/>
+    <published>2023-06-21T19:25:20+00:00</published>
   </entry>
 </feed>
