@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@6averyabara9</id>
   <title>@6averyabara9 | TikTok</title>
-  <updated>2023-06-22T01:07:13+00:00</updated>
+  <updated>2023-06-22T16:12:46+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @6averyabara9</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@6averyabara9/video/7246770980712975659</id>
-    <title>;)</title>
-    <updated>2023-06-20T14:13:00+00:00</updated>
-    <content>;)</content>
-    <link href="https://www.tiktok.com/@6averyabara9/video/7246770980712975659" rel="alternate"/>
-    <published>2023-06-20T14:13:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@6averyabara9/video/7246835002892111147</id>
-    <title>[no title]</title>
-    <updated>2023-06-20T18:21:13+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@6averyabara9/video/7246835002892111147" rel="alternate"/>
-    <published>2023-06-20T18:21:13+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@6averyabara9/video/7246936302061358378</id>
     <title>[no title]</title>
@@ -51,5 +35,21 @@
     <content>[no description]</content>
     <link href="https://www.tiktok.com/@6averyabara9/video/7247310717593013550" rel="alternate"/>
     <published>2023-06-22T01:07:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@6averyabara9/video/7247528926413786414</id>
+    <title>[no title]</title>
+    <updated>2023-06-22T15:14:08+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@6averyabara9/video/7247528926413786414" rel="alternate"/>
+    <published>2023-06-22T15:14:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@6averyabara9/video/7247544060313996586</id>
+    <title>#tabithaabara #averyabara </title>
+    <updated>2023-06-22T16:12:46+00:00</updated>
+    <content>#tabithaabara #averyabara </content>
+    <link href="https://www.tiktok.com/@6averyabara9/video/7247544060313996586" rel="alternate"/>
+    <published>2023-06-22T16:12:46+00:00</published>
   </entry>
 </feed>
