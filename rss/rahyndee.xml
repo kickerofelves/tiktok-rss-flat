@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rahyndee</id>
   <title>@rahyndee | TikTok</title>
-  <updated>2023-06-21T01:50:04+00:00</updated>
+  <updated>2023-06-22T00:54:19+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @rahyndee</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@rahyndee/video/7239033944795057454</id>
-    <title>Refreshing 💦  . #fyp #foryou #shaddowbanned #fypシ </title>
-    <updated>2023-05-30T17:49:03+00:00</updated>
-    <content>Refreshing 💦  . #fyp #foryou #shaddowbanned #fypシ </content>
-    <link href="https://www.tiktok.com/@rahyndee/video/7239033944795057454" rel="alternate"/>
-    <published>2023-05-30T17:49:03+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@rahyndee/video/7239470159772077355</id>
     <title>Even freedom has a price to pay 🫠 #fyp #foryou </title>
@@ -51,5 +43,13 @@
     <content>THE Forbidden Vibes✨ @loubalance 🍌 #fyp #forbiddenvibes #loubalance #putinbay #putinbayohio #putinbayisland </content>
     <link href="https://www.tiktok.com/@rahyndee/video/7246950676968836394" rel="alternate"/>
     <published>2023-06-21T01:50:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@rahyndee/video/7247307405124455726</id>
+    <title>Big energy when we show up at Put In Bay island ✨🥂 @loubalance 🤠 . #fyp #foryou #putinbayohio #putinbay #putinbayisland #4u </title>
+    <updated>2023-06-22T00:54:19+00:00</updated>
+    <content>Big energy when we show up at Put In Bay island ✨🥂 @loubalance 🤠 . #fyp #foryou #putinbayohio #putinbay #putinbayisland #4u </content>
+    <link href="https://www.tiktok.com/@rahyndee/video/7247307405124455726" rel="alternate"/>
+    <published>2023-06-22T00:54:19+00:00</published>
   </entry>
 </feed>
