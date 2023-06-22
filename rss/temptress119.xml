@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://www.tiktok.com/@temptress119</id>
+  <title>@temptress119 | TikTok</title>
+  <updated>2023-03-28T06:58:04+00:00</updated>
+  <author>
+    <name>Conor ONeill</name>
+    <email>conor@conoroneill.com</email>
+  </author>
+  <link href="https://www.tiktok.com/@temptress119" rel="alternate"/>
+  <link href="https://kickerofelves.github.io/tiktok-rss-flat/rss/temptress119.xml" rel="self"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
+  <subtitle>Latest TikToks from @temptress119</subtitle>
+  <entry>
+    <id>https://www.tiktok.com/@temptress119/video/7210464856556702982</id>
+    <title>[no title]</title>
+    <updated>2023-03-14T18:06:17+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@temptress119/video/7210464856556702982" rel="alternate"/>
+    <published>2023-03-14T18:06:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@temptress119/video/7210465511354666245</id>
+    <title>[no title]</title>
+    <updated>2023-03-14T18:08:50+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@temptress119/video/7210465511354666245" rel="alternate"/>
+    <published>2023-03-14T18:08:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@temptress119/video/7210466139271433478</id>
+    <title>[no title]</title>
+    <updated>2023-03-14T18:11:15+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@temptress119/video/7210466139271433478" rel="alternate"/>
+    <published>2023-03-14T18:11:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@temptress119/video/7210466639198899461</id>
+    <title>[no title]</title>
+    <updated>2023-03-14T18:13:12+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@temptress119/video/7210466639198899461" rel="alternate"/>
+    <published>2023-03-14T18:13:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@temptress119/video/7215487837746007302</id>
+    <title>[no title]</title>
+    <updated>2023-03-28T06:58:04+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@temptress119/video/7215487837746007302" rel="alternate"/>
+    <published>2023-03-28T06:58:04+00:00</published>
+  </entry>
+</feed>
