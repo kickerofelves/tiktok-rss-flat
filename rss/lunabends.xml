@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@lunabends</id>
   <title>@lunabends | TikTok</title>
-  <updated>2023-06-22T17:05:39+00:00</updated>
+  <updated>2023-06-23T03:16:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @lunabends</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@lunabends/video/7246784800802016558</id>
-    <title>😅🙈 scary chair trick !  #chairdance #dance #chairtrick #headstand #poledance #pleasersheels </title>
-    <updated>2023-06-20T15:06:33+00:00</updated>
-    <content>😅🙈 scary chair trick !  #chairdance #dance #chairtrick #headstand #poledance #pleasersheels </content>
-    <link href="https://www.tiktok.com/@lunabends/video/7246784800802016558" rel="alternate"/>
-    <published>2023-06-20T15:06:33+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@lunabends/video/7246929034179906859</id>
     <title>This heat is insane  #fyp #summer2023 #bikini #flexible </title>
@@ -51,5 +43,13 @@
     <content>Cant wait to get some practice in tmrw ☺️ #pole #poledance #dancer #poletricks #flexible #stronggirl #gymtok #pleasersheels </content>
     <link href="https://www.tiktok.com/@lunabends/video/7247557703025970475" rel="alternate"/>
     <published>2023-06-22T17:05:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lunabends/video/7247715092609944878</id>
+    <title>An oldie but goodie 🤓 #pole #fyp #poletricks #poledance #dancer #flexible </title>
+    <updated>2023-06-23T03:16:20+00:00</updated>
+    <content>An oldie but goodie 🤓 #pole #fyp #poletricks #poledance #dancer #flexible </content>
+    <link href="https://www.tiktok.com/@lunabends/video/7247715092609944878" rel="alternate"/>
+    <published>2023-06-23T03:16:20+00:00</published>
   </entry>
 </feed>
