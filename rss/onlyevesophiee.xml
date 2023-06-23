@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@onlyevesophiee</id>
   <title>@onlyevesophiee | TikTok</title>
-  <updated>2023-06-22T22:12:25+00:00</updated>
+  <updated>2023-06-23T15:49:13+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @onlyevesophiee</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@onlyevesophiee/video/7245795412009962778</id>
-    <title>How do you like it ?</title>
-    <updated>2023-06-17T23:07:07+00:00</updated>
-    <content>How do you like it ?</content>
-    <link href="https://www.tiktok.com/@onlyevesophiee/video/7245795412009962778" rel="alternate"/>
-    <published>2023-06-17T23:07:07+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@onlyevesophiee/video/7246176861951216923</id>
     <title>Not the tag on my shirt 😩😩</title>
@@ -51,5 +43,13 @@
     <content>Do you like how I ride it ?</content>
     <link href="https://www.tiktok.com/@onlyevesophiee/video/7247636751894859034" rel="alternate"/>
     <published>2023-06-22T22:12:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@onlyevesophiee/video/7247909098249784603</id>
+    <title>Holiday hacks 101 😜</title>
+    <updated>2023-06-23T15:49:13+00:00</updated>
+    <content>Holiday hacks 101 😜</content>
+    <link href="https://www.tiktok.com/@onlyevesophiee/video/7247909098249784603" rel="alternate"/>
+    <published>2023-06-23T15:49:13+00:00</published>
   </entry>
 </feed>
