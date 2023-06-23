@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@_mommymewtwo</id>
   <title>@_mommymewtwo | TikTok</title>
-  <updated>2023-06-22T15:07:10+00:00</updated>
+  <updated>2023-06-23T12:53:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @_mommymewtwo</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@_mommymewtwo/video/7246046012769307930</id>
-    <title>A lil upper session🩶 #fyp #viral #gymtok </title>
-    <updated>2023-06-18T15:19:24+00:00</updated>
-    <content>A lil upper session🩶 #fyp #viral #gymtok </content>
-    <link href="https://www.tiktok.com/@_mommymewtwo/video/7246046012769307930" rel="alternate"/>
-    <published>2023-06-18T15:19:24+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@_mommymewtwo/video/7246414748009499931</id>
     <title>A lil update x #fyp #viral #gymtok #mewtwo </title>
@@ -51,5 +43,13 @@
     <content>Miss Rabbit has fainted🐰 #fyp #viral #trending #mewtwo </content>
     <link href="https://www.tiktok.com/@_mommymewtwo/video/7247527195374030106" rel="alternate"/>
     <published>2023-06-22T15:07:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@_mommymewtwo/video/7247863767239871771</id>
+    <title>Quads looking juicy #fyp #viral #mewtwo #musclemommy </title>
+    <updated>2023-06-23T12:53:20+00:00</updated>
+    <content>Quads looking juicy #fyp #viral #mewtwo #musclemommy </content>
+    <link href="https://www.tiktok.com/@_mommymewtwo/video/7247863767239871771" rel="alternate"/>
+    <published>2023-06-23T12:53:20+00:00</published>
   </entry>
 </feed>

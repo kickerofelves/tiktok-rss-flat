@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@izzg__</id>
   <title>@izzg__ | TikTok</title>
-  <updated>2023-06-22T17:05:09+00:00</updated>
+  <updated>2023-06-23T17:16:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @izzg__</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@izzg__/video/7247185479043435819</id>
-    <title>#stitch with @anna cohen  not my usual content but it needed to be said. this is absolutely ridiculous and these women should be embarrassed.</title>
-    <updated>2023-06-21T17:01:08+00:00</updated>
-    <content>#stitch with @anna cohen  not my usual content but it needed to be said. this is absolutely ridiculous and these women should be embarrassed.</content>
-    <link href="https://www.tiktok.com/@izzg__/video/7247185479043435819" rel="alternate"/>
-    <published>2023-06-21T17:01:08+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@izzg__/video/7247193746754866475</id>
-    <title>[no title]</title>
-    <updated>2023-06-21T17:33:15+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@izzg__/video/7247193746754866475" rel="alternate"/>
-    <published>2023-06-21T17:33:15+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@izzg__/video/7247554922248457518</id>
-    <title>Replying to @edwardnewgate7811  </title>
-    <updated>2023-06-22T16:54:50+00:00</updated>
-    <content>Replying to @edwardnewgate7811  </content>
-    <link href="https://www.tiktok.com/@izzg__/video/7247554922248457518" rel="alternate"/>
-    <published>2023-06-22T16:54:50+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@izzg__/video/7247556388757474602</id>
     <title>OOTD!</title>
@@ -51,5 +27,29 @@
     <content>[no description]</content>
     <link href="https://www.tiktok.com/@izzg__/video/7247557582162890030" rel="alternate"/>
     <published>2023-06-22T17:05:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@izzg__/video/7247926164172344618</id>
+    <title>[no title]</title>
+    <updated>2023-06-23T16:55:34+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@izzg__/video/7247926164172344618" rel="alternate"/>
+    <published>2023-06-23T16:55:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@izzg__/video/7247929791490608430</id>
+    <title>[no title]</title>
+    <updated>2023-06-23T17:09:35+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@izzg__/video/7247929791490608430" rel="alternate"/>
+    <published>2023-06-23T17:09:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@izzg__/video/7247931481765465390</id>
+    <title>[no title]</title>
+    <updated>2023-06-23T17:16:09+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@izzg__/video/7247931481765465390" rel="alternate"/>
+    <published>2023-06-23T17:16:09+00:00</published>
   </entry>
 </feed>
