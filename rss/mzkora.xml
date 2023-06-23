@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mzkora</id>
   <title>@mzkora | TikTok</title>
-  <updated>2023-06-21T00:05:30+00:00</updated>
+  <updated>2023-06-23T01:39:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @mzkora</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@mzkora/video/7240915788641619246</id>
-    <title>How my husband and I met! #fyp #fypシ #couple #lovestory #interacialcouple #interracialdating #indianandblack #marriage #stereotyping #parentsof9</title>
-    <updated>2023-06-04T19:31:38+00:00</updated>
-    <content>How my husband and I met! #fyp #fypシ #couple #lovestory #interacialcouple #interracialdating #indianandblack #marriage #stereotyping #parentsof9</content>
-    <link href="https://www.tiktok.com/@mzkora/video/7240915788641619246" rel="alternate"/>
-    <published>2023-06-04T19:31:38+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@mzkora/video/7241395971148483882</id>
     <title>The Ultimate Curl Collection is hands down the best investment for your hair.🤯#lusloveurselfpartner @LUS Brands  Healing my hair with every wash to giving me the best definition for my curls, you can't go wrong with LUS | Love Ur Self! Comes with everythi</title>
@@ -51,5 +43,13 @@
     <content>Replying to @babygirl   My favorite 22 year old + my favorite drink! @OLIPOP #olipoppartner #fyp #fypシ #momof9 #healthiswealth </content>
     <link href="https://www.tiktok.com/@mzkora/video/7246923709972319534" rel="alternate"/>
     <published>2023-06-21T00:05:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@mzkora/video/7247690011133414698</id>
+    <title>Building memories, one cheese stick at a time! #CheeseHeadsPartner #CheeseHeadsYourWay 🧀 We took on a Cheesy Family Challenge and things got interesting! 🏗️💪 We snacked, we stacked, we balanced, and we reached for the skies, all with the help of our favor</title>
+    <updated>2023-06-23T01:39:03+00:00</updated>
+    <content>Building memories, one cheese stick at a time! #CheeseHeadsPartner #CheeseHeadsYourWay 🧀 We took on a Cheesy Family Challenge and things got interesting! 🏗️💪 We snacked, we stacked, we balanced, and we reached for the skies, all with the help of our favorite snack @Frigo Cheese Heads. 🎉🧀 Just like there are countless ways to express your individuality, there are endless ways to snack on Cheese Heads. Watch us put our creativity to the test in this epic tower-building showdown! 🏆💥 Who can build the tallest, most impressive Cheese Heads tower to their mouth for the most creative bite? Join the fun and find out! 🙌😄</content>
+    <link href="https://www.tiktok.com/@mzkora/video/7247690011133414698" rel="alternate"/>
+    <published>2023-06-23T01:39:03+00:00</published>
   </entry>
 </feed>
