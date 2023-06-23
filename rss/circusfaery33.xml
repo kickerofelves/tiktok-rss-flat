@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@circusfaery33</id>
   <title>@circusfaery33 | TikTok</title>
-  <updated>2023-06-21T19:25:20+00:00</updated>
+  <updated>2023-06-23T01:25:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @circusfaery33</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7246470383883357483</id>
-    <title>Replying to @Anne Marie  You couldm't even give it a rest for Juneteenth, could you? </title>
-    <updated>2023-06-19T18:46:14+00:00</updated>
-    <content>Replying to @Anne Marie  You couldm't even give it a rest for Juneteenth, could you? </content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7246470383883357483" rel="alternate"/>
-    <published>2023-06-19T18:46:14+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7246489204266454315</id>
-    <title>Replying to @masarap10000   Tell me you only value people for their entertainment value and sevice to you, without telling me...</title>
-    <updated>2023-06-19T19:59:20+00:00</updated>
-    <content>Replying to @masarap10000   Tell me you only value people for their entertainment value and sevice to you, without telling me...</content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7246489204266454315" rel="alternate"/>
-    <published>2023-06-19T19:59:20+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7246918037750713643</id>
-    <title>Replying to @robertcampbell575  Your whataboutism is showing! </title>
-    <updated>2023-06-20T23:43:23+00:00</updated>
-    <content>Replying to @robertcampbell575  Your whataboutism is showing! </content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7246918037750713643" rel="alternate"/>
-    <published>2023-06-20T23:43:23+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@circusfaery33/video/7247171743301815594</id>
     <title>Replying to @whatever  We did not get here by reflecting on how historical harms dhape current systems of injustice. We got here through racism, stealing, genocide and chattel slavery. #asianamerican #modelminority #antiracism #solidarity </title>
@@ -51,5 +27,29 @@
     <content>Replying to @pieota jello   People are capable of acknowledging and accomodating or appreciating differences. What a weird way to say that acknowledging differences can only lead to -isms for you. </content>
     <link href="https://www.tiktok.com/@circusfaery33/video/7247222637125061931" rel="alternate"/>
     <published>2023-06-21T19:25:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7247546077631597867</id>
+    <title>Replying to @7buddha   Return of misappropriated items is being taken up with the governments that misappropriated them.</title>
+    <updated>2023-06-22T16:20:34+00:00</updated>
+    <content>Replying to @7buddha   Return of misappropriated items is being taken up with the governments that misappropriated them.</content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7247546077631597867" rel="alternate"/>
+    <published>2023-06-22T16:20:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7247627305412021550</id>
+    <title>[no title]</title>
+    <updated>2023-06-22T21:35:45+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7247627305412021550" rel="alternate"/>
+    <published>2023-06-22T21:35:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7247686576686239022</id>
+    <title>Replying to @Scott Treiber  I'm not arguing with trolls--I know they can't learn. I do it for the people who want to learn, for the people doing the same work, and for people who think this level of ignorance and malice don't really exist. </title>
+    <updated>2023-06-23T01:25:56+00:00</updated>
+    <content>Replying to @Scott Treiber  I'm not arguing with trolls--I know they can't learn. I do it for the people who want to learn, for the people doing the same work, and for people who think this level of ignorance and malice don't really exist. </content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7247686576686239022" rel="alternate"/>
+    <published>2023-06-23T01:25:56+00:00</published>
   </entry>
 </feed>
