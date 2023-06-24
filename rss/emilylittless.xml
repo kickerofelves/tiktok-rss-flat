@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@emilylittless</id>
   <title>@emilylittless | TikTok</title>
-  <updated>2023-06-21T04:17:40+00:00</updated>
+  <updated>2023-06-24T02:17:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @emilylittless</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@emilylittless/video/7241780281433263403</id>
-    <title>happy tuesday hoes</title>
-    <updated>2023-06-07T03:26:18+00:00</updated>
-    <content>happy tuesday hoes</content>
-    <link href="https://www.tiktok.com/@emilylittless/video/7241780281433263403" rel="alternate"/>
-    <published>2023-06-07T03:26:18+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@emilylittless/video/7244388028628700458</id>
     <title>happy tuesdayyyyy</title>
@@ -51,5 +43,13 @@
     <content>ignore my bloating thank you and sorry im late again this tuesday</content>
     <link href="https://www.tiktok.com/@emilylittless/video/7246988687505050926" rel="alternate"/>
     <published>2023-06-21T04:17:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@emilylittless/video/7248071045830249770</id>
+    <title>shoutout to no one walking in while i filmed this at the gym</title>
+    <updated>2023-06-24T02:17:41+00:00</updated>
+    <content>shoutout to no one walking in while i filmed this at the gym</content>
+    <link href="https://www.tiktok.com/@emilylittless/video/7248071045830249770" rel="alternate"/>
+    <published>2023-06-24T02:17:41+00:00</published>
   </entry>
 </feed>
