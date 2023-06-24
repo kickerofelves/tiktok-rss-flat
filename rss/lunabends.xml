@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@lunabends</id>
   <title>@lunabends | TikTok</title>
-  <updated>2023-06-23T13:31:59+00:00</updated>
+  <updated>2023-06-24T01:30:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @lunabends</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@lunabends/video/7247197524174441770</id>
-    <title>I love my @Melissa Official platforms ☺️ #jellysandals #melissashoes #tryon </title>
-    <updated>2023-06-21T17:47:55+00:00</updated>
-    <content>I love my @Melissa Official platforms ☺️ #jellysandals #melissashoes #tryon </content>
-    <link href="https://www.tiktok.com/@lunabends/video/7247197524174441770" rel="alternate"/>
-    <published>2023-06-21T17:47:55+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@lunabends/video/7247293055831641387</id>
-    <title>@Tdohfit with the sun protection ☺️ #fyp #summer2023 #beachvibes #bikini </title>
-    <updated>2023-06-21T23:58:40+00:00</updated>
-    <content>@Tdohfit with the sun protection ☺️ #fyp #summer2023 #beachvibes #bikini </content>
-    <link href="https://www.tiktok.com/@lunabends/video/7247293055831641387" rel="alternate"/>
-    <published>2023-06-21T23:58:40+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@lunabends/video/7247557703025970475</id>
     <title>Cant wait to get some practice in tmrw ☺️ #pole #poledance #dancer #poletricks #flexible #stronggirl #gymtok #pleasersheels </title>
@@ -51,5 +35,21 @@
     <content>Lyra hurts so much 😅 #lyra #lyratricks #pleasersheels #aerialhoop #aerialtricks </content>
     <link href="https://www.tiktok.com/@lunabends/video/7247873651834441002" rel="alternate"/>
     <published>2023-06-23T13:31:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lunabends/video/7247971309462883626</id>
+    <title>Having a cute day wearing @Aritzia &amp; @Anthropologie ✨  #tryon #summer2023 #aritzia #romper #anthropologie </title>
+    <updated>2023-06-23T19:50:40+00:00</updated>
+    <content>Having a cute day wearing @Aritzia &amp; @Anthropologie ✨  #tryon #summer2023 #aritzia #romper #anthropologie </content>
+    <link href="https://www.tiktok.com/@lunabends/video/7247971309462883626" rel="alternate"/>
+    <published>2023-06-23T19:50:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lunabends/video/7248058934366424366</id>
+    <title>New fave song 😅 need it on spotify asap  #pole #poledance #dancer #poletricks #flexible #splits #fishnets #pleasersheels #heels #aerialtricks </title>
+    <updated>2023-06-24T01:30:39+00:00</updated>
+    <content>New fave song 😅 need it on spotify asap  #pole #poledance #dancer #poletricks #flexible #splits #fishnets #pleasersheels #heels #aerialtricks </content>
+    <link href="https://www.tiktok.com/@lunabends/video/7248058934366424366" rel="alternate"/>
+    <published>2023-06-24T01:30:39+00:00</published>
   </entry>
 </feed>
