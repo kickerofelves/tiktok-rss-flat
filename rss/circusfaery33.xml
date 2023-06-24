@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@circusfaery33</id>
   <title>@circusfaery33 | TikTok</title>
-  <updated>2023-06-23T01:25:56+00:00</updated>
+  <updated>2023-06-23T21:06:13+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @circusfaery33</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7247171743301815594</id>
-    <title>Replying to @whatever  We did not get here by reflecting on how historical harms dhape current systems of injustice. We got here through racism, stealing, genocide and chattel slavery. #asianamerican #modelminority #antiracism #solidarity </title>
-    <updated>2023-06-21T16:07:52+00:00</updated>
-    <content>Replying to @whatever  We did not get here by reflecting on how historical harms dhape current systems of injustice. We got here through racism, stealing, genocide and chattel slavery. #asianamerican #modelminority #antiracism #solidarity </content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7247171743301815594" rel="alternate"/>
-    <published>2023-06-21T16:07:52+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7247222637125061931</id>
-    <title>Replying to @pieota jello   People are capable of acknowledging and accomodating or appreciating differences. What a weird way to say that acknowledging differences can only lead to -isms for you. </title>
-    <updated>2023-06-21T19:25:20+00:00</updated>
-    <content>Replying to @pieota jello   People are capable of acknowledging and accomodating or appreciating differences. What a weird way to say that acknowledging differences can only lead to -isms for you. </content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7247222637125061931" rel="alternate"/>
-    <published>2023-06-21T19:25:20+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7247546077631597867</id>
-    <title>Replying to @7buddha   Return of misappropriated items is being taken up with the governments that misappropriated them.</title>
-    <updated>2023-06-22T16:20:34+00:00</updated>
-    <content>Replying to @7buddha   Return of misappropriated items is being taken up with the governments that misappropriated them.</content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7247546077631597867" rel="alternate"/>
-    <published>2023-06-22T16:20:34+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@circusfaery33/video/7247627305412021550</id>
     <title>[no title]</title>
@@ -51,5 +27,29 @@
     <content>Replying to @Scott Treiber  I'm not arguing with trolls--I know they can't learn. I do it for the people who want to learn, for the people doing the same work, and for people who think this level of ignorance and malice don't really exist. </content>
     <link href="https://www.tiktok.com/@circusfaery33/video/7247686576686239022" rel="alternate"/>
     <published>2023-06-23T01:25:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7247902164838878507</id>
+    <title>Replying to @dannypark247  Your matb's not mathing. Is China a surveillance state with no freedoms and persecution abound, or are you meeting many Chinese people who feel secure in their freedom of speech to express criticism of the government to you? </title>
+    <updated>2023-06-23T15:22:27+00:00</updated>
+    <content>Replying to @dannypark247  Your matb's not mathing. Is China a surveillance state with no freedoms and persecution abound, or are you meeting many Chinese people who feel secure in their freedom of speech to express criticism of the government to you? </content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7247902164838878507" rel="alternate"/>
+    <published>2023-06-23T15:22:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7247943655640796462</id>
+    <title>Replying to @white_and_little   Race is a colonial construct that jas caused harms loke racism. So we can stop iusing the word race once we have dismantled racism. #asianamerican  #modelminority #antiracism #solidarity </title>
+    <updated>2023-06-23T18:03:19+00:00</updated>
+    <content>Replying to @white_and_little   Race is a colonial construct that jas caused harms loke racism. So we can stop iusing the word race once we have dismantled racism. #asianamerican  #modelminority #antiracism #solidarity </content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7247943655640796462" rel="alternate"/>
+    <published>2023-06-23T18:03:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7247990791015124270</id>
+    <title>Replying to @Big Blue Ocean I relate to this comment in very complicated ways. It's been experiencing anti-Chinese bigotry  that made me realize how biased my own views on China are, and that has ironically made me more open minded about China.</title>
+    <updated>2023-06-23T21:06:13+00:00</updated>
+    <content>Replying to @Big Blue Ocean I relate to this comment in very complicated ways. It's been experiencing anti-Chinese bigotry  that made me realize how biased my own views on China are, and that has ironically made me more open minded about China.</content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7247990791015124270" rel="alternate"/>
+    <published>2023-06-23T21:06:13+00:00</published>
   </entry>
 </feed>
