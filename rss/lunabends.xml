@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@lunabends</id>
   <title>@lunabends | TikTok</title>
-  <updated>2023-06-24T01:30:39+00:00</updated>
+  <updated>2023-06-24T16:19:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @lunabends</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@lunabends/video/7247557703025970475</id>
-    <title>Cant wait to get some practice in tmrw ☺️ #pole #poledance #dancer #poletricks #flexible #stronggirl #gymtok #pleasersheels </title>
-    <updated>2023-06-22T17:05:39+00:00</updated>
-    <content>Cant wait to get some practice in tmrw ☺️ #pole #poledance #dancer #poletricks #flexible #stronggirl #gymtok #pleasersheels </content>
-    <link href="https://www.tiktok.com/@lunabends/video/7247557703025970475" rel="alternate"/>
-    <published>2023-06-22T17:05:39+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@lunabends/video/7247715092609944878</id>
     <title>An oldie but goodie 🤓 #pole #fyp #poletricks #poledance #dancer #flexible </title>
@@ -51,5 +43,13 @@
     <content>New fave song 😅 need it on spotify asap  #pole #poledance #dancer #poletricks #flexible #splits #fishnets #pleasersheels #heels #aerialtricks </content>
     <link href="https://www.tiktok.com/@lunabends/video/7248058934366424366" rel="alternate"/>
     <published>2023-06-24T01:30:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lunabends/video/7248287894652063019</id>
+    <title>Because flexibility is awesome 😎  #flexible #fyp #splits #stretching #aritzia #romper #summer2023 #flexy </title>
+    <updated>2023-06-24T16:19:09+00:00</updated>
+    <content>Because flexibility is awesome 😎  #flexible #fyp #splits #stretching #aritzia #romper #summer2023 #flexy </content>
+    <link href="https://www.tiktok.com/@lunabends/video/7248287894652063019" rel="alternate"/>
+    <published>2023-06-24T16:19:09+00:00</published>
   </entry>
 </feed>
