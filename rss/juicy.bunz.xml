@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@juicy.bunz</id>
   <title>@juicy.bunz | TikTok</title>
-  <updated>2023-05-24T18:31:40+00:00</updated>
+  <updated>2023-06-23T18:39:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @juicy.bunz</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@juicy.bunz/video/7234201121227820334</id>
-    <title>Enjoying my day off. And i finally got a new blender. I love it 🥰 #minivlog #vlog #fitness #smoothie </title>
-    <updated>2023-05-17T17:15:17+00:00</updated>
-    <content>Enjoying my day off. And i finally got a new blender. I love it 🥰 #minivlog #vlog #fitness #smoothie </content>
-    <link href="https://www.tiktok.com/@juicy.bunz/video/7234201121227820334" rel="alternate"/>
-    <published>2023-05-17T17:15:17+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@juicy.bunz/video/7236135900667759914</id>
     <title>High protein, low cal chicken quesadilla 👩🏻‍🍳😋 48g protein, 328 calories. so yummy for dinner #cooking #proteinmeals #dinner #lunch #fitness </title>
@@ -51,5 +43,13 @@
     <content>My dog (once again) supervising my every move 😅 #yoga #fitness #gymgirl </content>
     <link href="https://www.tiktok.com/@juicy.bunz/video/7236818415162314027" rel="alternate"/>
     <published>2023-05-24T18:31:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@juicy.bunz/video/7247952936775601454</id>
+    <title>Life has been crazy lately. My mind has been all over the place. The pressure to be productive, be successful and be good enough for others. It can get overwhelming. I’ve been getting alot of anxiety, especially at night so I’ve had trouble sleeping. Some</title>
+    <updated>2023-06-23T18:39:23+00:00</updated>
+    <content>Life has been crazy lately. My mind has been all over the place. The pressure to be productive, be successful and be good enough for others. It can get overwhelming. I’ve been getting alot of anxiety, especially at night so I’ve had trouble sleeping. Sometimes i forget about my interests and who i am. So a day to myself was much needed (and a foot massage lol). A day to just not think. Be gentle with yourself and kind to others 🫶❤️ #vlog #selfcare #cooking #mentalhealth </content>
+    <link href="https://www.tiktok.com/@juicy.bunz/video/7247952936775601454" rel="alternate"/>
+    <published>2023-06-23T18:39:23+00:00</published>
   </entry>
 </feed>
