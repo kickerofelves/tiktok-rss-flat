@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@princesssofia13th2</id>
   <title>@princesssofia13th2 | TikTok</title>
-  <updated>2023-06-23T22:58:40+00:00</updated>
+  <updated>2023-06-24T20:07:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @princesssofia13th2</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@princesssofia13th2/video/7245054047068196142</id>
-    <title>#fyp #viral #xyzbca </title>
-    <updated>2023-06-15T23:10:07+00:00</updated>
-    <content>#fyp #viral #xyzbca </content>
-    <link href="https://www.tiktok.com/@princesssofia13th2/video/7245054047068196142" rel="alternate"/>
-    <published>2023-06-15T23:10:07+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@princesssofia13th2/video/7245452335713979690</id>
     <title>I lost weight since here #fyp #xyzbca #viral </title>
@@ -51,5 +43,13 @@
     <content>Free sub for anyone who guesses correctly!! #fyp #viral #xyzbca </content>
     <link href="https://www.tiktok.com/@princesssofia13th2/video/7248019738465488170" rel="alternate"/>
     <published>2023-06-23T22:58:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@princesssofia13th2/video/7248346782457957674</id>
+    <title>You wouldda thought #fyp #viral #xyzbca  </title>
+    <updated>2023-06-24T20:07:41+00:00</updated>
+    <content>You wouldda thought #fyp #viral #xyzbca  </content>
+    <link href="https://www.tiktok.com/@princesssofia13th2/video/7248346782457957674" rel="alternate"/>
+    <published>2023-06-24T20:07:41+00:00</published>
   </entry>
 </feed>
