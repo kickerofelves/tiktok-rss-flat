@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@emilylittless</id>
   <title>@emilylittless | TikTok</title>
-  <updated>2023-06-24T02:17:41+00:00</updated>
+  <updated>2023-06-25T06:15:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @emilylittless</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@emilylittless/video/7244388028628700458</id>
-    <title>happy tuesdayyyyy</title>
-    <updated>2023-06-14T04:05:38+00:00</updated>
-    <content>happy tuesdayyyyy</content>
-    <link href="https://www.tiktok.com/@emilylittless/video/7244388028628700458" rel="alternate"/>
-    <published>2023-06-14T04:05:38+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@emilylittless/video/7245822378247195950</id>
     <title>since it was in the drafts, last white shirt post for a while my b😅</title>
@@ -51,5 +43,13 @@
     <content>shoutout to no one walking in while i filmed this at the gym</content>
     <link href="https://www.tiktok.com/@emilylittless/video/7248071045830249770" rel="alternate"/>
     <published>2023-06-24T02:17:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@emilylittless/video/7248503292685208875</id>
+    <title>here’s the lil look from the live tonight🥰</title>
+    <updated>2023-06-25T06:15:03+00:00</updated>
+    <content>here’s the lil look from the live tonight🥰</content>
+    <link href="https://www.tiktok.com/@emilylittless/video/7248503292685208875" rel="alternate"/>
+    <published>2023-06-25T06:15:03+00:00</published>
   </entry>
 </feed>
