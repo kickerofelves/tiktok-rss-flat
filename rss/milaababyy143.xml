@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@milaababyy143</id>
   <title>@milaababyy143 | TikTok</title>
-  <updated>2023-06-23T20:05:29+00:00</updated>
+  <updated>2023-06-25T20:05:06+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @milaababyy143</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@milaababyy143/video/7244965191488752942</id>
-    <title>He really spoke for the girls</title>
-    <updated>2023-06-15T17:25:23+00:00</updated>
-    <content>He really spoke for the girls</content>
-    <link href="https://www.tiktok.com/@milaababyy143/video/7244965191488752942" rel="alternate"/>
-    <published>2023-06-15T17:25:23+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@milaababyy143/video/7244965613863521578</id>
     <title>[no title]</title>
@@ -51,5 +43,13 @@
     <content>Cant stop w this song </content>
     <link href="https://www.tiktok.com/@milaababyy143/video/7247975128846339371" rel="alternate"/>
     <published>2023-06-23T20:05:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@milaababyy143/video/7248717206236712234</id>
+    <title>[no title]</title>
+    <updated>2023-06-25T20:05:06+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@milaababyy143/video/7248717206236712234" rel="alternate"/>
+    <published>2023-06-25T20:05:06+00:00</published>
   </entry>
 </feed>
