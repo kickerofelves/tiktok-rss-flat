@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mzkora</id>
   <title>@mzkora | TikTok</title>
-  <updated>2023-06-23T01:39:03+00:00</updated>
+  <updated>2023-06-25T06:40:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @mzkora</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@mzkora/video/7241395971148483882</id>
-    <title>The Ultimate Curl Collection is hands down the best investment for your hair.🤯#lusloveurselfpartner @LUS Brands  Healing my hair with every wash to giving me the best definition for my curls, you can't go wrong with LUS | Love Ur Self! Comes with everythi</title>
-    <updated>2023-06-06T02:34:54+00:00</updated>
-    <content>The Ultimate Curl Collection is hands down the best investment for your hair.🤯#lusloveurselfpartner @LUS Brands  Healing my hair with every wash to giving me the best definition for my curls, you can't go wrong with LUS | Love Ur Self! Comes with everything you need for the ultimate curl routine. Grab your Curl Collection Today!  💰Use my discount code MZKORA for additional 10% off!  LUSBrands.com | Link in Bio #lusloveurself #loveurcurls </content>
-    <link href="https://www.tiktok.com/@mzkora/video/7241395971148483882" rel="alternate"/>
-    <published>2023-06-06T02:34:54+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@mzkora/video/7244763756348083502</id>
     <title>Wait until he finds out he has to re-do these dishes. #fyp #fypシ #momof9 #dishes #couples #marriage #chores #parentsof9 #fambam #dirtydishes </title>
@@ -51,5 +43,13 @@
     <content>Building memories, one cheese stick at a time! #CheeseHeadsPartner #CheeseHeadsYourWay 🧀 We took on a Cheesy Family Challenge and things got interesting! 🏗️💪 We snacked, we stacked, we balanced, and we reached for the skies, all with the help of our favorite snack @Frigo Cheese Heads. 🎉🧀 Just like there are countless ways to express your individuality, there are endless ways to snack on Cheese Heads. Watch us put our creativity to the test in this epic tower-building showdown! 🏆💥 Who can build the tallest, most impressive Cheese Heads tower to their mouth for the most creative bite? Join the fun and find out! 🙌😄</content>
     <link href="https://www.tiktok.com/@mzkora/video/7247690011133414698" rel="alternate"/>
     <published>2023-06-23T01:39:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@mzkora/video/7248509719277505835</id>
+    <title>My daughters loved the ocean but they loved shopping even more. 😅 #fyp #fypシ #familyof10 #largefamily #momof9 #motherdaughters #beachseason #laguna </title>
+    <updated>2023-06-25T06:40:10+00:00</updated>
+    <content>My daughters loved the ocean but they loved shopping even more. 😅 #fyp #fypシ #familyof10 #largefamily #momof9 #motherdaughters #beachseason #laguna </content>
+    <link href="https://www.tiktok.com/@mzkora/video/7248509719277505835" rel="alternate"/>
+    <published>2023-06-25T06:40:10+00:00</published>
   </entry>
 </feed>
