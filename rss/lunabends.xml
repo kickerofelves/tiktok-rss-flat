@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@lunabends</id>
   <title>@lunabends | TikTok</title>
-  <updated>2023-06-24T16:19:09+00:00</updated>
+  <updated>2023-06-25T16:44:36+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @lunabends</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@lunabends/video/7247715092609944878</id>
-    <title>An oldie but goodie 🤓 #pole #fyp #poletricks #poledance #dancer #flexible </title>
-    <updated>2023-06-23T03:16:20+00:00</updated>
-    <content>An oldie but goodie 🤓 #pole #fyp #poletricks #poledance #dancer #flexible </content>
-    <link href="https://www.tiktok.com/@lunabends/video/7247715092609944878" rel="alternate"/>
-    <published>2023-06-23T03:16:20+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@lunabends/video/7247873651834441002</id>
-    <title>Lyra hurts so much 😅 #lyra #lyratricks #pleasersheels #aerialhoop #aerialtricks </title>
-    <updated>2023-06-23T13:31:59+00:00</updated>
-    <content>Lyra hurts so much 😅 #lyra #lyratricks #pleasersheels #aerialhoop #aerialtricks </content>
-    <link href="https://www.tiktok.com/@lunabends/video/7247873651834441002" rel="alternate"/>
-    <published>2023-06-23T13:31:59+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@lunabends/video/7247971309462883626</id>
-    <title>Having a cute day wearing @Aritzia &amp; @Anthropologie ✨  #tryon #summer2023 #aritzia #romper #anthropologie </title>
-    <updated>2023-06-23T19:50:40+00:00</updated>
-    <content>Having a cute day wearing @Aritzia &amp; @Anthropologie ✨  #tryon #summer2023 #aritzia #romper #anthropologie </content>
-    <link href="https://www.tiktok.com/@lunabends/video/7247971309462883626" rel="alternate"/>
-    <published>2023-06-23T19:50:40+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@lunabends/video/7248058934366424366</id>
     <title>New fave song 😅 need it on spotify asap  #pole #poledance #dancer #poletricks #flexible #splits #fishnets #pleasersheels #heels #aerialtricks </title>
@@ -51,5 +27,29 @@
     <content>Because flexibility is awesome 😎  #flexible #fyp #splits #stretching #aritzia #romper #summer2023 #flexy </content>
     <link href="https://www.tiktok.com/@lunabends/video/7248287894652063019" rel="alternate"/>
     <published>2023-06-24T16:19:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lunabends/video/7248326279957646634</id>
+    <title>Don't forget to stretch today 😉  #fyp #yoga #yogi #flexible #flexy #stretching #splits #standingsplit #aritzia #summer2023 #tryon #bendy </title>
+    <updated>2023-06-24T18:48:06+00:00</updated>
+    <content>Don't forget to stretch today 😉  #fyp #yoga #yogi #flexible #flexy #stretching #splits #standingsplit #aritzia #summer2023 #tryon #bendy </content>
+    <link href="https://www.tiktok.com/@lunabends/video/7248326279957646634" rel="alternate"/>
+    <published>2023-06-24T18:48:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lunabends/video/7248402975498964266</id>
+    <title>Pole fits 🔥  #pole #poledancer #dancer #poletricks #pleasersheels #heels #fishnets </title>
+    <updated>2023-06-24T23:45:41+00:00</updated>
+    <content>Pole fits 🔥  #pole #poledancer #dancer #poletricks #pleasersheels #heels #fishnets </content>
+    <link href="https://www.tiktok.com/@lunabends/video/7248402975498964266" rel="alternate"/>
+    <published>2023-06-24T23:45:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lunabends/video/7248665511079284010</id>
+    <title>Sunday funday 😅 #fyp #stretching #flexy #flexible #splits #aritzia #tryon #summer2024 #yoga #yogi #barbieworld </title>
+    <updated>2023-06-25T16:44:36+00:00</updated>
+    <content>Sunday funday 😅 #fyp #stretching #flexy #flexible #splits #aritzia #tryon #summer2024 #yoga #yogi #barbieworld </content>
+    <link href="https://www.tiktok.com/@lunabends/video/7248665511079284010" rel="alternate"/>
+    <published>2023-06-25T16:44:36+00:00</published>
   </entry>
 </feed>
