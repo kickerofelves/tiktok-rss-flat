@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@girlzhavemorefun</id>
   <title>@girlzhavemorefun | TikTok</title>
-  <updated>2023-06-23T20:21:06+00:00</updated>
+  <updated>2023-06-25T01:05:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @girlzhavemorefun</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@girlzhavemorefun/video/7243146153095662891</id>
-    <title>On repeat #fyp #viral #trending #natural </title>
-    <updated>2023-06-10T19:46:39+00:00</updated>
-    <content>On repeat #fyp #viral #trending #natural </content>
-    <link href="https://www.tiktok.com/@girlzhavemorefun/video/7243146153095662891" rel="alternate"/>
-    <published>2023-06-10T19:46:39+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@girlzhavemorefun/video/7243195447291039019</id>
     <title>☺️ #cookin #viral #fyp </title>
@@ -51,5 +43,13 @@
     <content>My dog slobbered all over me. What else is new 😍 #fyp #viral #car #surprise </content>
     <link href="https://www.tiktok.com/@girlzhavemorefun/video/7247979163863223594" rel="alternate"/>
     <published>2023-06-23T20:21:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@girlzhavemorefun/video/7248423659335847211</id>
+    <title>This dress …..  someone wife me up #fyp #viral #wifey #surprise </title>
+    <updated>2023-06-25T01:05:56+00:00</updated>
+    <content>This dress …..  someone wife me up #fyp #viral #wifey #surprise </content>
+    <link href="https://www.tiktok.com/@girlzhavemorefun/video/7248423659335847211" rel="alternate"/>
+    <published>2023-06-25T01:05:56+00:00</published>
   </entry>
 </feed>
