@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@shibuya_kaho</id>
   <title>@shibuya_kaho | TikTok</title>
-  <updated>2023-06-21T09:12:08+00:00</updated>
+  <updated>2023-06-25T19:13:16+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @shibuya_kaho</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@shibuya_kaho/video/7242413719710338306</id>
-    <title>Joining ironmouse's "Speak of the Devil" as guest on 6/9... Friday🩷 トップVTuberのトークショーにゲスト出演します(* ॑ ॑* ) 英語で頑張るぞ！</title>
-    <updated>2023-06-08T20:24:17+00:00</updated>
-    <content>Joining ironmouse's "Speak of the Devil" as guest on 6/9... Friday🩷 トップVTuberのトークショーにゲスト出演します(* ॑ ॑* ) 英語で頑張るぞ！</content>
-    <link href="https://www.tiktok.com/@shibuya_kaho/video/7242413719710338306" rel="alternate"/>
-    <published>2023-06-08T20:24:17+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@shibuya_kaho/video/7243069703516589314</id>
     <title>Always finish my meal! よく食べる方かと思いますʕʘ‿ʘʔ</title>
@@ -51,5 +43,13 @@
     <content>Cosplay day💖 #myHeroAcademia #Pinky スッピンから始まるのでお気を付けください(　˙-˙　)</content>
     <link href="https://www.tiktok.com/@shibuya_kaho/video/7247064631032761602" rel="alternate"/>
     <published>2023-06-21T09:12:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@shibuya_kaho/video/7248703856396225793</id>
+    <title>In Hawaii for TikTok Japan campaign💙 海だ〜🌊　インフルエンサーとして呼んでもらったので、ハワイ配信や投稿いっぱいします！</title>
+    <updated>2023-06-25T19:13:16+00:00</updated>
+    <content>In Hawaii for TikTok Japan campaign💙 海だ〜🌊　インフルエンサーとして呼んでもらったので、ハワイ配信や投稿いっぱいします！</content>
+    <link href="https://www.tiktok.com/@shibuya_kaho/video/7248703856396225793" rel="alternate"/>
+    <published>2023-06-25T19:13:16+00:00</published>
   </entry>
 </feed>

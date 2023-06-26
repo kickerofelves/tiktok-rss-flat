@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@circusfaery33</id>
   <title>@circusfaery33 | TikTok</title>
-  <updated>2023-06-24T21:14:11+00:00</updated>
+  <updated>2023-06-26T00:59:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @circusfaery33</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7247686576686239022</id>
-    <title>Replying to @Scott Treiber  I'm not arguing with trolls--I know they can't learn. I do it for the people who want to learn, for the people doing the same work, and for people who think this level of ignorance and malice don't really exist. </title>
-    <updated>2023-06-23T01:25:56+00:00</updated>
-    <content>Replying to @Scott Treiber  I'm not arguing with trolls--I know they can't learn. I do it for the people who want to learn, for the people doing the same work, and for people who think this level of ignorance and malice don't really exist. </content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7247686576686239022" rel="alternate"/>
-    <published>2023-06-23T01:25:56+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7247902164838878507</id>
-    <title>Replying to @dannypark247  Your matb's not mathing. Is China a surveillance state with no freedoms and persecution abound, or are you meeting many Chinese people who feel secure in their freedom of speech to express criticism of the government to you? </title>
-    <updated>2023-06-23T15:22:27+00:00</updated>
-    <content>Replying to @dannypark247  Your matb's not mathing. Is China a surveillance state with no freedoms and persecution abound, or are you meeting many Chinese people who feel secure in their freedom of speech to express criticism of the government to you? </content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7247902164838878507" rel="alternate"/>
-    <published>2023-06-23T15:22:27+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7247943655640796462</id>
-    <title>Replying to @white_and_little   Race is a colonial construct that jas caused harms loke racism. So we can stop iusing the word race once we have dismantled racism. #asianamerican  #modelminority #antiracism #solidarity </title>
-    <updated>2023-06-23T18:03:19+00:00</updated>
-    <content>Replying to @white_and_little   Race is a colonial construct that jas caused harms loke racism. So we can stop iusing the word race once we have dismantled racism. #asianamerican  #modelminority #antiracism #solidarity </content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7247943655640796462" rel="alternate"/>
-    <published>2023-06-23T18:03:19+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@circusfaery33/video/7247990791015124270</id>
     <title>Replying to @Big Blue Ocean I relate to this comment in very complicated ways. It's been experiencing anti-Chinese bigotry  that made me realize how biased my own views on China are, and that has ironically made me more open minded about China.</title>
@@ -51,5 +27,29 @@
     <content>Replying to @gotthatsnipe   *Black people. And among high selectivity immigrants, Africans actually study harder than Asians. #asianamerican #modelminority #antiracism #solidarity </content>
     <link href="https://www.tiktok.com/@circusfaery33/video/7248363909650992427" rel="alternate"/>
     <published>2023-06-24T21:14:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7248724494901071147</id>
+    <title>Replying to @hank  Which race gap, Hank? </title>
+    <updated>2023-06-25T20:33:24+00:00</updated>
+    <content>Replying to @hank  Which race gap, Hank? </content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7248724494901071147" rel="alternate"/>
+    <published>2023-06-25T20:33:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7248726354022255918</id>
+    <title>Replying to @hank   I see you're sticking with laziness and entitlement, so here's your video. And for somebody who thought smallpox was cured, what were your SAT scores? #asianamaerican #modelminortymyth #antiracism #solidarity </title>
+    <updated>2023-06-25T20:40:37+00:00</updated>
+    <content>Replying to @hank   I see you're sticking with laziness and entitlement, so here's your video. And for somebody who thought smallpox was cured, what were your SAT scores? #asianamaerican #modelminortymyth #antiracism #solidarity </content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7248726354022255918" rel="alternate"/>
+    <published>2023-06-25T20:40:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7248793152121818410</id>
+    <title>Replying to @Bruh </title>
+    <updated>2023-06-26T00:59:47+00:00</updated>
+    <content>Replying to @Bruh </content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7248793152121818410" rel="alternate"/>
+    <published>2023-06-26T00:59:47+00:00</published>
   </entry>
 </feed>
