@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ellietheempress</id>
   <title>@ellietheempress | TikTok</title>
-  <updated>2023-06-25T20:02:28+00:00</updated>
+  <updated>2023-06-26T04:06:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ellietheempress</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@ellietheempress/video/7247494093390023978</id>
-    <title>#viral </title>
-    <updated>2023-06-22T12:59:15+00:00</updated>
-    <content>#viral </content>
-    <link href="https://www.tiktok.com/@ellietheempress/video/7247494093390023978" rel="alternate"/>
-    <published>2023-06-22T12:59:15+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@ellietheempress/video/7248203970471267630</id>
     <title>You lookin? #foryou #viral </title>
@@ -51,5 +43,13 @@
     <content>San Juan, PR is on my list of places better than Orlando now 🥰 #viral #foryou #fyp </content>
     <link href="https://www.tiktok.com/@ellietheempress/video/7248716500960431402" rel="alternate"/>
     <published>2023-06-25T20:02:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ellietheempress/video/7248841193142897963</id>
+    <title>People love big personalities 🥰🥰🥰 #foryou #fyp #viral </title>
+    <updated>2023-06-26T04:06:12+00:00</updated>
+    <content>People love big personalities 🥰🥰🥰 #foryou #fyp #viral </content>
+    <link href="https://www.tiktok.com/@ellietheempress/video/7248841193142897963" rel="alternate"/>
+    <published>2023-06-26T04:06:12+00:00</published>
   </entry>
 </feed>
