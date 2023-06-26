@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@annarennsworld</id>
   <title>@annarennsworld | TikTok</title>
-  <updated>2023-06-24T20:25:12+00:00</updated>
+  <updated>2023-06-26T20:08:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @annarennsworld</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@annarennsworld/video/7247963746780532014</id>
-    <title>LMAO</title>
-    <updated>2023-06-23T19:21:24+00:00</updated>
-    <content>LMAO</content>
-    <link href="https://www.tiktok.com/@annarennsworld/video/7247963746780532014" rel="alternate"/>
-    <published>2023-06-23T19:21:24+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@annarennsworld/video/7247963769916263726</id>
     <title>[no title]</title>
@@ -51,5 +43,13 @@
     <content>So scared wish me luck</content>
     <link href="https://www.tiktok.com/@annarennsworld/video/7248351301254270251" rel="alternate"/>
     <published>2023-06-24T20:25:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@annarennsworld/video/7249089134122503470</id>
+    <title>I love looking sexy at the gym it makes the workouts more enjoyable </title>
+    <updated>2023-06-26T20:08:27+00:00</updated>
+    <content>I love looking sexy at the gym it makes the workouts more enjoyable </content>
+    <link href="https://www.tiktok.com/@annarennsworld/video/7249089134122503470" rel="alternate"/>
+    <published>2023-06-26T20:08:27+00:00</published>
   </entry>
 </feed>
