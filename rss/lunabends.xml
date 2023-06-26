@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@lunabends</id>
   <title>@lunabends | TikTok</title>
-  <updated>2023-06-25T16:44:36+00:00</updated>
+  <updated>2023-06-25T23:37:02+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @lunabends</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@lunabends/video/7248058934366424366</id>
-    <title>New fave song 😅 need it on spotify asap  #pole #poledance #dancer #poletricks #flexible #splits #fishnets #pleasersheels #heels #aerialtricks </title>
-    <updated>2023-06-24T01:30:39+00:00</updated>
-    <content>New fave song 😅 need it on spotify asap  #pole #poledance #dancer #poletricks #flexible #splits #fishnets #pleasersheels #heels #aerialtricks </content>
-    <link href="https://www.tiktok.com/@lunabends/video/7248058934366424366" rel="alternate"/>
-    <published>2023-06-24T01:30:39+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@lunabends/video/7248287894652063019</id>
     <title>Because flexibility is awesome 😎  #flexible #fyp #splits #stretching #aritzia #romper #summer2023 #flexy </title>
@@ -51,5 +43,13 @@
     <content>Sunday funday 😅 #fyp #stretching #flexy #flexible #splits #aritzia #tryon #summer2024 #yoga #yogi #barbieworld </content>
     <link href="https://www.tiktok.com/@lunabends/video/7248665511079284010" rel="alternate"/>
     <published>2023-06-25T16:44:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lunabends/video/7248771818423717166</id>
+    <title>Floorwork vibes 😎  #floorwork #splits #flexible #pleasersheels #pole #poletricks #dancer #dance #poledancer </title>
+    <updated>2023-06-25T23:37:02+00:00</updated>
+    <content>Floorwork vibes 😎  #floorwork #splits #flexible #pleasersheels #pole #poletricks #dancer #dance #poledancer </content>
+    <link href="https://www.tiktok.com/@lunabends/video/7248771818423717166" rel="alternate"/>
+    <published>2023-06-25T23:37:02+00:00</published>
   </entry>
 </feed>
