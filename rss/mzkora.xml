@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mzkora</id>
   <title>@mzkora | TikTok</title>
-  <updated>2023-06-25T06:40:10+00:00</updated>
+  <updated>2023-06-26T02:29:18+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @mzkora</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@mzkora/video/7244763756348083502</id>
-    <title>Wait until he finds out he has to re-do these dishes. #fyp #fypシ #momof9 #dishes #couples #marriage #chores #parentsof9 #fambam #dirtydishes </title>
-    <updated>2023-06-15T04:23:42+00:00</updated>
-    <content>Wait until he finds out he has to re-do these dishes. #fyp #fypシ #momof9 #dishes #couples #marriage #chores #parentsof9 #fambam #dirtydishes </content>
-    <link href="https://www.tiktok.com/@mzkora/video/7244763756348083502" rel="alternate"/>
-    <published>2023-06-15T04:23:42+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@mzkora/video/7245001925572267310</id>
-    <title>Ready for some soulful magic with Erykah Badu! 💫 How many of you are joining? Or wish you were? #ErykahBadu #ErykahBaduConcert #unfollowmetour </title>
-    <updated>2023-06-15T19:47:52+00:00</updated>
-    <content>Ready for some soulful magic with Erykah Badu! 💫 How many of you are joining? Or wish you were? #ErykahBadu #ErykahBaduConcert #unfollowmetour </content>
-    <link href="https://www.tiktok.com/@mzkora/video/7245001925572267310" rel="alternate"/>
-    <published>2023-06-15T19:47:52+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@mzkora/video/7246923709972319534</id>
     <title>Replying to @babygirl   My favorite 22 year old + my favorite drink! @OLIPOP #olipoppartner #fyp #fypシ #momof9 #healthiswealth </title>
@@ -51,5 +35,21 @@
     <content>My daughters loved the ocean but they loved shopping even more. 😅 #fyp #fypシ #familyof10 #largefamily #momof9 #motherdaughters #beachseason #laguna </content>
     <link href="https://www.tiktok.com/@mzkora/video/7248509719277505835" rel="alternate"/>
     <published>2023-06-25T06:40:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@mzkora/video/7248796991210229034</id>
+    <title>I dont know what I am supposed to be. 😂 My son is an actual spiderman though. @daukeil #fyp #fypシ #momandson #momof9 #spiderman </title>
+    <updated>2023-06-26T01:14:43+00:00</updated>
+    <content>I dont know what I am supposed to be. 😂 My son is an actual spiderman though. @daukeil #fyp #fypシ #momandson #momof9 #spiderman </content>
+    <link href="https://www.tiktok.com/@mzkora/video/7248796991210229034" rel="alternate"/>
+    <published>2023-06-26T01:14:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@mzkora/video/7248816212375850283</id>
+    <title>Witnessed the soul queen, Erykah Badu, a few nights ago! If you could ask her one thing about her music, what would it be? #erykahbadu #erykahbaduconcert #unfollowmetour </title>
+    <updated>2023-06-26T02:29:18+00:00</updated>
+    <content>Witnessed the soul queen, Erykah Badu, a few nights ago! If you could ask her one thing about her music, what would it be? #erykahbadu #erykahbaduconcert #unfollowmetour </content>
+    <link href="https://www.tiktok.com/@mzkora/video/7248816212375850283" rel="alternate"/>
+    <published>2023-06-26T02:29:18+00:00</published>
   </entry>
 </feed>
