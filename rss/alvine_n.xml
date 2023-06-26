@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@alvine_n</id>
   <title>@alvine_n | TikTok</title>
-  <updated>2023-06-23T17:21:25+00:00</updated>
+  <updated>2023-06-26T19:13:55+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @alvine_n</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@alvine_n/video/7247190421892353307</id>
-    <title>#CapCut This exercise will humble you; the burn 🔥 is unreal but worth the gain 🍑( best for lifting the glutes)#FitnessGoals #glutesworkout #glutes </title>
-    <updated>2023-06-21T17:20:17+00:00</updated>
-    <content>#CapCut This exercise will humble you; the burn 🔥 is unreal but worth the gain 🍑( best for lifting the glutes)#FitnessGoals #glutesworkout #glutes </content>
-    <link href="https://www.tiktok.com/@alvine_n/video/7247190421892353307" rel="alternate"/>
-    <published>2023-06-21T17:20:17+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@alvine_n/video/7247574139689635098</id>
-    <title>Replying to @Ana💍👑   Grow your glutes with me💪#glutesworkout #FitnessJourney </title>
-    <updated>2023-06-22T18:09:22+00:00</updated>
-    <content>Replying to @Ana💍👑   Grow your glutes with me💪#glutesworkout #FitnessJourney </content>
-    <link href="https://www.tiktok.com/@alvine_n/video/7247574139689635098" rel="alternate"/>
-    <published>2023-06-22T18:09:22+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@alvine_n/video/7247580185967496474</id>
     <title>The pain 🥲</title>
@@ -51,5 +35,21 @@
     <content>You got this   Sign up for my fitness app and gain access to exclusive core home workout videos, personalized nutrition plans, and a supportive private community. Together, we'll achieve greatness! ✨👭 💪💪#gymmotivation #gymtok </content>
     <link href="https://www.tiktok.com/@alvine_n/video/7247932876715560218" rel="alternate"/>
     <published>2023-06-23T17:21:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@alvine_n/video/7249062229075561755</id>
+    <title>#CapCut high protein dinner for gain 🍑 cookbook in my bio ❤️#healthy </title>
+    <updated>2023-06-26T18:23:52+00:00</updated>
+    <content>#CapCut high protein dinner for gain 🍑 cookbook in my bio ❤️#healthy </content>
+    <link href="https://www.tiktok.com/@alvine_n/video/7249062229075561755" rel="alternate"/>
+    <published>2023-06-26T18:23:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@alvine_n/video/7249075129186094362</id>
+    <title>Replying to @Renee   😂😂😂 l am dead you go girl 💪</title>
+    <updated>2023-06-26T19:13:55+00:00</updated>
+    <content>Replying to @Renee   😂😂😂 l am dead you go girl 💪</content>
+    <link href="https://www.tiktok.com/@alvine_n/video/7249075129186094362" rel="alternate"/>
+    <published>2023-06-26T19:13:55+00:00</published>
   </entry>
 </feed>
