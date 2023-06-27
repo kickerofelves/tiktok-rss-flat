@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@raquelmartinphd</id>
   <title>@raquelmartinphd | TikTok</title>
-  <updated>2023-06-27T01:52:05+00:00</updated>
+  <updated>2023-06-27T18:00:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @raquelmartinphd</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@raquelmartinphd/video/7247989656690724138</id>
-    <title>[no title]</title>
-    <updated>2023-06-23T21:01:49+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@raquelmartinphd/video/7247989656690724138" rel="alternate"/>
-    <published>2023-06-23T21:01:49+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@raquelmartinphd/video/7248285013563772203</id>
     <title>Hey y’all! I’ll be at the Lit House Block Party on June 30th in the Podcast Room from 3-4 AND in the Courtyard at 4:15!  I hope to see you there! The event will be held at Baldwin Books and Co. 1030 Elysian Fields Ave, New Orleans, LA 70117 It is free to </title>
@@ -51,5 +43,13 @@
     <content>[no description]</content>
     <link href="https://www.tiktok.com/@raquelmartinphd/video/7249177710029819178" rel="alternate"/>
     <published>2023-06-27T01:52:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@raquelmartinphd/video/7249427195490307370</id>
+    <title>Play SHINE by @tobenwigwe </title>
+    <updated>2023-06-27T18:00:10+00:00</updated>
+    <content>Play SHINE by @tobenwigwe </content>
+    <link href="https://www.tiktok.com/@raquelmartinphd/video/7249427195490307370" rel="alternate"/>
+    <published>2023-06-27T18:00:10+00:00</published>
   </entry>
 </feed>
