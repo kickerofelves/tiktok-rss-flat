@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@lunabends</id>
   <title>@lunabends | TikTok</title>
-  <updated>2023-06-26T13:18:55+00:00</updated>
+  <updated>2023-06-26T22:27:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @lunabends</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@lunabends/video/7248326279957646634</id>
-    <title>Don't forget to stretch today 😉  #fyp #yoga #yogi #flexible #flexy #stretching #splits #standingsplit #aritzia #summer2023 #tryon #bendy </title>
-    <updated>2023-06-24T18:48:06+00:00</updated>
-    <content>Don't forget to stretch today 😉  #fyp #yoga #yogi #flexible #flexy #stretching #splits #standingsplit #aritzia #summer2023 #tryon #bendy </content>
-    <link href="https://www.tiktok.com/@lunabends/video/7248326279957646634" rel="alternate"/>
-    <published>2023-06-24T18:48:06+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@lunabends/video/7248402975498964266</id>
-    <title>Pole fits 🔥  #pole #poledancer #dancer #poletricks #pleasersheels #heels #fishnets </title>
-    <updated>2023-06-24T23:45:41+00:00</updated>
-    <content>Pole fits 🔥  #pole #poledancer #dancer #poletricks #pleasersheels #heels #fishnets </content>
-    <link href="https://www.tiktok.com/@lunabends/video/7248402975498964266" rel="alternate"/>
-    <published>2023-06-24T23:45:41+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@lunabends/video/7248665511079284010</id>
     <title>Sunday funday 😅 #fyp #stretching #flexy #flexible #splits #aritzia #tryon #summer2024 #yoga #yogi #barbieworld </title>
@@ -51,5 +35,21 @@
     <content>Chair madness  #chairdance #fyp #pole #chairtricks </content>
     <link href="https://www.tiktok.com/@lunabends/video/7248983504346828075" rel="alternate"/>
     <published>2023-06-26T13:18:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lunabends/video/7249062092546903338</id>
+    <title>Sliding into his DMs like 🤲🏽 #fyp #pole #poletricks #spicyaccountnant #poledancer #dancer #flexible #splits #pleasers </title>
+    <updated>2023-06-26T18:23:28+00:00</updated>
+    <content>Sliding into his DMs like 🤲🏽 #fyp #pole #poletricks #spicyaccountnant #poledancer #dancer #flexible #splits #pleasers </content>
+    <link href="https://www.tiktok.com/@lunabends/video/7249062092546903338" rel="alternate"/>
+    <published>2023-06-26T18:23:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lunabends/video/7249125089441058090</id>
+    <title>Reading books like .... &amp; wondering if tiktok will ever give me new viral songs 🧐  #books #flexible #flexy #splits #stretching #bendy #yogi #yoga #reader #nerdygirl </title>
+    <updated>2023-06-26T22:27:56+00:00</updated>
+    <content>Reading books like .... &amp; wondering if tiktok will ever give me new viral songs 🧐  #books #flexible #flexy #splits #stretching #bendy #yogi #yoga #reader #nerdygirl </content>
+    <link href="https://www.tiktok.com/@lunabends/video/7249125089441058090" rel="alternate"/>
+    <published>2023-06-26T22:27:56+00:00</published>
   </entry>
 </feed>
