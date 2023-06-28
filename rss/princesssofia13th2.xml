@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@princesssofia13th2</id>
   <title>@princesssofia13th2 | TikTok</title>
-  <updated>2023-06-27T14:37:18+00:00</updated>
+  <updated>2023-06-28T04:23:34+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @princesssofia13th2</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@princesssofia13th2/video/7248346782457957674</id>
-    <title>You wouldda thought #fyp #viral #xyzbca  </title>
-    <updated>2023-06-24T20:07:41+00:00</updated>
-    <content>You wouldda thought #fyp #viral #xyzbca  </content>
-    <link href="https://www.tiktok.com/@princesssofia13th2/video/7248346782457957674" rel="alternate"/>
-    <published>2023-06-24T20:07:41+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@princesssofia13th2/video/7248668727921855790</id>
     <title>Nah lowkey hispanic men wanna fugg ode but #fyp #viral #viral </title>
@@ -51,5 +43,13 @@
     <content>[no description]</content>
     <link href="https://www.tiktok.com/@princesssofia13th2/video/7249374928921709867" rel="alternate"/>
     <published>2023-06-27T14:37:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@princesssofia13th2/video/7249587827938168106</id>
+    <title>Right guess gets a free month ;) #fyp </title>
+    <updated>2023-06-28T04:23:34+00:00</updated>
+    <content>Right guess gets a free month ;) #fyp </content>
+    <link href="https://www.tiktok.com/@princesssofia13th2/video/7249587827938168106" rel="alternate"/>
+    <published>2023-06-28T04:23:34+00:00</published>
   </entry>
 </feed>
