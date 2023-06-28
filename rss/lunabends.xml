@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@lunabends</id>
   <title>@lunabends | TikTok</title>
-  <updated>2023-06-28T03:24:30+00:00</updated>
+  <updated>2023-06-28T16:06:53+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @lunabends</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@lunabends/video/7248983504346828075</id>
-    <title>Chair madness  #chairdance #fyp #pole #chairtricks </title>
-    <updated>2023-06-26T13:18:55+00:00</updated>
-    <content>Chair madness  #chairdance #fyp #pole #chairtricks </content>
-    <link href="https://www.tiktok.com/@lunabends/video/7248983504346828075" rel="alternate"/>
-    <published>2023-06-26T13:18:55+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@lunabends/video/7249062092546903338</id>
     <title>Sliding into his DMs like 🤲🏽 #fyp #pole #poletricks #spicyaccountnant #poledancer #dancer #flexible #splits #pleasers </title>
@@ -51,5 +43,13 @@
     <content>It's the hair for me 😬🤓 #pole #poletricks #spinpole #poledancer #dancer #pleasersheels #longhair </content>
     <link href="https://www.tiktok.com/@lunabends/video/7249572605928246570" rel="alternate"/>
     <published>2023-06-28T03:24:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lunabends/video/7249769045153680683</id>
+    <title>Working on my compass pose 🤓 #yogi #yoga #flexible #compasspose </title>
+    <updated>2023-06-28T16:06:53+00:00</updated>
+    <content>Working on my compass pose 🤓 #yogi #yoga #flexible #compasspose </content>
+    <link href="https://www.tiktok.com/@lunabends/video/7249769045153680683" rel="alternate"/>
+    <published>2023-06-28T16:06:53+00:00</published>
   </entry>
 </feed>
