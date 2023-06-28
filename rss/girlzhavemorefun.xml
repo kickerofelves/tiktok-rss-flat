@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@girlzhavemorefun</id>
   <title>@girlzhavemorefun | TikTok</title>
-  <updated>2023-06-27T21:05:43+00:00</updated>
+  <updated>2023-06-28T17:22:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @girlzhavemorefun</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@girlzhavemorefun/video/7247979163863223594</id>
-    <title>My dog slobbered all over me. What else is new 😍 #fyp #viral #car #surprise </title>
-    <updated>2023-06-23T20:21:06+00:00</updated>
-    <content>My dog slobbered all over me. What else is new 😍 #fyp #viral #car #surprise </content>
-    <link href="https://www.tiktok.com/@girlzhavemorefun/video/7247979163863223594" rel="alternate"/>
-    <published>2023-06-23T20:21:06+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@girlzhavemorefun/video/7248423659335847211</id>
     <title>This dress …..  someone wife me up #fyp #viral #wifey #surprise </title>
@@ -51,5 +43,13 @@
     <content>Oh loooord #fyp #viral #trending #bikini </content>
     <link href="https://www.tiktok.com/@girlzhavemorefun/video/7249474993006890283" rel="alternate"/>
     <published>2023-06-27T21:05:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@girlzhavemorefun/video/7249788445713845546</id>
+    <title>Its going down 😉 #fyp #viral #trending #bikini #funny </title>
+    <updated>2023-06-28T17:22:00+00:00</updated>
+    <content>Its going down 😉 #fyp #viral #trending #bikini #funny </content>
+    <link href="https://www.tiktok.com/@girlzhavemorefun/video/7249788445713845546" rel="alternate"/>
+    <published>2023-06-28T17:22:00+00:00</published>
   </entry>
 </feed>
