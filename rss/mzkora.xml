@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mzkora</id>
   <title>@mzkora | TikTok</title>
-  <updated>2023-06-28T05:33:40+00:00</updated>
+  <updated>2023-06-28T20:34:01+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @mzkora</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@mzkora/video/7248796991210229034</id>
-    <title>I dont know what I am supposed to be. 😂 My son is an actual spiderman though. @daukeil #fyp #fypシ #momandson #momof9 #spiderman </title>
-    <updated>2023-06-26T01:14:43+00:00</updated>
-    <content>I dont know what I am supposed to be. 😂 My son is an actual spiderman though. @daukeil #fyp #fypシ #momandson #momof9 #spiderman </content>
-    <link href="https://www.tiktok.com/@mzkora/video/7248796991210229034" rel="alternate"/>
-    <published>2023-06-26T01:14:43+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@mzkora/video/7248816212375850283</id>
     <title>Witnessed the soul queen, Erykah Badu, a few nights ago! If you could ask her one thing about her music, what would it be? #erykahbadu #erykahbaduconcert #unfollowmetour </title>
@@ -51,5 +43,13 @@
     <content>Replying to @Milly  My asked for Bun tutorial! #fyp #fypシ #hairbun #topknot #hairstyle #simplehairstyle #momof9 </content>
     <link href="https://www.tiktok.com/@mzkora/video/7249605868151393579" rel="alternate"/>
     <published>2023-06-28T05:33:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@mzkora/video/7249837908549504299</id>
+    <title>Having a teenager with secrets is difficult. Atleast my choice of soda is no secret. @OLIPOP #olipoppartner #fyp #fypシ #momof9 #healthiswealth </title>
+    <updated>2023-06-28T20:34:01+00:00</updated>
+    <content>Having a teenager with secrets is difficult. Atleast my choice of soda is no secret. @OLIPOP #olipoppartner #fyp #fypシ #momof9 #healthiswealth </content>
+    <link href="https://www.tiktok.com/@mzkora/video/7249837908549504299" rel="alternate"/>
+    <published>2023-06-28T20:34:01+00:00</published>
   </entry>
 </feed>

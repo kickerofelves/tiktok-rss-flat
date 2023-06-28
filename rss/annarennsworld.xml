@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@annarennsworld</id>
   <title>@annarennsworld | TikTok</title>
-  <updated>2023-06-27T22:01:34+00:00</updated>
+  <updated>2023-06-28T18:57:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @annarennsworld</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@annarennsworld/video/7248351301254270251</id>
-    <title>So scared wish me luck</title>
-    <updated>2023-06-24T20:25:12+00:00</updated>
-    <content>So scared wish me luck</content>
-    <link href="https://www.tiktok.com/@annarennsworld/video/7248351301254270251" rel="alternate"/>
-    <published>2023-06-24T20:25:12+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@annarennsworld/video/7249089134122503470</id>
-    <title>I love looking sexy at the gym it makes the workouts more enjoyable </title>
-    <updated>2023-06-26T20:08:27+00:00</updated>
-    <content>I love looking sexy at the gym it makes the workouts more enjoyable </content>
-    <link href="https://www.tiktok.com/@annarennsworld/video/7249089134122503470" rel="alternate"/>
-    <published>2023-06-26T20:08:27+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@annarennsworld/video/7249472237638585643</id>
     <title>Remember im not a dermatologist this worked for me, i have room to grow still. </title>
@@ -51,5 +35,21 @@
     <content>#onthisday LOL my hair back then</content>
     <link href="https://www.tiktok.com/@annarennsworld/video/7249489395596791083" rel="alternate"/>
     <published>2023-06-27T22:01:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@annarennsworld/video/7249812466748689707</id>
+    <title>[no title]</title>
+    <updated>2023-06-28T18:55:17+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@annarennsworld/video/7249812466748689707" rel="alternate"/>
+    <published>2023-06-28T18:55:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@annarennsworld/video/7249813150722280750</id>
+    <title>LMAOAOA</title>
+    <updated>2023-06-28T18:57:52+00:00</updated>
+    <content>LMAOAOA</content>
+    <link href="https://www.tiktok.com/@annarennsworld/video/7249813150722280750" rel="alternate"/>
+    <published>2023-06-28T18:57:52+00:00</published>
   </entry>
 </feed>
