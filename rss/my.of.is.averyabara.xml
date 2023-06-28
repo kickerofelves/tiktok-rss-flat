@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@my.of.is.averyabara</id>
   <title>@my.of.is.averyabara | TikTok</title>
-  <updated>2023-06-27T01:12:12+00:00</updated>
+  <updated>2023-06-27T22:55:51+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @my.of.is.averyabara</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@my.of.is.averyabara/video/7248731127282961710</id>
-    <title>[no title]</title>
-    <updated>2023-06-25T20:59:09+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@my.of.is.averyabara/video/7248731127282961710" rel="alternate"/>
-    <published>2023-06-25T20:59:09+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@my.of.is.averyabara/video/7248799935767006510</id>
-    <title>[no title]</title>
-    <updated>2023-06-26T01:26:05+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@my.of.is.averyabara/video/7248799935767006510" rel="alternate"/>
-    <published>2023-06-26T01:26:05+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@my.of.is.averyabara/video/7249057616461073706</id>
     <title>[no title]</title>
@@ -51,5 +35,21 @@
     <content>#oldermen #bluecollarmen #trucker #averyabara #truckerman #beard #beardedmen </content>
     <link href="https://www.tiktok.com/@my.of.is.averyabara/video/7249167446316191018" rel="alternate"/>
     <published>2023-06-27T01:12:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@my.of.is.averyabara/video/7249414629896588586</id>
+    <title>[no title]</title>
+    <updated>2023-06-27T17:11:22+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@my.of.is.averyabara/video/7249414629896588586" rel="alternate"/>
+    <published>2023-06-27T17:11:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@my.of.is.averyabara/video/7249503374700236075</id>
+    <title>[no title]</title>
+    <updated>2023-06-27T22:55:51+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@my.of.is.averyabara/video/7249503374700236075" rel="alternate"/>
+    <published>2023-06-27T22:55:51+00:00</published>
   </entry>
 </feed>
