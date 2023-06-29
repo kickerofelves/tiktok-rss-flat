@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ellietheempress</id>
   <title>@ellietheempress | TikTok</title>
-  <updated>2023-06-28T12:23:50+00:00</updated>
+  <updated>2023-06-29T03:43:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ellietheempress</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@ellietheempress/video/7248948091682950443</id>
-    <title>#foryou #fyp #viral </title>
-    <updated>2023-06-26T11:01:53+00:00</updated>
-    <content>#foryou #fyp #viral </content>
-    <link href="https://www.tiktok.com/@ellietheempress/video/7248948091682950443" rel="alternate"/>
-    <published>2023-06-26T11:01:53+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@ellietheempress/video/7249064474068487466</id>
     <title>#fyp #foryou </title>
@@ -51,5 +43,13 @@
     <content>These platforms are so unfair. #foryou #viral #fyp </content>
     <link href="https://www.tiktok.com/@ellietheempress/video/7249711468860509482" rel="alternate"/>
     <published>2023-06-28T12:23:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ellietheempress/video/7249948692893945131</id>
+    <title>I cant work and have fun at the same time 😩 #viral #foryou </title>
+    <updated>2023-06-29T03:43:50+00:00</updated>
+    <content>I cant work and have fun at the same time 😩 #viral #foryou </content>
+    <link href="https://www.tiktok.com/@ellietheempress/video/7249948692893945131" rel="alternate"/>
+    <published>2023-06-29T03:43:50+00:00</published>
   </entry>
 </feed>
