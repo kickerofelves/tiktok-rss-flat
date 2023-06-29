@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@sincerelypisces</id>
   <title>@sincerelypisces | TikTok</title>
-  <updated>2023-06-25T17:02:33+00:00</updated>
+  <updated>2023-06-29T16:38:44+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @sincerelypisces</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@sincerelypisces/video/7246884389391600942</id>
-    <title>the most beautiful day  </title>
-    <updated>2023-06-20T21:32:54+00:00</updated>
-    <content>the most beautiful day  </content>
-    <link href="https://www.tiktok.com/@sincerelypisces/video/7246884389391600942" rel="alternate"/>
-    <published>2023-06-20T21:32:54+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@sincerelypisces/video/7247230350034996526</id>
     <title>[no title]</title>
@@ -51,5 +43,13 @@
     <content>[no description]</content>
     <link href="https://www.tiktok.com/@sincerelypisces/video/7248670151116098862" rel="alternate"/>
     <published>2023-06-25T17:02:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@sincerelypisces/video/7250148381601828139</id>
+    <title>“when you call me close to tell me your body is not beautiful i want to summon the eyes and hidden mouths of stone of light of water to testify against you…” - leonard cohen “the curves of your lips rewrite history.” oscar wilde  “there are darknesses in </title>
+    <updated>2023-06-29T16:38:44+00:00</updated>
+    <content>“when you call me close to tell me your body is not beautiful i want to summon the eyes and hidden mouths of stone of light of water to testify against you…” - leonard cohen “the curves of your lips rewrite history.” oscar wilde  “there are darknesses in life and there are lights; you are one of the lights, the light of all lights” - bram stoker “I would love to say that you make me weak in the knees but to be quite upfront and completely truthful you make my body forget it has knees at all.” - tyler knott gregson i could go on.. “every atom of your flesh is as dear to me as my own: in pain and sickness it would still be dear.” - charlotte brontë #literature #trending #romancenovels </content>
+    <link href="https://www.tiktok.com/@sincerelypisces/video/7250148381601828139" rel="alternate"/>
+    <published>2023-06-29T16:38:44+00:00</published>
   </entry>
 </feed>
