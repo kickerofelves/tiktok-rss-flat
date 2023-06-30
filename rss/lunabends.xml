@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@lunabends</id>
   <title>@lunabends | TikTok</title>
-  <updated>2023-06-29T15:01:30+00:00</updated>
+  <updated>2023-06-30T02:30:18+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @lunabends</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@lunabends/video/7249572605928246570</id>
-    <title>It's the hair for me 😬🤓 #pole #poletricks #spinpole #poledancer #dancer #pleasersheels #longhair </title>
-    <updated>2023-06-28T03:24:30+00:00</updated>
-    <content>It's the hair for me 😬🤓 #pole #poletricks #spinpole #poledancer #dancer #pleasersheels #longhair </content>
-    <link href="https://www.tiktok.com/@lunabends/video/7249572605928246570" rel="alternate"/>
-    <published>2023-06-28T03:24:30+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@lunabends/video/7249769045153680683</id>
-    <title>Working on my compass pose 🤓 #yogi #yoga #flexible #compasspose </title>
-    <updated>2023-06-28T16:06:53+00:00</updated>
-    <content>Working on my compass pose 🤓 #yogi #yoga #flexible #compasspose </content>
-    <link href="https://www.tiktok.com/@lunabends/video/7249769045153680683" rel="alternate"/>
-    <published>2023-06-28T16:06:53+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@lunabends/video/7249805952981994795</id>
     <title>Frog pose featuring messy hair 🥴😅 #yogi #yoga #flexible #longhair #stretching </title>
@@ -51,5 +35,21 @@
     <content>[no description]</content>
     <link href="https://www.tiktok.com/@lunabends/video/7250123326021045546" rel="alternate"/>
     <published>2023-06-29T15:01:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lunabends/video/7250206389531069742</id>
+    <title>It's a russian split 😬  #yogi #yoga #flexible #splits </title>
+    <updated>2023-06-29T20:23:54+00:00</updated>
+    <content>It's a russian split 😬  #yogi #yoga #flexible #splits </content>
+    <link href="https://www.tiktok.com/@lunabends/video/7250206389531069742" rel="alternate"/>
+    <published>2023-06-29T20:23:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lunabends/video/7250300842564144426</id>
+    <title>Perfoming is always fun 🤓 #pole #poletricks #stagepole #spinpole #poledancer #dancer #pleasersheels #xpole </title>
+    <updated>2023-06-30T02:30:18+00:00</updated>
+    <content>Perfoming is always fun 🤓 #pole #poletricks #stagepole #spinpole #poledancer #dancer #pleasersheels #xpole </content>
+    <link href="https://www.tiktok.com/@lunabends/video/7250300842564144426" rel="alternate"/>
+    <published>2023-06-30T02:30:18+00:00</published>
   </entry>
 </feed>
