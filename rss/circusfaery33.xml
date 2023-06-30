@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@circusfaery33</id>
   <title>@circusfaery33 | TikTok</title>
-  <updated>2023-06-28T15:57:59+00:00</updated>
+  <updated>2023-06-29T18:45:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @circusfaery33</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7249055221500972330</id>
-    <title>Replying to @OmManiPadmi   How is race a nom-sequitor when the question asked abouy race? The logic is both class and racial discrimination exist. If a person doesn't want an inference drawn that people are inferior on the basis of class, they should not </title>
-    <updated>2023-06-26T17:56:52+00:00</updated>
-    <content>Replying to @OmManiPadmi   How is race a nom-sequitor when the question asked abouy race? The logic is both class and racial discrimination exist. If a person doesn't want an inference drawn that people are inferior on the basis of class, they should not make an argument that certain people are inferior on the basis of race, which is what the commenter was doing.</content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7249055221500972330" rel="alternate"/>
-    <published>2023-06-26T17:56:52+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7249075355540016426</id>
-    <title>Replying to @white_and_little  I apologize for making assumptions and wrongly attritibuting ill intent to you. Thank you for your patience and emotional labor in not writing me off and continuing to engage wkth me. </title>
-    <updated>2023-06-26T19:14:49+00:00</updated>
-    <content>Replying to @white_and_little  I apologize for making assumptions and wrongly attritibuting ill intent to you. Thank you for your patience and emotional labor in not writing me off and continuing to engage wkth me. </content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7249075355540016426" rel="alternate"/>
-    <published>2023-06-26T19:14:49+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@circusfaery33/video/7249389475976023339</id>
     <title>[no title]</title>
@@ -51,5 +35,21 @@
     <content>Replying to @Inuyashagami   While it is more difficult for people who bemefit from systems of oppression to recognize harm and unlearn inherent bias, anti-racism is not about villifying people, and recognizes that we are all capable of transformational change, but we have to be willing to learn.</content>
     <link href="https://www.tiktok.com/@circusfaery33/video/7249766747480395051" rel="alternate"/>
     <published>2023-06-28T15:57:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7250140764523597098</id>
+    <title>[no title]</title>
+    <updated>2023-06-29T16:09:11+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7250140764523597098" rel="alternate"/>
+    <published>2023-06-29T16:09:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7250181027216526638</id>
+    <title>#asianamerican #modelminority #antiracism #solidarity </title>
+    <updated>2023-06-29T18:45:24+00:00</updated>
+    <content>#asianamerican #modelminority #antiracism #solidarity </content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7250181027216526638" rel="alternate"/>
+    <published>2023-06-29T18:45:24+00:00</published>
   </entry>
 </feed>
