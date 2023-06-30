@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@shibuya_kaho</id>
   <title>@shibuya_kaho | TikTok</title>
-  <updated>2023-06-28T16:57:00+00:00</updated>
+  <updated>2023-06-30T02:04:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @shibuya_kaho</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@shibuya_kaho/video/7244192655880621314</id>
-    <title>I got the opportunity to promote #AOT #ukiyoe and owe one❣️ I'll definitely hang it on my wall...  進撃の巨人浮世絵PR案件が来たので、報酬として私もいただきます(￣∀￣) 本当に素敵✨</title>
-    <updated>2023-06-13T15:27:24+00:00</updated>
-    <content>I got the opportunity to promote #AOT #ukiyoe and owe one❣️ I'll definitely hang it on my wall...  進撃の巨人浮世絵PR案件が来たので、報酬として私もいただきます(￣∀￣) 本当に素敵✨</content>
-    <link href="https://www.tiktok.com/@shibuya_kaho/video/7244192655880621314" rel="alternate"/>
-    <published>2023-06-13T15:27:24+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@shibuya_kaho/video/7245776708870229249</id>
     <title>Oh deer... 🦌</title>
@@ -51,5 +43,13 @@
     <content>Hawaiian local Mr. and Mrs. Gokuflex took me to gym💪 肩の日焼けとタトゥーシールで強そう感出てますが、絶賛筋肉痛なうです！</content>
     <link href="https://www.tiktok.com/@shibuya_kaho/video/7249782026792930561" rel="alternate"/>
     <published>2023-06-28T16:57:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@shibuya_kaho/video/7250294149314809089</id>
+    <title>Behind the scenes of my Bizzare adventure with CDawgVA‼️ We did ice-fisnihing in Gunma🐟 群馬でワカサギ釣り撮影した時の(っ ॑꒳ ॑c)</title>
+    <updated>2023-06-30T02:04:20+00:00</updated>
+    <content>Behind the scenes of my Bizzare adventure with CDawgVA‼️ We did ice-fisnihing in Gunma🐟 群馬でワカサギ釣り撮影した時の(っ ॑꒳ ॑c)</content>
+    <link href="https://www.tiktok.com/@shibuya_kaho/video/7250294149314809089" rel="alternate"/>
+    <published>2023-06-30T02:04:20+00:00</published>
   </entry>
 </feed>
