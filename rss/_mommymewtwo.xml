@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@_mommymewtwo</id>
   <title>@_mommymewtwo | TikTok</title>
-  <updated>2023-06-29T15:16:08+00:00</updated>
+  <updated>2023-07-02T15:30:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @_mommymewtwo</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@_mommymewtwo/video/7248639102847847707</id>
-    <title>Just a few of my favourite lower body exercises🦖 #fyp #viral #mewtwo #musclemommy #gymtok </title>
-    <updated>2023-06-25T15:01:57+00:00</updated>
-    <content>Just a few of my favourite lower body exercises🦖 #fyp #viral #mewtwo #musclemommy #gymtok </content>
-    <link href="https://www.tiktok.com/@_mommymewtwo/video/7248639102847847707" rel="alternate"/>
-    <published>2023-06-25T15:01:57+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@_mommymewtwo/video/7249012140760173851</id>
-    <title>#fyp #viral #mewtwo #musclemommy </title>
-    <updated>2023-06-26T15:09:31+00:00</updated>
-    <content>#fyp #viral #mewtwo #musclemommy </content>
-    <link href="https://www.tiktok.com/@_mommymewtwo/video/7249012140760173851" rel="alternate"/>
-    <published>2023-06-26T15:09:31+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@_mommymewtwo/video/7249388282331548954</id>
-    <title>#fyp #viral #mewtwo #musclemommy #gymtok </title>
-    <updated>2023-06-27T15:29:07+00:00</updated>
-    <content>#fyp #viral #mewtwo #musclemommy #gymtok </content>
-    <link href="https://www.tiktok.com/@_mommymewtwo/video/7249388282331548954" rel="alternate"/>
-    <published>2023-06-27T15:29:07+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@_mommymewtwo/video/7249756077095390490</id>
     <title>Don’t mind me just walkin’ #fyp #viral #mewtwo #musclemommy #gymtok </title>
@@ -51,5 +27,29 @@
     <content>#fyp #viral #trending #mewtwo #glutepump #gymtok #transition </content>
     <link href="https://www.tiktok.com/@_mommymewtwo/video/7250127115448831258" rel="alternate"/>
     <published>2023-06-29T15:16:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@_mommymewtwo/video/7250461100934696219</id>
+    <title>#fyp #viral #mewtwo #gymtok #recoil </title>
+    <updated>2023-06-30T12:52:12+00:00</updated>
+    <content>#fyp #viral #mewtwo #gymtok #recoil </content>
+    <link href="https://www.tiktok.com/@_mommymewtwo/video/7250461100934696219" rel="alternate"/>
+    <published>2023-06-30T12:52:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@_mommymewtwo/video/7250871873045663002</id>
+    <title>I just wnna dance✨ #fyp #viral #mewtwo #recoil #musclemommy </title>
+    <updated>2023-07-01T15:26:16+00:00</updated>
+    <content>I just wnna dance✨ #fyp #viral #mewtwo #recoil #musclemommy </content>
+    <link href="https://www.tiktok.com/@_mommymewtwo/video/7250871873045663002" rel="alternate"/>
+    <published>2023-07-01T15:26:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@_mommymewtwo/video/7251243924000345370</id>
+    <title>🍑 #fyp #viral #mewtwo #musclemommy #gymtok #glutepump </title>
+    <updated>2023-07-02T15:30:00+00:00</updated>
+    <content>🍑 #fyp #viral #mewtwo #musclemommy #gymtok #glutepump </content>
+    <link href="https://www.tiktok.com/@_mommymewtwo/video/7251243924000345370" rel="alternate"/>
+    <published>2023-07-02T15:30:00+00:00</published>
   </entry>
 </feed>
