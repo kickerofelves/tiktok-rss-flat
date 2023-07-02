@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@pearlwats</id>
   <title>@pearlwats | TikTok</title>
-  <updated>2023-06-15T13:31:27+00:00</updated>
+  <updated>2023-07-02T15:01:25+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @pearlwats</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@pearlwats/video/7236804188347567365</id>
-    <title>My foundation finish so i borrow my friend own. Make una no vex abeg🤭😂😂</title>
-    <updated>2023-05-24T17:36:20+00:00</updated>
-    <content>My foundation finish so i borrow my friend own. Make una no vex abeg🤭😂😂</content>
-    <link href="https://www.tiktok.com/@pearlwats/video/7236804188347567365" rel="alternate"/>
-    <published>2023-05-24T17:36:20+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@pearlwats/video/7237947812367846661</id>
     <title>[no title]</title>
@@ -51,5 +43,13 @@
     <content>#CapCut </content>
     <link href="https://www.tiktok.com/@pearlwats/video/7244904956610792709" rel="alternate"/>
     <published>2023-06-15T13:31:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@pearlwats/video/7251236588431101189</id>
+    <title>🤭🤭🤭</title>
+    <updated>2023-07-02T15:01:25+00:00</updated>
+    <content>🤭🤭🤭</content>
+    <link href="https://www.tiktok.com/@pearlwats/video/7251236588431101189" rel="alternate"/>
+    <published>2023-07-02T15:01:25+00:00</published>
   </entry>
 </feed>
