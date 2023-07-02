@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mzkora</id>
   <title>@mzkora | TikTok</title>
-  <updated>2023-06-28T20:34:01+00:00</updated>
+  <updated>2023-07-02T18:04:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @mzkora</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@mzkora/video/7248816212375850283</id>
-    <title>Witnessed the soul queen, Erykah Badu, a few nights ago! If you could ask her one thing about her music, what would it be? #erykahbadu #erykahbaduconcert #unfollowmetour </title>
-    <updated>2023-06-26T02:29:18+00:00</updated>
-    <content>Witnessed the soul queen, Erykah Badu, a few nights ago! If you could ask her one thing about her music, what would it be? #erykahbadu #erykahbaduconcert #unfollowmetour </content>
-    <link href="https://www.tiktok.com/@mzkora/video/7248816212375850283" rel="alternate"/>
-    <published>2023-06-26T02:29:18+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@mzkora/video/7249148129512017194</id>
     <title>I really need to be more careful! 🫣 #fyp #fypシ #lostphone #lostphonestory #iphone #misadventures #mombrain #forgetful </title>
@@ -51,5 +43,13 @@
     <content>Having a teenager with secrets is difficult. Atleast my choice of soda is no secret. @OLIPOP #olipoppartner #fyp #fypシ #momof9 #healthiswealth </content>
     <link href="https://www.tiktok.com/@mzkora/video/7249837908549504299" rel="alternate"/>
     <published>2023-06-28T20:34:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@mzkora/video/7251283726615776555</id>
+    <title>Replying to @Redolent Essence   #greenscreen #Inverted My skin car routine! Prosucts used.. CeraVe Foaming Facial Cleanser | Origins Ginzing Gel Moisturizer | Origins Multi Powered Youth Serum | Maybelline Fit Me Matte Poreless Primer/Sunscreen #fyp #fypシ</title>
+    <updated>2023-07-02T18:04:33+00:00</updated>
+    <content>Replying to @Redolent Essence   #greenscreen #Inverted My skin car routine! Prosucts used.. CeraVe Foaming Facial Cleanser | Origins Ginzing Gel Moisturizer | Origins Multi Powered Youth Serum | Maybelline Fit Me Matte Poreless Primer/Sunscreen #fyp #fypシ #momof9 #healthiswealth #skincare #skincareroutine #skincarejourney </content>
+    <link href="https://www.tiktok.com/@mzkora/video/7251283726615776555" rel="alternate"/>
+    <published>2023-07-02T18:04:33+00:00</published>
   </entry>
 </feed>
