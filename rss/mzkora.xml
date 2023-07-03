@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mzkora</id>
   <title>@mzkora | TikTok</title>
-  <updated>2023-07-03T03:23:43+00:00</updated>
+  <updated>2023-07-03T21:59:58+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @mzkora</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@mzkora/video/7249189607458262315</id>
-    <title>Do ya’ll think they caught the beat? #fyp #fypシ #momof9 #dancechallenge #parentsof9 #familyof10 #dancing #boymom @GQGEMINI </title>
-    <updated>2023-06-27T02:38:14+00:00</updated>
-    <content>Do ya’ll think they caught the beat? #fyp #fypシ #momof9 #dancechallenge #parentsof9 #familyof10 #dancing #boymom @GQGEMINI </content>
-    <link href="https://www.tiktok.com/@mzkora/video/7249189607458262315" rel="alternate"/>
-    <published>2023-06-27T02:38:14+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@mzkora/video/7249605868151393579</id>
-    <title>Replying to @Milly  My asked for Bun tutorial! #fyp #fypシ #hairbun #topknot #hairstyle #simplehairstyle #momof9 </title>
-    <updated>2023-06-28T05:33:40+00:00</updated>
-    <content>Replying to @Milly  My asked for Bun tutorial! #fyp #fypシ #hairbun #topknot #hairstyle #simplehairstyle #momof9 </content>
-    <link href="https://www.tiktok.com/@mzkora/video/7249605868151393579" rel="alternate"/>
-    <published>2023-06-28T05:33:40+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@mzkora/video/7249837908549504299</id>
     <title>Having a teenager with secrets is difficult. Atleast my choice of soda is no secret. @OLIPOP #olipoppartner #fyp #fypシ #momof9 #healthiswealth </title>
@@ -51,5 +35,21 @@
     <content>Replying to @⚠️⚠️⚠️   Its my truth and I am going to share it. #fyp #fypシ #momof9 #teenpregnancy #mytruth #familyof10 #iwontbesilenced #speakup </content>
     <link href="https://www.tiktok.com/@mzkora/video/7251427851335994670" rel="alternate"/>
     <published>2023-07-03T03:23:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@mzkora/video/7251670940935900459</id>
+    <title>On vacation with my favorite person and of course my favorite drink! @OLIPOP #olipoppartner #fyp #fypシ #momof9 #vacation #vacationmode #chilling #healthiswealth </title>
+    <updated>2023-07-03T19:07:06+00:00</updated>
+    <content>On vacation with my favorite person and of course my favorite drink! @OLIPOP #olipoppartner #fyp #fypシ #momof9 #vacation #vacationmode #chilling #healthiswealth </content>
+    <link href="https://www.tiktok.com/@mzkora/video/7251670940935900459" rel="alternate"/>
+    <published>2023-07-03T19:07:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@mzkora/video/7251715494238031147</id>
+    <title>My biggest kid ladies and gentleman! #fyp #fypシ #momof9 #vacation #fashion #vacationmode #chilling #parentsof9 @GQGEMINI </title>
+    <updated>2023-07-03T21:59:58+00:00</updated>
+    <content>My biggest kid ladies and gentleman! #fyp #fypシ #momof9 #vacation #fashion #vacationmode #chilling #parentsof9 @GQGEMINI </content>
+    <link href="https://www.tiktok.com/@mzkora/video/7251715494238031147" rel="alternate"/>
+    <published>2023-07-03T21:59:58+00:00</published>
   </entry>
 </feed>
