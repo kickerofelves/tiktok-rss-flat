@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@princesssofia13th2</id>
   <title>@princesssofia13th2 | TikTok</title>
-  <updated>2023-07-02T17:15:47+00:00</updated>
+  <updated>2023-07-03T18:16:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @princesssofia13th2</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@princesssofia13th2/video/7249830478117621035</id>
-    <title>Happy pride month 😄😄😄 #fyp #xyzbca #viral </title>
-    <updated>2023-06-28T20:05:08+00:00</updated>
-    <content>Happy pride month 😄😄😄 #fyp #xyzbca #viral </content>
-    <link href="https://www.tiktok.com/@princesssofia13th2/video/7249830478117621035" rel="alternate"/>
-    <published>2023-06-28T20:05:08+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@princesssofia13th2/video/7249955490338213166</id>
     <title>Back 2 strong #fyp #xyzbca #viral </title>
@@ -51,5 +43,13 @@
     <content>#fyp </content>
     <link href="https://www.tiktok.com/@princesssofia13th2/video/7251271160371973419" rel="alternate"/>
     <published>2023-07-02T17:15:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@princesssofia13th2/video/7251657875175656750</id>
+    <title>[no title]</title>
+    <updated>2023-07-03T18:16:23+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@princesssofia13th2/video/7251657875175656750" rel="alternate"/>
+    <published>2023-07-03T18:16:23+00:00</published>
   </entry>
 </feed>
