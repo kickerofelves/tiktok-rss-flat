@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@lunabends</id>
   <title>@lunabends | TikTok</title>
-  <updated>2023-07-02T22:26:01+00:00</updated>
+  <updated>2023-07-03T17:16:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @lunabends</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@lunabends/video/7250672809079360810</id>
-    <title>Friday pole sesh ✨ #pole #poletricks #poledancer #dancer #flexible #splits </title>
-    <updated>2023-07-01T02:33:50+00:00</updated>
-    <content>Friday pole sesh ✨ #pole #poletricks #poledancer #dancer #flexible #splits </content>
-    <link href="https://www.tiktok.com/@lunabends/video/7250672809079360810" rel="alternate"/>
-    <published>2023-07-01T02:33:50+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@lunabends/video/7250838762618359083</id>
     <title>Need to get back on my backbend journey !  #fypシ #flexible #backbends </title>
@@ -51,5 +43,13 @@
     <content>Hoping I can take my lollipop back out when it isn't scorching hot 😅 #aerialtricks #lyra #lollipop #xpole #poletricks </content>
     <link href="https://www.tiktok.com/@lunabends/video/7251351111544655147" rel="alternate"/>
     <published>2023-07-02T22:26:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lunabends/video/7251642480821620014</id>
+    <title>Cant wait to pole flow in a new studio for the week ☺️ #poletok #dance #dancer #poletricks </title>
+    <updated>2023-07-03T17:16:39+00:00</updated>
+    <content>Cant wait to pole flow in a new studio for the week ☺️ #poletok #dance #dancer #poletricks </content>
+    <link href="https://www.tiktok.com/@lunabends/video/7251642480821620014" rel="alternate"/>
+    <published>2023-07-03T17:16:39+00:00</published>
   </entry>
 </feed>
