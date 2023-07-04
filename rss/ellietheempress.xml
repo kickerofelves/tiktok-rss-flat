@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ellietheempress</id>
   <title>@ellietheempress | TikTok</title>
-  <updated>2023-07-03T12:19:44+00:00</updated>
+  <updated>2023-07-04T15:17:38+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ellietheempress</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@ellietheempress/video/7250446164087115054</id>
-    <title>Do you like my outfit? #foryou #foryoupage #viral </title>
-    <updated>2023-06-30T11:54:19+00:00</updated>
-    <content>Do you like my outfit? #foryou #foryoupage #viral </content>
-    <link href="https://www.tiktok.com/@ellietheempress/video/7250446164087115054" rel="alternate"/>
-    <published>2023-06-30T11:54:19+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@ellietheempress/video/7250929336188964139</id>
     <title>Cheers to the weekend! #foryou #foryoupage </title>
@@ -51,5 +43,13 @@
     <content>One number away </content>
     <link href="https://www.tiktok.com/@ellietheempress/video/7251565811918310698" rel="alternate"/>
     <published>2023-07-03T12:19:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ellietheempress/video/7251982847815208234</id>
+    <title>Just mad i wasn’t invited #foryou #fyp #4thofjuly </title>
+    <updated>2023-07-04T15:17:38+00:00</updated>
+    <content>Just mad i wasn’t invited #foryou #fyp #4thofjuly </content>
+    <link href="https://www.tiktok.com/@ellietheempress/video/7251982847815208234" rel="alternate"/>
+    <published>2023-07-04T15:17:38+00:00</published>
   </entry>
 </feed>
