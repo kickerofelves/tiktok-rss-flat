@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@onlyemmmy</id>
   <title>@onlyemmmy | TikTok</title>
-  <updated>2023-04-13T00:02:24+00:00</updated>
+  <updated>2023-04-15T02:35:16+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @onlyemmmy</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@onlyemmmy/video/7182357786557287726</id>
-    <title>The game is what I trust </title>
-    <updated>2022-12-29T00:16:33+00:00</updated>
-    <content>The game is what I trust </content>
-    <link href="https://www.tiktok.com/@onlyemmmy/video/7182357786557287726" rel="alternate"/>
-    <published>2022-12-29T00:16:33+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@onlyemmmy/video/7193515262543482154</id>
-    <title>My hair is glowing &amp; I found my Coca-Cola shirt </title>
-    <updated>2023-01-28T01:53:19+00:00</updated>
-    <content>My hair is glowing &amp; I found my Coca-Cola shirt </content>
-    <link href="https://www.tiktok.com/@onlyemmmy/video/7193515262543482154" rel="alternate"/>
-    <published>2023-01-28T01:53:19+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@onlyemmmy/video/7220204808546864430</id>
     <title>Wyd? / just a bikini im an adult</title>
@@ -43,5 +27,29 @@
     <content>Hiii // its just a bikini and im an adult </content>
     <link href="https://www.tiktok.com/@onlyemmmy/video/7221318067941346606" rel="alternate"/>
     <published>2023-04-13T00:02:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@onlyemmmy/video/7221318170458639662</id>
+    <title>Happy wednesday 🐣 // im 20</title>
+    <updated>2023-04-13T00:02:47+00:00</updated>
+    <content>Happy wednesday 🐣 // im 20</content>
+    <link href="https://www.tiktok.com/@onlyemmmy/video/7221318170458639662" rel="alternate"/>
+    <published>2023-04-13T00:02:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@onlyemmmy/video/7222099564247944490</id>
+    <title>Hi me wearing jeans </title>
+    <updated>2023-04-15T02:35:02+00:00</updated>
+    <content>Hi me wearing jeans </content>
+    <link href="https://www.tiktok.com/@onlyemmmy/video/7222099564247944490" rel="alternate"/>
+    <published>2023-04-15T02:35:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@onlyemmmy/video/7222099635718917418</id>
+    <title>What did you do today </title>
+    <updated>2023-04-15T02:35:16+00:00</updated>
+    <content>What did you do today </content>
+    <link href="https://www.tiktok.com/@onlyemmmy/video/7222099635718917418" rel="alternate"/>
+    <published>2023-04-15T02:35:16+00:00</published>
   </entry>
 </feed>
