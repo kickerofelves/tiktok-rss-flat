@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@raquelmartinphd</id>
   <title>@raquelmartinphd | TikTok</title>
-  <updated>2023-07-04T01:29:10+00:00</updated>
+  <updated>2023-07-04T15:43:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @raquelmartinphd</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@raquelmartinphd/video/7250566973782871342</id>
-    <title>#stitch @Jasmine Milan  It's time to flip the script, because what truly affects children are the hidden demons lurking in unhappy homes and constant conflict. #divorce #marriage #relationship #happiness #children </title>
-    <updated>2023-06-30T19:43:09+00:00</updated>
-    <content>#stitch @Jasmine Milan  It's time to flip the script, because what truly affects children are the hidden demons lurking in unhappy homes and constant conflict. #divorce #marriage #relationship #happiness #children </content>
-    <link href="https://www.tiktok.com/@raquelmartinphd/video/7250566973782871342" rel="alternate"/>
-    <published>2023-06-30T19:43:09+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@raquelmartinphd/video/7251353872990588203</id>
     <title>#stitch @Amber Wallin It's easy to fall into the trap of categorizing people as either good or bad, right or wrong. But the truth is, relationships are complex and nuanced, just like the shades of gray that exist between black and white.</title>
@@ -51,5 +43,13 @@
     <content>[no description]</content>
     <link href="https://www.tiktok.com/@raquelmartinphd/video/7251769405208644907" rel="alternate"/>
     <published>2023-07-04T01:29:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@raquelmartinphd/video/7251989423590559018</id>
+    <title>Stop waking up my babies and scaring my dog #fireworks #fourth </title>
+    <updated>2023-07-04T15:43:03+00:00</updated>
+    <content>Stop waking up my babies and scaring my dog #fireworks #fourth </content>
+    <link href="https://www.tiktok.com/@raquelmartinphd/video/7251989423590559018" rel="alternate"/>
+    <published>2023-07-04T15:43:03+00:00</published>
   </entry>
 </feed>
