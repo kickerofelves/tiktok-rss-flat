@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@lunabends</id>
   <title>@lunabends | TikTok</title>
-  <updated>2023-07-04T16:52:00+00:00</updated>
+  <updated>2023-07-05T01:11:46+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @lunabends</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@lunabends/video/7250951042882604334</id>
-    <title>Woooo! Love a nice ballerina pose ☺️ #pole #poletricks #dancer #flexible </title>
-    <updated>2023-07-01T20:33:32+00:00</updated>
-    <content>Woooo! Love a nice ballerina pose ☺️ #pole #poletricks #dancer #flexible </content>
-    <link href="https://www.tiktok.com/@lunabends/video/7250951042882604334" rel="alternate"/>
-    <published>2023-07-01T20:33:32+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@lunabends/video/7251072335015431470</id>
     <title>When he says he's going out with the boys but you want him to stay  #fypシ </title>
@@ -51,5 +43,13 @@
     <content>Being flexy is a lifestyle 😉  #splits #yogi #yoga #flexible </content>
     <link href="https://www.tiktok.com/@lunabends/video/7252007207229852970" rel="alternate"/>
     <published>2023-07-04T16:52:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lunabends/video/7252136009453047086</id>
+    <title>Nice &amp; toasty 😅 #yogi #yoga #flexible #splits </title>
+    <updated>2023-07-05T01:11:46+00:00</updated>
+    <content>Nice &amp; toasty 😅 #yogi #yoga #flexible #splits </content>
+    <link href="https://www.tiktok.com/@lunabends/video/7252136009453047086" rel="alternate"/>
+    <published>2023-07-05T01:11:46+00:00</published>
   </entry>
 </feed>
