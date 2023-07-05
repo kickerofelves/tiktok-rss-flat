@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@6averyabara9</id>
   <title>@6averyabara9 | TikTok</title>
-  <updated>2023-07-04T15:59:19+00:00</updated>
+  <updated>2023-07-05T01:33:46+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @6averyabara9</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@6averyabara9/video/7251052301518048558</id>
-    <title>#averyabara </title>
-    <updated>2023-07-02T03:06:27+00:00</updated>
-    <content>#averyabara </content>
-    <link href="https://www.tiktok.com/@6averyabara9/video/7251052301518048558" rel="alternate"/>
-    <published>2023-07-02T03:06:27+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@6averyabara9/video/7251404917544537390</id>
     <title>[no title]</title>
@@ -51,5 +43,13 @@
     <content>#averyabara </content>
     <link href="https://www.tiktok.com/@6averyabara9/video/7251993626337873198" rel="alternate"/>
     <published>2023-07-04T15:59:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@6averyabara9/video/7252141689538628910</id>
+    <title>#averyabara </title>
+    <updated>2023-07-05T01:33:46+00:00</updated>
+    <content>#averyabara </content>
+    <link href="https://www.tiktok.com/@6averyabara9/video/7252141689538628910" rel="alternate"/>
+    <published>2023-07-05T01:33:46+00:00</published>
   </entry>
 </feed>
