@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@emilylittless</id>
   <title>@emilylittless | TikTok</title>
-  <updated>2023-06-28T00:11:40+00:00</updated>
+  <updated>2023-07-05T15:36:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @emilylittless</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@emilylittless/video/7248071045830249770</id>
-    <title>shoutout to no one walking in while i filmed this at the gym</title>
-    <updated>2023-06-24T02:17:41+00:00</updated>
-    <content>shoutout to no one walking in while i filmed this at the gym</content>
-    <link href="https://www.tiktok.com/@emilylittless/video/7248071045830249770" rel="alternate"/>
-    <published>2023-06-24T02:17:41+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@emilylittless/video/7248503292685208875</id>
     <title>here’s the lil look from the live tonight🥰</title>
@@ -51,5 +43,13 @@
     <content>my momma aint gonna like this one</content>
     <link href="https://www.tiktok.com/@emilylittless/video/7249522908022885678" rel="alternate"/>
     <published>2023-06-28T00:11:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@emilylittless/video/7252358911091576110</id>
+    <title>they gonna be mad about this one🥰  (its a bikini mf)</title>
+    <updated>2023-07-05T15:36:52+00:00</updated>
+    <content>they gonna be mad about this one🥰  (its a bikini mf)</content>
+    <link href="https://www.tiktok.com/@emilylittless/video/7252358911091576110" rel="alternate"/>
+    <published>2023-07-05T15:36:52+00:00</published>
   </entry>
 </feed>
