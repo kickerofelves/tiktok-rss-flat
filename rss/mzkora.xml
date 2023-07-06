@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mzkora</id>
   <title>@mzkora | TikTok</title>
-  <updated>2023-07-03T21:59:58+00:00</updated>
+  <updated>2023-07-06T20:21:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @mzkora</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@mzkora/video/7249837908549504299</id>
-    <title>Having a teenager with secrets is difficult. Atleast my choice of soda is no secret. @OLIPOP #olipoppartner #fyp #fypシ #momof9 #healthiswealth </title>
-    <updated>2023-06-28T20:34:01+00:00</updated>
-    <content>Having a teenager with secrets is difficult. Atleast my choice of soda is no secret. @OLIPOP #olipoppartner #fyp #fypシ #momof9 #healthiswealth </content>
-    <link href="https://www.tiktok.com/@mzkora/video/7249837908549504299" rel="alternate"/>
-    <published>2023-06-28T20:34:01+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@mzkora/video/7251283726615776555</id>
     <title>Replying to @Redolent Essence   #greenscreen #Inverted My skin car routine! Prosucts used.. CeraVe Foaming Facial Cleanser | Origins Ginzing Gel Moisturizer | Origins Multi Powered Youth Serum | Maybelline Fit Me Matte Poreless Primer/Sunscreen #fyp #fypシ</title>
@@ -51,5 +43,13 @@
     <content>My biggest kid ladies and gentleman! #fyp #fypシ #momof9 #vacation #fashion #vacationmode #chilling #parentsof9 @GQGEMINI </content>
     <link href="https://www.tiktok.com/@mzkora/video/7251715494238031147" rel="alternate"/>
     <published>2023-07-03T21:59:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@mzkora/video/7252803306836217134</id>
+    <title>Game on with FEZiBO! 🎮 #fezibo Assembled our new standing desk - perfect for work and play! Check out how we leveled up our gaming setup 👾 Link in bio! #fezibo #StandingDesk #GamingDesk #DIY #FamilyTime #GameOn </title>
+    <updated>2023-07-06T20:21:09+00:00</updated>
+    <content>Game on with FEZiBO! 🎮 #fezibo Assembled our new standing desk - perfect for work and play! Check out how we leveled up our gaming setup 👾 Link in bio! #fezibo #StandingDesk #GamingDesk #DIY #FamilyTime #GameOn </content>
+    <link href="https://www.tiktok.com/@mzkora/video/7252803306836217134" rel="alternate"/>
+    <published>2023-07-06T20:21:09+00:00</published>
   </entry>
 </feed>
