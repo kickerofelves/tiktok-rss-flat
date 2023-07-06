@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@alvine_n</id>
   <title>@alvine_n | TikTok</title>
-  <updated>2023-07-04T19:01:52+00:00</updated>
+  <updated>2023-07-05T14:17:46+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @alvine_n</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@alvine_n/video/7250093806383615258</id>
-    <title>#CapCut #flattummy #bellyfat </title>
-    <updated>2023-06-29T13:06:54+00:00</updated>
-    <content>#CapCut #flattummy #bellyfat </content>
-    <link href="https://www.tiktok.com/@alvine_n/video/7250093806383615258" rel="alternate"/>
-    <published>2023-06-29T13:06:54+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@alvine_n/video/7250096082988928282</id>
     <title>#CapCut </title>
@@ -51,5 +43,13 @@
     <content>Tone your lower tummy 🔥 combine this with strength training and a healthy balance diet ? </content>
     <link href="https://www.tiktok.com/@alvine_n/video/7252040702060662042" rel="alternate"/>
     <published>2023-07-04T19:01:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@alvine_n/video/7252338562367065370</id>
+    <title>Home workout 🔥🔥🔥 structured workout plan &amp; nutrition + private community chat for daily support &amp; motivation in bio ❤️❤️#gymmotivation </title>
+    <updated>2023-07-05T14:17:46+00:00</updated>
+    <content>Home workout 🔥🔥🔥 structured workout plan &amp; nutrition + private community chat for daily support &amp; motivation in bio ❤️❤️#gymmotivation </content>
+    <link href="https://www.tiktok.com/@alvine_n/video/7252338562367065370" rel="alternate"/>
+    <published>2023-07-05T14:17:46+00:00</published>
   </entry>
 </feed>
