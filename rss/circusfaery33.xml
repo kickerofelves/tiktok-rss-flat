@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@circusfaery33</id>
   <title>@circusfaery33 | TikTok</title>
-  <updated>2023-07-05T23:27:22+00:00</updated>
+  <updated>2023-07-06T17:57:57+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @circusfaery33</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7250963647546264878</id>
-    <title>Replying to @Kevin Tang x Amped Asia   Please consider that ✉️ run institutions choose to discriminate against Asians is a separate issue from implementing affirmative action, although we have been conditioned to believe the two are connected by necessity</title>
-    <updated>2023-07-01T21:22:28+00:00</updated>
-    <content>Replying to @Kevin Tang x Amped Asia   Please consider that ✉️ run institutions choose to discriminate against Asians is a separate issue from implementing affirmative action, although we have been conditioned to believe the two are connected by necessity. But affirmative action has repeatedly beem found to not discriminate against ✉️ students. Shouldn't thw solution be, treat Asian and ✉️ students alike? Why is that not the case? </content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7250963647546264878" rel="alternate"/>
-    <published>2023-07-01T21:22:28+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@circusfaery33/video/7250972107801120042</id>
     <title>Replying to @mike85432  Affirmative action does not require discrimination against Asians. Institutions chose discriminating against Asians to preserve ✉️ enrollment.</title>
@@ -51,5 +43,13 @@
     <content>Just took a little break to adjust to my summer work schedule! </content>
     <link href="https://www.tiktok.com/@circusfaery33/video/7252480188720925998" rel="alternate"/>
     <published>2023-07-05T23:27:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7252766404854795566</id>
+    <title>Replying to @strawberrywhisper   Unfortunately, Asian American plaintiffs are being gathered to launch a similar attack on race-conscious admissions policies in specialized K-12 programs. </title>
+    <updated>2023-07-06T17:57:57+00:00</updated>
+    <content>Replying to @strawberrywhisper   Unfortunately, Asian American plaintiffs are being gathered to launch a similar attack on race-conscious admissions policies in specialized K-12 programs. </content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7252766404854795566" rel="alternate"/>
+    <published>2023-07-06T17:57:57+00:00</published>
   </entry>
 </feed>

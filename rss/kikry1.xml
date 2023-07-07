@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@kikry1</id>
   <title>@kikry1 | TikTok</title>
-  <updated>2023-05-21T11:59:29+00:00</updated>
+  <updated>2023-07-06T21:41:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kikry1</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@kikry1/video/7227879982146538757</id>
-    <title>#bodysweet #fy #yogagirls #bikinibabes #kiky #fakebodyy⚠️ #haitiantiktok🇭🇹 #tiktokfrance🇨🇵 </title>
-    <updated>2023-04-30T16:25:51+00:00</updated>
-    <content>#bodysweet #fy #yogagirls #bikinibabes #kiky #fakebodyy⚠️ #haitiantiktok🇭🇹 #tiktokfrance🇨🇵 </content>
-    <link href="https://www.tiktok.com/@kikry1/video/7227879982146538757" rel="alternate"/>
-    <published>2023-04-30T16:25:51+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@kikry1/video/7229042878750674182</id>
     <title>#kiky #fakebodyy⚠️ #haitiantiktok🇭🇹 </title>
@@ -51,5 +43,13 @@
     <content>#parati #fypシ #yogagirl #fakebodyy⚠️ </content>
     <link href="https://www.tiktok.com/@kikry1/video/7235604129660407046" rel="alternate"/>
     <published>2023-05-21T11:59:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@kikry1/video/7252823942015061254</id>
+    <title>follow my second account for live @Kiky🍑 #fakebodyy⚠️ #parati #fypシ #yogagirl </title>
+    <updated>2023-07-06T21:41:12+00:00</updated>
+    <content>follow my second account for live @Kiky🍑 #fakebodyy⚠️ #parati #fypシ #yogagirl </content>
+    <link href="https://www.tiktok.com/@kikry1/video/7252823942015061254" rel="alternate"/>
+    <published>2023-07-06T21:41:12+00:00</published>
   </entry>
 </feed>
