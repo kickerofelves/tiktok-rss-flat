@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@annarennsworld</id>
   <title>@annarennsworld | TikTok</title>
-  <updated>2023-07-06T19:56:04+00:00</updated>
+  <updated>2023-07-07T21:10:36+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @annarennsworld</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@annarennsworld/video/7252788439324855598</id>
-    <title>[no title]</title>
-    <updated>2023-07-06T19:23:30+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@annarennsworld/video/7252788439324855598" rel="alternate"/>
-    <published>2023-07-06T19:23:30+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@annarennsworld/video/7252788869400300846</id>
-    <title>[no title]</title>
-    <updated>2023-07-06T19:25:08+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@annarennsworld/video/7252788869400300846" rel="alternate"/>
-    <published>2023-07-06T19:25:08+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@annarennsworld/video/7252791107925577006</id>
-    <title>I actually love work tho 😛</title>
-    <updated>2023-07-06T19:33:52+00:00</updated>
-    <content>I actually love work tho 😛</content>
-    <link href="https://www.tiktok.com/@annarennsworld/video/7252791107925577006" rel="alternate"/>
-    <published>2023-07-06T19:33:52+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@annarennsworld/video/7252791502789758251</id>
     <title>LMAO</title>
@@ -51,5 +27,29 @@
     <content>Replying to @Zoë &lt;3 #greenscreen LMAOAOA </content>
     <link href="https://www.tiktok.com/@annarennsworld/video/7252796838074436906" rel="alternate"/>
     <published>2023-07-06T19:56:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@annarennsworld/video/7253155279532018987</id>
+    <title>We wanna be in the turks 😭</title>
+    <updated>2023-07-07T19:07:06+00:00</updated>
+    <content>We wanna be in the turks 😭</content>
+    <link href="https://www.tiktok.com/@annarennsworld/video/7253155279532018987" rel="alternate"/>
+    <published>2023-07-07T19:07:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@annarennsworld/video/7253156414250618154</id>
+    <title>Guys my amazon storefront is working i made a new one!! Comment everything i need to link </title>
+    <updated>2023-07-07T19:11:28+00:00</updated>
+    <content>Guys my amazon storefront is working i made a new one!! Comment everything i need to link </content>
+    <link href="https://www.tiktok.com/@annarennsworld/video/7253156414250618154" rel="alternate"/>
+    <published>2023-07-07T19:11:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@annarennsworld/video/7253187101393489195</id>
+    <title>Currently at work rn no one had noticed the pimple patches </title>
+    <updated>2023-07-07T21:10:36+00:00</updated>
+    <content>Currently at work rn no one had noticed the pimple patches </content>
+    <link href="https://www.tiktok.com/@annarennsworld/video/7253187101393489195" rel="alternate"/>
+    <published>2023-07-07T21:10:36+00:00</published>
   </entry>
 </feed>
