@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@realestcece</id>
   <title>@realestcece | TikTok</title>
-  <updated>2023-06-23T21:24:54+00:00</updated>
+  <updated>2023-07-06T17:23:01+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @realestcece</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@realestcece/video/7243586933903936810</id>
-    <title>McDonald’s workers need they own show 😂😂 they do everything but they job ! </title>
-    <updated>2023-06-12T00:16:58+00:00</updated>
-    <content>McDonald’s workers need they own show 😂😂 they do everything but they job ! </content>
-    <link href="https://www.tiktok.com/@realestcece/video/7243586933903936810" rel="alternate"/>
-    <published>2023-06-12T00:16:58+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@realestcece/video/7243589912539417902</id>
     <title>McDonalds be hiring anybody 😂😂</title>
@@ -51,5 +43,13 @@
     <content>how fast your neighbor thinks he has a chance with you 😂</content>
     <link href="https://www.tiktok.com/@realestcece/video/7247995592369032490" rel="alternate"/>
     <published>2023-06-23T21:24:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@realestcece/video/7252757399885335851</id>
+    <title>Full video on my YouTube ! 🤣🤣 Comment what pranks yall want me to do next 📲</title>
+    <updated>2023-07-06T17:23:01+00:00</updated>
+    <content>Full video on my YouTube ! 🤣🤣 Comment what pranks yall want me to do next 📲</content>
+    <link href="https://www.tiktok.com/@realestcece/video/7252757399885335851" rel="alternate"/>
+    <published>2023-07-06T17:23:01+00:00</published>
   </entry>
 </feed>
