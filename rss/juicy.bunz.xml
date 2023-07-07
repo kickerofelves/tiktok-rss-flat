@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@juicy.bunz</id>
   <title>@juicy.bunz | TikTok</title>
-  <updated>2023-07-05T03:21:03+00:00</updated>
+  <updated>2023-07-06T20:45:37+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @juicy.bunz</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@juicy.bunz/video/7236194043737148714</id>
-    <title>Waiting on your food to finish cooking like 🕺 #cooking #dinner #dance </title>
-    <updated>2023-05-23T02:08:41+00:00</updated>
-    <content>Waiting on your food to finish cooking like 🕺 #cooking #dinner #dance </content>
-    <link href="https://www.tiktok.com/@juicy.bunz/video/7236194043737148714" rel="alternate"/>
-    <published>2023-05-23T02:08:41+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@juicy.bunz/video/7236459211306093866</id>
     <title>Wait for it 😂  #gym #gymoutfit #funny #outfitfail </title>
@@ -51,5 +43,13 @@
     <content>Staying in on 4th of july bc your dog needs you. He is scared of the fireworks loud noises 😢 poor baby :( </content>
     <link href="https://www.tiktok.com/@juicy.bunz/video/7252169330949983531" rel="alternate"/>
     <published>2023-07-05T03:21:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@juicy.bunz/video/7252809615920876842</id>
+    <title>Don’t forget the fiber one brownie for dessert! 😋 #cooking #fitness #gymgirl #gymtok </title>
+    <updated>2023-07-06T20:45:37+00:00</updated>
+    <content>Don’t forget the fiber one brownie for dessert! 😋 #cooking #fitness #gymgirl #gymtok </content>
+    <link href="https://www.tiktok.com/@juicy.bunz/video/7252809615920876842" rel="alternate"/>
+    <published>2023-07-06T20:45:37+00:00</published>
   </entry>
 </feed>
