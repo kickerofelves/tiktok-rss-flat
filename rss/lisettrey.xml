@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@lisettrey</id>
   <title>@lisettrey | TikTok</title>
-  <updated>2023-06-30T17:10:42+00:00</updated>
+  <updated>2023-07-07T16:49:43+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -13,43 +13,43 @@
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @lisettrey</subtitle>
   <entry>
-    <id>https://www.tiktok.com/@lisettrey/video/7250302069104479494</id>
-    <title>Del borrador 🥹</title>
-    <updated>2023-06-30T02:35:00+00:00</updated>
-    <content>Del borrador 🥹</content>
-    <link href="https://www.tiktok.com/@lisettrey/video/7250302069104479494" rel="alternate"/>
-    <published>2023-06-30T02:35:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@lisettrey/video/7250525388785388805</id>
-    <title>De lao a lao 🥹</title>
-    <updated>2023-06-30T17:01:37+00:00</updated>
-    <content>De lao a lao 🥹</content>
-    <link href="https://www.tiktok.com/@lisettrey/video/7250525388785388805" rel="alternate"/>
-    <published>2023-06-30T17:01:37+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@lisettrey/video/7250525986280852742</id>
-    <title>😍🙈</title>
-    <updated>2023-06-30T17:03:55+00:00</updated>
-    <content>😍🙈</content>
-    <link href="https://www.tiktok.com/@lisettrey/video/7250525986280852742" rel="alternate"/>
-    <published>2023-06-30T17:03:55+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@lisettrey/video/7250526777976704262</id>
-    <title>😂</title>
-    <updated>2023-06-30T17:07:01+00:00</updated>
-    <content>😂</content>
-    <link href="https://www.tiktok.com/@lisettrey/video/7250526777976704262" rel="alternate"/>
-    <published>2023-06-30T17:07:01+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.tiktok.com/@lisettrey/video/7250527735490022662</id>
     <title>[no title]</title>
     <updated>2023-06-30T17:10:42+00:00</updated>
     <content>[no description]</content>
     <link href="https://www.tiktok.com/@lisettrey/video/7250527735490022662" rel="alternate"/>
     <published>2023-06-30T17:10:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lisettrey/video/7253117555559156998</id>
+    <title>Yes or yes 😘</title>
+    <updated>2023-07-07T16:40:31+00:00</updated>
+    <content>Yes or yes 😘</content>
+    <link href="https://www.tiktok.com/@lisettrey/video/7253117555559156998" rel="alternate"/>
+    <published>2023-07-07T16:40:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lisettrey/video/7253117791681760517</id>
+    <title>🫒</title>
+    <updated>2023-07-07T16:41:27+00:00</updated>
+    <content>🫒</content>
+    <link href="https://www.tiktok.com/@lisettrey/video/7253117791681760517" rel="alternate"/>
+    <published>2023-07-07T16:41:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lisettrey/video/7253118167256419590</id>
+    <title>🤣</title>
+    <updated>2023-07-07T16:42:54+00:00</updated>
+    <content>🤣</content>
+    <link href="https://www.tiktok.com/@lisettrey/video/7253118167256419590" rel="alternate"/>
+    <published>2023-07-07T16:42:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lisettrey/video/7253119918562970885</id>
+    <title>Instagram: lisettrey </title>
+    <updated>2023-07-07T16:49:43+00:00</updated>
+    <content>Instagram: lisettrey </content>
+    <link href="https://www.tiktok.com/@lisettrey/video/7253119918562970885" rel="alternate"/>
+    <published>2023-07-07T16:49:43+00:00</published>
   </entry>
 </feed>

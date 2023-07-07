@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@princesssofia13th2</id>
   <title>@princesssofia13th2 | TikTok</title>
-  <updated>2023-07-06T20:31:41+00:00</updated>
+  <updated>2023-07-07T15:09:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @princesssofia13th2</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@princesssofia13th2/video/7251271160371973419</id>
-    <title>#fyp </title>
-    <updated>2023-07-02T17:15:47+00:00</updated>
-    <content>#fyp </content>
-    <link href="https://www.tiktok.com/@princesssofia13th2/video/7251271160371973419" rel="alternate"/>
-    <published>2023-07-02T17:15:47+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@princesssofia13th2/video/7251705060458106154</id>
     <title>4daplot #fyp #xyzbca #viral </title>
@@ -51,5 +43,13 @@
     <content>#fyp ft my mommy</content>
     <link href="https://www.tiktok.com/@princesssofia13th2/video/7252806009436114218" rel="alternate"/>
     <published>2023-07-06T20:31:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@princesssofia13th2/video/7253093990264900910</id>
+    <title>Large af fono rzn im literally asian #fyp #xyzbca #viral </title>
+    <updated>2023-07-07T15:09:14+00:00</updated>
+    <content>Large af fono rzn im literally asian #fyp #xyzbca #viral </content>
+    <link href="https://www.tiktok.com/@princesssofia13th2/video/7253093990264900910" rel="alternate"/>
+    <published>2023-07-07T15:09:14+00:00</published>
   </entry>
 </feed>
