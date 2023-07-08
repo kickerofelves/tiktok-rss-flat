@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@shibuya_kaho</id>
   <title>@shibuya_kaho | TikTok</title>
-  <updated>2023-06-30T02:04:20+00:00</updated>
+  <updated>2023-07-08T02:11:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @shibuya_kaho</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@shibuya_kaho/video/7245776708870229249</id>
-    <title>Oh deer... 🦌</title>
-    <updated>2023-06-17T21:54:37+00:00</updated>
-    <content>Oh deer... 🦌</content>
-    <link href="https://www.tiktok.com/@shibuya_kaho/video/7245776708870229249" rel="alternate"/>
-    <published>2023-06-17T21:54:37+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@shibuya_kaho/video/7247064631032761602</id>
     <title>Cosplay day💖 #myHeroAcademia #Pinky スッピンから始まるのでお気を付けください(　˙-˙　)</title>
@@ -51,5 +43,13 @@
     <content>Behind the scenes of my Bizzare adventure with CDawgVA‼️ We did ice-fisnihing in Gunma🐟 群馬でワカサギ釣り撮影した時の(っ ॑꒳ ॑c)</content>
     <link href="https://www.tiktok.com/@shibuya_kaho/video/7250294149314809089" rel="alternate"/>
     <published>2023-06-30T02:04:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@shibuya_kaho/video/7253264714719841537</id>
+    <title>Been to Kobe's #nijigennomori ❣️ ずっと来てみたかった場所(*´∀｀*)</title>
+    <updated>2023-07-08T02:11:42+00:00</updated>
+    <content>Been to Kobe's #nijigennomori ❣️ ずっと来てみたかった場所(*´∀｀*)</content>
+    <link href="https://www.tiktok.com/@shibuya_kaho/video/7253264714719841537" rel="alternate"/>
+    <published>2023-07-08T02:11:42+00:00</published>
   </entry>
 </feed>
