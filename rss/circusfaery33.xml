@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@circusfaery33</id>
   <title>@circusfaery33 | TikTok</title>
-  <updated>2023-07-06T17:57:57+00:00</updated>
+  <updated>2023-07-08T00:07:57+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @circusfaery33</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7250972107801120042</id>
-    <title>Replying to @mike85432  Affirmative action does not require discrimination against Asians. Institutions chose discriminating against Asians to preserve ✉️ enrollment.</title>
-    <updated>2023-07-01T21:55:15+00:00</updated>
-    <content>Replying to @mike85432  Affirmative action does not require discrimination against Asians. Institutions chose discriminating against Asians to preserve ✉️ enrollment.</content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7250972107801120042" rel="alternate"/>
-    <published>2023-07-01T21:55:15+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7251310406336122154</id>
-    <title>Replying to @josh  It depends--if you are an Asian American who fits the model minority myth, there's a slight chance you would benefit. But if you are an Asian American who is marginalized by the myth, you would be harmed. Affirmative action itself does </title>
-    <updated>2023-07-02T19:48:04+00:00</updated>
-    <content>Replying to @josh  It depends--if you are an Asian American who fits the model minority myth, there's a slight chance you would benefit. But if you are an Asian American who is marginalized by the myth, you would be harmed. Affirmative action itself does not require negative discrimination of anybody.</content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7251310406336122154" rel="alternate"/>
-    <published>2023-07-02T19:48:04+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7251315441996467498</id>
-    <title>Replying to @Highpeaks  Whatever 🤣</title>
-    <updated>2023-07-02T20:07:35+00:00</updated>
-    <content>Replying to @Highpeaks  Whatever 🤣</content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7251315441996467498" rel="alternate"/>
-    <published>2023-07-02T20:07:35+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@circusfaery33/video/7252480188720925998</id>
     <title>Just took a little break to adjust to my summer work schedule! </title>
@@ -51,5 +27,29 @@
     <content>Replying to @strawberrywhisper   Unfortunately, Asian American plaintiffs are being gathered to launch a similar attack on race-conscious admissions policies in specialized K-12 programs. </content>
     <link href="https://www.tiktok.com/@circusfaery33/video/7252766404854795566" rel="alternate"/>
     <published>2023-07-06T17:57:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7253132455362792747</id>
+    <title>Replying to @user58816023398818   #greenscreen Approximately 36% of Indian households in the US having an H1B beneficiairy is far from null, especially since that doesn't include green card holders and citizens who arrived with H1B visas.</title>
+    <updated>2023-07-07T17:38:35+00:00</updated>
+    <content>Replying to @user58816023398818   #greenscreen Approximately 36% of Indian households in the US having an H1B beneficiairy is far from null, especially since that doesn't include green card holders and citizens who arrived with H1B visas.</content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7253132455362792747" rel="alternate"/>
+    <published>2023-07-07T17:38:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7253205701089135915</id>
+    <title>Replying to @NunYaBizNass  Which other race contributed to chattel slavery and ongoing systemic and institutional racism in the US? </title>
+    <updated>2023-07-07T22:22:46+00:00</updated>
+    <content>Replying to @NunYaBizNass  Which other race contributed to chattel slavery and ongoing systemic and institutional racism in the US? </content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7253205701089135915" rel="alternate"/>
+    <published>2023-07-07T22:22:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7253232806699011371</id>
+    <title>Replying to @NunYaBizNass  Oh--so it shouldn't be gaslit as a crime of opportunity about bodies where available? Or for you, does that only apply to enalaved Europeans? </title>
+    <updated>2023-07-08T00:07:57+00:00</updated>
+    <content>Replying to @NunYaBizNass  Oh--so it shouldn't be gaslit as a crime of opportunity about bodies where available? Or for you, does that only apply to enalaved Europeans? </content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7253232806699011371" rel="alternate"/>
+    <published>2023-07-08T00:07:57+00:00</published>
   </entry>
 </feed>
