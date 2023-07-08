@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@girlzhavemorefun</id>
   <title>@girlzhavemorefun | TikTok</title>
-  <updated>2023-07-07T06:51:52+00:00</updated>
+  <updated>2023-07-07T20:35:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -37,19 +37,19 @@
     <published>2023-07-06T04:27:22+00:00</published>
   </entry>
   <entry>
-    <id>https://www.tiktok.com/@girlzhavemorefun/video/7252961829750705450</id>
-    <title>Thinkin about u #fyp #beach #viral #hawaii </title>
-    <updated>2023-07-07T06:36:36+00:00</updated>
-    <content>Thinkin about u #fyp #beach #viral #hawaii </content>
-    <link href="https://www.tiktok.com/@girlzhavemorefun/video/7252961829750705450" rel="alternate"/>
-    <published>2023-07-07T06:36:36+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.tiktok.com/@girlzhavemorefun/video/7252965768831241515</id>
     <title>Thinking anout u #fyp #beach #viral #hawaii </title>
     <updated>2023-07-07T06:51:52+00:00</updated>
     <content>Thinking anout u #fyp #beach #viral #hawaii </content>
     <link href="https://www.tiktok.com/@girlzhavemorefun/video/7252965768831241515" rel="alternate"/>
     <published>2023-07-07T06:51:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@girlzhavemorefun/video/7253178110080830762</id>
+    <title>I wanna live on this beach 💕#fyp #beach #viral #trending </title>
+    <updated>2023-07-07T20:35:42+00:00</updated>
+    <content>I wanna live on this beach 💕#fyp #beach #viral #trending </content>
+    <link href="https://www.tiktok.com/@girlzhavemorefun/video/7253178110080830762" rel="alternate"/>
+    <published>2023-07-07T20:35:42+00:00</published>
   </entry>
 </feed>
