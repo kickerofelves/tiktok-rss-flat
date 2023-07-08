@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mzkora</id>
   <title>@mzkora | TikTok</title>
-  <updated>2023-07-06T20:21:09+00:00</updated>
+  <updated>2023-07-08T22:10:57+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @mzkora</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@mzkora/video/7251283726615776555</id>
-    <title>Replying to @Redolent Essence   #greenscreen #Inverted My skin car routine! Prosucts used.. CeraVe Foaming Facial Cleanser | Origins Ginzing Gel Moisturizer | Origins Multi Powered Youth Serum | Maybelline Fit Me Matte Poreless Primer/Sunscreen #fyp #fypシ</title>
-    <updated>2023-07-02T18:04:33+00:00</updated>
-    <content>Replying to @Redolent Essence   #greenscreen #Inverted My skin car routine! Prosucts used.. CeraVe Foaming Facial Cleanser | Origins Ginzing Gel Moisturizer | Origins Multi Powered Youth Serum | Maybelline Fit Me Matte Poreless Primer/Sunscreen #fyp #fypシ #momof9 #healthiswealth #skincare #skincareroutine #skincarejourney </content>
-    <link href="https://www.tiktok.com/@mzkora/video/7251283726615776555" rel="alternate"/>
-    <published>2023-07-02T18:04:33+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@mzkora/video/7251427851335994670</id>
     <title>Replying to @⚠️⚠️⚠️   Its my truth and I am going to share it. #fyp #fypシ #momof9 #teenpregnancy #mytruth #familyof10 #iwontbesilenced #speakup </title>
@@ -51,5 +43,13 @@
     <content>Game on with FEZiBO! 🎮 #fezibo Assembled our new standing desk - perfect for work and play! Check out how we leveled up our gaming setup 👾 Link in bio! #fezibo #StandingDesk #GamingDesk #DIY #FamilyTime #GameOn </content>
     <link href="https://www.tiktok.com/@mzkora/video/7252803306836217134" rel="alternate"/>
     <published>2023-07-06T20:21:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@mzkora/video/7253573730310556974</id>
+    <title>Building my own little collection, one child at a time! 🌟 #fyp #fypシ #momof9 #healthiswealth #bigfamily #grownkids #teenmom </title>
+    <updated>2023-07-08T22:10:57+00:00</updated>
+    <content>Building my own little collection, one child at a time! 🌟 #fyp #fypシ #momof9 #healthiswealth #bigfamily #grownkids #teenmom </content>
+    <link href="https://www.tiktok.com/@mzkora/video/7253573730310556974" rel="alternate"/>
+    <published>2023-07-08T22:10:57+00:00</published>
   </entry>
 </feed>
