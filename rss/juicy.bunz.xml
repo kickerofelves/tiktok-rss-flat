@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@juicy.bunz</id>
   <title>@juicy.bunz | TikTok</title>
-  <updated>2023-07-07T23:47:52+00:00</updated>
+  <updated>2023-07-08T21:13:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @juicy.bunz</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@juicy.bunz/video/7236818415162314027</id>
-    <title>My dog (once again) supervising my every move 😅 #yoga #fitness #gymgirl </title>
-    <updated>2023-05-24T18:31:40+00:00</updated>
-    <content>My dog (once again) supervising my every move 😅 #yoga #fitness #gymgirl </content>
-    <link href="https://www.tiktok.com/@juicy.bunz/video/7236818415162314027" rel="alternate"/>
-    <published>2023-05-24T18:31:40+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@juicy.bunz/video/7247952936775601454</id>
     <title>Life has been crazy lately. My mind has been all over the place. The pressure to be productive, be successful and be good enough for others. It can get overwhelming. I’ve been getting alot of anxiety, especially at night so I’ve had trouble sleeping. Some</title>
@@ -51,5 +43,13 @@
     <content>I love this song 🥰  #dance </content>
     <link href="https://www.tiktok.com/@juicy.bunz/video/7253227611978222894" rel="alternate"/>
     <published>2023-07-07T23:47:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@juicy.bunz/video/7253558928074689838</id>
+    <title>My first time trying salad and go. Devoured it in like 3 minutes. So delicious 😋 #chickensalad #gymgirl #fitness #postworkoutmeal </title>
+    <updated>2023-07-08T21:13:27+00:00</updated>
+    <content>My first time trying salad and go. Devoured it in like 3 minutes. So delicious 😋 #chickensalad #gymgirl #fitness #postworkoutmeal </content>
+    <link href="https://www.tiktok.com/@juicy.bunz/video/7253558928074689838" rel="alternate"/>
+    <published>2023-07-08T21:13:27+00:00</published>
   </entry>
 </feed>
