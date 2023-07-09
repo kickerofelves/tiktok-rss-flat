@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@onlyevesophiee</id>
   <title>@onlyevesophiee | TikTok</title>
-  <updated>2023-07-07T14:13:34+00:00</updated>
+  <updated>2023-07-09T14:01:38+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @onlyevesophiee</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@onlyevesophiee/video/7252091062250949914</id>
-    <title>Youre gonna put it where now girl </title>
-    <updated>2023-07-04T22:17:24+00:00</updated>
-    <content>Youre gonna put it where now girl </content>
-    <link href="https://www.tiktok.com/@onlyevesophiee/video/7252091062250949914" rel="alternate"/>
-    <published>2023-07-04T22:17:24+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@onlyevesophiee/video/7252444163692612890</id>
-    <title>Had to show off my new ink</title>
-    <updated>2023-07-05T21:07:48+00:00</updated>
-    <content>Had to show off my new ink</content>
-    <link href="https://www.tiktok.com/@onlyevesophiee/video/7252444163692612890" rel="alternate"/>
-    <published>2023-07-05T21:07:48+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@onlyevesophiee/video/7252706000531377434</id>
     <title>Takatakataka</title>
@@ -51,5 +35,21 @@
     <content>Do you like?</content>
     <link href="https://www.tiktok.com/@onlyevesophiee/video/7253079666465066267" rel="alternate"/>
     <published>2023-07-07T14:13:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@onlyevesophiee/video/7253216824333061403</id>
+    <title>Super thick </title>
+    <updated>2023-07-07T23:05:55+00:00</updated>
+    <content>Super thick </content>
+    <link href="https://www.tiktok.com/@onlyevesophiee/video/7253216824333061403" rel="alternate"/>
+    <published>2023-07-07T23:05:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@onlyevesophiee/video/7253818767472332058</id>
+    <title>Jumpscare !</title>
+    <updated>2023-07-09T14:01:38+00:00</updated>
+    <content>Jumpscare !</content>
+    <link href="https://www.tiktok.com/@onlyevesophiee/video/7253818767472332058" rel="alternate"/>
+    <published>2023-07-09T14:01:38+00:00</published>
   </entry>
 </feed>
