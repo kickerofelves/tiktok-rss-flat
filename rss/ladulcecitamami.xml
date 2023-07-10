@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ladulcecitamami</id>
   <title>@ladulcecitamami | TikTok</title>
-  <updated>2023-07-07T23:03:10+00:00</updated>
+  <updated>2023-07-09T20:51:18+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -29,14 +29,6 @@
     <published>2023-07-03T16:58:32+00:00</published>
   </entry>
   <entry>
-    <id>https://www.tiktok.com/@ladulcecitamami/video/7252055820370742571</id>
-    <title>[no title]</title>
-    <updated>2023-07-04T20:00:37+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@ladulcecitamami/video/7252055820370742571" rel="alternate"/>
-    <published>2023-07-04T20:00:37+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.tiktok.com/@ladulcecitamami/video/7253216083744656686</id>
     <title>[no title]</title>
     <updated>2023-07-07T23:03:03+00:00</updated>
@@ -51,5 +43,13 @@
     <content>[no description]</content>
     <link href="https://www.tiktok.com/@ladulcecitamami/video/7253216116372393262" rel="alternate"/>
     <published>2023-07-07T23:03:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ladulcecitamami/video/7253924317434596651</id>
+    <title>[no title]</title>
+    <updated>2023-07-09T20:51:18+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@ladulcecitamami/video/7253924317434596651" rel="alternate"/>
+    <published>2023-07-09T20:51:18+00:00</published>
   </entry>
 </feed>
