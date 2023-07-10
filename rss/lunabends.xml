@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@lunabends</id>
   <title>@lunabends | TikTok</title>
-  <updated>2023-07-09T23:06:15+00:00</updated>
+  <updated>2023-07-10T17:07:17+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @lunabends</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@lunabends/video/7252136009453047086</id>
-    <title>Nice &amp; toasty 😅 #yogi #yoga #flexible #splits </title>
-    <updated>2023-07-05T01:11:46+00:00</updated>
-    <content>Nice &amp; toasty 😅 #yogi #yoga #flexible #splits </content>
-    <link href="https://www.tiktok.com/@lunabends/video/7252136009453047086" rel="alternate"/>
-    <published>2023-07-05T01:11:46+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@lunabends/video/7252456850954702123</id>
     <title>Making sure I continue to stretch even on vacay ☺️ #yogi #yoga #flexible </title>
@@ -51,5 +43,13 @@
     <content>Always on my grind 💪🏽  #pole #poletricks #dancer </content>
     <link href="https://www.tiktok.com/@lunabends/video/7253959065603263786" rel="alternate"/>
     <published>2023-07-09T23:06:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lunabends/video/7254237631905582379</id>
+    <title>Pole flows ✨  #pole #dancer #poledancing #poletricks </title>
+    <updated>2023-07-10T17:07:17+00:00</updated>
+    <content>Pole flows ✨  #pole #dancer #poledancing #poletricks </content>
+    <link href="https://www.tiktok.com/@lunabends/video/7254237631905582379" rel="alternate"/>
+    <published>2023-07-10T17:07:17+00:00</published>
   </entry>
 </feed>
