@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@lunabends</id>
   <title>@lunabends | TikTok</title>
-  <updated>2023-07-09T03:23:21+00:00</updated>
+  <updated>2023-07-09T23:06:15+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @lunabends</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@lunabends/video/7252007207229852970</id>
-    <title>Being flexy is a lifestyle 😉  #splits #yogi #yoga #flexible </title>
-    <updated>2023-07-04T16:52:00+00:00</updated>
-    <content>Being flexy is a lifestyle 😉  #splits #yogi #yoga #flexible </content>
-    <link href="https://www.tiktok.com/@lunabends/video/7252007207229852970" rel="alternate"/>
-    <published>2023-07-04T16:52:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@lunabends/video/7252136009453047086</id>
     <title>Nice &amp; toasty 😅 #yogi #yoga #flexible #splits </title>
@@ -51,5 +43,13 @@
     <content>Mood when he keeps me in my feminine energy ✨  #dancer #flexible #splits #pleasersheels </content>
     <link href="https://www.tiktok.com/@lunabends/video/7253654256266267946" rel="alternate"/>
     <published>2023-07-09T03:23:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lunabends/video/7253959065603263786</id>
+    <title>Always on my grind 💪🏽  #pole #poletricks #dancer </title>
+    <updated>2023-07-09T23:06:15+00:00</updated>
+    <content>Always on my grind 💪🏽  #pole #poletricks #dancer </content>
+    <link href="https://www.tiktok.com/@lunabends/video/7253959065603263786" rel="alternate"/>
+    <published>2023-07-09T23:06:15+00:00</published>
   </entry>
 </feed>
