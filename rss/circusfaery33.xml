@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@circusfaery33</id>
   <title>@circusfaery33 | TikTok</title>
-  <updated>2023-07-08T00:07:57+00:00</updated>
+  <updated>2023-07-11T02:18:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @circusfaery33</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7252480188720925998</id>
-    <title>Just took a little break to adjust to my summer work schedule! </title>
-    <updated>2023-07-05T23:27:22+00:00</updated>
-    <content>Just took a little break to adjust to my summer work schedule! </content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7252480188720925998" rel="alternate"/>
-    <published>2023-07-05T23:27:22+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7252766404854795566</id>
-    <title>Replying to @strawberrywhisper   Unfortunately, Asian American plaintiffs are being gathered to launch a similar attack on race-conscious admissions policies in specialized K-12 programs. </title>
-    <updated>2023-07-06T17:57:57+00:00</updated>
-    <content>Replying to @strawberrywhisper   Unfortunately, Asian American plaintiffs are being gathered to launch a similar attack on race-conscious admissions policies in specialized K-12 programs. </content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7252766404854795566" rel="alternate"/>
-    <published>2023-07-06T17:57:57+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@circusfaery33/video/7253132455362792747</id>
     <title>Replying to @user58816023398818   #greenscreen Approximately 36% of Indian households in the US having an H1B beneficiairy is far from null, especially since that doesn't include green card holders and citizens who arrived with H1B visas.</title>
@@ -51,5 +35,21 @@
     <content>Replying to @NunYaBizNass  Oh--so it shouldn't be gaslit as a crime of opportunity about bodies where available? Or for you, does that only apply to enalaved Europeans? </content>
     <link href="https://www.tiktok.com/@circusfaery33/video/7253232806699011371" rel="alternate"/>
     <published>2023-07-08T00:07:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7254276619471162666</id>
+    <title>Replying to @Caan   It's important to recognize that rigor and discipline does not just come from parents in the home--in many countries it's about the rigorous public education systems provided by the government. </title>
+    <updated>2023-07-10T19:38:26+00:00</updated>
+    <content>Replying to @Caan   It's important to recognize that rigor and discipline does not just come from parents in the home--in many countries it's about the rigorous public education systems provided by the government. </content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7254276619471162666" rel="alternate"/>
+    <published>2023-07-10T19:38:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7254379609620221227</id>
+    <title>Replying to @appleuser77486854   Interesting how these studies never point out that Asian Americans also have to score higher than ✉️ people to be considered, because discrimination against Asian Americans in admissions policies is in fact affirmative act</title>
+    <updated>2023-07-11T02:18:05+00:00</updated>
+    <content>Replying to @appleuser77486854   Interesting how these studies never point out that Asian Americans also have to score higher than ✉️ people to be considered, because discrimination against Asian Americans in admissions policies is in fact affirmative action for ✉️ people. #asianamerican #modelminority #antiracism #solidarity </content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7254379609620221227" rel="alternate"/>
+    <published>2023-07-11T02:18:05+00:00</published>
   </entry>
 </feed>
