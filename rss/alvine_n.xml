@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@alvine_n</id>
   <title>@alvine_n | TikTok</title>
-  <updated>2023-07-10T17:43:49+00:00</updated>
+  <updated>2023-07-11T18:38:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @alvine_n</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@alvine_n/video/7252338562367065370</id>
-    <title>Home workout 🔥🔥🔥 structured workout plan &amp; nutrition + private community chat for daily support &amp; motivation in bio ❤️❤️#gymmotivation </title>
-    <updated>2023-07-05T14:17:46+00:00</updated>
-    <content>Home workout 🔥🔥🔥 structured workout plan &amp; nutrition + private community chat for daily support &amp; motivation in bio ❤️❤️#gymmotivation </content>
-    <link href="https://www.tiktok.com/@alvine_n/video/7252338562367065370" rel="alternate"/>
-    <published>2023-07-05T14:17:46+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@alvine_n/video/7252779035888012571</id>
-    <title>Replying to @Danyale   This is your sign to start now hit the link in my bio to join ❤️#FitnessMotivation </title>
-    <updated>2023-07-06T18:47:02+00:00</updated>
-    <content>Replying to @Danyale   This is your sign to start now hit the link in my bio to join ❤️#FitnessMotivation </content>
-    <link href="https://www.tiktok.com/@alvine_n/video/7252779035888012571" rel="alternate"/>
-    <published>2023-07-06T18:47:02+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@alvine_n/video/7252786619411975450</id>
-    <title>High protein diner for gain 🍑 hourglass figure cookbook in bio </title>
-    <updated>2023-07-06T19:16:21+00:00</updated>
-    <content>High protein diner for gain 🍑 hourglass figure cookbook in bio </content>
-    <link href="https://www.tiktok.com/@alvine_n/video/7252786619411975450" rel="alternate"/>
-    <published>2023-07-06T19:16:21+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@alvine_n/video/7253876961225837851</id>
     <title>Replying to @Shantel Masemola   Hey TikTok fam! Are you ready to say goodbye to those back flaps and belly fat? 🌟 I'm here to give you a beginner's guide to help you achieve your fitness goals. Let's dive right in! 💪 Step 1: Set Realistic Goals 📈 Start by</title>
@@ -51,5 +27,29 @@
     <content>Replying to @Lizzzzzz_18  comment below if you’re ready 🔥</content>
     <link href="https://www.tiktok.com/@alvine_n/video/7254247101343862043" rel="alternate"/>
     <published>2023-07-10T17:43:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@alvine_n/video/7254618314742271259</id>
+    <title>#CapCut healthy meal prep low calorie burrito bowl 🔥 cookbook in my bio ❤️</title>
+    <updated>2023-07-11T17:44:17+00:00</updated>
+    <content>#CapCut healthy meal prep low calorie burrito bowl 🔥 cookbook in my bio ❤️</content>
+    <link href="https://www.tiktok.com/@alvine_n/video/7254618314742271259" rel="alternate"/>
+    <published>2023-07-11T17:44:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@alvine_n/video/7254621372549238043</id>
+    <title>Replying to @Rosena fashion and beauty   Comment below if you are ready!! We are doing this together 💪</title>
+    <updated>2023-07-11T17:56:08+00:00</updated>
+    <content>Replying to @Rosena fashion and beauty   Comment below if you are ready!! We are doing this together 💪</content>
+    <link href="https://www.tiktok.com/@alvine_n/video/7254621372549238043" rel="alternate"/>
+    <published>2023-07-11T17:56:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@alvine_n/video/7254632244147408155</id>
+    <title>#gymmotivation </title>
+    <updated>2023-07-11T18:38:20+00:00</updated>
+    <content>#gymmotivation </content>
+    <link href="https://www.tiktok.com/@alvine_n/video/7254632244147408155" rel="alternate"/>
+    <published>2023-07-11T18:38:20+00:00</published>
   </entry>
 </feed>
