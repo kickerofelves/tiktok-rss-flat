@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@girlzhavemorefun</id>
   <title>@girlzhavemorefun | TikTok</title>
-  <updated>2023-07-11T19:14:57+00:00</updated>
+  <updated>2023-07-11T21:56:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @girlzhavemorefun</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@girlzhavemorefun/video/7252965768831241515</id>
-    <title>Thinking anout u #fyp #beach #viral #hawaii </title>
-    <updated>2023-07-07T06:51:52+00:00</updated>
-    <content>Thinking anout u #fyp #beach #viral #hawaii </content>
-    <link href="https://www.tiktok.com/@girlzhavemorefun/video/7252965768831241515" rel="alternate"/>
-    <published>2023-07-07T06:51:52+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@girlzhavemorefun/video/7253178110080830762</id>
-    <title>I wanna live on this beach 💕#fyp #beach #viral #trending </title>
-    <updated>2023-07-07T20:35:42+00:00</updated>
-    <content>I wanna live on this beach 💕#fyp #beach #viral #trending </content>
-    <link href="https://www.tiktok.com/@girlzhavemorefun/video/7253178110080830762" rel="alternate"/>
-    <published>2023-07-07T20:35:42+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@girlzhavemorefun/video/7253620743316196654</id>
     <title>Somf #fyp #viral #funny #trending #natural </title>
@@ -51,5 +35,21 @@
     <content>Where is he 🤩 #fyp #viral #miami #funny </content>
     <link href="https://www.tiktok.com/@girlzhavemorefun/video/7254641639744867626" rel="alternate"/>
     <published>2023-07-11T19:14:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@girlzhavemorefun/video/7254674233345740075</id>
+    <title>Watch me if you can 😉 #fyp #viral #trending #natural </title>
+    <updated>2023-07-11T21:21:17+00:00</updated>
+    <content>Watch me if you can 😉 #fyp #viral #trending #natural </content>
+    <link href="https://www.tiktok.com/@girlzhavemorefun/video/7254674233345740075" rel="alternate"/>
+    <published>2023-07-11T21:21:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@girlzhavemorefun/video/7254683386873154858</id>
+    <title>Hehe #fyp #viral #trending #funny </title>
+    <updated>2023-07-11T21:56:50+00:00</updated>
+    <content>Hehe #fyp #viral #trending #funny </content>
+    <link href="https://www.tiktok.com/@girlzhavemorefun/video/7254683386873154858" rel="alternate"/>
+    <published>2023-07-11T21:56:50+00:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@onlyevesophiee</id>
   <title>@onlyevesophiee | TikTok</title>
-  <updated>2023-07-11T14:17:25+00:00</updated>
+  <updated>2023-07-11T23:03:44+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @onlyevesophiee</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@onlyevesophiee/video/7253928231781387547</id>
-    <title>I like girls that go 👏👏</title>
-    <updated>2023-07-09T21:06:26+00:00</updated>
-    <content>I like girls that go 👏👏</content>
-    <link href="https://www.tiktok.com/@onlyevesophiee/video/7253928231781387547" rel="alternate"/>
-    <published>2023-07-09T21:06:26+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@onlyevesophiee/video/7253959416171613467</id>
     <title>Im not doing anything !! But yes i accept card</title>
@@ -51,5 +43,13 @@
     <content>Jumpscare !</content>
     <link href="https://www.tiktok.com/@onlyevesophiee/video/7254565000679836954" rel="alternate"/>
     <published>2023-07-11T14:17:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@onlyevesophiee/video/7254700609545243931</id>
+    <title>If he dont help me, can you? I think its obvious why im stuck 🤭</title>
+    <updated>2023-07-11T23:03:44+00:00</updated>
+    <content>If he dont help me, can you? I think its obvious why im stuck 🤭</content>
+    <link href="https://www.tiktok.com/@onlyevesophiee/video/7254700609545243931" rel="alternate"/>
+    <published>2023-07-11T23:03:44+00:00</published>
   </entry>
 </feed>
