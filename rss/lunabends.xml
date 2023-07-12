@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@lunabends</id>
   <title>@lunabends | TikTok</title>
-  <updated>2023-07-10T17:07:17+00:00</updated>
+  <updated>2023-07-11T19:10:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @lunabends</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@lunabends/video/7252456850954702123</id>
-    <title>Making sure I continue to stretch even on vacay ☺️ #yogi #yoga #flexible </title>
-    <updated>2023-07-05T21:56:45+00:00</updated>
-    <content>Making sure I continue to stretch even on vacay ☺️ #yogi #yoga #flexible </content>
-    <link href="https://www.tiktok.com/@lunabends/video/7252456850954702123" rel="alternate"/>
-    <published>2023-07-05T21:56:45+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@lunabends/video/7252751525276060971</id>
     <title>Vegas vibes  #yogi #yoga #splits #summer2023 </title>
@@ -51,5 +43,13 @@
     <content>Pole flows ✨  #pole #dancer #poledancing #poletricks </content>
     <link href="https://www.tiktok.com/@lunabends/video/7254237631905582379" rel="alternate"/>
     <published>2023-07-10T17:07:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lunabends/video/7254640556930878762</id>
+    <title>Miami parties . Seen some weird things 🤭 #pole #poledancer #poletricks #stronggirl #pleasersheels </title>
+    <updated>2023-07-11T19:10:47+00:00</updated>
+    <content>Miami parties . Seen some weird things 🤭 #pole #poledancer #poletricks #stronggirl #pleasersheels </content>
+    <link href="https://www.tiktok.com/@lunabends/video/7254640556930878762" rel="alternate"/>
+    <published>2023-07-11T19:10:47+00:00</published>
   </entry>
 </feed>

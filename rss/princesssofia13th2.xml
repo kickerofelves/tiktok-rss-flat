@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@princesssofia13th2</id>
   <title>@princesssofia13th2 | TikTok</title>
-  <updated>2023-07-11T06:10:51+00:00</updated>
+  <updated>2023-07-12T04:19:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @princesssofia13th2</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@princesssofia13th2/video/7253636218607504682</id>
-    <title>Correct guess gets free month 🤑🤑🤑 #fyp #xyzbca #viral </title>
-    <updated>2023-07-09T02:13:21+00:00</updated>
-    <content>Correct guess gets free month 🤑🤑🤑 #fyp #xyzbca #viral </content>
-    <link href="https://www.tiktok.com/@princesssofia13th2/video/7253636218607504682" rel="alternate"/>
-    <published>2023-07-09T02:13:21+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@princesssofia13th2/video/7253850311641550126</id>
-    <title>I broke this skirt after 1 wear ngl cuz A$$ 2 PHAT #fyp #xyzbca #viral </title>
-    <updated>2023-07-09T16:04:10+00:00</updated>
-    <content>I broke this skirt after 1 wear ngl cuz A$$ 2 PHAT #fyp #xyzbca #viral </content>
-    <link href="https://www.tiktok.com/@princesssofia13th2/video/7253850311641550126" rel="alternate"/>
-    <published>2023-07-09T16:04:10+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@princesssofia13th2/video/7254010914544930091</id>
     <title>No talking no problems #fyp #xyzbca #viral </title>
@@ -51,5 +35,21 @@
     <content>#fyp #xyzbca #viral </content>
     <link href="https://www.tiktok.com/@princesssofia13th2/video/7254439544118988074" rel="alternate"/>
     <published>2023-07-11T06:10:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@princesssofia13th2/video/7254712919022226731</id>
+    <title>#fyp #xyzbca #viral should i get them bigger be honest </title>
+    <updated>2023-07-11T23:51:26+00:00</updated>
+    <content>#fyp #xyzbca #viral should i get them bigger be honest </content>
+    <link href="https://www.tiktok.com/@princesssofia13th2/video/7254712919022226731" rel="alternate"/>
+    <published>2023-07-11T23:51:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@princesssofia13th2/video/7254781904476589355</id>
+    <title>[no title]</title>
+    <updated>2023-07-12T04:19:09+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@princesssofia13th2/video/7254781904476589355" rel="alternate"/>
+    <published>2023-07-12T04:19:09+00:00</published>
   </entry>
 </feed>
