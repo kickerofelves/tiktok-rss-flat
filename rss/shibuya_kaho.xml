@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@shibuya_kaho</id>
   <title>@shibuya_kaho | TikTok</title>
-  <updated>2023-07-11T03:32:11+00:00</updated>
+  <updated>2023-07-12T08:09:40+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @shibuya_kaho</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@shibuya_kaho/video/7248703856396225793</id>
-    <title>In Hawaii for TikTok Japan campaign💙 海だ〜🌊　インフルエンサーとして呼んでもらったので、ハワイ配信や投稿いっぱいします！</title>
-    <updated>2023-06-25T19:13:16+00:00</updated>
-    <content>In Hawaii for TikTok Japan campaign💙 海だ〜🌊　インフルエンサーとして呼んでもらったので、ハワイ配信や投稿いっぱいします！</content>
-    <link href="https://www.tiktok.com/@shibuya_kaho/video/7248703856396225793" rel="alternate"/>
-    <published>2023-06-25T19:13:16+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@shibuya_kaho/video/7249782026792930561</id>
-    <title>Hawaiian local Mr. and Mrs. Gokuflex took me to gym💪 肩の日焼けとタトゥーシールで強そう感出てますが、絶賛筋肉痛なうです！</title>
-    <updated>2023-06-28T16:57:00+00:00</updated>
-    <content>Hawaiian local Mr. and Mrs. Gokuflex took me to gym💪 肩の日焼けとタトゥーシールで強そう感出てますが、絶賛筋肉痛なうです！</content>
-    <link href="https://www.tiktok.com/@shibuya_kaho/video/7249782026792930561" rel="alternate"/>
-    <published>2023-06-28T16:57:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@shibuya_kaho/video/7250294149314809089</id>
     <title>Behind the scenes of my Bizzare adventure with CDawgVA‼️ We did ice-fisnihing in Gunma🐟 群馬でワカサギ釣り撮影した時の(っ ॑꒳ ॑c)</title>
@@ -51,5 +35,21 @@
     <content>Aquarium in Ikebukuro #Sunshinecity 🐠 日本の水族館は幻想的ゆえ、デートに向いてるのが納得みたいです！</content>
     <link href="https://www.tiktok.com/@shibuya_kaho/video/7254398728113540353" rel="alternate"/>
     <published>2023-07-11T03:32:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@shibuya_kaho/video/7254759388664122625</id>
+    <title>My new #idol outfit🎀 新オリジナル衣装お披露目！</title>
+    <updated>2023-07-12T02:51:45+00:00</updated>
+    <content>My new #idol outfit🎀 新オリジナル衣装お披露目！</content>
+    <link href="https://www.tiktok.com/@shibuya_kaho/video/7254759388664122625" rel="alternate"/>
+    <published>2023-07-12T02:51:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@shibuya_kaho/video/7254841323159571713</id>
+    <title>Thiking about bringing this #pochita sweater to Otakon🧡 月末オタコン出演にこれ持って行こうかな・・</title>
+    <updated>2023-07-12T08:09:40+00:00</updated>
+    <content>Thiking about bringing this #pochita sweater to Otakon🧡 月末オタコン出演にこれ持って行こうかな・・</content>
+    <link href="https://www.tiktok.com/@shibuya_kaho/video/7254841323159571713" rel="alternate"/>
+    <published>2023-07-12T08:09:40+00:00</published>
   </entry>
 </feed>
