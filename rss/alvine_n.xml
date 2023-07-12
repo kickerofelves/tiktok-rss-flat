@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@alvine_n</id>
   <title>@alvine_n | TikTok</title>
-  <updated>2023-07-11T18:38:20+00:00</updated>
+  <updated>2023-07-12T18:18:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @alvine_n</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@alvine_n/video/7253876961225837851</id>
-    <title>Replying to @Shantel Masemola   Hey TikTok fam! Are you ready to say goodbye to those back flaps and belly fat? 🌟 I'm here to give you a beginner's guide to help you achieve your fitness goals. Let's dive right in! 💪 Step 1: Set Realistic Goals 📈 Start by</title>
-    <updated>2023-07-09T17:47:29+00:00</updated>
-    <content>Replying to @Shantel Masemola   Hey TikTok fam! Are you ready to say goodbye to those back flaps and belly fat? 🌟 I'm here to give you a beginner's guide to help you achieve your fitness goals. Let's dive right in! 💪 Step 1: Set Realistic Goals 📈 Start by setting realistic goals that are specific, measurable, attainable, relevant, and time-bound (SMART). For example, aim to lose 1-2 pounds per week and track your progress regularly. Step 2: Clean Up Your Diet 🥦🍎 Focus on nourishing your body with whole, unprocessed foods. Incorporate lean proteins, fruits, vegetables, whole grains, and healthy fats into your meals. Avoid sugary drinks, processed snacks, and excessive amounts of refined carbohydrates. Step 3: Portion Control 🍽️ Watch your portion sizes to maintain a calorie deficit. Use smaller plates and bowls, and listen to your body's hunger and fullness cues. Remember, it's about quality and quantity! Step 4: Stay Hydrated 💧 Water is essential for your overall health and weight loss journey. Aim to drink at least 8 glasses of water per day. You can also infuse your water with fruits or herbs to add a hint of flavor. Step 5: Incorporate Cardiovascular Exercises 🏃‍♀️🏋️‍♂️ Engage in activities that get your heart rate up and burn calories. Try brisk walking, jogging, cycling, swimming, or dancing. Start with 20-30 minutes of cardio, gradually increasing the duration as your fitness improves. Step 6: Strength Training 💪 Build lean muscle to boost your metabolism and shape your body. Include exercises like squats, lunges, push-ups, planks, and resistance band workouts. Begin with lighter weights or bodyweight exercises, focusing on proper form. Step 7: HIIT Workouts 🕺💦 High-Intensity Interval Training (HIIT) is a great way to burn fat and increase your fitness levels. Mix short bursts of intense exercises with periods of active rest. Look up HIIT routines on TikTok for some quick and effective workouts. Step 8: Consistency is Key 🔑 Remember, sustainable results come from consistency. Stay committed to your workout routine and healthy eating habits. Celebrate small victories along the way to keep yourself motivated. Step 9: Rest and Recovery 😴💤 Allow your body time to recover and repair. Aim for 7-9 hours of quality sleep each night. Resting is just as important as exercising to achieve optimal results. Step 10: Stay Positive and Have Fun! 🌈😄 Maintain a positive mindset throughout your journey. Surround yourself with a supportive community on TikTok, follow fitness influencers for inspiration, and have fun while working towards your goals. Remember, you've got this! Start implementing these steps into your daily routine, stay consistent, and watch those back flaps and belly fat melt away! Share your progress with the hashtag #FitnessJourney, and let's support each other along the way. Stay tuned for more fitness tips and tricks! 💪💕</content>
-    <link href="https://www.tiktok.com/@alvine_n/video/7253876961225837851" rel="alternate"/>
-    <published>2023-07-09T17:47:29+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@alvine_n/video/7254247101343862043</id>
-    <title>Replying to @Lizzzzzz_18  comment below if you’re ready 🔥</title>
-    <updated>2023-07-10T17:43:49+00:00</updated>
-    <content>Replying to @Lizzzzzz_18  comment below if you’re ready 🔥</content>
-    <link href="https://www.tiktok.com/@alvine_n/video/7254247101343862043" rel="alternate"/>
-    <published>2023-07-10T17:43:49+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@alvine_n/video/7254618314742271259</id>
     <title>#CapCut healthy meal prep low calorie burrito bowl 🔥 cookbook in my bio ❤️</title>
@@ -51,5 +35,21 @@
     <content>#gymmotivation </content>
     <link href="https://www.tiktok.com/@alvine_n/video/7254632244147408155" rel="alternate"/>
     <published>2023-07-11T18:38:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@alvine_n/video/7254949744567487771</id>
+    <title>#CapCut comment below if you are ready; full body + core workout 🔥🔥</title>
+    <updated>2023-07-12T15:10:26+00:00</updated>
+    <content>#CapCut comment below if you are ready; full body + core workout 🔥🔥</content>
+    <link href="https://www.tiktok.com/@alvine_n/video/7254949744567487771" rel="alternate"/>
+    <published>2023-07-12T15:10:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@alvine_n/video/7254998111670570267</id>
+    <title>Replying to @obaayaa   Join through the first link in my bio workout plan + Nuttrition + private community chat for daily support &amp; motivation </title>
+    <updated>2023-07-12T18:18:05+00:00</updated>
+    <content>Replying to @obaayaa   Join through the first link in my bio workout plan + Nuttrition + private community chat for daily support &amp; motivation </content>
+    <link href="https://www.tiktok.com/@alvine_n/video/7254998111670570267" rel="alternate"/>
+    <published>2023-07-12T18:18:05+00:00</published>
   </entry>
 </feed>
