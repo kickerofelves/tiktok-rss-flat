@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@shibuya_kaho</id>
   <title>@shibuya_kaho | TikTok</title>
-  <updated>2023-07-12T08:09:40+00:00</updated>
+  <updated>2023-07-14T03:12:22+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @shibuya_kaho</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@shibuya_kaho/video/7250294149314809089</id>
-    <title>Behind the scenes of my Bizzare adventure with CDawgVA‼️ We did ice-fisnihing in Gunma🐟 群馬でワカサギ釣り撮影した時の(っ ॑꒳ ॑c)</title>
-    <updated>2023-06-30T02:04:20+00:00</updated>
-    <content>Behind the scenes of my Bizzare adventure with CDawgVA‼️ We did ice-fisnihing in Gunma🐟 群馬でワカサギ釣り撮影した時の(っ ॑꒳ ॑c)</content>
-    <link href="https://www.tiktok.com/@shibuya_kaho/video/7250294149314809089" rel="alternate"/>
-    <published>2023-06-30T02:04:20+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@shibuya_kaho/video/7253264714719841537</id>
     <title>Been to Kobe's #nijigennomori ❣️ ずっと来てみたかった場所(*´∀｀*)</title>
@@ -51,5 +43,13 @@
     <content>Thiking about bringing this #pochita sweater to Otakon🧡 月末オタコン出演にこれ持って行こうかな・・</content>
     <link href="https://www.tiktok.com/@shibuya_kaho/video/7254841323159571713" rel="alternate"/>
     <published>2023-07-12T08:09:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@shibuya_kaho/video/7255506880624200961</id>
+    <title>The headphone #razer san gifted me was so cute that I demanded to have a shoot at studio❣️#RazerKrakenKitty ウサギが一番ボリューミーで目立つよんꪔ̤̮ </title>
+    <updated>2023-07-14T03:12:22+00:00</updated>
+    <content>The headphone #razer san gifted me was so cute that I demanded to have a shoot at studio❣️#RazerKrakenKitty ウサギが一番ボリューミーで目立つよんꪔ̤̮ </content>
+    <link href="https://www.tiktok.com/@shibuya_kaho/video/7255506880624200961" rel="alternate"/>
+    <published>2023-07-14T03:12:22+00:00</published>
   </entry>
 </feed>
