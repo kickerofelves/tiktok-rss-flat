@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@pearlwats</id>
   <title>@pearlwats | TikTok</title>
-  <updated>2023-07-09T13:08:00+00:00</updated>
+  <updated>2023-07-14T18:09:48+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @pearlwats</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@pearlwats/video/7240477863139495173</id>
-    <title>It is what it is! 😂</title>
-    <updated>2023-06-03T15:12:05+00:00</updated>
-    <content>It is what it is! 😂</content>
-    <link href="https://www.tiktok.com/@pearlwats/video/7240477863139495173" rel="alternate"/>
-    <published>2023-06-03T15:12:05+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@pearlwats/video/7240529599405362438</id>
     <title>Replying to @Molly😊 Now both of you can REST in peace!!  @kiwo .jr Retards </title>
@@ -51,5 +43,13 @@
     <content>You are a very bad boy😂 @Maurice Sam </content>
     <link href="https://www.tiktok.com/@pearlwats/video/7253804958905126150" rel="alternate"/>
     <published>2023-07-09T13:08:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@pearlwats/video/7255738152923565318</id>
+    <title>Can’t wait for y’all to see this movie when its out!  Hey! Neighbor </title>
+    <updated>2023-07-14T18:09:48+00:00</updated>
+    <content>Can’t wait for y’all to see this movie when its out!  Hey! Neighbor </content>
+    <link href="https://www.tiktok.com/@pearlwats/video/7255738152923565318" rel="alternate"/>
+    <published>2023-07-14T18:09:48+00:00</published>
   </entry>
 </feed>
