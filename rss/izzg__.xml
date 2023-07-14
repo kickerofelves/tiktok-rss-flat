@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@izzg__</id>
   <title>@izzg__ | TikTok</title>
-  <updated>2023-07-13T16:59:39+00:00</updated>
+  <updated>2023-07-13T20:58:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -29,14 +29,6 @@
     <published>2023-07-13T16:16:05+00:00</published>
   </entry>
   <entry>
-    <id>https://www.tiktok.com/@izzg__/video/7255342193689300266</id>
-    <title>[no title]</title>
-    <updated>2023-07-13T16:33:22+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@izzg__/video/7255342193689300266" rel="alternate"/>
-    <published>2023-07-13T16:33:22+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.tiktok.com/@izzg__/video/7255344920637164846</id>
     <title>pop quiz</title>
     <updated>2023-07-13T16:43:57+00:00</updated>
@@ -51,5 +43,13 @@
     <content>[no description]</content>
     <link href="https://www.tiktok.com/@izzg__/video/7255348965779000619" rel="alternate"/>
     <published>2023-07-13T16:59:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@izzg__/video/7255410602410249514</id>
+    <title>A SAD STORY:</title>
+    <updated>2023-07-13T20:58:49+00:00</updated>
+    <content>A SAD STORY:</content>
+    <link href="https://www.tiktok.com/@izzg__/video/7255410602410249514" rel="alternate"/>
+    <published>2023-07-13T20:58:49+00:00</published>
   </entry>
 </feed>
