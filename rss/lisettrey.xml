@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@lisettrey</id>
   <title>@lisettrey | TikTok</title>
-  <updated>2023-07-08T14:06:22+00:00</updated>
+  <updated>2023-07-14T19:35:55+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @lisettrey</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@lisettrey/video/7250527735490022662</id>
-    <title>[no title]</title>
-    <updated>2023-06-30T17:10:42+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@lisettrey/video/7250527735490022662" rel="alternate"/>
-    <published>2023-06-30T17:10:42+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@lisettrey/video/7253117555559156998</id>
-    <title>Yes or yes 😘</title>
-    <updated>2023-07-07T16:40:31+00:00</updated>
-    <content>Yes or yes 😘</content>
-    <link href="https://www.tiktok.com/@lisettrey/video/7253117555559156998" rel="alternate"/>
-    <published>2023-07-07T16:40:31+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@lisettrey/video/7253117791681760517</id>
     <title>🫒</title>
@@ -51,5 +35,21 @@
     <content>Good morning 🙈</content>
     <link href="https://www.tiktok.com/@lisettrey/video/7253448919382756614" rel="alternate"/>
     <published>2023-07-08T14:06:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lisettrey/video/7255757017141366022</id>
+    <title>Me borran el otro 🥺</title>
+    <updated>2023-07-14T19:23:01+00:00</updated>
+    <content>Me borran el otro 🥺</content>
+    <link href="https://www.tiktok.com/@lisettrey/video/7255757017141366022" rel="alternate"/>
+    <published>2023-07-14T19:23:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lisettrey/video/7255760346860850437</id>
+    <title>Mi amor😏</title>
+    <updated>2023-07-14T19:35:55+00:00</updated>
+    <content>Mi amor😏</content>
+    <link href="https://www.tiktok.com/@lisettrey/video/7255760346860850437" rel="alternate"/>
+    <published>2023-07-14T19:35:55+00:00</published>
   </entry>
 </feed>
