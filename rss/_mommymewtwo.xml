@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@_mommymewtwo</id>
   <title>@_mommymewtwo | TikTok</title>
-  <updated>2023-07-14T16:07:29+00:00</updated>
+  <updated>2023-07-15T15:37:31+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -37,19 +37,19 @@
     <published>2023-07-12T15:08:39+00:00</published>
   </entry>
   <entry>
-    <id>https://www.tiktok.com/@_mommymewtwo/video/7255320014771801371</id>
-    <title>🩷💕 #mewtwo </title>
-    <updated>2023-07-13T15:07:14+00:00</updated>
-    <content>🩷💕 #mewtwo </content>
-    <link href="https://www.tiktok.com/@_mommymewtwo/video/7255320014771801371" rel="alternate"/>
-    <published>2023-07-13T15:07:14+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.tiktok.com/@_mommymewtwo/video/7255706618338331931</id>
     <title>Barbie vibes🩷 #barbie #mewtwo #musclemommy #viral #fyp </title>
     <updated>2023-07-14T16:07:29+00:00</updated>
     <content>Barbie vibes🩷 #barbie #mewtwo #musclemommy #viral #fyp </content>
     <link href="https://www.tiktok.com/@_mommymewtwo/video/7255706618338331931" rel="alternate"/>
     <published>2023-07-14T16:07:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@_mommymewtwo/video/7256069968817655067</id>
+    <title>#mewtwo #musclemommy #fyp </title>
+    <updated>2023-07-15T15:37:31+00:00</updated>
+    <content>#mewtwo #musclemommy #fyp </content>
+    <link href="https://www.tiktok.com/@_mommymewtwo/video/7256069968817655067" rel="alternate"/>
+    <published>2023-07-15T15:37:31+00:00</published>
   </entry>
 </feed>
