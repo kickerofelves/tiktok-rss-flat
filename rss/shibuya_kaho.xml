@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@shibuya_kaho</id>
   <title>@shibuya_kaho | TikTok</title>
-  <updated>2023-07-14T03:12:22+00:00</updated>
+  <updated>2023-07-15T04:31:46+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @shibuya_kaho</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@shibuya_kaho/video/7253264714719841537</id>
-    <title>Been to Kobe's #nijigennomori ❣️ ずっと来てみたかった場所(*´∀｀*)</title>
-    <updated>2023-07-08T02:11:42+00:00</updated>
-    <content>Been to Kobe's #nijigennomori ❣️ ずっと来てみたかった場所(*´∀｀*)</content>
-    <link href="https://www.tiktok.com/@shibuya_kaho/video/7253264714719841537" rel="alternate"/>
-    <published>2023-07-08T02:11:42+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@shibuya_kaho/video/7254398728113540353</id>
     <title>Aquarium in Ikebukuro #Sunshinecity 🐠 日本の水族館は幻想的ゆえ、デートに向いてるのが納得みたいです！</title>
@@ -51,5 +43,13 @@
     <content>The headphone #razer san gifted me was so cute that I demanded to have a shoot at studio❣️#RazerKrakenKitty ウサギが一番ボリューミーで目立つよんꪔ̤̮ </content>
     <link href="https://www.tiktok.com/@shibuya_kaho/video/7255506880624200961" rel="alternate"/>
     <published>2023-07-14T03:12:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@shibuya_kaho/video/7255898423914745089</id>
+    <title>Cherry Blossom Princess🌸 ピンクいっぱいの桜姫٩(｡˃ ᵕ ˂ )و</title>
+    <updated>2023-07-15T04:31:46+00:00</updated>
+    <content>Cherry Blossom Princess🌸 ピンクいっぱいの桜姫٩(｡˃ ᵕ ˂ )و</content>
+    <link href="https://www.tiktok.com/@shibuya_kaho/video/7255898423914745089" rel="alternate"/>
+    <published>2023-07-15T04:31:46+00:00</published>
   </entry>
 </feed>
