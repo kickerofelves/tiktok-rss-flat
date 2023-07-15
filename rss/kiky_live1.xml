@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@kiky_live1</id>
   <title>@kiky_live1 | TikTok</title>
-  <updated>2023-07-13T22:31:53+00:00</updated>
+  <updated>2023-07-14T19:04:38+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kiky_live1</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@kiky_live1/video/7252822079999954202</id>
-    <title>#parati #fypシ #fakebodyy⚠️ #viral </title>
-    <updated>2023-07-06T21:34:01+00:00</updated>
-    <content>#parati #fypシ #fakebodyy⚠️ #viral </content>
-    <link href="https://www.tiktok.com/@kiky_live1/video/7252822079999954202" rel="alternate"/>
-    <published>2023-07-06T21:34:01+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@kiky_live1/video/7252822275018247451</id>
     <title>#viral #fakebodyy⚠️ #fypシ #parati #haitiantiktok🇭🇹 #yogagirl </title>
@@ -51,5 +43,13 @@
     <content>#fakebodyy⚠️ #viral #foryou #yogagirl </content>
     <link href="https://www.tiktok.com/@kiky_live1/video/7255434603354131739" rel="alternate"/>
     <published>2023-07-13T22:31:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@kiky_live1/video/7255752285530230042</id>
+    <title>#yogagirl #foryou #viral #haitiantiktok🇭🇹 </title>
+    <updated>2023-07-14T19:04:38+00:00</updated>
+    <content>#yogagirl #foryou #viral #haitiantiktok🇭🇹 </content>
+    <link href="https://www.tiktok.com/@kiky_live1/video/7255752285530230042" rel="alternate"/>
+    <published>2023-07-14T19:04:38+00:00</published>
   </entry>
 </feed>
