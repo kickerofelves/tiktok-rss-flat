@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@shibuya_kaho</id>
   <title>@shibuya_kaho | TikTok</title>
-  <updated>2023-07-15T04:31:46+00:00</updated>
+  <updated>2023-07-16T02:27:16+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @shibuya_kaho</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@shibuya_kaho/video/7254398728113540353</id>
-    <title>Aquarium in Ikebukuro #Sunshinecity 🐠 日本の水族館は幻想的ゆえ、デートに向いてるのが納得みたいです！</title>
-    <updated>2023-07-11T03:32:11+00:00</updated>
-    <content>Aquarium in Ikebukuro #Sunshinecity 🐠 日本の水族館は幻想的ゆえ、デートに向いてるのが納得みたいです！</content>
-    <link href="https://www.tiktok.com/@shibuya_kaho/video/7254398728113540353" rel="alternate"/>
-    <published>2023-07-11T03:32:11+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@shibuya_kaho/video/7254759388664122625</id>
     <title>My new #idol outfit🎀 新オリジナル衣装お披露目！</title>
@@ -46,10 +38,18 @@
   </entry>
   <entry>
     <id>https://www.tiktok.com/@shibuya_kaho/video/7255898423914745089</id>
-    <title>Cherry Blossom Princess🌸 ピンクいっぱいの桜姫٩(｡˃ ᵕ ˂ )و</title>
+    <title>Cherry Blossom Princess🌸 #sakuraprincess  ピンクいっぱいの桜姫٩(｡˃ ᵕ ˂ )و</title>
     <updated>2023-07-15T04:31:46+00:00</updated>
-    <content>Cherry Blossom Princess🌸 ピンクいっぱいの桜姫٩(｡˃ ᵕ ˂ )و</content>
+    <content>Cherry Blossom Princess🌸 #sakuraprincess  ピンクいっぱいの桜姫٩(｡˃ ᵕ ˂ )و</content>
     <link href="https://www.tiktok.com/@shibuya_kaho/video/7255898423914745089" rel="alternate"/>
     <published>2023-07-15T04:31:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@shibuya_kaho/video/7256237410693025026</id>
+    <title>I'm glad this cosplay worked out at AX💖  #minaashidocosplay  撮影後に色々と調整し、イベントに持って行きました( ｀・∀・´)つ アニメエキスポで着れて良かった〜！</title>
+    <updated>2023-07-16T02:27:16+00:00</updated>
+    <content>I'm glad this cosplay worked out at AX💖  #minaashidocosplay  撮影後に色々と調整し、イベントに持って行きました( ｀・∀・´)つ アニメエキスポで着れて良かった〜！</content>
+    <link href="https://www.tiktok.com/@shibuya_kaho/video/7256237410693025026" rel="alternate"/>
+    <published>2023-07-16T02:27:16+00:00</published>
   </entry>
 </feed>
