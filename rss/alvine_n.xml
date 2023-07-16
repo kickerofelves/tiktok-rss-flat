@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@alvine_n</id>
   <title>@alvine_n | TikTok</title>
-  <updated>2023-07-14T17:57:53+00:00</updated>
+  <updated>2023-07-16T17:25:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @alvine_n</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@alvine_n/video/7254949744567487771</id>
-    <title>#CapCut comment below if you are ready; full body + core workout 🔥🔥</title>
-    <updated>2023-07-12T15:10:26+00:00</updated>
-    <content>#CapCut comment below if you are ready; full body + core workout 🔥🔥</content>
-    <link href="https://www.tiktok.com/@alvine_n/video/7254949744567487771" rel="alternate"/>
-    <published>2023-07-12T15:10:26+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@alvine_n/video/7254998111670570267</id>
-    <title>Replying to @obaayaa   Join through the first link in my bio workout plan + Nuttrition + private community chat for daily support &amp; motivation </title>
-    <updated>2023-07-12T18:18:05+00:00</updated>
-    <content>Replying to @obaayaa   Join through the first link in my bio workout plan + Nuttrition + private community chat for daily support &amp; motivation </content>
-    <link href="https://www.tiktok.com/@alvine_n/video/7254998111670570267" rel="alternate"/>
-    <published>2023-07-12T18:18:05+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@alvine_n/video/7255379214055017755</id>
     <title>Replying to @CAPO   Let me know if you need help </title>
@@ -51,5 +35,21 @@
     <content>#CapCut hourglass workout split 🫶🫶</content>
     <link href="https://www.tiktok.com/@alvine_n/video/7255735072077270299" rel="alternate"/>
     <published>2023-07-14T17:57:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@alvine_n/video/7256385658350996763</id>
+    <title>Replying to @a.arcxt   Glutes workout beginner friendly gym fit @AYBL  #gymmotivation </title>
+    <updated>2023-07-16T12:02:31+00:00</updated>
+    <content>Replying to @a.arcxt   Glutes workout beginner friendly gym fit @AYBL  #gymmotivation </content>
+    <link href="https://www.tiktok.com/@alvine_n/video/7256385658350996763" rel="alternate"/>
+    <published>2023-07-16T12:02:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@alvine_n/video/7256468932737912091</id>
+    <title>Replying to @yo_girl_angie007   Workout plan + Nuttrition + private community chat for daily support &amp; motivation in bio ❤️</title>
+    <updated>2023-07-16T17:25:39+00:00</updated>
+    <content>Replying to @yo_girl_angie007   Workout plan + Nuttrition + private community chat for daily support &amp; motivation in bio ❤️</content>
+    <link href="https://www.tiktok.com/@alvine_n/video/7256468932737912091" rel="alternate"/>
+    <published>2023-07-16T17:25:39+00:00</published>
   </entry>
 </feed>
