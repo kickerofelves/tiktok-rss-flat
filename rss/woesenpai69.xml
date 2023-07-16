@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@woesenpai69</id>
   <title>@woesenpai69 | TikTok</title>
-  <updated>2023-07-13T21:11:50+00:00</updated>
+  <updated>2023-07-16T02:29:22+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @woesenpai69</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@woesenpai69/video/7248796757969210667</id>
-    <title>Outfit moment </title>
-    <updated>2023-06-26T01:13:48+00:00</updated>
-    <content>Outfit moment </content>
-    <link href="https://www.tiktok.com/@woesenpai69/video/7248796757969210667" rel="alternate"/>
-    <published>2023-06-26T01:13:48+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@woesenpai69/video/7250596195997846830</id>
-    <title>Trader hoeee</title>
-    <updated>2023-06-30T21:36:32+00:00</updated>
-    <content>Trader hoeee</content>
-    <link href="https://www.tiktok.com/@woesenpai69/video/7250596195997846830" rel="alternate"/>
-    <published>2023-06-30T21:36:32+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@woesenpai69/video/7252807000176872746</id>
-    <title>#duet with @Bobbi </title>
-    <updated>2023-07-06T20:35:30+00:00</updated>
-    <content>#duet with @Bobbi </content>
-    <link href="https://www.tiktok.com/@woesenpai69/video/7252807000176872746" rel="alternate"/>
-    <published>2023-07-06T20:35:30+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@woesenpai69/video/7255134688996592938</id>
     <title>🔥🔥</title>
@@ -51,5 +27,29 @@
     <content>Second day back in the gym and im already planning my skinny fits. #ootd #outfit #outfitideas </content>
     <link href="https://www.tiktok.com/@woesenpai69/video/7255413964702584106" rel="alternate"/>
     <published>2023-07-13T21:11:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@woesenpai69/video/7256118993516383531</id>
+    <title>Why my abs came back after 3 days at the gym. Wild. </title>
+    <updated>2023-07-15T18:47:53+00:00</updated>
+    <content>Why my abs came back after 3 days at the gym. Wild. </content>
+    <link href="https://www.tiktok.com/@woesenpai69/video/7256118993516383531" rel="alternate"/>
+    <published>2023-07-15T18:47:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@woesenpai69/video/7256185385078934830</id>
+    <title>Hopefully i die before i make it this age</title>
+    <updated>2023-07-15T23:05:26+00:00</updated>
+    <content>Hopefully i die before i make it this age</content>
+    <link href="https://www.tiktok.com/@woesenpai69/video/7256185385078934830" rel="alternate"/>
+    <published>2023-07-15T23:05:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@woesenpai69/video/7256237948134264110</id>
+    <title>[no title]</title>
+    <updated>2023-07-16T02:29:22+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@woesenpai69/video/7256237948134264110" rel="alternate"/>
+    <published>2023-07-16T02:29:22+00:00</published>
   </entry>
 </feed>
