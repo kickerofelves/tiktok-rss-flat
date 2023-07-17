@@ -1,4 +1,4 @@
 asyncio
 feedgen
-tiktokapipy<0.2
-pydantic<2
+tiktokapipy
+
