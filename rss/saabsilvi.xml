@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@saabsilvi</id>
   <title>@saabsilvi | TikTok</title>
-  <updated>2023-07-16T01:40:14+00:00</updated>
+  <updated>2023-07-17T00:21:46+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @saabsilvi</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@saabsilvi/video/7251324470244248837</id>
-    <title>Welcome julio✨🩷</title>
-    <updated>2023-07-02T20:42:28+00:00</updated>
-    <content>Welcome julio✨🩷</content>
-    <link href="https://www.tiktok.com/@saabsilvi/video/7251324470244248837" rel="alternate"/>
-    <published>2023-07-02T20:42:28+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@saabsilvi/video/7252150628347038981</id>
     <title>#fyp #parati #foryou </title>
@@ -51,5 +43,13 @@
     <content>reading🫣</content>
     <link href="https://www.tiktok.com/@saabsilvi/video/7256225315041627397" rel="alternate"/>
     <published>2023-07-16T01:40:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@saabsilvi/video/7256576181317750021</id>
+    <title>Uyy😏</title>
+    <updated>2023-07-17T00:21:46+00:00</updated>
+    <content>Uyy😏</content>
+    <link href="https://www.tiktok.com/@saabsilvi/video/7256576181317750021" rel="alternate"/>
+    <published>2023-07-17T00:21:46+00:00</published>
   </entry>
 </feed>
