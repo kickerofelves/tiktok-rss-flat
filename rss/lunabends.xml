@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@lunabends</id>
   <title>@lunabends | TikTok</title>
-  <updated>2023-07-15T18:43:19+00:00</updated>
+  <updated>2023-07-17T14:39:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @lunabends</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@lunabends/video/7255023769616649518</id>
-    <title>Not new to this 🫡  #pole #dancer #poletricks #stronggirl </title>
-    <updated>2023-07-12T19:57:48+00:00</updated>
-    <content>Not new to this 🫡  #pole #dancer #poletricks #stronggirl </content>
-    <link href="https://www.tiktok.com/@lunabends/video/7255023769616649518" rel="alternate"/>
-    <published>2023-07-12T19:57:48+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@lunabends/video/7255369610634071338</id>
     <title>When the jeans are flexy girl approved  #yogi #yoga #splits #flexible </title>
@@ -51,5 +43,13 @@
     <content>Pole flow was life, now I'm a weeeee bit tired from teaching classes &amp; working to flow like I used to 🥲 #poletok #stronggirl #poleflow #dancer </content>
     <link href="https://www.tiktok.com/@lunabends/video/7256117825004260650" rel="alternate"/>
     <published>2023-07-15T18:43:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lunabends/video/7256797044520684846</id>
+    <title>Taking a stroll in the park with @Tdohfit  #summer2023 #baddies </title>
+    <updated>2023-07-17T14:39:09+00:00</updated>
+    <content>Taking a stroll in the park with @Tdohfit  #summer2023 #baddies </content>
+    <link href="https://www.tiktok.com/@lunabends/video/7256797044520684846" rel="alternate"/>
+    <published>2023-07-17T14:39:09+00:00</published>
   </entry>
 </feed>
