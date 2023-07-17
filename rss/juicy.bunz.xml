@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@juicy.bunz</id>
   <title>@juicy.bunz | TikTok</title>
-  <updated>2023-07-15T21:24:19+00:00</updated>
+  <updated>2023-07-16T20:07:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @juicy.bunz</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@juicy.bunz/video/7252169330949983531</id>
-    <title>Staying in on 4th of july bc your dog needs you. He is scared of the fireworks loud noises 😢 poor baby :( </title>
-    <updated>2023-07-05T03:21:03+00:00</updated>
-    <content>Staying in on 4th of july bc your dog needs you. He is scared of the fireworks loud noises 😢 poor baby :( </content>
-    <link href="https://www.tiktok.com/@juicy.bunz/video/7252169330949983531" rel="alternate"/>
-    <published>2023-07-05T03:21:03+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@juicy.bunz/video/7252809615920876842</id>
     <title>Don’t forget the fiber one brownie for dessert! 😋 #cooking #fitness #gymgirl #gymtok </title>
@@ -51,5 +43,13 @@
     <content>Why is it moving like that 😭</content>
     <link href="https://www.tiktok.com/@juicy.bunz/video/7256159317047414058" rel="alternate"/>
     <published>2023-07-15T21:24:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@juicy.bunz/video/7256510683813072170</id>
+    <title>I just walked up 3 flights of stairs and i still have to cook some food 😥 im done #gym #fitness #gymtok #fyp </title>
+    <updated>2023-07-16T20:07:50+00:00</updated>
+    <content>I just walked up 3 flights of stairs and i still have to cook some food 😥 im done #gym #fitness #gymtok #fyp </content>
+    <link href="https://www.tiktok.com/@juicy.bunz/video/7256510683813072170" rel="alternate"/>
+    <published>2023-07-16T20:07:50+00:00</published>
   </entry>
 </feed>
