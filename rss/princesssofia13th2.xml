@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@princesssofia13th2</id>
   <title>@princesssofia13th2 | TikTok</title>
-  <updated>2023-07-17T13:32:48+00:00</updated>
+  <updated>2023-07-18T04:38:29+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @princesssofia13th2</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@princesssofia13th2/video/7256085759936007467</id>
-    <title>Natural pr fake gues below!!! #fyp #xyzbca #viral </title>
-    <updated>2023-07-15T16:38:56+00:00</updated>
-    <content>Natural pr fake gues below!!! #fyp #xyzbca #viral </content>
-    <link href="https://www.tiktok.com/@princesssofia13th2/video/7256085759936007467" rel="alternate"/>
-    <published>2023-07-15T16:38:56+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@princesssofia13th2/video/7256302202950602027</id>
-    <title>Couldnt figure it out #fyp #xyzbca #viral </title>
-    <updated>2023-07-16T06:38:58+00:00</updated>
-    <content>Couldnt figure it out #fyp #xyzbca #viral </content>
-    <link href="https://www.tiktok.com/@princesssofia13th2/video/7256302202950602027" rel="alternate"/>
-    <published>2023-07-16T06:38:58+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@princesssofia13th2/video/7256501557229866282</id>
     <title>A bb w mommy 🥛rz #fyp #xyzbca #viral </title>
@@ -51,5 +35,21 @@
     <content>Whenever i goto Europe theyre like “youre so AMERICAN” im like … thank you 🦅 🫡 🇺🇸 #fyp </content>
     <link href="https://www.tiktok.com/@princesssofia13th2/video/7256779943722388778" rel="alternate"/>
     <published>2023-07-17T13:32:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@princesssofia13th2/video/7256934843869711658</id>
+    <title>Im the HYAHHH</title>
+    <updated>2023-07-17T23:33:45+00:00</updated>
+    <content>Im the HYAHHH</content>
+    <link href="https://www.tiktok.com/@princesssofia13th2/video/7256934843869711658" rel="alternate"/>
+    <published>2023-07-17T23:33:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@princesssofia13th2/video/7257013385101839662</id>
+    <title>Hangers </title>
+    <updated>2023-07-18T04:38:29+00:00</updated>
+    <content>Hangers </content>
+    <link href="https://www.tiktok.com/@princesssofia13th2/video/7257013385101839662" rel="alternate"/>
+    <published>2023-07-18T04:38:29+00:00</published>
   </entry>
 </feed>
