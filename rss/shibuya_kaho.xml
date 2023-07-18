@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@shibuya_kaho</id>
   <title>@shibuya_kaho | TikTok</title>
-  <updated>2023-07-16T02:27:16+00:00</updated>
+  <updated>2023-07-17T21:40:01+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @shibuya_kaho</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@shibuya_kaho/video/7254759388664122625</id>
-    <title>My new #idol outfit🎀 新オリジナル衣装お披露目！</title>
-    <updated>2023-07-12T02:51:45+00:00</updated>
-    <content>My new #idol outfit🎀 新オリジナル衣装お披露目！</content>
-    <link href="https://www.tiktok.com/@shibuya_kaho/video/7254759388664122625" rel="alternate"/>
-    <published>2023-07-12T02:51:45+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@shibuya_kaho/video/7254841323159571713</id>
-    <title>Thiking about bringing this #pochita sweater to Otakon🧡 月末オタコン出演にこれ持って行こうかな・・</title>
-    <updated>2023-07-12T08:09:40+00:00</updated>
-    <content>Thiking about bringing this #pochita sweater to Otakon🧡 月末オタコン出演にこれ持って行こうかな・・</content>
-    <link href="https://www.tiktok.com/@shibuya_kaho/video/7254841323159571713" rel="alternate"/>
-    <published>2023-07-12T08:09:40+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@shibuya_kaho/video/7255506880624200961</id>
     <title>The headphone #razer san gifted me was so cute that I demanded to have a shoot at studio❣️#RazerKrakenKitty ウサギが一番ボリューミーで目立つよんꪔ̤̮ </title>
@@ -51,5 +35,21 @@
     <content>I'm glad this cosplay worked out at AX💖  #minaashidocosplay  撮影後に色々と調整し、イベントに持って行きました( ｀・∀・´)つ アニメエキスポで着れて良かった〜！</content>
     <link href="https://www.tiktok.com/@shibuya_kaho/video/7256237410693025026" rel="alternate"/>
     <published>2023-07-16T02:27:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@shibuya_kaho/video/7256620113409871106</id>
+    <title>New workout video on #Gokuflex YouTube channel💪 Must watch~ ハワイでのトレーニング動画がupされました！</title>
+    <updated>2023-07-17T03:12:17+00:00</updated>
+    <content>New workout video on #Gokuflex YouTube channel💪 Must watch~ ハワイでのトレーニング動画がupされました！</content>
+    <link href="https://www.tiktok.com/@shibuya_kaho/video/7256620113409871106" rel="alternate"/>
+    <published>2023-07-17T03:12:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@shibuya_kaho/video/7256905536887639297</id>
+    <title>Tried the famous #cocopuff *I though it was chocopuff, sorry for the mistake🍫 リリハ・ベーカリーの有名なココパフ、地元チャットのお勧めで買いに行きました♡</title>
+    <updated>2023-07-17T21:40:01+00:00</updated>
+    <content>Tried the famous #cocopuff *I though it was chocopuff, sorry for the mistake🍫 リリハ・ベーカリーの有名なココパフ、地元チャットのお勧めで買いに行きました♡</content>
+    <link href="https://www.tiktok.com/@shibuya_kaho/video/7256905536887639297" rel="alternate"/>
+    <published>2023-07-17T21:40:01+00:00</published>
   </entry>
 </feed>
