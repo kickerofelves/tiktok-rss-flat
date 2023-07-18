@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@foodsciencebabe</id>
   <title>@foodsciencebabe | TikTok</title>
-  <updated>2023-07-10T21:03:27+00:00</updated>
+  <updated>2023-07-17T21:35:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @foodsciencebabe</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@foodsciencebabe/video/7247207839498964270</id>
-    <title>#stitch with @Ashley Freeman, M.S.  If we aren’t acknowledging things like socio economic factors as well as social and structural determinants of health, then we aren’t going to solve any real issues. In the same regard, disregarding the laws of thermody</title>
-    <updated>2023-06-21T18:27:55+00:00</updated>
-    <content>#stitch with @Ashley Freeman, M.S.  If we aren’t acknowledging things like socio economic factors as well as social and structural determinants of health, then we aren’t going to solve any real issues. In the same regard, disregarding the laws of thermodynamics because a calories in/calories out calculation isn’t an effective or helpful tool for everyone isn’t going to help us work towards any real solutions either. #thermodynamics #healthtok #caloriesincaloriesout #socialdeterminantsofhealth #fitnesstok </content>
-    <link href="https://www.tiktok.com/@foodsciencebabe/video/7247207839498964270" rel="alternate"/>
-    <published>2023-06-21T18:27:55+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@foodsciencebabe/video/7247664239320714542</id>
     <title>Check put my water activity playlist for lots more info! #mcdonalds #foodsafety #foodscience #wateractivity</title>
@@ -51,5 +43,13 @@
     <content>There have been some changes to the IARC monographs since this graphic I’m showing was published. Theres no longer a Group 4 and some things have been moved to different categories, for example, coffee was moved from Group 2B to Group 3. lARC removed Group 4 ("probably not carcinogenic to humans"). In other words, now a chemical will be judged by lARC to be a carcinogen or, if the data is really weak, to be "not classifiable as to its carcinogenicity to humans." Under the new rules, IARC will never conclude that an agent doesn't pose a carcinogenic hazard - at best, no matter how much data there is to the contrary, IARC will just say it's not classifiable.  #aspartame #dietcoke #iarc #foodsafety #foodscience </content>
     <link href="https://www.tiktok.com/@foodsciencebabe/video/7254298527877156139" rel="alternate"/>
     <published>2023-07-10T21:03:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@foodsciencebabe/video/7256904341699841322</id>
+    <title>Replying to @Food Science Babe JECFA update as promised. #aspartame #iarc #health #foodsafety #foodscience </title>
+    <updated>2023-07-17T21:35:27+00:00</updated>
+    <content>Replying to @Food Science Babe JECFA update as promised. #aspartame #iarc #health #foodsafety #foodscience </content>
+    <link href="https://www.tiktok.com/@foodsciencebabe/video/7256904341699841322" rel="alternate"/>
+    <published>2023-07-17T21:35:27+00:00</published>
   </entry>
 </feed>
