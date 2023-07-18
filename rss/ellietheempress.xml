@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ellietheempress</id>
   <title>@ellietheempress | TikTok</title>
-  <updated>2023-07-17T12:42:00+00:00</updated>
+  <updated>2023-07-18T13:12:15+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ellietheempress</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@ellietheempress/video/7256012458022702378</id>
-    <title>#foryou #fyp #viral </title>
-    <updated>2023-07-15T11:54:56+00:00</updated>
-    <content>#foryou #fyp #viral </content>
-    <link href="https://www.tiktok.com/@ellietheempress/video/7256012458022702378" rel="alternate"/>
-    <published>2023-07-15T11:54:56+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@ellietheempress/video/7256109960327630126</id>
     <title>#foryou #viral </title>
@@ -51,5 +43,13 @@
     <content>#foryou #fyp </content>
     <link href="https://www.tiktok.com/@ellietheempress/video/7256766810970836270" rel="alternate"/>
     <published>2023-07-17T12:42:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ellietheempress/video/7257145782736833835</id>
+    <title>#foryou #viral </title>
+    <updated>2023-07-18T13:12:15+00:00</updated>
+    <content>#foryou #viral </content>
+    <link href="https://www.tiktok.com/@ellietheempress/video/7257145782736833835" rel="alternate"/>
+    <published>2023-07-18T13:12:15+00:00</published>
   </entry>
 </feed>
