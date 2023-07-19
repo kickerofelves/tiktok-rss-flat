@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@22kimmyyang</id>
   <title>@22kimmyyang | TikTok</title>
-  <updated>2023-07-15T18:09:33+00:00</updated>
+  <updated>2023-07-18T18:12:34+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @22kimmyyang</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@22kimmyyang/video/7254679513030872362</id>
-    <title>We’re blessed with good genetics #twinsisters #twins </title>
-    <updated>2023-07-11T21:41:50+00:00</updated>
-    <content>We’re blessed with good genetics #twinsisters #twins </content>
-    <link href="https://www.tiktok.com/@22kimmyyang/video/7254679513030872362" rel="alternate"/>
-    <published>2023-07-11T21:41:50+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@22kimmyyang/video/7255004658400382250</id>
-    <title>[no title]</title>
-    <updated>2023-07-12T18:43:37+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@22kimmyyang/video/7255004658400382250" rel="alternate"/>
-    <published>2023-07-12T18:43:37+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@22kimmyyang/video/7255355363438955818</id>
-    <title>[no title]</title>
-    <updated>2023-07-13T17:24:27+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@22kimmyyang/video/7255355363438955818" rel="alternate"/>
-    <published>2023-07-13T17:24:27+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@22kimmyyang/video/7255769600737021226</id>
     <title>[no title]</title>
@@ -51,5 +27,29 @@
     <content>[no description]</content>
     <link href="https://www.tiktok.com/@22kimmyyang/video/7256109127561219371" rel="alternate"/>
     <published>2023-07-15T18:09:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@22kimmyyang/video/7256468829205761322</id>
+    <title>[no title]</title>
+    <updated>2023-07-16T17:25:25+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@22kimmyyang/video/7256468829205761322" rel="alternate"/>
+    <published>2023-07-16T17:25:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@22kimmyyang/video/7256823044922953003</id>
+    <title>[no title]</title>
+    <updated>2023-07-17T16:19:55+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@22kimmyyang/video/7256823044922953003" rel="alternate"/>
+    <published>2023-07-17T16:19:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@22kimmyyang/video/7257223181654674730</id>
+    <title>[no title]</title>
+    <updated>2023-07-18T18:12:34+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@22kimmyyang/video/7257223181654674730" rel="alternate"/>
+    <published>2023-07-18T18:12:34+00:00</published>
   </entry>
 </feed>
