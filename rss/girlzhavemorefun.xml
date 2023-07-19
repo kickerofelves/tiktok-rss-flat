@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@girlzhavemorefun</id>
   <title>@girlzhavemorefun | TikTok</title>
-  <updated>2023-07-16T01:11:51+00:00</updated>
+  <updated>2023-07-18T22:21:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @girlzhavemorefun</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@girlzhavemorefun/video/7255374114700070190</id>
-    <title>Watch me 😇 #fyp #viral #acegirlsonly </title>
-    <updated>2023-07-13T18:37:14+00:00</updated>
-    <content>Watch me 😇 #fyp #viral #acegirlsonly </content>
-    <link href="https://www.tiktok.com/@girlzhavemorefun/video/7255374114700070190" rel="alternate"/>
-    <published>2023-07-13T18:37:14+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@girlzhavemorefun/video/7255385715490491690</id>
-    <title>Worth the wait? #fyp #viral #acegirlsonly #trending </title>
-    <updated>2023-07-13T19:22:13+00:00</updated>
-    <content>Worth the wait? #fyp #viral #acegirlsonly #trending </content>
-    <link href="https://www.tiktok.com/@girlzhavemorefun/video/7255385715490491690" rel="alternate"/>
-    <published>2023-07-13T19:22:13+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@girlzhavemorefun/video/7255430746733661482</id>
-    <title>Lakers players hmu🤣 #fyp #viral #acegirlsonly #trending </title>
-    <updated>2023-07-13T22:16:57+00:00</updated>
-    <content>Lakers players hmu🤣 #fyp #viral #acegirlsonly #trending </content>
-    <link href="https://www.tiktok.com/@girlzhavemorefun/video/7255430746733661482" rel="alternate"/>
-    <published>2023-07-13T22:16:57+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@girlzhavemorefun/video/7256161083029851435</id>
     <title>Wait for ittttt #fyp #viral #acegirlsonly #trending </title>
@@ -51,5 +27,29 @@
     <content>Saturdays are for hot girls #fyp #viral #acegirlsonly #trending </content>
     <link href="https://www.tiktok.com/@girlzhavemorefun/video/7256217953249840430" rel="alternate"/>
     <published>2023-07-16T01:11:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@girlzhavemorefun/video/7257243649585483051</id>
+    <title>Smackkkk #fyp #viral #acegirlsonly #transition </title>
+    <updated>2023-07-18T19:31:58+00:00</updated>
+    <content>Smackkkk #fyp #viral #acegirlsonly #transition </content>
+    <link href="https://www.tiktok.com/@girlzhavemorefun/video/7257243649585483051" rel="alternate"/>
+    <published>2023-07-18T19:31:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@girlzhavemorefun/video/7257253434385075498</id>
+    <title>About to make dinnaaa #fyp #viral #acegirlsonly #transition #waitforit </title>
+    <updated>2023-07-18T20:09:56+00:00</updated>
+    <content>About to make dinnaaa #fyp #viral #acegirlsonly #transition #waitforit </content>
+    <link href="https://www.tiktok.com/@girlzhavemorefun/video/7257253434385075498" rel="alternate"/>
+    <published>2023-07-18T20:09:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@girlzhavemorefun/video/7257287389297626411</id>
+    <title>Getting tattoo removal😭 #fyp #viral #acegirlsonly #tattoo </title>
+    <updated>2023-07-18T22:21:42+00:00</updated>
+    <content>Getting tattoo removal😭 #fyp #viral #acegirlsonly #tattoo </content>
+    <link href="https://www.tiktok.com/@girlzhavemorefun/video/7257287389297626411" rel="alternate"/>
+    <published>2023-07-18T22:21:42+00:00</published>
   </entry>
 </feed>
