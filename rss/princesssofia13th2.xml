@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@princesssofia13th2</id>
   <title>@princesssofia13th2 | TikTok</title>
-  <updated>2023-07-19T00:37:06+00:00</updated>
+  <updated>2023-07-19T17:44:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @princesssofia13th2</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@princesssofia13th2/video/7256501557229866282</id>
-    <title>A bb w mommy 🥛rz #fyp #xyzbca #viral </title>
-    <updated>2023-07-16T19:32:24+00:00</updated>
-    <content>A bb w mommy 🥛rz #fyp #xyzbca #viral </content>
-    <link href="https://www.tiktok.com/@princesssofia13th2/video/7256501557229866282" rel="alternate"/>
-    <published>2023-07-16T19:32:24+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@princesssofia13th2/video/7256615816152632622</id>
     <title>[no title]</title>
@@ -51,5 +43,13 @@
     <content>The fly ruins the video </content>
     <link href="https://www.tiktok.com/@princesssofia13th2/video/7257322285458050346" rel="alternate"/>
     <published>2023-07-19T00:37:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@princesssofia13th2/video/7257586910145662251</id>
+    <title>I woll film new ones in a new fit a new day soon i swear #fyp #xyzbca #viral </title>
+    <updated>2023-07-19T17:44:10+00:00</updated>
+    <content>I woll film new ones in a new fit a new day soon i swear #fyp #xyzbca #viral </content>
+    <link href="https://www.tiktok.com/@princesssofia13th2/video/7257586910145662251" rel="alternate"/>
+    <published>2023-07-19T17:44:10+00:00</published>
   </entry>
 </feed>
