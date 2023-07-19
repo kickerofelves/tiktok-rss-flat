@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@raquelmartinphd</id>
   <title>@raquelmartinphd | TikTok</title>
-  <updated>2023-07-17T22:55:50+00:00</updated>
+  <updated>2023-07-19T15:46:34+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -13,43 +13,43 @@
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @raquelmartinphd</subtitle>
   <entry>
-    <id>https://www.tiktok.com/@raquelmartinphd/video/7255011764948012330</id>
-    <title>#greenscreen </title>
-    <updated>2023-07-12T19:11:09+00:00</updated>
-    <content>#greenscreen </content>
-    <link href="https://www.tiktok.com/@raquelmartinphd/video/7255011764948012330" rel="alternate"/>
-    <published>2023-07-12T19:11:09+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@raquelmartinphd/video/7255457904998747438</id>
-    <title>#greenscreen </title>
-    <updated>2023-07-14T00:02:22+00:00</updated>
-    <content>#greenscreen </content>
-    <link href="https://www.tiktok.com/@raquelmartinphd/video/7255457904998747438" rel="alternate"/>
-    <published>2023-07-14T00:02:22+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@raquelmartinphd/video/7255738666427944234</id>
-    <title>#mentalhealth #therapy #learnontiktok </title>
-    <updated>2023-07-14T18:11:53+00:00</updated>
-    <content>#mentalhealth #therapy #learnontiktok </content>
-    <link href="https://www.tiktok.com/@raquelmartinphd/video/7255738666427944234" rel="alternate"/>
-    <published>2023-07-14T18:11:53+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@raquelmartinphd/video/7256489390543752491</id>
-    <title>[no title]</title>
-    <updated>2023-07-16T18:45:05+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@raquelmartinphd/video/7256489390543752491" rel="alternate"/>
-    <published>2023-07-16T18:45:05+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.tiktok.com/@raquelmartinphd/video/7256925075570560298</id>
     <title>[no title]</title>
     <updated>2023-07-17T22:55:50+00:00</updated>
     <content>[no description]</content>
     <link href="https://www.tiktok.com/@raquelmartinphd/video/7256925075570560298" rel="alternate"/>
     <published>2023-07-17T22:55:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@raquelmartinphd/video/7256979471885126958</id>
+    <title>Sure i’ll get blocked after this one 🙄</title>
+    <updated>2023-07-18T02:26:52+00:00</updated>
+    <content>Sure i’ll get blocked after this one 🙄</content>
+    <link href="https://www.tiktok.com/@raquelmartinphd/video/7256979471885126958" rel="alternate"/>
+    <published>2023-07-18T02:26:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@raquelmartinphd/video/7257176202191015214</id>
+    <title>[no title]</title>
+    <updated>2023-07-18T15:10:19+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@raquelmartinphd/video/7257176202191015214" rel="alternate"/>
+    <published>2023-07-18T15:10:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@raquelmartinphd/video/7257340963255881006</id>
+    <title>#nashville #tn #fitness #foodprep </title>
+    <updated>2023-07-19T01:49:37+00:00</updated>
+    <content>#nashville #tn #fitness #foodprep </content>
+    <link href="https://www.tiktok.com/@raquelmartinphd/video/7257340963255881006" rel="alternate"/>
+    <published>2023-07-19T01:49:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@raquelmartinphd/video/7257556593674341674</id>
+    <title>#communication #relationships </title>
+    <updated>2023-07-19T15:46:34+00:00</updated>
+    <content>#communication #relationships </content>
+    <link href="https://www.tiktok.com/@raquelmartinphd/video/7257556593674341674" rel="alternate"/>
+    <published>2023-07-19T15:46:34+00:00</published>
   </entry>
 </feed>

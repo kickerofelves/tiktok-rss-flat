@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@korpobrownskin</id>
   <title>@korpobrownskin | TikTok</title>
-  <updated>2023-07-18T18:02:04+00:00</updated>
+  <updated>2023-07-19T12:22:48+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @korpobrownskin</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@korpobrownskin/video/7254549870860717317</id>
-    <title>60 day snatch⌛️ that body🍑challenge is live on my app 📲📲 link 🔗is in my bio .  #fyp #viral </title>
-    <updated>2023-07-11T13:18:39+00:00</updated>
-    <content>60 day snatch⌛️ that body🍑challenge is live on my app 📲📲 link 🔗is in my bio .  #fyp #viral </content>
-    <link href="https://www.tiktok.com/@korpobrownskin/video/7254549870860717317" rel="alternate"/>
-    <published>2023-07-11T13:18:39+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@korpobrownskin/video/7255248317695724806</id>
     <title>Hourglass workout spilts ⌛️🍑 Beaties, block them all. Block him , pray harder and stay consistent for the next 60 days and work on your goals i guarantee in the next 6months you’ll not be the same person.  Life can be rough but you don’t have to let go of</title>
@@ -51,5 +43,13 @@
     <content>Are you ready to transform your body?  Are you ready to gain your confidence back? Are you ready to take charge of your life ? Join my community where 1000 of amazing women making great shift and changes in their life , first link in my 🔗🔗 bio to sign up for my program and full access to nutrition guide.  We doing this together besties , you’re not alone on this journey  #fitnessmotivation #foryoupage #weightlosstransformation </content>
     <link href="https://www.tiktok.com/@korpobrownskin/video/7257220504061299973" rel="alternate"/>
     <published>2023-07-18T18:02:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@korpobrownskin/video/7257504162689338630</id>
+    <title>Replying to @The Rookie first link in my bio to sign up for my “ 60 day snatch that body challenge” structured meal plan and private community. #howtogetridoffupa #lovehandlesworkout #fitnessmotivation #foryoupage </title>
+    <updated>2023-07-19T12:22:48+00:00</updated>
+    <content>Replying to @The Rookie first link in my bio to sign up for my “ 60 day snatch that body challenge” structured meal plan and private community. #howtogetridoffupa #lovehandlesworkout #fitnessmotivation #foryoupage </content>
+    <link href="https://www.tiktok.com/@korpobrownskin/video/7257504162689338630" rel="alternate"/>
+    <published>2023-07-19T12:22:48+00:00</published>
   </entry>
 </feed>
