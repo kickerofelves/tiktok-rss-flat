@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@the_real_honeyd</id>
   <title>@the_real_honeyd | TikTok</title>
-  <updated>2023-06-08T01:55:56+00:00</updated>
+  <updated>2023-07-20T22:06:17+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @the_real_honeyd</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@the_real_honeyd/video/7240053896654130478</id>
-    <title>This looks hilarious #fyp #foryou #fupシ #wokeup #goodmorning </title>
-    <updated>2023-06-02T11:47:00+00:00</updated>
-    <content>This looks hilarious #fyp #foryou #fupシ #wokeup #goodmorning </content>
-    <link href="https://www.tiktok.com/@the_real_honeyd/video/7240053896654130478" rel="alternate"/>
-    <published>2023-06-02T11:47:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@the_real_honeyd/video/7240064122258263342</id>
-    <title>#fyp #foryou #fupシ #wokeup #goodmorning #whatsup #deppresiøn #dance #twerk </title>
-    <updated>2023-06-02T12:26:40+00:00</updated>
-    <content>#fyp #foryou #fupシ #wokeup #goodmorning #whatsup #deppresiøn #dance #twerk </content>
-    <link href="https://www.tiktok.com/@the_real_honeyd/video/7240064122258263342" rel="alternate"/>
-    <published>2023-06-02T12:26:40+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@the_real_honeyd/video/7242121681588817194</id>
     <title>#fyp #foryou #fupシ #wokeup #deppresiøn #twerk #dance #full </title>
@@ -51,5 +35,21 @@
     <content>#fyp #foryou #fupシ #wokeup #full #dance </content>
     <link href="https://www.tiktok.com/@the_real_honeyd/video/7242128096491605291" rel="alternate"/>
     <published>2023-06-08T01:55:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@the_real_honeyd/video/7258008244071714090</id>
+    <title>I had my tonsil removed im in pain still but getting better 😭❤️💕#fyp #foryou #fupシ #dance #goodmorning #fypシ </title>
+    <updated>2023-07-20T20:58:58+00:00</updated>
+    <content>I had my tonsil removed im in pain still but getting better 😭❤️💕#fyp #foryou #fupシ #dance #goodmorning #fypシ </content>
+    <link href="https://www.tiktok.com/@the_real_honeyd/video/7258008244071714090" rel="alternate"/>
+    <published>2023-07-20T20:58:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@the_real_honeyd/video/7258025589100055851</id>
+    <title>#fyp #foryou #fupシ #wigs #dance #surgery #redtheme #fyptonsil surgery really hurt  a lot cant wait to feel better guys.</title>
+    <updated>2023-07-20T22:06:17+00:00</updated>
+    <content>#fyp #foryou #fupシ #wigs #dance #surgery #redtheme #fyptonsil surgery really hurt  a lot cant wait to feel better guys.</content>
+    <link href="https://www.tiktok.com/@the_real_honeyd/video/7258025589100055851" rel="alternate"/>
+    <published>2023-07-20T22:06:17+00:00</published>
   </entry>
 </feed>
