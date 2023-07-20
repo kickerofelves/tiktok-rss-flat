@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@sophie.jane96</id>
   <title>@sophie.jane96 | TikTok</title>
-  <updated>2023-07-17T19:10:24+00:00</updated>
+  <updated>2023-07-19T16:44:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @sophie.jane96</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@sophie.jane96/video/7255253763856944411</id>
-    <title>Trying to save a wasp 👀😂😂 i got him out in the end </title>
-    <updated>2023-07-13T10:50:18+00:00</updated>
-    <content>Trying to save a wasp 👀😂😂 i got him out in the end </content>
-    <link href="https://www.tiktok.com/@sophie.jane96/video/7255253763856944411" rel="alternate"/>
-    <published>2023-07-13T10:50:18+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@sophie.jane96/video/7256078038805286170</id>
-    <title>Always spying </title>
-    <updated>2023-07-15T16:08:48+00:00</updated>
-    <content>Always spying </content>
-    <link href="https://www.tiktok.com/@sophie.jane96/video/7256078038805286170" rel="alternate"/>
-    <published>2023-07-15T16:08:48+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@sophie.jane96/video/7256090146334903579</id>
     <title>Anyways ☀️ </title>
@@ -51,5 +35,21 @@
     <content>Ew</content>
     <link href="https://www.tiktok.com/@sophie.jane96/video/7256867018522021146" rel="alternate"/>
     <published>2023-07-17T19:10:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@sophie.jane96/video/7257468819881463066</id>
+    <title>☀️ ugh </title>
+    <updated>2023-07-19T10:05:46+00:00</updated>
+    <content>☀️ ugh </content>
+    <link href="https://www.tiktok.com/@sophie.jane96/video/7257468819881463066" rel="alternate"/>
+    <published>2023-07-19T10:05:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@sophie.jane96/video/7257571626471001370</id>
+    <title>No way </title>
+    <updated>2023-07-19T16:44:41+00:00</updated>
+    <content>No way </content>
+    <link href="https://www.tiktok.com/@sophie.jane96/video/7257571626471001370" rel="alternate"/>
+    <published>2023-07-19T16:44:41+00:00</published>
   </entry>
 </feed>
