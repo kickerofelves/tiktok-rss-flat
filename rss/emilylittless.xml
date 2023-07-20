@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@emilylittless</id>
   <title>@emilylittless | TikTok</title>
-  <updated>2023-07-15T16:13:49+00:00</updated>
+  <updated>2023-07-20T03:42:31+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @emilylittless</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@emilylittless/video/7249522908022885678</id>
-    <title>my momma aint gonna like this one</title>
-    <updated>2023-06-28T00:11:40+00:00</updated>
-    <content>my momma aint gonna like this one</content>
-    <link href="https://www.tiktok.com/@emilylittless/video/7249522908022885678" rel="alternate"/>
-    <published>2023-06-28T00:11:40+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@emilylittless/video/7252358911091576110</id>
-    <title>they gonna be mad about this one🥰  (its a bikini mf)</title>
-    <updated>2023-07-05T15:36:52+00:00</updated>
-    <content>they gonna be mad about this one🥰  (its a bikini mf)</content>
-    <link href="https://www.tiktok.com/@emilylittless/video/7252358911091576110" rel="alternate"/>
-    <published>2023-07-05T15:36:52+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@emilylittless/video/7254402279527370030</id>
-    <title>realized i should stop only posting on tuesdays </title>
-    <updated>2023-07-11T03:46:08+00:00</updated>
-    <content>realized i should stop only posting on tuesdays </content>
-    <link href="https://www.tiktok.com/@emilylittless/video/7254402279527370030" rel="alternate"/>
-    <published>2023-07-11T03:46:08+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@emilylittless/video/7254756836123888939</id>
     <title>happy tuesdayyyyyy</title>
@@ -51,5 +27,29 @@
     <content>fukumean</content>
     <link href="https://www.tiktok.com/@emilylittless/video/7256079262112075054" rel="alternate"/>
     <published>2023-07-15T16:13:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@emilylittless/video/7257383710490643755</id>
+    <title>can we get a shoutout Julie (my softball teammate) for giving me this cute outfit</title>
+    <updated>2023-07-19T04:35:35+00:00</updated>
+    <content>can we get a shoutout Julie (my softball teammate) for giving me this cute outfit</content>
+    <link href="https://www.tiktok.com/@emilylittless/video/7257383710490643755" rel="alternate"/>
+    <published>2023-07-19T04:35:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@emilylittless/video/7257385047509044522</id>
+    <title>new fit unlocked and obsessed </title>
+    <updated>2023-07-19T04:40:47+00:00</updated>
+    <content>new fit unlocked and obsessed </content>
+    <link href="https://www.tiktok.com/@emilylittless/video/7257385047509044522" rel="alternate"/>
+    <published>2023-07-19T04:40:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@emilylittless/video/7257741136264072494</id>
+    <title>swear imma post more</title>
+    <updated>2023-07-20T03:42:31+00:00</updated>
+    <content>swear imma post more</content>
+    <link href="https://www.tiktok.com/@emilylittless/video/7257741136264072494" rel="alternate"/>
+    <published>2023-07-20T03:42:31+00:00</published>
   </entry>
 </feed>
