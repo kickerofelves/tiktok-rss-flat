@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@circusfaery33</id>
   <title>@circusfaery33 | TikTok</title>
-  <updated>2023-07-20T03:27:17+00:00</updated>
+  <updated>2023-07-21T00:42:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @circusfaery33</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7257262145165987118</id>
-    <title>Replying to @ray_5501   Nothing says don't look at me, I'm talentless and have nothing intelligent to contribute like a troll with a private account.</title>
-    <updated>2023-07-18T20:43:44+00:00</updated>
-    <content>Replying to @ray_5501   Nothing says don't look at me, I'm talentless and have nothing intelligent to contribute like a troll with a private account.</content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7257262145165987118" rel="alternate"/>
-    <published>2023-07-18T20:43:44+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7257629321727200555</id>
-    <title>Replying to @user2473218136876   I think we haven't succeeded yet, and I try not to worry about whether it is insurmountable. </title>
-    <updated>2023-07-19T20:28:42+00:00</updated>
-    <content>Replying to @user2473218136876   I think we haven't succeeded yet, and I try not to worry about whether it is insurmountable. </content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7257629321727200555" rel="alternate"/>
-    <published>2023-07-19T20:28:42+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7257653617908321582</id>
-    <title>Replying to @user4592308532965   I agree both are bad. I'm largely ignorant about one, and more familiar with how ongoing systems of oppression stemming from chattel slavery continue to harm Black people in the US. Sorry that wasn't clear from the previou</title>
-    <updated>2023-07-19T22:02:54+00:00</updated>
-    <content>Replying to @user4592308532965   I agree both are bad. I'm largely ignorant about one, and more familiar with how ongoing systems of oppression stemming from chattel slavery continue to harm Black people in the US. Sorry that wasn't clear from the previous video.</content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7257653617908321582" rel="alternate"/>
-    <published>2023-07-19T22:02:54+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@circusfaery33/video/7257665338601458986</id>
     <title>Replying to @itzasweter  Sorry for you. </title>
@@ -51,5 +27,29 @@
     <content>Replying to @Bruh   For starters, normalize seeing Black people as human beings. Srop weaponizing Nigerian immigrants against generarional African Americans. </content>
     <link href="https://www.tiktok.com/@circusfaery33/video/7257737211804699946" rel="alternate"/>
     <published>2023-07-20T03:27:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7257943254606548270</id>
+    <title>[no title]</title>
+    <updated>2023-07-20T16:46:50+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7257943254606548270" rel="alternate"/>
+    <published>2023-07-20T16:46:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7258007628599610670</id>
+    <title>Replying to @quizich   Coddling the lowest common denomintor is not what affects change, especially not as a person of color. #asianamerican #modelminority #antiracism #solidarity </title>
+    <updated>2023-07-20T20:56:36+00:00</updated>
+    <content>Replying to @quizich   Coddling the lowest common denomintor is not what affects change, especially not as a person of color. #asianamerican #modelminority #antiracism #solidarity </content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7258007628599610670" rel="alternate"/>
+    <published>2023-07-20T20:56:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7258065822571351342</id>
+    <title>Replying to @albafranch5   Asians committed atrocities, and we do have tension because of it. </title>
+    <updated>2023-07-21T00:42:28+00:00</updated>
+    <content>Replying to @albafranch5   Asians committed atrocities, and we do have tension because of it. </content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7258065822571351342" rel="alternate"/>
+    <published>2023-07-21T00:42:28+00:00</published>
   </entry>
 </feed>
