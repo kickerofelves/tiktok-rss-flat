@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@foodsciencebabe</id>
   <title>@foodsciencebabe | TikTok</title>
-  <updated>2023-07-17T21:35:27+00:00</updated>
+  <updated>2023-07-20T21:37:15+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @foodsciencebabe</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@foodsciencebabe/video/7247664239320714542</id>
-    <title>Check put my water activity playlist for lots more info! #mcdonalds #foodsafety #foodscience #wateractivity</title>
-    <updated>2023-06-22T23:59:04+00:00</updated>
-    <content>Check put my water activity playlist for lots more info! #mcdonalds #foodsafety #foodscience #wateractivity</content>
-    <link href="https://www.tiktok.com/@foodsciencebabe/video/7247664239320714542" rel="alternate"/>
-    <published>2023-06-22T23:59:04+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@foodsciencebabe/video/7249047477452786990</id>
     <title>This is not a safe hack! #foodhacks #foodsafety #avocado #foodscience #foodborneillness </title>
@@ -51,5 +43,13 @@
     <content>Replying to @Food Science Babe JECFA update as promised. #aspartame #iarc #health #foodsafety #foodscience </content>
     <link href="https://www.tiktok.com/@foodsciencebabe/video/7256904341699841322" rel="alternate"/>
     <published>2023-07-17T21:35:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@foodsciencebabe/video/7258018104138255662</id>
+    <title>Watch the full Q&amp;A with @Apeel now on my YouTube channel and Instagram! #reducefoodwaste #apeel #sponsored </title>
+    <updated>2023-07-20T21:37:15+00:00</updated>
+    <content>Watch the full Q&amp;A with @Apeel now on my YouTube channel and Instagram! #reducefoodwaste #apeel #sponsored </content>
+    <link href="https://www.tiktok.com/@foodsciencebabe/video/7258018104138255662" rel="alternate"/>
+    <published>2023-07-20T21:37:15+00:00</published>
   </entry>
 </feed>
