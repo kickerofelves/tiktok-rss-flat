@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@onlyevesophiee</id>
   <title>@onlyevesophiee | TikTok</title>
-  <updated>2023-07-20T23:05:31+00:00</updated>
+  <updated>2023-07-21T14:14:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @onlyevesophiee</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@onlyevesophiee/video/7257299660694441243</id>
-    <title>But you can try baby</title>
-    <updated>2023-07-18T23:09:20+00:00</updated>
-    <content>But you can try baby</content>
-    <link href="https://www.tiktok.com/@onlyevesophiee/video/7257299660694441243" rel="alternate"/>
-    <published>2023-07-18T23:09:20+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@onlyevesophiee/video/7257529761327582490</id>
     <title>I never wear either of them 🤫</title>
@@ -51,5 +43,13 @@
     <content>That was a close one </content>
     <link href="https://www.tiktok.com/@onlyevesophiee/video/7258040859193543963" rel="alternate"/>
     <published>2023-07-20T23:05:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@onlyevesophiee/video/7258275181263621403</id>
+    <title>You asked for recoil here i am baby! </title>
+    <updated>2023-07-21T14:14:49+00:00</updated>
+    <content>You asked for recoil here i am baby! </content>
+    <link href="https://www.tiktok.com/@onlyevesophiee/video/7258275181263621403" rel="alternate"/>
+    <published>2023-07-21T14:14:49+00:00</published>
   </entry>
 </feed>
