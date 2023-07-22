@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@alvine_n</id>
   <title>@alvine_n | TikTok</title>
-  <updated>2023-07-21T17:58:16+00:00</updated>
+  <updated>2023-07-22T10:06:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @alvine_n</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@alvine_n/video/7257594258117512474</id>
-    <title>#CapCut @AYBL Summer Sale is going live on Thursday 27th July at 7:00pm BST up to 60% off 🔥🔥🔥🔥</title>
-    <updated>2023-07-19T18:12:31+00:00</updated>
-    <content>#CapCut @AYBL Summer Sale is going live on Thursday 27th July at 7:00pm BST up to 60% off 🔥🔥🔥🔥</content>
-    <link href="https://www.tiktok.com/@alvine_n/video/7257594258117512474" rel="alternate"/>
-    <published>2023-07-19T18:12:31+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@alvine_n/video/7257972080841379098</id>
     <title>Replying to @nebyuelias5   Glutes workout split 🔥🔥🔥🔥</title>
@@ -51,5 +43,13 @@
     <content>#onthisday @AYBL Summer Sale is going live on Thursday 27th July at 7:00pm BST.🔥🔥🔥🔥</content>
     <link href="https://www.tiktok.com/@alvine_n/video/7258332765890907418" rel="alternate"/>
     <published>2023-07-21T17:58:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@alvine_n/video/7258582251154328859</id>
+    <title>#CapCut </title>
+    <updated>2023-07-22T10:06:27+00:00</updated>
+    <content>#CapCut </content>
+    <link href="https://www.tiktok.com/@alvine_n/video/7258582251154328859" rel="alternate"/>
+    <published>2023-07-22T10:06:27+00:00</published>
   </entry>
 </feed>
