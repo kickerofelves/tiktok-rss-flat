@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@circusfaery33</id>
   <title>@circusfaery33 | TikTok</title>
-  <updated>2023-07-21T00:42:28+00:00</updated>
+  <updated>2023-07-22T00:23:02+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @circusfaery33</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7257665338601458986</id>
-    <title>Replying to @itzasweter  Sorry for you. </title>
-    <updated>2023-07-19T22:48:25+00:00</updated>
-    <content>Replying to @itzasweter  Sorry for you. </content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7257665338601458986" rel="alternate"/>
-    <published>2023-07-19T22:48:25+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7257737211804699946</id>
-    <title>Replying to @Bruh   For starters, normalize seeing Black people as human beings. Srop weaponizing Nigerian immigrants against generarional African Americans. </title>
-    <updated>2023-07-20T03:27:17+00:00</updated>
-    <content>Replying to @Bruh   For starters, normalize seeing Black people as human beings. Srop weaponizing Nigerian immigrants against generarional African Americans. </content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7257737211804699946" rel="alternate"/>
-    <published>2023-07-20T03:27:17+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7257943254606548270</id>
-    <title>[no title]</title>
-    <updated>2023-07-20T16:46:50+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7257943254606548270" rel="alternate"/>
-    <published>2023-07-20T16:46:50+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@circusfaery33/video/7258007628599610670</id>
     <title>Replying to @quizich   Coddling the lowest common denomintor is not what affects change, especially not as a person of color. #asianamerican #modelminority #antiracism #solidarity </title>
@@ -51,5 +27,29 @@
     <content>Replying to @albafranch5   Asians committed atrocities, and we do have tension because of it. </content>
     <link href="https://www.tiktok.com/@circusfaery33/video/7258065822571351342" rel="alternate"/>
     <published>2023-07-21T00:42:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7258391657987509547</id>
+    <title>Replying to @delinquenthamster   Why do Asian American students need to score higher than white students? </title>
+    <updated>2023-07-21T21:46:54+00:00</updated>
+    <content>Replying to @delinquenthamster   Why do Asian American students need to score higher than white students? </content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7258391657987509547" rel="alternate"/>
+    <published>2023-07-21T21:46:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7258430793998011691</id>
+    <title>Replying to @masarap10000   Are you happy with the person you are outside of capitalist society? Do you know or care who that person is? I hope you do--it'd be nicer to celebrate whoever that person is than whatever this is.</title>
+    <updated>2023-07-22T00:18:50+00:00</updated>
+    <content>Replying to @masarap10000   Are you happy with the person you are outside of capitalist society? Do you know or care who that person is? I hope you do--it'd be nicer to celebrate whoever that person is than whatever this is.</content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7258430793998011691" rel="alternate"/>
+    <published>2023-07-22T00:18:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7258431911037537579</id>
+    <title>Replying to @moretoysthantalent   I could happily go on forever about juggling, but here is the 2.5 minute version. 🥰 #jugglinglife #juggling #juggler #healing </title>
+    <updated>2023-07-22T00:23:02+00:00</updated>
+    <content>Replying to @moretoysthantalent   I could happily go on forever about juggling, but here is the 2.5 minute version. 🥰 #jugglinglife #juggling #juggler #healing </content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7258431911037537579" rel="alternate"/>
+    <published>2023-07-22T00:23:02+00:00</published>
   </entry>
 </feed>
