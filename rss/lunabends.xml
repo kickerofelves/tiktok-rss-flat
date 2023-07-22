@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@lunabends</id>
   <title>@lunabends | TikTok</title>
-  <updated>2023-07-19T19:21:02+00:00</updated>
+  <updated>2023-07-22T17:55:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @lunabends</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@lunabends/video/7255491672560373038</id>
-    <title>Excited to try some new tricks I've got in mind 🤗 #pole #poletricks #dancer #stronggirl </title>
-    <updated>2023-07-14T02:13:24+00:00</updated>
-    <content>Excited to try some new tricks I've got in mind 🤗 #pole #poletricks #dancer #stronggirl </content>
-    <link href="https://www.tiktok.com/@lunabends/video/7255491672560373038" rel="alternate"/>
-    <published>2023-07-14T02:13:24+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@lunabends/video/7255706494614719787</id>
     <title>Me as soon as he drops all his side pieces for me 😅 #dancer #flexible #splits #poletok </title>
@@ -51,5 +43,13 @@
     <content>Flying pole - something different  #poletok #poletricks #flyingpole </content>
     <link href="https://www.tiktok.com/@lunabends/video/7257611896487021866" rel="alternate"/>
     <published>2023-07-19T19:21:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lunabends/video/7258703017828994346</id>
+    <title>I'll do better next time! Lmk if I should do more 😌 #miami #nightlife #miaminightlife #dancer #gogodancer #poletok #poledancer #dancing #miamiclubs #clubs #afterhours #adayinthelife #grwm </title>
+    <updated>2023-07-22T17:55:07+00:00</updated>
+    <content>I'll do better next time! Lmk if I should do more 😌 #miami #nightlife #miaminightlife #dancer #gogodancer #poletok #poledancer #dancing #miamiclubs #clubs #afterhours #adayinthelife #grwm </content>
+    <link href="https://www.tiktok.com/@lunabends/video/7258703017828994346" rel="alternate"/>
+    <published>2023-07-22T17:55:07+00:00</published>
   </entry>
 </feed>
