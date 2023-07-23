@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ellietheempress</id>
   <title>@ellietheempress | TikTok</title>
-  <updated>2023-07-22T19:54:51+00:00</updated>
+  <updated>2023-07-23T16:28:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ellietheempress</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@ellietheempress/video/7257902978747845934</id>
-    <title>#foryou #foryoupage </title>
-    <updated>2023-07-20T14:10:32+00:00</updated>
-    <content>#foryou #foryoupage </content>
-    <link href="https://www.tiktok.com/@ellietheempress/video/7257902978747845934" rel="alternate"/>
-    <published>2023-07-20T14:10:32+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@ellietheempress/video/7257994834282122539</id>
-    <title>#foryou #fyp </title>
-    <updated>2023-07-20T20:06:57+00:00</updated>
-    <content>#foryou #fyp </content>
-    <link href="https://www.tiktok.com/@ellietheempress/video/7257994834282122539" rel="alternate"/>
-    <published>2023-07-20T20:06:57+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@ellietheempress/video/7258248325160308010</id>
     <title>#foryou #fyp </title>
@@ -51,5 +35,21 @@
     <content>#foryou #fyp #foryoupage </content>
     <link href="https://www.tiktok.com/@ellietheempress/video/7258733866091859246" rel="alternate"/>
     <published>2023-07-22T19:54:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ellietheempress/video/7259036800943934766</id>
+    <title>#fyp #foryou #foryoupage </title>
+    <updated>2023-07-23T15:30:27+00:00</updated>
+    <content>#fyp #foryou #foryoupage </content>
+    <link href="https://www.tiktok.com/@ellietheempress/video/7259036800943934766" rel="alternate"/>
+    <published>2023-07-23T15:30:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ellietheempress/video/7259051658657713450</id>
+    <title>NYC is treating me well 🥰 #foryou #fyp </title>
+    <updated>2023-07-23T16:28:03+00:00</updated>
+    <content>NYC is treating me well 🥰 #foryou #fyp </content>
+    <link href="https://www.tiktok.com/@ellietheempress/video/7259051658657713450" rel="alternate"/>
+    <published>2023-07-23T16:28:03+00:00</published>
   </entry>
 </feed>
