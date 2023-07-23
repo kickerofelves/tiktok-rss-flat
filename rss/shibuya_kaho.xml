@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@shibuya_kaho</id>
   <title>@shibuya_kaho | TikTok</title>
-  <updated>2023-07-19T22:48:55+00:00</updated>
+  <updated>2023-07-23T09:18:51+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @shibuya_kaho</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@shibuya_kaho/video/7256237410693025026</id>
-    <title>I'm glad this cosplay worked out at AX💖  #minaashidocosplay  撮影後に色々と調整し、イベントに持って行きました( ｀・∀・´)つ アニメエキスポで着れて良かった〜！</title>
-    <updated>2023-07-16T02:27:16+00:00</updated>
-    <content>I'm glad this cosplay worked out at AX💖  #minaashidocosplay  撮影後に色々と調整し、イベントに持って行きました( ｀・∀・´)つ アニメエキスポで着れて良かった〜！</content>
-    <link href="https://www.tiktok.com/@shibuya_kaho/video/7256237410693025026" rel="alternate"/>
-    <published>2023-07-16T02:27:16+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@shibuya_kaho/video/7256620113409871106</id>
     <title>New workout video on #Gokuflex YouTube channel💪 Must watch~ ハワイでのトレーニング動画がupされました！</title>
@@ -51,5 +43,13 @@
     <content>Tried chocolate cream puff too, but I definitely believe #cocopuff is the winner👑 ハワイで配信しながらの食べ歩き楽しかったなぁ(*´ｰ`*人) またどこか行こうね！</content>
     <link href="https://www.tiktok.com/@shibuya_kaho/video/7257665437360459010" rel="alternate"/>
     <published>2023-07-19T22:48:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@shibuya_kaho/video/7258941091389426946</id>
+    <title>I really enjoyed the food at #JakkaPatThaiRestaurant in LA🍴✨ Thanks for the amazing service too! このタイ料理屋さん雰囲気良くて美味しいのと、有名人かとお写真を頼まれて一緒に撮りました！笑　LAの配信も楽しかった〜</title>
+    <updated>2023-07-23T09:18:51+00:00</updated>
+    <content>I really enjoyed the food at #JakkaPatThaiRestaurant in LA🍴✨ Thanks for the amazing service too! このタイ料理屋さん雰囲気良くて美味しいのと、有名人かとお写真を頼まれて一緒に撮りました！笑　LAの配信も楽しかった〜</content>
+    <link href="https://www.tiktok.com/@shibuya_kaho/video/7258941091389426946" rel="alternate"/>
+    <published>2023-07-23T09:18:51+00:00</published>
   </entry>
 </feed>
