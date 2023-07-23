@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@kathryn.celestre</id>
   <title>@kathryn.celestre | TikTok</title>
-  <updated>2023-07-19T23:53:29+00:00</updated>
+  <updated>2023-07-13T15:08:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -13,12 +13,28 @@
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kathryn.celestre</subtitle>
   <entry>
-    <id>https://www.tiktok.com/@kathryn.celestre/video/7250557433641192746</id>
-    <title>Ignore my face in the beginning 😭😭</title>
-    <updated>2023-06-30T19:06:07+00:00</updated>
-    <content>Ignore my face in the beginning 😭😭</content>
-    <link href="https://www.tiktok.com/@kathryn.celestre/video/7250557433641192746" rel="alternate"/>
-    <published>2023-06-30T19:06:07+00:00</published>
+    <id>https://www.tiktok.com/@kathryn.celestre/video/7235323466302426411</id>
+    <title>What he said💅🏽</title>
+    <updated>2023-05-20T17:50:32+00:00</updated>
+    <content>What he said💅🏽</content>
+    <link href="https://www.tiktok.com/@kathryn.celestre/video/7235323466302426411" rel="alternate"/>
+    <published>2023-05-20T17:50:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@kathryn.celestre/video/7244242850454506798</id>
+    <title>Island babbyyyyyy</title>
+    <updated>2023-06-13T18:42:14+00:00</updated>
+    <content>Island babbyyyyyy</content>
+    <link href="https://www.tiktok.com/@kathryn.celestre/video/7244242850454506798" rel="alternate"/>
+    <published>2023-06-13T18:42:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@kathryn.celestre/video/7245714150947638570</id>
+    <title>Seim week is hereeeeee</title>
+    <updated>2023-06-17T17:51:47+00:00</updated>
+    <content>Seim week is hereeeeee</content>
+    <link href="https://www.tiktok.com/@kathryn.celestre/video/7245714150947638570" rel="alternate"/>
+    <published>2023-06-17T17:51:47+00:00</published>
   </entry>
   <entry>
     <id>https://www.tiktok.com/@kathryn.celestre/video/7250872530045504810</id>
@@ -35,21 +51,5 @@
     <content>Ice spice needs to drop this NOW </content>
     <link href="https://www.tiktok.com/@kathryn.celestre/video/7255320453936319786" rel="alternate"/>
     <published>2023-07-13T15:08:59+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@kathryn.celestre/video/7255777244725955883</id>
-    <title>Thank you To my man whose not actually my man Thank you for making me the happiest person ever 🫶🏽</title>
-    <updated>2023-07-14T20:41:37+00:00</updated>
-    <content>Thank you To my man whose not actually my man Thank you for making me the happiest person ever 🫶🏽</content>
-    <link href="https://www.tiktok.com/@kathryn.celestre/video/7255777244725955883" rel="alternate"/>
-    <published>2023-07-14T20:41:37+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@kathryn.celestre/video/7257682112449465646</id>
-    <title>Vibes </title>
-    <updated>2023-07-19T23:53:29+00:00</updated>
-    <content>Vibes </content>
-    <link href="https://www.tiktok.com/@kathryn.celestre/video/7257682112449465646" rel="alternate"/>
-    <published>2023-07-19T23:53:29+00:00</published>
   </entry>
 </feed>
