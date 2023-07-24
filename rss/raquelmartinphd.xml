@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@raquelmartinphd</id>
   <title>@raquelmartinphd | TikTok</title>
-  <updated>2023-07-23T23:29:59+00:00</updated>
+  <updated>2023-07-24T19:45:43+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @raquelmartinphd</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@raquelmartinphd/video/7258325654343617838</id>
-    <title>#contentcreator #trendingaudio </title>
-    <updated>2023-07-21T17:30:48+00:00</updated>
-    <content>#contentcreator #trendingaudio </content>
-    <link href="https://www.tiktok.com/@raquelmartinphd/video/7258325654343617838" rel="alternate"/>
-    <published>2023-07-21T17:30:48+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@raquelmartinphd/video/7258744803754511659</id>
-    <title>#boymom </title>
-    <updated>2023-07-22T20:37:19+00:00</updated>
-    <content>#boymom </content>
-    <link href="https://www.tiktok.com/@raquelmartinphd/video/7258744803754511659" rel="alternate"/>
-    <published>2023-07-22T20:37:19+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@raquelmartinphd/video/7258800630557347115</id>
     <title>#psychology #health #wellness #tsu </title>
@@ -51,5 +35,21 @@
     <content>[no description]</content>
     <link href="https://www.tiktok.com/@raquelmartinphd/video/7259160394990619946" rel="alternate"/>
     <published>2023-07-23T23:29:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@raquelmartinphd/video/7259419805462089002</id>
+    <title>#stitch @👩🏻‍🦰♾ #burnout #tipsandtricks #therapy #drmartinhere </title>
+    <updated>2023-07-24T16:16:43+00:00</updated>
+    <content>#stitch @👩🏻‍🦰♾ #burnout #tipsandtricks #therapy #drmartinhere </content>
+    <link href="https://www.tiktok.com/@raquelmartinphd/video/7259419805462089002" rel="alternate"/>
+    <published>2023-07-24T16:16:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@raquelmartinphd/video/7259473691669482794</id>
+    <title>[no title]</title>
+    <updated>2023-07-24T19:45:43+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@raquelmartinphd/video/7259473691669482794" rel="alternate"/>
+    <published>2023-07-24T19:45:43+00:00</published>
   </entry>
 </feed>
