@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@shibuya_kaho</id>
   <title>@shibuya_kaho | TikTok</title>
-  <updated>2023-07-23T09:18:51+00:00</updated>
+  <updated>2023-07-24T08:49:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @shibuya_kaho</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@shibuya_kaho/video/7256620113409871106</id>
-    <title>New workout video on #Gokuflex YouTube channel💪 Must watch~ ハワイでのトレーニング動画がupされました！</title>
-    <updated>2023-07-17T03:12:17+00:00</updated>
-    <content>New workout video on #Gokuflex YouTube channel💪 Must watch~ ハワイでのトレーニング動画がupされました！</content>
-    <link href="https://www.tiktok.com/@shibuya_kaho/video/7256620113409871106" rel="alternate"/>
-    <published>2023-07-17T03:12:17+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@shibuya_kaho/video/7256905536887639297</id>
     <title>Tried the famous #cocopuff *I though it was chocopuff, sorry for the mistake🍫 リリハ・ベーカリーの有名なココパフ、地元チャットのお勧めで買いに行きました♡</title>
@@ -51,5 +43,13 @@
     <content>I really enjoyed the food at #JakkaPatThaiRestaurant in LA🍴✨ Thanks for the amazing service too! このタイ料理屋さん雰囲気良くて美味しいのと、有名人かとお写真を頼まれて一緒に撮りました！笑　LAの配信も楽しかった〜</content>
     <link href="https://www.tiktok.com/@shibuya_kaho/video/7258941091389426946" rel="alternate"/>
     <published>2023-07-23T09:18:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@shibuya_kaho/video/7259304506221989128</id>
+    <title>Tottori Trip part 1: #DetectiveConan #CaseClosed pilgrimage‼️ 鳥取旅、まずはコナン通りのある北栄町へ行ってきました( ´͈ ᵕ `͈ ๑)</title>
+    <updated>2023-07-24T08:49:08+00:00</updated>
+    <content>Tottori Trip part 1: #DetectiveConan #CaseClosed pilgrimage‼️ 鳥取旅、まずはコナン通りのある北栄町へ行ってきました( ´͈ ᵕ `͈ ๑)</content>
+    <link href="https://www.tiktok.com/@shibuya_kaho/video/7259304506221989128" rel="alternate"/>
+    <published>2023-07-24T08:49:08+00:00</published>
   </entry>
 </feed>
