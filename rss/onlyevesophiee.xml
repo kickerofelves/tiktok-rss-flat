@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@onlyevesophiee</id>
   <title>@onlyevesophiee | TikTok</title>
-  <updated>2023-07-23T23:07:29+00:00</updated>
+  <updated>2023-07-24T13:57:55+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @onlyevesophiee</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@onlyevesophiee/video/7258750867640208667</id>
-    <title>Im not wearing socks …</title>
-    <updated>2023-07-22T21:00:44+00:00</updated>
-    <content>Im not wearing socks …</content>
-    <link href="https://www.tiktok.com/@onlyevesophiee/video/7258750867640208667" rel="alternate"/>
-    <published>2023-07-22T21:00:44+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@onlyevesophiee/video/7258783918814498074</id>
     <title>She shaking it like jelly</title>
@@ -51,5 +43,13 @@
     <content>My pjs are too big on me 😆</content>
     <link href="https://www.tiktok.com/@onlyevesophiee/video/7259154592489884954" rel="alternate"/>
     <published>2023-07-23T23:07:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@onlyevesophiee/video/7259384066531806490</id>
+    <title>I really did try, they were too tight 😅</title>
+    <updated>2023-07-24T13:57:55+00:00</updated>
+    <content>I really did try, they were too tight 😅</content>
+    <link href="https://www.tiktok.com/@onlyevesophiee/video/7259384066531806490" rel="alternate"/>
+    <published>2023-07-24T13:57:55+00:00</published>
   </entry>
 </feed>
