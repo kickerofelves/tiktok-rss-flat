@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@lilyllyn_</id>
   <title>@lilyllyn_ | TikTok</title>
-  <updated>2023-07-21T20:05:31+00:00</updated>
+  <updated>2023-07-24T20:12:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @lilyllyn_</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@lilyllyn_/video/7254266810076318982</id>
-    <title>[no title]</title>
-    <updated>2023-07-10T19:00:14+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@lilyllyn_/video/7254266810076318982" rel="alternate"/>
-    <published>2023-07-10T19:00:14+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@lilyllyn_/video/7254289401772084486</id>
     <title>[no title]</title>
@@ -51,5 +43,13 @@
     <content>[no description]</content>
     <link href="https://www.tiktok.com/@lilyllyn_/video/7258365567009180933" rel="alternate"/>
     <published>2023-07-21T20:05:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lilyllyn_/video/7259480637667626245</id>
+    <title>[no title]</title>
+    <updated>2023-07-24T20:12:35+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@lilyllyn_/video/7259480637667626245" rel="alternate"/>
+    <published>2023-07-24T20:12:35+00:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ellietheempress</id>
   <title>@ellietheempress | TikTok</title>
-  <updated>2023-07-23T16:28:03+00:00</updated>
+  <updated>2023-07-24T17:05:36+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ellietheempress</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@ellietheempress/video/7258248325160308010</id>
-    <title>#foryou #fyp </title>
-    <updated>2023-07-21T12:30:56+00:00</updated>
-    <content>#foryou #fyp </content>
-    <link href="https://www.tiktok.com/@ellietheempress/video/7258248325160308010" rel="alternate"/>
-    <published>2023-07-21T12:30:56+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@ellietheempress/video/7258625466435751211</id>
-    <title>#foryou #fyp #viral </title>
-    <updated>2023-07-22T12:54:41+00:00</updated>
-    <content>#foryou #fyp #viral </content>
-    <link href="https://www.tiktok.com/@ellietheempress/video/7258625466435751211" rel="alternate"/>
-    <published>2023-07-22T12:54:41+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@ellietheempress/video/7258733866091859246</id>
     <title>#foryou #fyp #foryoupage </title>
@@ -51,5 +35,21 @@
     <content>NYC is treating me well 🥰 #foryou #fyp </content>
     <link href="https://www.tiktok.com/@ellietheempress/video/7259051658657713450" rel="alternate"/>
     <published>2023-07-23T16:28:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ellietheempress/video/7259387238574837034</id>
+    <title>#foryou #fyp #viral </title>
+    <updated>2023-07-24T14:10:30+00:00</updated>
+    <content>#foryou #fyp #viral </content>
+    <link href="https://www.tiktok.com/@ellietheempress/video/7259387238574837034" rel="alternate"/>
+    <published>2023-07-24T14:10:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ellietheempress/video/7259432406384512298</id>
+    <title>Come with me to the Drake Concert in Brooklyn #drake #drakeconcert </title>
+    <updated>2023-07-24T17:05:36+00:00</updated>
+    <content>Come with me to the Drake Concert in Brooklyn #drake #drakeconcert </content>
+    <link href="https://www.tiktok.com/@ellietheempress/video/7259432406384512298" rel="alternate"/>
+    <published>2023-07-24T17:05:36+00:00</published>
   </entry>
 </feed>
