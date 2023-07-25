@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@kristline__</id>
   <title>@kristline__ | TikTok</title>
-  <updated>2023-07-18T13:50:17+00:00</updated>
+  <updated>2023-07-24T22:36:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kristline__</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@kristline__/video/7237909764737387819</id>
-    <title>It’s vacation season and I got a few items from @Princess Polly, which outfit are your favorite? Use code “Christiana” to save 💲💲 #pppartner </title>
-    <updated>2023-05-27T17:06:42+00:00</updated>
-    <content>It’s vacation season and I got a few items from @Princess Polly, which outfit are your favorite? Use code “Christiana” to save 💲💲 #pppartner </content>
-    <link href="https://www.tiktok.com/@kristline__/video/7237909764737387819" rel="alternate"/>
-    <published>2023-05-27T17:06:42+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@kristline__/video/7239345906749902123</id>
     <title>Lets cook dinner 🥘 ___ Click the link in my bio for all of my recipes __ A new YouTube video is now live on my YouTube channel 🥰 #fyp </title>
@@ -51,5 +43,13 @@
     <content>Making my husband the best panini sandwich for lunch  __ #fyp</content>
     <link href="https://www.tiktok.com/@kristline__/video/7257155588625304874" rel="alternate"/>
     <published>2023-07-18T13:50:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@kristline__/video/7259517579402726698</id>
+    <title>[no title]</title>
+    <updated>2023-07-24T22:36:03+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@kristline__/video/7259517579402726698" rel="alternate"/>
+    <published>2023-07-24T22:36:03+00:00</published>
   </entry>
 </feed>
