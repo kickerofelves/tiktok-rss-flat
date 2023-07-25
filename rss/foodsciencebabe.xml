@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@foodsciencebabe</id>
   <title>@foodsciencebabe | TikTok</title>
-  <updated>2023-07-20T21:37:15+00:00</updated>
+  <updated>2023-07-24T17:25:19+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @foodsciencebabe</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@foodsciencebabe/video/7249047477452786990</id>
-    <title>This is not a safe hack! #foodhacks #foodsafety #avocado #foodscience #foodborneillness </title>
-    <updated>2023-06-26T17:26:48+00:00</updated>
-    <content>This is not a safe hack! #foodhacks #foodsafety #avocado #foodscience #foodborneillness </content>
-    <link href="https://www.tiktok.com/@foodsciencebabe/video/7249047477452786990" rel="alternate"/>
-    <published>2023-06-26T17:26:48+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@foodsciencebabe/video/7250487696156724526</id>
     <title>Do you have more questions about Apeel? I’ll be hosting a live Q&amp;A session on Instagram with the Apeel Sciences team, so feel free to comment with any questions! #reducefoodwaste #factsnotfear #foodscience #foodsafety #sponsored  </title>
@@ -51,5 +43,13 @@
     <content>Watch the full Q&amp;A with @Apeel now on my YouTube channel and Instagram! #reducefoodwaste #apeel #sponsored </content>
     <link href="https://www.tiktok.com/@foodsciencebabe/video/7258018104138255662" rel="alternate"/>
     <published>2023-07-20T21:37:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@foodsciencebabe/video/7259437480221461806</id>
+    <title>Look who’s selling processed dead food with toxic heavy metals 😮 Interesting how they suddenly understand dose when it comes to their own products 🙄 #foodbabe #factsnotfear #proteinpowder #foodfearmongering #greenscreen </title>
+    <updated>2023-07-24T17:25:19+00:00</updated>
+    <content>Look who’s selling processed dead food with toxic heavy metals 😮 Interesting how they suddenly understand dose when it comes to their own products 🙄 #foodbabe #factsnotfear #proteinpowder #foodfearmongering #greenscreen </content>
+    <link href="https://www.tiktok.com/@foodsciencebabe/video/7259437480221461806" rel="alternate"/>
+    <published>2023-07-24T17:25:19+00:00</published>
   </entry>
 </feed>
