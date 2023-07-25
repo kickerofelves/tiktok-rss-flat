@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@circusfaery33</id>
   <title>@circusfaery33 | TikTok</title>
-  <updated>2023-07-23T20:18:30+00:00</updated>
+  <updated>2023-07-25T02:16:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @circusfaery33</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7258712471203089710</id>
-    <title>Replying to @Ribbed4HerPleasure   Yes--but it will only paint Askan Americans in a positive light to promote ✉️ supremacy and divide and conquer, but Florida is also passing anti-Asian legislation. </title>
-    <updated>2023-07-22T18:31:51+00:00</updated>
-    <content>Replying to @Ribbed4HerPleasure   Yes--but it will only paint Askan Americans in a positive light to promote ✉️ supremacy and divide and conquer, but Florida is also passing anti-Asian legislation. </content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7258712471203089710" rel="alternate"/>
-    <published>2023-07-22T18:31:51+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7258769146823937326</id>
-    <title>Replying to @brianp737  #greenscreen Florida's State Academic Standards--Social Studies 2023, page 6 SS.68.A.A.2.2 Bemchmark Clarification</title>
-    <updated>2023-07-22T22:11:47+00:00</updated>
-    <content>Replying to @brianp737  #greenscreen Florida's State Academic Standards--Social Studies 2023, page 6 SS.68.A.A.2.2 Bemchmark Clarification</content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7258769146823937326" rel="alternate"/>
-    <published>2023-07-22T22:11:47+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@circusfaery33/video/7258790460850818347</id>
     <title>Replying to @user455983  Thank you for so considerately trying to save me time, but lying doesn't count.</title>
@@ -51,5 +35,21 @@
     <content>Replying to @filthy_k1ng21   Be viewed and treated as individual human beings. And your comments are proof of that. #asianamerican #modelminority #antiracism #solidarity </content>
     <link href="https://www.tiktok.com/@circusfaery33/video/7259111050346237230" rel="alternate"/>
     <published>2023-07-23T20:18:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7259457937616211246</id>
+    <title>Replying to @Josie Jones What would you like Asians to speak up about? Or was that a joke too? #asianamerican #modelmimority #antiracism #solidarity </title>
+    <updated>2023-07-24T18:44:37+00:00</updated>
+    <content>Replying to @Josie Jones What would you like Asians to speak up about? Or was that a joke too? #asianamerican #modelmimority #antiracism #solidarity </content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7259457937616211246" rel="alternate"/>
+    <published>2023-07-24T18:44:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7259574321356524842</id>
+    <title>Replying to @Josie Jones  You gave your opinion in response to a statement, not a question. And you are free to randomly give unsolicited opinions--but please unpack why you believe you were asked. </title>
+    <updated>2023-07-25T02:16:09+00:00</updated>
+    <content>Replying to @Josie Jones  You gave your opinion in response to a statement, not a question. And you are free to randomly give unsolicited opinions--but please unpack why you believe you were asked. </content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7259574321356524842" rel="alternate"/>
+    <published>2023-07-25T02:16:09+00:00</published>
   </entry>
 </feed>
