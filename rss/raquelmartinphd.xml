@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@raquelmartinphd</id>
   <title>@raquelmartinphd | TikTok</title>
-  <updated>2023-07-24T19:45:43+00:00</updated>
+  <updated>2023-07-25T21:53:21+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @raquelmartinphd</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@raquelmartinphd/video/7258800630557347115</id>
-    <title>#psychology #health #wellness #tsu </title>
-    <updated>2023-07-23T00:13:56+00:00</updated>
-    <content>#psychology #health #wellness #tsu </content>
-    <link href="https://www.tiktok.com/@raquelmartinphd/video/7258800630557347115" rel="alternate"/>
-    <published>2023-07-23T00:13:56+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@raquelmartinphd/video/7259089343187422510</id>
-    <title>#stitch with @Korey Dior </title>
-    <updated>2023-07-23T18:54:19+00:00</updated>
-    <content>#stitch with @Korey Dior </content>
-    <link href="https://www.tiktok.com/@raquelmartinphd/video/7259089343187422510" rel="alternate"/>
-    <published>2023-07-23T18:54:19+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@raquelmartinphd/video/7259160394990619946</id>
     <title>[no title]</title>
@@ -51,5 +35,21 @@
     <content>[no description]</content>
     <link href="https://www.tiktok.com/@raquelmartinphd/video/7259473691669482794" rel="alternate"/>
     <published>2023-07-24T19:45:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@raquelmartinphd/video/7259773135946550574</id>
+    <title>New season in October! #change #growth </title>
+    <updated>2023-07-25T15:07:45+00:00</updated>
+    <content>New season in October! #change #growth </content>
+    <link href="https://www.tiktok.com/@raquelmartinphd/video/7259773135946550574" rel="alternate"/>
+    <published>2023-07-25T15:07:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@raquelmartinphd/video/7259877689962548522</id>
+    <title>#anxiety #blackgirltiktok #tipsandtricks #drmartinhere </title>
+    <updated>2023-07-25T21:53:21+00:00</updated>
+    <content>#anxiety #blackgirltiktok #tipsandtricks #drmartinhere </content>
+    <link href="https://www.tiktok.com/@raquelmartinphd/video/7259877689962548522" rel="alternate"/>
+    <published>2023-07-25T21:53:21+00:00</published>
   </entry>
 </feed>
