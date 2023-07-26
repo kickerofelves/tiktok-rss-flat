@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rahyndee</id>
   <title>@rahyndee | TikTok</title>
-  <updated>2023-07-25T00:22:33+00:00</updated>
+  <updated>2023-07-25T18:31:55+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @rahyndee</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@rahyndee/video/7258814728053558571</id>
-    <title>I’m shocked it hailed today.. @Andre M. Got caught in it 🫣.. mid summer 😲 #fyp #foryou #offgrid #offgridliving </title>
-    <updated>2023-07-23T01:08:37+00:00</updated>
-    <content>I’m shocked it hailed today.. @Andre M. Got caught in it 🫣.. mid summer 😲 #fyp #foryou #offgrid #offgridliving </content>
-    <link href="https://www.tiktok.com/@rahyndee/video/7258814728053558571" rel="alternate"/>
-    <published>2023-07-23T01:08:37+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@rahyndee/video/7259164233135541550</id>
     <title>Coming for you Ken 😈👋🏽 #fyp #foryou #barbiegirl #barbiepink </title>
@@ -51,5 +43,13 @@
     <content>RAHYNDEE ❌ STEEZY ☀️🫠 #fyp #fypシ #motochick #motorcycle #bikeweek </content>
     <link href="https://www.tiktok.com/@rahyndee/video/7259545023501454635" rel="alternate"/>
     <published>2023-07-25T00:22:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@rahyndee/video/7259825768522550574</id>
+    <title>So what’s for dinner tonight? ✨💜 #fyp #foryou #offgrid #offgridlife </title>
+    <updated>2023-07-25T18:31:55+00:00</updated>
+    <content>So what’s for dinner tonight? ✨💜 #fyp #foryou #offgrid #offgridlife </content>
+    <link href="https://www.tiktok.com/@rahyndee/video/7259825768522550574" rel="alternate"/>
+    <published>2023-07-25T18:31:55+00:00</published>
   </entry>
 </feed>
