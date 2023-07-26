@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@kristline__</id>
   <title>@kristline__ | TikTok</title>
-  <updated>2023-07-24T22:36:03+00:00</updated>
+  <updated>2023-07-25T19:47:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kristline__</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@kristline__/video/7239345906749902123</id>
-    <title>Lets cook dinner 🥘 ___ Click the link in my bio for all of my recipes __ A new YouTube video is now live on my YouTube channel 🥰 #fyp </title>
-    <updated>2023-05-31T13:59:38+00:00</updated>
-    <content>Lets cook dinner 🥘 ___ Click the link in my bio for all of my recipes __ A new YouTube video is now live on my YouTube channel 🥰 #fyp </content>
-    <link href="https://www.tiktok.com/@kristline__/video/7239345906749902123" rel="alternate"/>
-    <published>2023-05-31T13:59:38+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@kristline__/video/7242711788398071082</id>
     <title>POV: bae said he wanted fry chicken &amp; Tostones for lunch and I made this for us. #fyp </title>
@@ -51,5 +43,13 @@
     <content>[no description]</content>
     <link href="https://www.tiktok.com/@kristline__/video/7259517579402726698" rel="alternate"/>
     <published>2023-07-24T22:36:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@kristline__/video/7259845359730527531</id>
+    <title>[no title]</title>
+    <updated>2023-07-25T19:47:56+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@kristline__/video/7259845359730527531" rel="alternate"/>
+    <published>2023-07-25T19:47:56+00:00</published>
   </entry>
 </feed>
