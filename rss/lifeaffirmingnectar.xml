@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@lifeaffirmingnectar</id>
   <title>@lifeaffirmingnectar | TikTok</title>
-  <updated>2023-07-05T20:47:02+00:00</updated>
+  <updated>2023-07-25T21:11:40+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @lifeaffirmingnectar</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@lifeaffirmingnectar/video/7236061568063114539</id>
-    <title>Community and solidarity must be actively cultivated and require real hard work. ##AANHPI##asianamericans##AAPI##asianamericanhistory##asianamericanstudies##APAHM##asianamerican##aapiheritagemonth##aapiheritagemonth2023##pasifika</title>
-    <updated>2023-05-22T17:34:56+00:00</updated>
-    <content>Community and solidarity must be actively cultivated and require real hard work. ##AANHPI##asianamericans##AAPI##asianamericanhistory##asianamericanstudies##APAHM##asianamerican##aapiheritagemonth##aapiheritagemonth2023##pasifika</content>
-    <link href="https://www.tiktok.com/@lifeaffirmingnectar/video/7236061568063114539" rel="alternate"/>
-    <published>2023-05-22T17:34:56+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@lifeaffirmingnectar/video/7237272873851718955</id>
-    <title>It is our collective honor that Corky Lee is among our movement ancestors. ##greenscreen##AANHPI##asianamericans##AAPI##asianamericanhistory##asianamericanstudies##APAHM##asianamerican##aapiheritagemonth##aapiheritagemonth2023</title>
-    <updated>2023-05-25T23:55:09+00:00</updated>
-    <content>It is our collective honor that Corky Lee is among our movement ancestors. ##greenscreen##AANHPI##asianamericans##AAPI##asianamericanhistory##asianamericanstudies##APAHM##asianamerican##aapiheritagemonth##aapiheritagemonth2023</content>
-    <link href="https://www.tiktok.com/@lifeaffirmingnectar/video/7237272873851718955" rel="alternate"/>
-    <published>2023-05-25T23:55:09+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@lifeaffirmingnectar/video/7252428993599720746</id>
     <title>No I will not be attending your birthday party #RaceMatters #AffirmativeAction #RepresentationMatters </title>
@@ -51,5 +35,21 @@
     <content>What is at stake ##RaceMatters##AffirmativeAction##RepresentationMatters</content>
     <link href="https://www.tiktok.com/@lifeaffirmingnectar/video/7252438889552432427" rel="alternate"/>
     <published>2023-07-05T20:47:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lifeaffirmingnectar/video/7259864858882034990</id>
+    <title>Spoken word performance “The Power of Langauge and the Language of Power,” part 1 #spokenpoetry #spokenword #poetry #poetrytok #language </title>
+    <updated>2023-07-25T21:03:39+00:00</updated>
+    <content>Spoken word performance “The Power of Langauge and the Language of Power,” part 1 #spokenpoetry #spokenword #poetry #poetrytok #language </content>
+    <link href="https://www.tiktok.com/@lifeaffirmingnectar/video/7259864858882034990" rel="alternate"/>
+    <published>2023-07-25T21:03:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lifeaffirmingnectar/video/7259866925944327470</id>
+    <title>Spoken word performance “The Power of Langauge and the Language of Power,” part 1 #spokenpoetry #spokenword #poetry #poetrytok #language </title>
+    <updated>2023-07-25T21:11:40+00:00</updated>
+    <content>Spoken word performance “The Power of Langauge and the Language of Power,” part 1 #spokenpoetry #spokenword #poetry #poetrytok #language </content>
+    <link href="https://www.tiktok.com/@lifeaffirmingnectar/video/7259866925944327470" rel="alternate"/>
+    <published>2023-07-25T21:11:40+00:00</published>
   </entry>
 </feed>
