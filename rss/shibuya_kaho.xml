@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@shibuya_kaho</id>
   <title>@shibuya_kaho | TikTok</title>
-  <updated>2023-07-25T08:55:58+00:00</updated>
+  <updated>2023-07-26T07:03:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @shibuya_kaho</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@shibuya_kaho/video/7257472432020131074</id>
-    <title>Just went to #NinjaRestaurant 🥷 撮影で行った忍者レストランの内装すごかったです！暗いから是非生で見て欲しい‥</title>
-    <updated>2023-07-19T10:19:44+00:00</updated>
-    <content>Just went to #NinjaRestaurant 🥷 撮影で行った忍者レストランの内装すごかったです！暗いから是非生で見て欲しい‥</content>
-    <link href="https://www.tiktok.com/@shibuya_kaho/video/7257472432020131074" rel="alternate"/>
-    <published>2023-07-19T10:19:44+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@shibuya_kaho/video/7257665437360459010</id>
     <title>Tried chocolate cream puff too, but I definitely believe #cocopuff is the winner👑 ハワイで配信しながらの食べ歩き楽しかったなぁ(*´ｰ`*人) またどこか行こうね！</title>
@@ -51,5 +43,13 @@
     <content>Totttori Trip part 2: #GeGeGenoKitaro #yokai 😈  米子は初めて行きました！水木しげるロードはとても探索しやすいし、お洒落なコラボから手作りショップまでバリエーションも豊富でした(*´∇`*人)</content>
     <link href="https://www.tiktok.com/@shibuya_kaho/video/7259677363426954514" rel="alternate"/>
     <published>2023-07-25T08:55:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@shibuya_kaho/video/7260019455755898130</id>
+    <title>The pool and wind was blowing me away✨ #alohilaniresort  風とお水のコンビネーションが気持ち良かった！</title>
+    <updated>2023-07-26T07:03:27+00:00</updated>
+    <content>The pool and wind was blowing me away✨ #alohilaniresort  風とお水のコンビネーションが気持ち良かった！</content>
+    <link href="https://www.tiktok.com/@shibuya_kaho/video/7260019455755898130" rel="alternate"/>
+    <published>2023-07-26T07:03:27+00:00</published>
   </entry>
 </feed>
