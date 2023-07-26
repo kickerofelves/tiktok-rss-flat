@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@poupeemimistar</id>
   <title>@poupeemimistar | TikTok</title>
-  <updated>2023-07-23T10:57:18+00:00</updated>
+  <updated>2023-07-26T12:34:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @poupeemimistar</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@poupeemimistar/video/7258358591340547334</id>
-    <title>[no title]</title>
-    <updated>2023-07-21T19:38:26+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@poupeemimistar/video/7258358591340547334" rel="alternate"/>
-    <published>2023-07-21T19:38:26+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@poupeemimistar/video/7258376393682324742</id>
-    <title>[no title]</title>
-    <updated>2023-07-21T20:47:31+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@poupeemimistar/video/7258376393682324742" rel="alternate"/>
-    <published>2023-07-21T20:47:31+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@poupeemimistar/video/7258567560604519686</id>
-    <title>[no title]</title>
-    <updated>2023-07-22T09:09:20+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@poupeemimistar/video/7258567560604519686" rel="alternate"/>
-    <published>2023-07-22T09:09:20+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@poupeemimistar/video/7258962153640660229</id>
     <title>[no title]</title>
@@ -51,5 +27,29 @@
     <content>[no description]</content>
     <link href="https://www.tiktok.com/@poupeemimistar/video/7258966466228145414" rel="alternate"/>
     <published>2023-07-23T10:57:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@poupeemimistar/video/7260099850241379589</id>
+    <title>[no title]</title>
+    <updated>2023-07-26T12:15:23+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@poupeemimistar/video/7260099850241379589" rel="alternate"/>
+    <published>2023-07-26T12:15:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@poupeemimistar/video/7260100411099499781</id>
+    <title>[no title]</title>
+    <updated>2023-07-26T12:17:35+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@poupeemimistar/video/7260100411099499781" rel="alternate"/>
+    <published>2023-07-26T12:17:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@poupeemimistar/video/7260104820097551622</id>
+    <title>[no title]</title>
+    <updated>2023-07-26T12:34:41+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@poupeemimistar/video/7260104820097551622" rel="alternate"/>
+    <published>2023-07-26T12:34:41+00:00</published>
   </entry>
 </feed>
