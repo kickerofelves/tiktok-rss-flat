@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ellietheempress</id>
   <title>@ellietheempress | TikTok</title>
-  <updated>2023-07-26T19:18:09+00:00</updated>
+  <updated>2023-07-27T15:08:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ellietheempress</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@ellietheempress/video/7259387238574837034</id>
-    <title>#foryou #fyp #viral </title>
-    <updated>2023-07-24T14:10:30+00:00</updated>
-    <content>#foryou #fyp #viral </content>
-    <link href="https://www.tiktok.com/@ellietheempress/video/7259387238574837034" rel="alternate"/>
-    <published>2023-07-24T14:10:30+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@ellietheempress/video/7259432406384512298</id>
-    <title>Come with me to the Drake Concert in Brooklyn #drake #drakeconcert </title>
-    <updated>2023-07-24T17:05:36+00:00</updated>
-    <content>Come with me to the Drake Concert in Brooklyn #drake #drakeconcert </content>
-    <link href="https://www.tiktok.com/@ellietheempress/video/7259432406384512298" rel="alternate"/>
-    <published>2023-07-24T17:05:36+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@ellietheempress/video/7259737058607025454</id>
     <title>Morning stroll on the Brooklyn Bridge 😘 #newyork #nyc #brooklynbridge </title>
@@ -51,5 +35,21 @@
     <content>#foryoupage #fyp </content>
     <link href="https://www.tiktok.com/@ellietheempress/video/7260208773480926507" rel="alternate"/>
     <published>2023-07-26T19:18:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ellietheempress/video/7260466917616536875</id>
+    <title>Traveling with spirit is starting to get expensive 🥲 #foryoupage #fyp #viral </title>
+    <updated>2023-07-27T12:00:40+00:00</updated>
+    <content>Traveling with spirit is starting to get expensive 🥲 #foryoupage #fyp #viral </content>
+    <link href="https://www.tiktok.com/@ellietheempress/video/7260466917616536875" rel="alternate"/>
+    <published>2023-07-27T12:00:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ellietheempress/video/7260515374100204846</id>
+    <title>So much fun strolling through NYC with @BTSCENESPRO #nyc #newyorkcity </title>
+    <updated>2023-07-27T15:08:08+00:00</updated>
+    <content>So much fun strolling through NYC with @BTSCENESPRO #nyc #newyorkcity </content>
+    <link href="https://www.tiktok.com/@ellietheempress/video/7260515374100204846" rel="alternate"/>
+    <published>2023-07-27T15:08:08+00:00</published>
   </entry>
 </feed>
