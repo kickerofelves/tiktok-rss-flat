@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@foodsciencebabe</id>
   <title>@foodsciencebabe | TikTok</title>
-  <updated>2023-07-24T17:25:19+00:00</updated>
+  <updated>2023-07-26T18:23:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @foodsciencebabe</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@foodsciencebabe/video/7250487696156724526</id>
-    <title>Do you have more questions about Apeel? I’ll be hosting a live Q&amp;A session on Instagram with the Apeel Sciences team, so feel free to comment with any questions! #reducefoodwaste #factsnotfear #foodscience #foodsafety #sponsored  </title>
-    <updated>2023-06-30T14:35:30+00:00</updated>
-    <content>Do you have more questions about Apeel? I’ll be hosting a live Q&amp;A session on Instagram with the Apeel Sciences team, so feel free to comment with any questions! #reducefoodwaste #factsnotfear #foodscience #foodsafety #sponsored  </content>
-    <link href="https://www.tiktok.com/@foodsciencebabe/video/7250487696156724526" rel="alternate"/>
-    <published>2023-06-30T14:35:30+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@foodsciencebabe/video/7254298527877156139</id>
     <title>There have been some changes to the IARC monographs since this graphic I’m showing was published. Theres no longer a Group 4 and some things have been moved to different categories, for example, coffee was moved from Group 2B to Group 3. lARC removed Grou</title>
@@ -51,5 +43,13 @@
     <content>Look who’s selling processed dead food with toxic heavy metals 😮 Interesting how they suddenly understand dose when it comes to their own products 🙄 #foodbabe #factsnotfear #proteinpowder #foodfearmongering #greenscreen </content>
     <link href="https://www.tiktok.com/@foodsciencebabe/video/7259437480221461806" rel="alternate"/>
     <published>2023-07-24T17:25:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@foodsciencebabe/video/7260194676563594539</id>
+    <title>Replying to @Cancel Pizza Cancelling pizza is ridiculous. ❤ to keep pizza &amp; “uncancel” MSG #AjiPartner #CancelPizza @KnowMSG </title>
+    <updated>2023-07-26T18:23:26+00:00</updated>
+    <content>Replying to @Cancel Pizza Cancelling pizza is ridiculous. ❤ to keep pizza &amp; “uncancel” MSG #AjiPartner #CancelPizza @KnowMSG </content>
+    <link href="https://www.tiktok.com/@foodsciencebabe/video/7260194676563594539" rel="alternate"/>
+    <published>2023-07-26T18:23:26+00:00</published>
   </entry>
 </feed>
