@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@onlyevesophiee</id>
   <title>@onlyevesophiee | TikTok</title>
-  <updated>2023-07-26T14:08:20+00:00</updated>
+  <updated>2023-07-26T23:05:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @onlyevesophiee</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@onlyevesophiee/video/7259699018526117146</id>
-    <title>Is this the stairway to heaven? </title>
-    <updated>2023-07-25T10:20:01+00:00</updated>
-    <content>Is this the stairway to heaven? </content>
-    <link href="https://www.tiktok.com/@onlyevesophiee/video/7259699018526117146" rel="alternate"/>
-    <published>2023-07-25T10:20:01+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@onlyevesophiee/video/7259757286694980890</id>
-    <title>You like my voice?</title>
-    <updated>2023-07-25T14:06:08+00:00</updated>
-    <content>You like my voice?</content>
-    <link href="https://www.tiktok.com/@onlyevesophiee/video/7259757286694980890" rel="alternate"/>
-    <published>2023-07-25T14:06:08+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@onlyevesophiee/video/7259896173635325210</id>
     <title>My legs almost didnt cooperate 😅😆</title>
@@ -51,5 +35,21 @@
     <content>Reading 😀</content>
     <link href="https://www.tiktok.com/@onlyevesophiee/video/7260128932249242906" rel="alternate"/>
     <published>2023-07-26T14:08:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@onlyevesophiee/video/7260235378525834523</id>
+    <title>Give the girl her margaritas </title>
+    <updated>2023-07-26T21:01:21+00:00</updated>
+    <content>Give the girl her margaritas </content>
+    <link href="https://www.tiktok.com/@onlyevesophiee/video/7260235378525834523" rel="alternate"/>
+    <published>2023-07-26T21:01:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@onlyevesophiee/video/7260267464188022043</id>
+    <title>I never wear those things</title>
+    <updated>2023-07-26T23:05:52+00:00</updated>
+    <content>I never wear those things</content>
+    <link href="https://www.tiktok.com/@onlyevesophiee/video/7260267464188022043" rel="alternate"/>
+    <published>2023-07-26T23:05:52+00:00</published>
   </entry>
 </feed>
