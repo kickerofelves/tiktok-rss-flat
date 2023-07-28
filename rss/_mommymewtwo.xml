@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@_mommymewtwo</id>
   <title>@_mommymewtwo | TikTok</title>
-  <updated>2023-07-27T15:18:22+00:00</updated>
+  <updated>2023-07-28T15:34:29+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @_mommymewtwo</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@_mommymewtwo/video/7259050594978024730</id>
-    <title>Post cardio🦋 #mewtwo #fyp #musclemommy </title>
-    <updated>2023-07-23T16:23:50+00:00</updated>
-    <content>Post cardio🦋 #mewtwo #fyp #musclemommy </content>
-    <link href="https://www.tiktok.com/@_mommymewtwo/video/7259050594978024730" rel="alternate"/>
-    <published>2023-07-23T16:23:50+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@_mommymewtwo/video/7259402238202842395</id>
     <title>#mewtwo #fyp #musclemommy </title>
@@ -51,5 +43,13 @@
     <content>Post lower session antics🤍 #fyp #mewtwo #musclemommy </content>
     <link href="https://www.tiktok.com/@_mommymewtwo/video/7260518068433079578" rel="alternate"/>
     <published>2023-07-27T15:18:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@_mommymewtwo/video/7260893308514290971</id>
+    <title>POV: what I’d wear to go see the Barbie movie as a gym rat💕 #fyp #mewtwo #musclemommy #barbie </title>
+    <updated>2023-07-28T15:34:29+00:00</updated>
+    <content>POV: what I’d wear to go see the Barbie movie as a gym rat💕 #fyp #mewtwo #musclemommy #barbie </content>
+    <link href="https://www.tiktok.com/@_mommymewtwo/video/7260893308514290971" rel="alternate"/>
+    <published>2023-07-28T15:34:29+00:00</published>
   </entry>
 </feed>
