@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@shibuya_kaho</id>
   <title>@shibuya_kaho | TikTok</title>
-  <updated>2023-07-26T07:03:27+00:00</updated>
+  <updated>2023-07-27T15:59:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @shibuya_kaho</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@shibuya_kaho/video/7257665437360459010</id>
-    <title>Tried chocolate cream puff too, but I definitely believe #cocopuff is the winner👑 ハワイで配信しながらの食べ歩き楽しかったなぁ(*´ｰ`*人) またどこか行こうね！</title>
-    <updated>2023-07-19T22:48:55+00:00</updated>
-    <content>Tried chocolate cream puff too, but I definitely believe #cocopuff is the winner👑 ハワイで配信しながらの食べ歩き楽しかったなぁ(*´ｰ`*人) またどこか行こうね！</content>
-    <link href="https://www.tiktok.com/@shibuya_kaho/video/7257665437360459010" rel="alternate"/>
-    <published>2023-07-19T22:48:55+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@shibuya_kaho/video/7258941091389426946</id>
     <title>I really enjoyed the food at #JakkaPatThaiRestaurant in LA🍴✨ Thanks for the amazing service too! このタイ料理屋さん雰囲気良くて美味しいのと、有名人かとお写真を頼まれて一緒に撮りました！笑　LAの配信も楽しかった〜</title>
@@ -51,5 +43,13 @@
     <content>The pool and wind was blowing me away✨ #alohilaniresort  風とお水のコンビネーションが気持ち良かった！</content>
     <link href="https://www.tiktok.com/@shibuya_kaho/video/7260019455755898130" rel="alternate"/>
     <published>2023-07-26T07:03:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@shibuya_kaho/video/7260528602209357074</id>
+    <title>I chose avocado and nori seaweed on my   #rakkanramen 🍜 Not like the ramen needed anything to be added though. Good flavor and service ij Little Tokyo!! アボカドトッピングも選べるLAのラーメン屋さん🥑 アボカドの需要はともかく、メインが美味しかった！</title>
+    <updated>2023-07-27T15:59:14+00:00</updated>
+    <content>I chose avocado and nori seaweed on my   #rakkanramen 🍜 Not like the ramen needed anything to be added though. Good flavor and service ij Little Tokyo!! アボカドトッピングも選べるLAのラーメン屋さん🥑 アボカドの需要はともかく、メインが美味しかった！</content>
+    <link href="https://www.tiktok.com/@shibuya_kaho/video/7260528602209357074" rel="alternate"/>
+    <published>2023-07-27T15:59:14+00:00</published>
   </entry>
 </feed>
