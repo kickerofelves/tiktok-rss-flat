@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@alejandracriscuolo.22</id>
   <title>@alejandracriscuolo.22 | TikTok</title>
-  <updated>2023-07-26T20:04:35+00:00</updated>
+  <updated>2023-07-27T23:37:16+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @alejandracriscuolo.22</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@alejandracriscuolo.22/video/7259936585293122822</id>
-    <title>Respuesta a @rezrez910 </title>
-    <updated>2023-07-26T01:41:53+00:00</updated>
-    <content>Respuesta a @rezrez910 </content>
-    <link href="https://www.tiktok.com/@alejandracriscuolo.22/video/7259936585293122822" rel="alternate"/>
-    <published>2023-07-26T01:41:53+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@alejandracriscuolo.22/video/7259937702550719749</id>
-    <title>Respuesta a @Jose Castillo </title>
-    <updated>2023-07-26T01:46:11+00:00</updated>
-    <content>Respuesta a @Jose Castillo </content>
-    <link href="https://www.tiktok.com/@alejandracriscuolo.22/video/7259937702550719749" rel="alternate"/>
-    <published>2023-07-26T01:46:11+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@alejandracriscuolo.22/video/7259937746326703365</id>
     <title>[no title]</title>
@@ -51,5 +35,21 @@
     <content>[no description]</content>
     <link href="https://www.tiktok.com/@alejandracriscuolo.22/video/7260220757354040582" rel="alternate"/>
     <published>2023-07-26T20:04:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@alejandracriscuolo.22/video/7260220767705599238</id>
+    <title>[no title]</title>
+    <updated>2023-07-26T20:04:37+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@alejandracriscuolo.22/video/7260220767705599238" rel="alternate"/>
+    <published>2023-07-26T20:04:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@alejandracriscuolo.22/video/7260646655597251846</id>
+    <title>#bikinimodel #alejandracriscuolo #fakebodyy⚠️ </title>
+    <updated>2023-07-27T23:37:16+00:00</updated>
+    <content>#bikinimodel #alejandracriscuolo #fakebodyy⚠️ </content>
+    <link href="https://www.tiktok.com/@alejandracriscuolo.22/video/7260646655597251846" rel="alternate"/>
+    <published>2023-07-27T23:37:16+00:00</published>
   </entry>
 </feed>
