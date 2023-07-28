@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@raquelmartinphd</id>
   <title>@raquelmartinphd | TikTok</title>
-  <updated>2023-07-27T23:53:12+00:00</updated>
+  <updated>2023-07-28T22:35:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @raquelmartinphd</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@raquelmartinphd/video/7259877689962548522</id>
-    <title>#anxiety #blackgirltiktok #tipsandtricks #drmartinhere </title>
-    <updated>2023-07-25T21:53:21+00:00</updated>
-    <content>#anxiety #blackgirltiktok #tipsandtricks #drmartinhere </content>
-    <link href="https://www.tiktok.com/@raquelmartinphd/video/7259877689962548522" rel="alternate"/>
-    <published>2023-07-25T21:53:21+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@raquelmartinphd/video/7260274195769134382</id>
-    <title>#collegelife #parentsoftiktok #drmartinhere #college </title>
-    <updated>2023-07-26T23:32:00+00:00</updated>
-    <content>#collegelife #parentsoftiktok #drmartinhere #college </content>
-    <link href="https://www.tiktok.com/@raquelmartinphd/video/7260274195769134382" rel="alternate"/>
-    <published>2023-07-26T23:32:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@raquelmartinphd/video/7260311652984442158</id>
     <title>Replying to @lapsang &amp; earl grey </title>
@@ -51,5 +35,21 @@
     <content>#blacktiktok #blackwomensequalpayday </content>
     <link href="https://www.tiktok.com/@raquelmartinphd/video/7260650715725679918" rel="alternate"/>
     <published>2023-07-27T23:53:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@raquelmartinphd/video/7260906646065679662</id>
+    <title>#momlife </title>
+    <updated>2023-07-28T16:26:26+00:00</updated>
+    <content>#momlife </content>
+    <link href="https://www.tiktok.com/@raquelmartinphd/video/7260906646065679662" rel="alternate"/>
+    <published>2023-07-28T16:26:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@raquelmartinphd/video/7261001664725994798</id>
+    <title>Your hoals are your own #therapy #psychology #lilkim </title>
+    <updated>2023-07-28T22:35:05+00:00</updated>
+    <content>Your hoals are your own #therapy #psychology #lilkim </content>
+    <link href="https://www.tiktok.com/@raquelmartinphd/video/7261001664725994798" rel="alternate"/>
+    <published>2023-07-28T22:35:05+00:00</published>
   </entry>
 </feed>
