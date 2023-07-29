@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@sophie.jane96</id>
   <title>@sophie.jane96 | TikTok</title>
-  <updated>2023-07-27T18:10:08+00:00</updated>
+  <updated>2023-07-28T16:37:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -37,19 +37,19 @@
     <published>2023-07-26T14:18:58+00:00</published>
   </entry>
   <entry>
-    <id>https://www.tiktok.com/@sophie.jane96/video/7260458663662374171</id>
-    <title>Breakfast?👀</title>
-    <updated>2023-07-27T11:27:51+00:00</updated>
-    <content>Breakfast?👀</content>
-    <link href="https://www.tiktok.com/@sophie.jane96/video/7260458663662374171" rel="alternate"/>
-    <published>2023-07-27T11:27:51+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.tiktok.com/@sophie.jane96/video/7260562327869721883</id>
     <title>Like my outfit?🥹</title>
     <updated>2023-07-27T18:10:08+00:00</updated>
     <content>Like my outfit?🥹</content>
     <link href="https://www.tiktok.com/@sophie.jane96/video/7260562327869721883" rel="alternate"/>
     <published>2023-07-27T18:10:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@sophie.jane96/video/7260909441120308506</id>
+    <title>💙💙</title>
+    <updated>2023-07-28T16:37:07+00:00</updated>
+    <content>💙💙</content>
+    <link href="https://www.tiktok.com/@sophie.jane96/video/7260909441120308506" rel="alternate"/>
+    <published>2023-07-28T16:37:07+00:00</published>
   </entry>
 </feed>
