@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@shibuya_kaho</id>
   <title>@shibuya_kaho | TikTok</title>
-  <updated>2023-07-28T10:53:05+00:00</updated>
+  <updated>2023-07-28T14:27:21+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @shibuya_kaho</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@shibuya_kaho/video/7258941091389426946</id>
-    <title>I really enjoyed the food at #JakkaPatThaiRestaurant in LA🍴✨ Thanks for the amazing service too! このタイ料理屋さん雰囲気良くて美味しいのと、有名人かとお写真を頼まれて一緒に撮りました！笑　LAの配信も楽しかった〜</title>
-    <updated>2023-07-23T09:18:51+00:00</updated>
-    <content>I really enjoyed the food at #JakkaPatThaiRestaurant in LA🍴✨ Thanks for the amazing service too! このタイ料理屋さん雰囲気良くて美味しいのと、有名人かとお写真を頼まれて一緒に撮りました！笑　LAの配信も楽しかった〜</content>
-    <link href="https://www.tiktok.com/@shibuya_kaho/video/7258941091389426946" rel="alternate"/>
-    <published>2023-07-23T09:18:51+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@shibuya_kaho/video/7259304506221989128</id>
     <title>Tottori Trip part 1: #DetectiveConan #CaseClosed pilgrimage‼️ 鳥取旅、まずはコナン通りのある北栄町へ行ってきました( ´͈ ᵕ `͈ ๑)</title>
@@ -51,5 +43,13 @@
     <content>The Hawaii influenecer campaign started! I was left at airport alone when I arrived lol, but overall I could experience a lot of exclusive and nice things throughout the tour. Thank you Zipair for flying me over♡ ハワイのキャンペーン始まりました！これを見て応募した方に旅行が当たりますように(っ ॑꒳ ॑c) https://activity.tiktok.com/magic/eco/runtime/release/64c0c34d96814004e26b5ed8?appType=tiktok&amp;magic_page_no=1 #未来集団 #ロカヒハワイ #ハワイ #旅行 #PR</content>
     <link href="https://www.tiktok.com/@shibuya_kaho/video/7260820796807908615" rel="alternate"/>
     <published>2023-07-28T10:53:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@shibuya_kaho/video/7260876013670845704</id>
+    <title>I was on #R2D2 #ANA plane💙 The apron canin attendants were wearing was so adorable... スターウォーズ機、めっちゃ可愛いかった(≧∀≦)</title>
+    <updated>2023-07-28T14:27:21+00:00</updated>
+    <content>I was on #R2D2 #ANA plane💙 The apron canin attendants were wearing was so adorable... スターウォーズ機、めっちゃ可愛いかった(≧∀≦)</content>
+    <link href="https://www.tiktok.com/@shibuya_kaho/video/7260876013670845704" rel="alternate"/>
+    <published>2023-07-28T14:27:21+00:00</published>
   </entry>
 </feed>
