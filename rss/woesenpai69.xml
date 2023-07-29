@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@woesenpai69</id>
   <title>@woesenpai69 | TikTok</title>
-  <updated>2023-07-27T20:13:00+00:00</updated>
+  <updated>2023-07-29T01:54:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @woesenpai69</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@woesenpai69/video/7259912980194774318</id>
-    <title>Majestic </title>
-    <updated>2023-07-26T00:10:20+00:00</updated>
-    <content>Majestic </content>
-    <link href="https://www.tiktok.com/@woesenpai69/video/7259912980194774318" rel="alternate"/>
-    <published>2023-07-26T00:10:20+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@woesenpai69/video/7259949505863372078</id>
     <title>What would you do if ur sleep paralysis demon looked like this? </title>
@@ -51,5 +43,13 @@
     <content>[no description]</content>
     <link href="https://www.tiktok.com/@woesenpai69/video/7260593965823561002" rel="alternate"/>
     <published>2023-07-27T20:13:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@woesenpai69/video/7261053166156795179</id>
+    <title>THIS NEW TRAVIS SCOTT IS SO FIRE</title>
+    <updated>2023-07-29T01:54:52+00:00</updated>
+    <content>THIS NEW TRAVIS SCOTT IS SO FIRE</content>
+    <link href="https://www.tiktok.com/@woesenpai69/video/7261053166156795179" rel="alternate"/>
+    <published>2023-07-29T01:54:52+00:00</published>
   </entry>
 </feed>
