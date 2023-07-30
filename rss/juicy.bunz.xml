@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@juicy.bunz</id>
   <title>@juicy.bunz | TikTok</title>
-  <updated>2023-07-28T12:35:57+00:00</updated>
+  <updated>2023-07-29T20:57:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @juicy.bunz</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@juicy.bunz/video/7253558928074689838</id>
-    <title>My first time trying salad and go. Devoured it in like 3 minutes. So delicious 😋 #chickensalad #gymgirl #fitness #postworkoutmeal </title>
-    <updated>2023-07-08T21:13:27+00:00</updated>
-    <content>My first time trying salad and go. Devoured it in like 3 minutes. So delicious 😋 #chickensalad #gymgirl #fitness #postworkoutmeal </content>
-    <link href="https://www.tiktok.com/@juicy.bunz/video/7253558928074689838" rel="alternate"/>
-    <published>2023-07-08T21:13:27+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@juicy.bunz/video/7256159317047414058</id>
     <title>Why is it moving like that 😭</title>
@@ -51,5 +43,13 @@
     <content>this always happens to me 😞</content>
     <link href="https://www.tiktok.com/@juicy.bunz/video/7260847152312683818" rel="alternate"/>
     <published>2023-07-28T12:35:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@juicy.bunz/video/7261347578812304683</id>
+    <title>That post workout feeling. Hungry and in need of a shower, but feeling good 🥰 #postworkout #gym #fitness </title>
+    <updated>2023-07-29T20:57:26+00:00</updated>
+    <content>That post workout feeling. Hungry and in need of a shower, but feeling good 🥰 #postworkout #gym #fitness </content>
+    <link href="https://www.tiktok.com/@juicy.bunz/video/7261347578812304683" rel="alternate"/>
+    <published>2023-07-29T20:57:26+00:00</published>
   </entry>
 </feed>
