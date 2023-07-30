@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@onlyevesophiee</id>
   <title>@onlyevesophiee | TikTok</title>
-  <updated>2023-07-27T23:33:14+00:00</updated>
+  <updated>2023-07-29T23:01:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @onlyevesophiee</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@onlyevesophiee/video/7260128932249242906</id>
-    <title>Reading 😀</title>
-    <updated>2023-07-26T14:08:20+00:00</updated>
-    <content>Reading 😀</content>
-    <link href="https://www.tiktok.com/@onlyevesophiee/video/7260128932249242906" rel="alternate"/>
-    <published>2023-07-26T14:08:20+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@onlyevesophiee/video/7260235378525834523</id>
-    <title>Give the girl her margaritas </title>
-    <updated>2023-07-26T21:01:21+00:00</updated>
-    <content>Give the girl her margaritas </content>
-    <link href="https://www.tiktok.com/@onlyevesophiee/video/7260235378525834523" rel="alternate"/>
-    <published>2023-07-26T21:01:21+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@onlyevesophiee/video/7260267464188022043</id>
     <title>I never wear those things</title>
@@ -51,5 +35,21 @@
     <content>Im not wearing any socks </content>
     <link href="https://www.tiktok.com/@onlyevesophiee/video/7260645558979710235" rel="alternate"/>
     <published>2023-07-27T23:33:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@onlyevesophiee/video/7261352417164315931</id>
+    <title>Im not doing anything …</title>
+    <updated>2023-07-29T21:16:04+00:00</updated>
+    <content>Im not doing anything …</content>
+    <link href="https://www.tiktok.com/@onlyevesophiee/video/7261352417164315931" rel="alternate"/>
+    <published>2023-07-29T21:16:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@onlyevesophiee/video/7261379582249438490</id>
+    <title>It got stuck for a second 😅</title>
+    <updated>2023-07-29T23:01:32+00:00</updated>
+    <content>It got stuck for a second 😅</content>
+    <link href="https://www.tiktok.com/@onlyevesophiee/video/7261379582249438490" rel="alternate"/>
+    <published>2023-07-29T23:01:32+00:00</published>
   </entry>
 </feed>
