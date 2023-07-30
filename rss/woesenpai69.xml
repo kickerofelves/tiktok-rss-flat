@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@woesenpai69</id>
   <title>@woesenpai69 | TikTok</title>
-  <updated>2023-07-29T01:54:52+00:00</updated>
+  <updated>2023-07-30T01:55:34+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @woesenpai69</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@woesenpai69/video/7259949505863372078</id>
-    <title>What would you do if ur sleep paralysis demon looked like this? </title>
-    <updated>2023-07-26T02:32:03+00:00</updated>
-    <content>What would you do if ur sleep paralysis demon looked like this? </content>
-    <link href="https://www.tiktok.com/@woesenpai69/video/7259949505863372078" rel="alternate"/>
-    <published>2023-07-26T02:32:03+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@woesenpai69/video/7259961812525894958</id>
     <title>#duet with @🔱A_b_o__H_E_D_R🔱 #الاردن_فلسطين_العراق_سوريا </title>
@@ -51,5 +43,13 @@
     <content>THIS NEW TRAVIS SCOTT IS SO FIRE</content>
     <link href="https://www.tiktok.com/@woesenpai69/video/7261053166156795179" rel="alternate"/>
     <published>2023-07-29T01:54:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@woesenpai69/video/7261424425210285355</id>
+    <title>Self care day ASMR</title>
+    <updated>2023-07-30T01:55:34+00:00</updated>
+    <content>Self care day ASMR</content>
+    <link href="https://www.tiktok.com/@woesenpai69/video/7261424425210285355" rel="alternate"/>
+    <published>2023-07-30T01:55:34+00:00</published>
   </entry>
 </feed>
