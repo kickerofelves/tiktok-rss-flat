@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@sonia_barbie</id>
   <title>@sonia_barbie | TikTok</title>
-  <updated>2023-07-24T00:11:52+00:00</updated>
+  <updated>2023-07-29T19:38:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @sonia_barbie</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@sonia_barbie/video/7254793868246371627</id>
-    <title>[no title]</title>
-    <updated>2023-07-12T05:05:36+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@sonia_barbie/video/7254793868246371627" rel="alternate"/>
-    <published>2023-07-12T05:05:36+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@sonia_barbie/video/7255459862425980202</id>
-    <title>African barbie 🤍❤️</title>
-    <updated>2023-07-14T00:09:57+00:00</updated>
-    <content>African barbie 🤍❤️</content>
-    <link href="https://www.tiktok.com/@sonia_barbie/video/7255459862425980202" rel="alternate"/>
-    <published>2023-07-14T00:09:57+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@sonia_barbie/video/7258631311152205098</id>
     <title>[no title]</title>
@@ -51,5 +35,21 @@
     <content>[no description]</content>
     <link href="https://www.tiktok.com/@sonia_barbie/video/7259171188570688811" rel="alternate"/>
     <published>2023-07-24T00:11:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@sonia_barbie/video/7261245430166539563</id>
+    <title>I just love New yorkers ❤️❤️</title>
+    <updated>2023-07-29T14:21:05+00:00</updated>
+    <content>I just love New yorkers ❤️❤️</content>
+    <link href="https://www.tiktok.com/@sonia_barbie/video/7261245430166539563" rel="alternate"/>
+    <published>2023-07-29T14:21:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@sonia_barbie/video/7261327304826146090</id>
+    <title>Me after watching the @barbie dolls 💅🏾</title>
+    <updated>2023-07-29T19:38:39+00:00</updated>
+    <content>Me after watching the @barbie dolls 💅🏾</content>
+    <link href="https://www.tiktok.com/@sonia_barbie/video/7261327304826146090" rel="alternate"/>
+    <published>2023-07-29T19:38:39+00:00</published>
   </entry>
 </feed>
