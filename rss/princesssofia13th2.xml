@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@princesssofia13th2</id>
   <title>@princesssofia13th2 | TikTok</title>
-  <updated>2023-07-29T14:41:40+00:00</updated>
+  <updated>2023-07-30T04:30:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @princesssofia13th2</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@princesssofia13th2/video/7260478545682566443</id>
-    <title>[no title]</title>
-    <updated>2023-07-27T12:45:31+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@princesssofia13th2/video/7260478545682566443" rel="alternate"/>
-    <published>2023-07-27T12:45:31+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@princesssofia13th2/video/7260606418825497902</id>
-    <title>This is my fav song of all time #fyp #xyzbca #viral </title>
-    <updated>2023-07-27T21:01:15+00:00</updated>
-    <content>This is my fav song of all time #fyp #xyzbca #viral </content>
-    <link href="https://www.tiktok.com/@princesssofia13th2/video/7260606418825497902" rel="alternate"/>
-    <published>2023-07-27T21:01:15+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@princesssofia13th2/video/7260715429029711150</id>
     <title>#fyp </title>
@@ -51,5 +35,21 @@
     <content>[no description]</content>
     <link href="https://www.tiktok.com/@princesssofia13th2/video/7261250697008663850" rel="alternate"/>
     <published>2023-07-29T14:41:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@princesssofia13th2/video/7261355077036690734</id>
+    <title>[no title]</title>
+    <updated>2023-07-29T21:26:31+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@princesssofia13th2/video/7261355077036690734" rel="alternate"/>
+    <published>2023-07-29T21:26:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@princesssofia13th2/video/7261464367588281642</id>
+    <title>#fyp </title>
+    <updated>2023-07-30T04:30:39+00:00</updated>
+    <content>#fyp </content>
+    <link href="https://www.tiktok.com/@princesssofia13th2/video/7261464367588281642" rel="alternate"/>
+    <published>2023-07-30T04:30:39+00:00</published>
   </entry>
 </feed>
