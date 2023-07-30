@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ellietheempress</id>
   <title>@ellietheempress | TikTok</title>
-  <updated>2023-07-29T16:55:01+00:00</updated>
+  <updated>2023-07-30T01:03:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ellietheempress</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@ellietheempress/video/7260515374100204846</id>
-    <title>So much fun strolling through NYC with @BTSCENESPRO #nyc #newyorkcity </title>
-    <updated>2023-07-27T15:08:08+00:00</updated>
-    <content>So much fun strolling through NYC with @BTSCENESPRO #nyc #newyorkcity </content>
-    <link href="https://www.tiktok.com/@ellietheempress/video/7260515374100204846" rel="alternate"/>
-    <published>2023-07-27T15:08:08+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@ellietheempress/video/7260836111575010606</id>
     <title>Strolling through soho w/ @BTSCENESPRO #newyorkcity #nyc </title>
@@ -51,5 +43,13 @@
     <content>#newyorkcity #fyp #nyc </content>
     <link href="https://www.tiktok.com/@ellietheempress/video/7261285102901087530" rel="alternate"/>
     <published>2023-07-29T16:55:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ellietheempress/video/7261411088246263082</id>
+    <title>Thick thighs saves lives #fyp </title>
+    <updated>2023-07-30T01:03:47+00:00</updated>
+    <content>Thick thighs saves lives #fyp </content>
+    <link href="https://www.tiktok.com/@ellietheempress/video/7261411088246263082" rel="alternate"/>
+    <published>2023-07-30T01:03:47+00:00</published>
   </entry>
 </feed>
