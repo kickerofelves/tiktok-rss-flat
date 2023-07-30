@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@annarennsworld</id>
   <title>@annarennsworld | TikTok</title>
-  <updated>2023-07-29T19:20:55+00:00</updated>
+  <updated>2023-07-30T20:40:01+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @annarennsworld</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@annarennsworld/video/7260952256722554158</id>
-    <title>Replying to @nessaua love it!! #hudabeautygiftedme #fauxfiltercolorcorrector #hudabeauty #grwm #blackgirlmakeup #makeuphacks </title>
-    <updated>2023-07-28T19:23:21+00:00</updated>
-    <content>Replying to @nessaua love it!! #hudabeautygiftedme #fauxfiltercolorcorrector #hudabeauty #grwm #blackgirlmakeup #makeuphacks </content>
-    <link href="https://www.tiktok.com/@annarennsworld/video/7260952256722554158" rel="alternate"/>
-    <published>2023-07-28T19:23:21+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@annarennsworld/video/7260952269020073259</id>
-    <title>It gives BRONZED and natural on my skintone  #makeup #hudabeauty #blackgirlmakeup #orangeblush #</title>
-    <updated>2023-07-28T19:23:26+00:00</updated>
-    <content>It gives BRONZED and natural on my skintone  #makeup #hudabeauty #blackgirlmakeup #orangeblush #</content>
-    <link href="https://www.tiktok.com/@annarennsworld/video/7260952269020073259" rel="alternate"/>
-    <published>2023-07-28T19:23:26+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@annarennsworld/video/7260952298128559402</id>
     <title>Replying to @cookiesand.scream </title>
@@ -51,5 +35,21 @@
     <content>GAWD I DELETED SNAP BECAUSE IM SO JEALOUS OF U GIRLS WHO GOT TO GO😖😖😖TIRED OF THIS 😒 #stackingmoney #grwm #skincare #blackgirlskincareproducts #beyonce #renassaincetour </content>
     <link href="https://www.tiktok.com/@annarennsworld/video/7261322704924609838" rel="alternate"/>
     <published>2023-07-29T19:20:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@annarennsworld/video/7261693831056264494</id>
+    <title>Replying to @kvtssbb #greenscreen   All lf these are gonna be linked in my amazon in bio 🫧🫧 i hope the girls who watched the entire thing enjoyed the lik storytime of how I went to the hospital for almost ☠️ because I didn’t do my research on a supplement</title>
+    <updated>2023-07-30T19:21:02+00:00</updated>
+    <content>Replying to @kvtssbb #greenscreen   All lf these are gonna be linked in my amazon in bio 🫧🫧 i hope the girls who watched the entire thing enjoyed the lik storytime of how I went to the hospital for almost ☠️ because I didn’t do my research on a supplement  #feminecareproducts #amazonfinds </content>
+    <link href="https://www.tiktok.com/@annarennsworld/video/7261693831056264494" rel="alternate"/>
+    <published>2023-07-30T19:21:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@annarennsworld/video/7261714161678306603</id>
+    <title>I was in disbelief when i saw taco cheese and meet inside of injera😭  #ethiopian_tik_tok🇪🇹🇪🇹🇪🇹🇪🇹 </title>
+    <updated>2023-07-30T20:40:01+00:00</updated>
+    <content>I was in disbelief when i saw taco cheese and meet inside of injera😭  #ethiopian_tik_tok🇪🇹🇪🇹🇪🇹🇪🇹 </content>
+    <link href="https://www.tiktok.com/@annarennsworld/video/7261714161678306603" rel="alternate"/>
+    <published>2023-07-30T20:40:01+00:00</published>
   </entry>
 </feed>
