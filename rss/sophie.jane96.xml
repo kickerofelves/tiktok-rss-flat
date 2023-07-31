@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@sophie.jane96</id>
   <title>@sophie.jane96 | TikTok</title>
-  <updated>2023-07-29T15:08:27+00:00</updated>
+  <updated>2023-07-30T20:06:18+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @sophie.jane96</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@sophie.jane96/video/7260458663662374171</id>
-    <title>Breakfast?👀</title>
-    <updated>2023-07-27T11:27:51+00:00</updated>
-    <content>Breakfast?👀</content>
-    <link href="https://www.tiktok.com/@sophie.jane96/video/7260458663662374171" rel="alternate"/>
-    <published>2023-07-27T11:27:51+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@sophie.jane96/video/7260562327869721883</id>
     <title>Like my outfit?🥹</title>
@@ -51,5 +43,13 @@
     <content>Bouncy</content>
     <link href="https://www.tiktok.com/@sophie.jane96/video/7261257685553794330" rel="alternate"/>
     <published>2023-07-29T15:08:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@sophie.jane96/video/7261705525539179803</id>
+    <title>💯 </title>
+    <updated>2023-07-30T20:06:18+00:00</updated>
+    <content>💯 </content>
+    <link href="https://www.tiktok.com/@sophie.jane96/video/7261705525539179803" rel="alternate"/>
+    <published>2023-07-30T20:06:18+00:00</published>
   </entry>
 </feed>
