@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@girlzhavemorefun</id>
   <title>@girlzhavemorefun | TikTok</title>
-  <updated>2023-07-24T11:26:24+00:00</updated>
+  <updated>2023-07-31T14:45:18+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @girlzhavemorefun</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@girlzhavemorefun/video/7258614155542809899</id>
-    <title>Fav place #fyp #viral #acegirlsonly #greece </title>
-    <updated>2023-07-22T12:10:49+00:00</updated>
-    <content>Fav place #fyp #viral #acegirlsonly #greece </content>
-    <link href="https://www.tiktok.com/@girlzhavemorefun/video/7258614155542809899" rel="alternate"/>
-    <published>2023-07-22T12:10:49+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@girlzhavemorefun/video/7258637590494989614</id>
-    <title>Almost broke my ankle 100 times #fyp #viral #acegirlsonly #greece </title>
-    <updated>2023-07-22T13:41:25+00:00</updated>
-    <content>Almost broke my ankle 100 times #fyp #viral #acegirlsonly #greece </content>
-    <link href="https://www.tiktok.com/@girlzhavemorefun/video/7258637590494989614" rel="alternate"/>
-    <published>2023-07-22T13:41:25+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@girlzhavemorefun/video/7258653072845491498</id>
     <title>Hehe #fyp #viral #acegirlsonly #greece </title>
@@ -51,5 +35,21 @@
     <content>Lova  #greece #fyp #viral #acegirlsonly #travel </content>
     <link href="https://www.tiktok.com/@girlzhavemorefun/video/7259344813068258603" rel="alternate"/>
     <published>2023-07-24T11:26:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@girlzhavemorefun/video/7261992862303210795</id>
+    <title>🇬🇧 #viral #acegirlsonly #fyp #travel </title>
+    <updated>2023-07-31T14:41:32+00:00</updated>
+    <content>🇬🇧 #viral #acegirlsonly #fyp #travel </content>
+    <link href="https://www.tiktok.com/@girlzhavemorefun/video/7261992862303210795" rel="alternate"/>
+    <published>2023-07-31T14:41:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@girlzhavemorefun/video/7261993844013616430</id>
+    <title>Nap time #viral #acegirlsonly #fyp #travel  #nap </title>
+    <updated>2023-07-31T14:45:18+00:00</updated>
+    <content>Nap time #viral #acegirlsonly #fyp #travel  #nap </content>
+    <link href="https://www.tiktok.com/@girlzhavemorefun/video/7261993844013616430" rel="alternate"/>
+    <published>2023-07-31T14:45:18+00:00</published>
   </entry>
 </feed>
