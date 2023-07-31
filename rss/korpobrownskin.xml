@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@korpobrownskin</id>
   <title>@korpobrownskin | TikTok</title>
-  <updated>2023-07-28T14:53:25+00:00</updated>
+  <updated>2023-07-31T17:05:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @korpobrownskin</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@korpobrownskin/video/7259410602882305286</id>
-    <title>6 months left Besties We’re Fierce and Fearless, Sis! Crush Those Goals! 🎯 No goal is too big for us! My 60-day challenge has everything we need to slay. Let’s conquer the world, one workout at a time! Link in bio. #FearlessFitnessSquad #SlayTogether #Cru</title>
-    <updated>2023-07-24T15:40:46+00:00</updated>
-    <content>6 months left Besties We’re Fierce and Fearless, Sis! Crush Those Goals! 🎯 No goal is too big for us! My 60-day challenge has everything we need to slay. Let’s conquer the world, one workout at a time! Link in bio. #FearlessFitnessSquad #SlayTogether #CrushYourGoals #foryoupage #fitnessmotivation </content>
-    <link href="https://www.tiktok.com/@korpobrownskin/video/7259410602882305286" rel="alternate"/>
-    <published>2023-07-24T15:40:46+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@korpobrownskin/video/7259770800700509446</id>
     <title>Replying to @ebony ᥫ᭡ tone your back and snatch your waist ⌛️ Besties, 2024 is only 5 months away. You started this year with goals how close are you now? Are you happy happy or feeling confident with your present body ? No judgment over here judt these a</title>
@@ -51,5 +43,13 @@
     <content>You have to make some sacrifices when creating your dream body.  #howtogrowGLUTES #fitnesstips #howtoachievedreambody #legdayworkout #glutesgrowth </content>
     <link href="https://www.tiktok.com/@korpobrownskin/video/7260882740801735942" rel="alternate"/>
     <published>2023-07-28T14:53:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@korpobrownskin/video/7262030106309446917</id>
+    <title>Save and add these smith machine exercises to your next lower body day 🏋️‍♀️🏋🏽‍♀️ #smithmachineworkouts #goodmornings #legdayworkout #howtogrowGLUTES #fitnesstips </title>
+    <updated>2023-07-31T17:05:47+00:00</updated>
+    <content>Save and add these smith machine exercises to your next lower body day 🏋️‍♀️🏋🏽‍♀️ #smithmachineworkouts #goodmornings #legdayworkout #howtogrowGLUTES #fitnesstips </content>
+    <link href="https://www.tiktok.com/@korpobrownskin/video/7262030106309446917" rel="alternate"/>
+    <published>2023-07-31T17:05:47+00:00</published>
   </entry>
 </feed>
