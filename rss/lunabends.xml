@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@lunabends</id>
   <title>@lunabends | TikTok</title>
-  <updated>2023-07-30T17:02:15+00:00</updated>
+  <updated>2023-07-31T17:15:45+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @lunabends</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@lunabends/video/7260616301532548398</id>
-    <title>I teach chair tonight so had to brush up on some tricks ☺️ #chair #dancer #chairdance #flexible #pleasersheels #aerialtricks </title>
-    <updated>2023-07-27T21:39:39+00:00</updated>
-    <content>I teach chair tonight so had to brush up on some tricks ☺️ #chair #dancer #chairdance #flexible #pleasersheels #aerialtricks </content>
-    <link href="https://www.tiktok.com/@lunabends/video/7260616301532548398" rel="alternate"/>
-    <published>2023-07-27T21:39:39+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@lunabends/video/7260902478802095403</id>
     <title>Standing split action ☺️  #pole #poletok #dancer #flexible </title>
@@ -51,5 +43,13 @@
     <content>I wish i knew how to work this app for good music 🤣 #poletok #poletricks #dancer #poledancer #flexible #stronggirl </content>
     <link href="https://www.tiktok.com/@lunabends/video/7261658049742441771" rel="alternate"/>
     <published>2023-07-30T17:02:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lunabends/video/7262032601760746795</id>
+    <title>It was too busy to record while I was actually working but hopefully this week I cam focus &amp; get some footage 🤣  #grwm #comewithme #miami #nightlife #miaminightlife #nightclubs #miamilife #miamibeach #dancer #gogodancer #poledancer #fypシ </title>
+    <updated>2023-07-31T17:15:45+00:00</updated>
+    <content>It was too busy to record while I was actually working but hopefully this week I cam focus &amp; get some footage 🤣  #grwm #comewithme #miami #nightlife #miaminightlife #nightclubs #miamilife #miamibeach #dancer #gogodancer #poledancer #fypシ </content>
+    <link href="https://www.tiktok.com/@lunabends/video/7262032601760746795" rel="alternate"/>
+    <published>2023-07-31T17:15:45+00:00</published>
   </entry>
 </feed>
