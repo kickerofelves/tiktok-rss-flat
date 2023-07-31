@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ellietheempress</id>
   <title>@ellietheempress | TikTok</title>
-  <updated>2023-07-30T21:23:42+00:00</updated>
+  <updated>2023-07-31T19:02:45+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ellietheempress</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@ellietheempress/video/7261214598978653482</id>
-    <title>#viral #newyorkcity #nyc </title>
-    <updated>2023-07-29T12:22:07+00:00</updated>
-    <content>#viral #newyorkcity #nyc </content>
-    <link href="https://www.tiktok.com/@ellietheempress/video/7261214598978653482" rel="alternate"/>
-    <published>2023-07-29T12:22:07+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@ellietheempress/video/7261285102901087530</id>
-    <title>#newyorkcity #fyp #nyc </title>
-    <updated>2023-07-29T16:55:01+00:00</updated>
-    <content>#newyorkcity #fyp #nyc </content>
-    <link href="https://www.tiktok.com/@ellietheempress/video/7261285102901087530" rel="alternate"/>
-    <published>2023-07-29T16:55:01+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@ellietheempress/video/7261411088246263082</id>
     <title>Thick thighs saves lives #fyp </title>
@@ -51,5 +35,21 @@
     <content>Cant wait to visit New York again! #explore </content>
     <link href="https://www.tiktok.com/@ellietheempress/video/7261725452845190443" rel="alternate"/>
     <published>2023-07-30T21:23:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ellietheempress/video/7261971279106903339</id>
+    <title>#foryou #fyp #viral </title>
+    <updated>2023-07-31T13:17:59+00:00</updated>
+    <content>#foryou #fyp #viral </content>
+    <link href="https://www.tiktok.com/@ellietheempress/video/7261971279106903339" rel="alternate"/>
+    <published>2023-07-31T13:17:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ellietheempress/video/7262060209131048234</id>
+    <title>#foryou #fyp #viral </title>
+    <updated>2023-07-31T19:02:45+00:00</updated>
+    <content>#foryou #fyp #viral </content>
+    <link href="https://www.tiktok.com/@ellietheempress/video/7262060209131048234" rel="alternate"/>
+    <published>2023-07-31T19:02:45+00:00</published>
   </entry>
 </feed>
