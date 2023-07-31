@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@annarennsworld</id>
   <title>@annarennsworld | TikTok</title>
-  <updated>2023-07-30T20:40:01+00:00</updated>
+  <updated>2023-07-31T00:48:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @annarennsworld</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@annarennsworld/video/7260952298128559402</id>
-    <title>Replying to @cookiesand.scream </title>
-    <updated>2023-07-28T19:23:32+00:00</updated>
-    <content>Replying to @cookiesand.scream </content>
-    <link href="https://www.tiktok.com/@annarennsworld/video/7260952298128559402" rel="alternate"/>
-    <published>2023-07-28T19:23:32+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@annarennsworld/video/7261322691574041898</id>
-    <title>Replying to @nadia #greenscreen  thank you so much though for calling me out i want to make sure i don’t say things that offend anyone especially women who look like me, and have the same hair struggles, figuring out what worked best for me took a lot of </title>
-    <updated>2023-07-29T19:20:54+00:00</updated>
-    <content>Replying to @nadia #greenscreen  thank you so much though for calling me out i want to make sure i don’t say things that offend anyone especially women who look like me, and have the same hair struggles, figuring out what worked best for me took a lot of trial and error and I wanted to just give tips on how to save time when you’re in college. Even when I wore my sew in I would wait until my roommate wasn’t there to restraighten my hair and if she was there, I would let her know the room may get hot because of the flat iron. I still washed my hair when I lived on campus but once a week just so I could save time and do what I actually enjoyed instead if worrying my hair. But still do what works best for you💞💞</content>
-    <link href="https://www.tiktok.com/@annarennsworld/video/7261322691574041898" rel="alternate"/>
-    <published>2023-07-29T19:20:54+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@annarennsworld/video/7261322704924609838</id>
     <title>GAWD I DELETED SNAP BECAUSE IM SO JEALOUS OF U GIRLS WHO GOT TO GO😖😖😖TIRED OF THIS 😒 #stackingmoney #grwm #skincare #blackgirlskincareproducts #beyonce #renassaincetour </title>
@@ -51,5 +35,21 @@
     <content>I was in disbelief when i saw taco cheese and meet inside of injera😭  #ethiopian_tik_tok🇪🇹🇪🇹🇪🇹🇪🇹 </content>
     <link href="https://www.tiktok.com/@annarennsworld/video/7261714161678306603" rel="alternate"/>
     <published>2023-07-30T20:40:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@annarennsworld/video/7261772253522627882</id>
+    <title>She so real for the ☄️ up her friends ex’s car part😍</title>
+    <updated>2023-07-31T00:25:19+00:00</updated>
+    <content>She so real for the ☄️ up her friends ex’s car part😍</content>
+    <link href="https://www.tiktok.com/@annarennsworld/video/7261772253522627882" rel="alternate"/>
+    <published>2023-07-31T00:25:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@annarennsworld/video/7261778114533969195</id>
+    <title>It’s actually sickening because my ex would understand 😒but this new 🥷🏾 will just have to get used to this and not think i’m ignoring him  #skincare #skincareroutine #barbiemovie </title>
+    <updated>2023-07-31T00:48:05+00:00</updated>
+    <content>It’s actually sickening because my ex would understand 😒but this new 🥷🏾 will just have to get used to this and not think i’m ignoring him  #skincare #skincareroutine #barbiemovie </content>
+    <link href="https://www.tiktok.com/@annarennsworld/video/7261778114533969195" rel="alternate"/>
+    <published>2023-07-31T00:48:05+00:00</published>
   </entry>
 </feed>
