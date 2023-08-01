@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@shibuya_kaho</id>
   <title>@shibuya_kaho | TikTok</title>
-  <updated>2023-07-28T14:27:21+00:00</updated>
+  <updated>2023-07-31T23:57:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @shibuya_kaho</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@shibuya_kaho/video/7259304506221989128</id>
-    <title>Tottori Trip part 1: #DetectiveConan #CaseClosed pilgrimage‼️ 鳥取旅、まずはコナン通りのある北栄町へ行ってきました( ´͈ ᵕ `͈ ๑)</title>
-    <updated>2023-07-24T08:49:08+00:00</updated>
-    <content>Tottori Trip part 1: #DetectiveConan #CaseClosed pilgrimage‼️ 鳥取旅、まずはコナン通りのある北栄町へ行ってきました( ´͈ ᵕ `͈ ๑)</content>
-    <link href="https://www.tiktok.com/@shibuya_kaho/video/7259304506221989128" rel="alternate"/>
-    <published>2023-07-24T08:49:08+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@shibuya_kaho/video/7259677363426954514</id>
-    <title>Totttori Trip part 2: #GeGeGenoKitaro #yokai 😈  米子は初めて行きました！水木しげるロードはとても探索しやすいし、お洒落なコラボから手作りショップまでバリエーションも豊富でした(*´∇`*人)</title>
-    <updated>2023-07-25T08:55:58+00:00</updated>
-    <content>Totttori Trip part 2: #GeGeGenoKitaro #yokai 😈  米子は初めて行きました！水木しげるロードはとても探索しやすいし、お洒落なコラボから手作りショップまでバリエーションも豊富でした(*´∇`*人)</content>
-    <link href="https://www.tiktok.com/@shibuya_kaho/video/7259677363426954514" rel="alternate"/>
-    <published>2023-07-25T08:55:58+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@shibuya_kaho/video/7260019455755898130</id>
     <title>The pool and wind was blowing me away✨ #alohilaniresort  風とお水のコンビネーションが気持ち良かった！</title>
@@ -51,5 +35,21 @@
     <content>I was on #R2D2 #ANA plane💙 The apron canin attendants were wearing was so adorable... スターウォーズ機、めっちゃ可愛いかった(≧∀≦)</content>
     <link href="https://www.tiktok.com/@shibuya_kaho/video/7260876013670845704" rel="alternate"/>
     <published>2023-07-28T14:27:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@shibuya_kaho/video/7262131083448225042</id>
+    <title>Super gorgeous feeling yel with warm welcoming staff♡ とっても素敵なホテルでした(*´ｰ`*人) インフルエンサーキャンペーンに感謝！ @alohilaniresort   #ロカヒハワイ#未来集団 #ハワイ #旅行 #PR</title>
+    <updated>2023-07-31T23:37:51+00:00</updated>
+    <content>Super gorgeous feeling yel with warm welcoming staff♡ とっても素敵なホテルでした(*´ｰ`*人) インフルエンサーキャンペーンに感謝！ @alohilaniresort   #ロカヒハワイ#未来集団 #ハワイ #旅行 #PR</content>
+    <link href="https://www.tiktok.com/@shibuya_kaho/video/7262131083448225042" rel="alternate"/>
+    <published>2023-07-31T23:37:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@shibuya_kaho/video/7262136156224032008</id>
+    <title>Pool on the lounge floor, amazingly close view at the beach from room! And fantastic breakfast!!  ビーチに近くて、お部屋からの景色が最高♡ キャンペーン中は２つのホテルに滞在しました(っ ॑꒳ ॑c) @The Twin Fin Waikiki  #ロカヒハワイ #未来集団 #ハワイ #旅行 #PR </title>
+    <updated>2023-07-31T23:57:33+00:00</updated>
+    <content>Pool on the lounge floor, amazingly close view at the beach from room! And fantastic breakfast!!  ビーチに近くて、お部屋からの景色が最高♡ キャンペーン中は２つのホテルに滞在しました(っ ॑꒳ ॑c) @The Twin Fin Waikiki  #ロカヒハワイ #未来集団 #ハワイ #旅行 #PR </content>
+    <link href="https://www.tiktok.com/@shibuya_kaho/video/7262136156224032008" rel="alternate"/>
+    <published>2023-07-31T23:57:33+00:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@kristline__</id>
   <title>@kristline__ | TikTok</title>
-  <updated>2023-07-26T18:11:52+00:00</updated>
+  <updated>2023-07-31T15:53:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kristline__</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@kristline__/video/7242711788398071082</id>
-    <title>POV: bae said he wanted fry chicken &amp; Tostones for lunch and I made this for us. #fyp </title>
-    <updated>2023-06-09T15:41:02+00:00</updated>
-    <content>POV: bae said he wanted fry chicken &amp; Tostones for lunch and I made this for us. #fyp </content>
-    <link href="https://www.tiktok.com/@kristline__/video/7242711788398071082" rel="alternate"/>
-    <published>2023-06-09T15:41:02+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@kristline__/video/7254609512181665067</id>
     <title>The perfect breakfast smoothie with my husband powered by @Bloom Nutrition </title>
@@ -51,5 +43,13 @@
     <content>Come make my breakfast with me and my hunny🖤 Powerd by @Bloom Nutrition </content>
     <link href="https://www.tiktok.com/@kristline__/video/7260191689552203054" rel="alternate"/>
     <published>2023-07-26T18:11:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@kristline__/video/7262011378666442027</id>
+    <title>They blocked my page, my husband had to screenshot their page for me.  Please help me Report them 🙏🏾</title>
+    <updated>2023-07-31T15:53:26+00:00</updated>
+    <content>They blocked my page, my husband had to screenshot their page for me.  Please help me Report them 🙏🏾</content>
+    <link href="https://www.tiktok.com/@kristline__/video/7262011378666442027" rel="alternate"/>
+    <published>2023-07-31T15:53:26+00:00</published>
   </entry>
 </feed>
