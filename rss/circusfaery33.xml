@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@circusfaery33</id>
   <title>@circusfaery33 | TikTok</title>
-  <updated>2023-07-31T00:50:28+00:00</updated>
+  <updated>2023-07-31T17:28:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @circusfaery33</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7261416829241806122</id>
-    <title>Replying to @Violeta </title>
-    <updated>2023-07-30T01:26:07+00:00</updated>
-    <content>Replying to @Violeta </content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7261416829241806122" rel="alternate"/>
-    <published>2023-07-30T01:26:07+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7261659213368347950</id>
-    <title>Replying to @bludnut You have an opportunity here, but I have a feeling you aren't going to take it because you're too busy constructing straw man arguments.</title>
-    <updated>2023-07-30T17:06:45+00:00</updated>
-    <content>Replying to @bludnut You have an opportunity here, but I have a feeling you aren't going to take it because you're too busy constructing straw man arguments.</content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7261659213368347950" rel="alternate"/>
-    <published>2023-07-30T17:06:45+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7261715688874659115</id>
-    <title>Replying to @TexAgIllini How is this helpful or evem related to a conversation about unlearning marginalization in the US? #asianamerican #modelminority #antiracism #solidarity</title>
-    <updated>2023-07-30T20:45:48+00:00</updated>
-    <content>Replying to @TexAgIllini How is this helpful or evem related to a conversation about unlearning marginalization in the US? #asianamerican #modelminority #antiracism #solidarity</content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7261715688874659115" rel="alternate"/>
-    <published>2023-07-30T20:45:48+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@circusfaery33/video/7261750022990073131</id>
     <title>Replying to @bludnut Actually, May is both AAPI History Month and Jewish Heritage Month. But nice try. #asianamerican #modelminority #antiracism #solidarity </title>
@@ -51,5 +27,29 @@
     <content>Replying to @dannnisaur No--you're the one needs an entire year to address your willful ignorance. </content>
     <link href="https://www.tiktok.com/@circusfaery33/video/7261778729096039723" rel="alternate"/>
     <published>2023-07-31T00:50:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7262023463420906795</id>
+    <title>Replying to @bludnut  While you don't currently possess the capacity to understand how comedically wrong your comment is, you can learn. I believe in you. #asianamerican #modelminority #antiracism #solidarity </title>
+    <updated>2023-07-31T16:40:14+00:00</updated>
+    <content>Replying to @bludnut  While you don't currently possess the capacity to understand how comedically wrong your comment is, you can learn. I believe in you. #asianamerican #modelminority #antiracism #solidarity </content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7262023463420906795" rel="alternate"/>
+    <published>2023-07-31T16:40:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7262034711629843755</id>
+    <title>Replying to @raven19  Oh sh!t! You're right! </title>
+    <updated>2023-07-31T17:23:49+00:00</updated>
+    <content>Replying to @raven19  Oh sh!t! You're right! </content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7262034711629843755" rel="alternate"/>
+    <published>2023-07-31T17:23:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7262035919061011754</id>
+    <title>Replying to @raven19 So you admit I've done the work, but the work women do is negated by the men you assume they marry? You're the problem. </title>
+    <updated>2023-07-31T17:28:35+00:00</updated>
+    <content>Replying to @raven19 So you admit I've done the work, but the work women do is negated by the men you assume they marry? You're the problem. </content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7262035919061011754" rel="alternate"/>
+    <published>2023-07-31T17:28:35+00:00</published>
   </entry>
 </feed>
