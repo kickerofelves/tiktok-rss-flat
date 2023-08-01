@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@melaninqueen833</id>
   <title>@melaninqueen833 | TikTok</title>
-  <updated>2023-07-31T20:10:47+00:00</updated>
+  <updated>2023-08-01T04:22:45+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @melaninqueen833</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@melaninqueen833/video/7261613166713474346</id>
-    <title>[no title]</title>
-    <updated>2023-07-30T14:08:18+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@melaninqueen833/video/7261613166713474346" rel="alternate"/>
-    <published>2023-07-30T14:08:18+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@melaninqueen833/video/7261669403815595307</id>
     <title>[no title]</title>
@@ -51,5 +43,13 @@
     <content>[no description]</content>
     <link href="https://www.tiktok.com/@melaninqueen833/video/7262077728189435179" rel="alternate"/>
     <published>2023-07-31T20:10:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@melaninqueen833/video/7262204543465786666</id>
+    <title>#CapCutVelocity #สโลว์สมูท #สปีดสโลว์ </title>
+    <updated>2023-08-01T04:22:45+00:00</updated>
+    <content>#CapCutVelocity #สโลว์สมูท #สปีดสโลว์ </content>
+    <link href="https://www.tiktok.com/@melaninqueen833/video/7262204543465786666" rel="alternate"/>
+    <published>2023-08-01T04:22:45+00:00</published>
   </entry>
 </feed>
