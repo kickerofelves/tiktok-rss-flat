@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@raquelmartinphd</id>
   <title>@raquelmartinphd | TikTok</title>
-  <updated>2023-07-31T20:13:38+00:00</updated>
+  <updated>2023-08-01T00:32:44+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @raquelmartinphd</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@raquelmartinphd/video/7260650715725679918</id>
-    <title>#blacktiktok #blackwomensequalpayday </title>
-    <updated>2023-07-27T23:53:12+00:00</updated>
-    <content>#blacktiktok #blackwomensequalpayday </content>
-    <link href="https://www.tiktok.com/@raquelmartinphd/video/7260650715725679918" rel="alternate"/>
-    <published>2023-07-27T23:53:12+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@raquelmartinphd/video/7260906646065679662</id>
     <title>#momlife </title>
@@ -51,5 +43,13 @@
     <content>The CROWN Movement has come far but there’s still work to be done and we can do it with your help. Join me and CROWN Coalition co-founder, @dove , to support the CROWN Movement and show that #BlackHairIsProfessional. Let’s celebrate our crowns by signing the CROWN Act petition linked in my bio. #crownproud </content>
     <link href="https://www.tiktok.com/@raquelmartinphd/video/7262078464872877358" rel="alternate"/>
     <published>2023-07-31T20:13:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@raquelmartinphd/video/7262145261169003822</id>
+    <title>Hope to see yall there!</title>
+    <updated>2023-08-01T00:32:44+00:00</updated>
+    <content>Hope to see yall there!</content>
+    <link href="https://www.tiktok.com/@raquelmartinphd/video/7262145261169003822" rel="alternate"/>
+    <published>2023-08-01T00:32:44+00:00</published>
   </entry>
 </feed>
