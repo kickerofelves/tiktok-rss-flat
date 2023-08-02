@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@juicy.bunz</id>
   <title>@juicy.bunz | TikTok</title>
-  <updated>2023-07-29T20:57:26+00:00</updated>
+  <updated>2023-08-01T22:47:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @juicy.bunz</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@juicy.bunz/video/7256159317047414058</id>
-    <title>Why is it moving like that 😭</title>
-    <updated>2023-07-15T21:24:19+00:00</updated>
-    <content>Why is it moving like that 😭</content>
-    <link href="https://www.tiktok.com/@juicy.bunz/video/7256159317047414058" rel="alternate"/>
-    <published>2023-07-15T21:24:19+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@juicy.bunz/video/7256510683813072170</id>
     <title>I just walked up 3 flights of stairs and i still have to cook some food 😥 im done #gym #fitness #gymtok #fyp </title>
@@ -51,5 +43,13 @@
     <content>That post workout feeling. Hungry and in need of a shower, but feeling good 🥰 #postworkout #gym #fitness </content>
     <link href="https://www.tiktok.com/@juicy.bunz/video/7261347578812304683" rel="alternate"/>
     <published>2023-07-29T20:57:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@juicy.bunz/video/7262489289752104238</id>
+    <title>My 6 am morning routine. Getting ready for the gym. I’m definitely a morning person. its my favorite part of the day 🥰 #morningroutine #getreadywithme #minivlog #dailyroutine #asmr </title>
+    <updated>2023-08-01T22:47:47+00:00</updated>
+    <content>My 6 am morning routine. Getting ready for the gym. I’m definitely a morning person. its my favorite part of the day 🥰 #morningroutine #getreadywithme #minivlog #dailyroutine #asmr </content>
+    <link href="https://www.tiktok.com/@juicy.bunz/video/7262489289752104238" rel="alternate"/>
+    <published>2023-08-01T22:47:47+00:00</published>
   </entry>
 </feed>
