@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ellietheempress</id>
   <title>@ellietheempress | TikTok</title>
-  <updated>2023-08-01T21:30:54+00:00</updated>
+  <updated>2023-08-02T19:03:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ellietheempress</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@ellietheempress/video/7261971279106903339</id>
-    <title>#foryou #fyp #viral </title>
-    <updated>2023-07-31T13:17:59+00:00</updated>
-    <content>#foryou #fyp #viral </content>
-    <link href="https://www.tiktok.com/@ellietheempress/video/7261971279106903339" rel="alternate"/>
-    <published>2023-07-31T13:17:59+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@ellietheempress/video/7262060209131048234</id>
-    <title>#foryou #fyp #viral </title>
-    <updated>2023-07-31T19:02:45+00:00</updated>
-    <content>#foryou #fyp #viral </content>
-    <link href="https://www.tiktok.com/@ellietheempress/video/7262060209131048234" rel="alternate"/>
-    <published>2023-07-31T19:02:45+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@ellietheempress/video/7262320687715503403</id>
-    <title>#foryou #fyp </title>
-    <updated>2023-08-01T11:53:35+00:00</updated>
-    <content>#foryou #fyp </content>
-    <link href="https://www.tiktok.com/@ellietheempress/video/7262320687715503403" rel="alternate"/>
-    <published>2023-08-01T11:53:35+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@ellietheempress/video/7262347516262354218</id>
     <title>Snaps from NYC w/@BTSCENESPRO </title>
@@ -51,5 +27,29 @@
     <content>#viral #foryou </content>
     <link href="https://www.tiktok.com/@ellietheempress/video/7262469456775957803" rel="alternate"/>
     <published>2023-08-01T21:30:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ellietheempress/video/7262727073482165550</id>
+    <title>Super small but the view is worth it. #fyp #newyorkcity #nyc #arlonomad </title>
+    <updated>2023-08-02T14:10:32+00:00</updated>
+    <content>Super small but the view is worth it. #fyp #newyorkcity #nyc #arlonomad </content>
+    <link href="https://www.tiktok.com/@ellietheempress/video/7262727073482165550" rel="alternate"/>
+    <published>2023-08-02T14:10:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ellietheempress/video/7262734689449037102</id>
+    <title>Made a quick trip to see if this would be a good move for me. Do you think I should move here? </title>
+    <updated>2023-08-02T14:40:06+00:00</updated>
+    <content>Made a quick trip to see if this would be a good move for me. Do you think I should move here? </content>
+    <link href="https://www.tiktok.com/@ellietheempress/video/7262734689449037102" rel="alternate"/>
+    <published>2023-08-02T14:40:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ellietheempress/video/7262802649202822442</id>
+    <title>#foryou #viral </title>
+    <updated>2023-08-02T19:03:42+00:00</updated>
+    <content>#foryou #viral </content>
+    <link href="https://www.tiktok.com/@ellietheempress/video/7262802649202822442" rel="alternate"/>
+    <published>2023-08-02T19:03:42+00:00</published>
   </entry>
 </feed>
