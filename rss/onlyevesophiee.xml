@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@onlyevesophiee</id>
   <title>@onlyevesophiee | TikTok</title>
-  <updated>2023-08-01T10:07:00+00:00</updated>
+  <updated>2023-08-02T09:37:57+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @onlyevesophiee</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@onlyevesophiee/video/7261352417164315931</id>
-    <title>Im not doing anything …</title>
-    <updated>2023-07-29T21:16:04+00:00</updated>
-    <content>Im not doing anything …</content>
-    <link href="https://www.tiktok.com/@onlyevesophiee/video/7261352417164315931" rel="alternate"/>
-    <published>2023-07-29T21:16:04+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@onlyevesophiee/video/7261550899070242074</id>
     <title>Super thick 💦</title>
@@ -51,5 +43,13 @@
     <content>Reading 😀</content>
     <link href="https://www.tiktok.com/@onlyevesophiee/video/7262293253104487712" rel="alternate"/>
     <published>2023-08-01T10:07:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@onlyevesophiee/video/7262656852893256993</id>
+    <title>My skirt is not loyal 😂</title>
+    <updated>2023-08-02T09:37:57+00:00</updated>
+    <content>My skirt is not loyal 😂</content>
+    <link href="https://www.tiktok.com/@onlyevesophiee/video/7262656852893256993" rel="alternate"/>
+    <published>2023-08-02T09:37:57+00:00</published>
   </entry>
 </feed>
