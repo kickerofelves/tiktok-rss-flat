@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@shibuya_kaho</id>
   <title>@shibuya_kaho | TikTok</title>
-  <updated>2023-07-31T23:57:33+00:00</updated>
+  <updated>2023-08-02T12:30:54+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @shibuya_kaho</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@shibuya_kaho/video/7260019455755898130</id>
-    <title>The pool and wind was blowing me away✨ #alohilaniresort  風とお水のコンビネーションが気持ち良かった！</title>
-    <updated>2023-07-26T07:03:27+00:00</updated>
-    <content>The pool and wind was blowing me away✨ #alohilaniresort  風とお水のコンビネーションが気持ち良かった！</content>
-    <link href="https://www.tiktok.com/@shibuya_kaho/video/7260019455755898130" rel="alternate"/>
-    <published>2023-07-26T07:03:27+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@shibuya_kaho/video/7260820796807908615</id>
     <title>The Hawaii influenecer campaign started! I was left at airport alone when I arrived lol, but overall I could experience a lot of exclusive and nice things throughout the tour. Thank you Zipair for flying me over♡ ハワイのキャンペーン始まりました！これを見て応募した方に旅行が当たりますように(っ </title>
@@ -51,5 +43,13 @@
     <content>Pool on the lounge floor, amazingly close view at the beach from room! And fantastic breakfast!!  ビーチに近くて、お部屋からの景色が最高♡ キャンペーン中は２つのホテルに滞在しました(っ ॑꒳ ॑c) @The Twin Fin Waikiki  #ロカヒハワイ #未来集団 #ハワイ #旅行 #PR </content>
     <link href="https://www.tiktok.com/@shibuya_kaho/video/7262136156224032008" rel="alternate"/>
     <published>2023-07-31T23:57:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@shibuya_kaho/video/7262701433827446024</id>
+    <title>Finally tried The Pink's Hot Dogs  Is it me or does the sign look...❓ #hotdog  LAの有名ファーストフード店🌭 パンが柔ら過ぎて、そのまま食べにくいのが難点でした！</title>
+    <updated>2023-08-02T12:30:54+00:00</updated>
+    <content>Finally tried The Pink's Hot Dogs  Is it me or does the sign look...❓ #hotdog  LAの有名ファーストフード店🌭 パンが柔ら過ぎて、そのまま食べにくいのが難点でした！</content>
+    <link href="https://www.tiktok.com/@shibuya_kaho/video/7262701433827446024" rel="alternate"/>
+    <published>2023-08-02T12:30:54+00:00</published>
   </entry>
 </feed>
