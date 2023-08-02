@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@annarennsworld</id>
   <title>@annarennsworld | TikTok</title>
-  <updated>2023-08-01T19:30:27+00:00</updated>
+  <updated>2023-08-02T18:06:22+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @annarennsworld</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@annarennsworld/video/7262408623123500334</id>
-    <title>😁</title>
-    <updated>2023-08-01T17:34:43+00:00</updated>
-    <content>😁</content>
-    <link href="https://www.tiktok.com/@annarennsworld/video/7262408623123500334" rel="alternate"/>
-    <published>2023-08-01T17:34:43+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@annarennsworld/video/7262436003388935466</id>
-    <title>Replying to @charnay 🐾 i love a mew glue hairstyle, link to hair is in my bio💞💞💞💞</title>
-    <updated>2023-08-01T19:21:03+00:00</updated>
-    <content>Replying to @charnay 🐾 i love a mew glue hairstyle, link to hair is in my bio💞💞💞💞</content>
-    <link href="https://www.tiktok.com/@annarennsworld/video/7262436003388935466" rel="alternate"/>
-    <published>2023-08-01T19:21:03+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@annarennsworld/video/7262436014893829418</id>
     <title>I didn’t even know it was today someone should’ve warned me😖😖</title>
@@ -51,5 +35,21 @@
     <content>[no description]</content>
     <link href="https://www.tiktok.com/@annarennsworld/video/7262438421472333099" rel="alternate"/>
     <published>2023-08-01T19:30:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@annarennsworld/video/7262784644712598830</id>
+    <title>Feel bad for being such a sassy preteen to her, thank for never letting me have guys over, thank for giving me a curfew, thank you for making sure i worked hard in school and thank you for letting be a little girl and not grow up too fast</title>
+    <updated>2023-08-02T17:53:51+00:00</updated>
+    <content>Feel bad for being such a sassy preteen to her, thank for never letting me have guys over, thank for giving me a curfew, thank you for making sure i worked hard in school and thank you for letting be a little girl and not grow up too fast</content>
+    <link href="https://www.tiktok.com/@annarennsworld/video/7262784644712598830" rel="alternate"/>
+    <published>2023-08-02T17:53:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@annarennsworld/video/7262787861026688302</id>
+    <title>[no title]</title>
+    <updated>2023-08-02T18:06:22+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@annarennsworld/video/7262787861026688302" rel="alternate"/>
+    <published>2023-08-02T18:06:22+00:00</published>
   </entry>
 </feed>
