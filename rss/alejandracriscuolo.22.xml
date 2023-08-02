@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@alejandracriscuolo.22</id>
   <title>@alejandracriscuolo.22 | TikTok</title>
-  <updated>2023-07-31T14:20:53+00:00</updated>
+  <updated>2023-08-01T22:30:16+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @alejandracriscuolo.22</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@alejandracriscuolo.22/video/7261353239323413766</id>
-    <title>[no title]</title>
-    <updated>2023-07-29T21:19:12+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@alejandracriscuolo.22/video/7261353239323413766" rel="alternate"/>
-    <published>2023-07-29T21:19:12+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@alejandracriscuolo.22/video/7261720248548609286</id>
-    <title>[no title]</title>
-    <updated>2023-07-30T21:03:24+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@alejandracriscuolo.22/video/7261720248548609286" rel="alternate"/>
-    <published>2023-07-30T21:03:24+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@alejandracriscuolo.22/video/7261720603835616517</id>
-    <title>#alejandracriscuolo #alejandracriscuolo22 </title>
-    <updated>2023-07-30T21:04:46+00:00</updated>
-    <content>#alejandracriscuolo #alejandracriscuolo22 </content>
-    <link href="https://www.tiktok.com/@alejandracriscuolo.22/video/7261720603835616517" rel="alternate"/>
-    <published>2023-07-30T21:04:46+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@alejandracriscuolo.22/video/7261721046217280774</id>
     <title>#alejandracriscuolo22 </title>
@@ -51,5 +27,29 @@
     <content>#borrador 🙈 cuando tuve mi cambio de look 🤭 nos hacemos otro ? Que color ? 🥰#viral </content>
     <link href="https://www.tiktok.com/@alejandracriscuolo.22/video/7261987614289349894" rel="alternate"/>
     <published>2023-07-31T14:20:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@alejandracriscuolo.22/video/7262483378279058693</id>
+    <title>#alejandracriscuolo #alejandracriscuolo22 </title>
+    <updated>2023-08-01T22:24:43+00:00</updated>
+    <content>#alejandracriscuolo #alejandracriscuolo22 </content>
+    <link href="https://www.tiktok.com/@alejandracriscuolo.22/video/7262483378279058693" rel="alternate"/>
+    <published>2023-08-01T22:24:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@alejandracriscuolo.22/video/7262484001414270213</id>
+    <title>#alejandracriscuolo #alejandracriscuolo22 </title>
+    <updated>2023-08-01T22:27:08+00:00</updated>
+    <content>#alejandracriscuolo #alejandracriscuolo22 </content>
+    <link href="https://www.tiktok.com/@alejandracriscuolo.22/video/7262484001414270213" rel="alternate"/>
+    <published>2023-08-01T22:27:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@alejandracriscuolo.22/video/7262484800701861126</id>
+    <title>#alejandracriscuolo #alejandracriscuolo22 </title>
+    <updated>2023-08-01T22:30:16+00:00</updated>
+    <content>#alejandracriscuolo #alejandracriscuolo22 </content>
+    <link href="https://www.tiktok.com/@alejandracriscuolo.22/video/7262484800701861126" rel="alternate"/>
+    <published>2023-08-01T22:30:16+00:00</published>
   </entry>
 </feed>
