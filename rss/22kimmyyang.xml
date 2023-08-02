@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@22kimmyyang</id>
   <title>@22kimmyyang | TikTok</title>
-  <updated>2023-07-31T20:24:09+00:00</updated>
+  <updated>2023-08-01T20:17:13+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @22kimmyyang</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@22kimmyyang/video/7260959284744277290</id>
-    <title>#cosplay #kitana #asiangirl </title>
-    <updated>2023-07-28T19:50:40+00:00</updated>
-    <content>#cosplay #kitana #asiangirl </content>
-    <link href="https://www.tiktok.com/@22kimmyyang/video/7260959284744277290" rel="alternate"/>
-    <published>2023-07-28T19:50:40+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@22kimmyyang/video/7261303782208834859</id>
     <title>Omg 😲</title>
@@ -51,5 +43,13 @@
     <content>Twin shenanigans 🍭</content>
     <link href="https://www.tiktok.com/@22kimmyyang/video/7262081177681513770" rel="alternate"/>
     <published>2023-07-31T20:24:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@22kimmyyang/video/7262450492737850670</id>
+    <title>[no title]</title>
+    <updated>2023-08-01T20:17:13+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@22kimmyyang/video/7262450492737850670" rel="alternate"/>
+    <published>2023-08-01T20:17:13+00:00</published>
   </entry>
 </feed>
