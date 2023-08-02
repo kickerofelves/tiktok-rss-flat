@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@alvine_n</id>
   <title>@alvine_n | TikTok</title>
-  <updated>2023-08-01T18:06:59+00:00</updated>
+  <updated>2023-08-02T18:04:21+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @alvine_n</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@alvine_n/video/7261678191603911962</id>
-    <title>Replying to @Lauren (taylors version) you mean lose weight &amp; flatten your tummy? Not sure about a smaller butt though 😂🙈. 🔥Unveiling my top-secret #weightloss journey! 🏋️‍♀️ Say hello to a healthier and happier you. Follow these simple steps to a flatter </title>
-    <updated>2023-07-30T18:20:23+00:00</updated>
-    <content>Replying to @Lauren (taylors version) you mean lose weight &amp; flatten your tummy? Not sure about a smaller butt though 😂🙈. 🔥Unveiling my top-secret #weightloss journey! 🏋️‍♀️ Say hello to a healthier and happier you. Follow these simple steps to a flatter tummy: 1️⃣ Balanced diet: Fuel your body with the right nutrients 🥗 2️⃣ Regular exercise: It's all about consistency 🏃‍♀️ 3️⃣ Hydration: Don't underestimate the power of water 💧 4️⃣ Adequate sleep: Your body needs rest to function well 💤 Remember, it's not about being perfect, it's about progress! Stay tuned for more #fitnesstips 🙌 Let's get this #weightlosschallenge viral. Like, share, and tag friends to join the journey 🌐 #tiktokfitness #flattertummy</content>
-    <link href="https://www.tiktok.com/@alvine_n/video/7261678191603911962" rel="alternate"/>
-    <published>2023-07-30T18:20:23+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@alvine_n/video/7262038581449919776</id>
-    <title>Replying to @riajuman disclaimer you can’t spot reduce fat join my 9 weeks body recomposition challenge now workout plan + nutrition + private community chat for daily support &amp; motivation ❤️❤️❤️</title>
-    <updated>2023-07-31T17:38:44+00:00</updated>
-    <content>Replying to @riajuman disclaimer you can’t spot reduce fat join my 9 weeks body recomposition challenge now workout plan + nutrition + private community chat for daily support &amp; motivation ❤️❤️❤️</content>
-    <link href="https://www.tiktok.com/@alvine_n/video/7262038581449919776" rel="alternate"/>
-    <published>2023-07-31T17:38:44+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@alvine_n/video/7262325369095654688</id>
     <title>🥇 Jurissa Pratt  mum of 3 - 1st Place: $2000 for the best transformation pictures! 🥈 Claudia Pacheco - 2nd Place: $1000 47 lbs down 🔥🔥🔥 🥉 Portiah Dajan mum of 3  &amp; Lizzie Smith - 3rd Place: Each wins $500!  Keep up the incredible work! 💰  Join me for the </title>
@@ -51,5 +35,21 @@
     <content>#CapCut </content>
     <link href="https://www.tiktok.com/@alvine_n/video/7262416943997668640" rel="alternate"/>
     <published>2023-08-01T18:06:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@alvine_n/video/7262771516444642592</id>
+    <title>Replying to @yammygirl0 join $3200 🏆cash prize Body Recomposition Challenge now! First link in my bio </title>
+    <updated>2023-08-02T17:02:52+00:00</updated>
+    <content>Replying to @yammygirl0 join $3200 🏆cash prize Body Recomposition Challenge now! First link in my bio </content>
+    <link href="https://www.tiktok.com/@alvine_n/video/7262771516444642592" rel="alternate"/>
+    <published>2023-08-02T17:02:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@alvine_n/video/7262787368006978848</id>
+    <title>Replying to @Tiffydabaddest </title>
+    <updated>2023-08-02T18:04:21+00:00</updated>
+    <content>Replying to @Tiffydabaddest </content>
+    <link href="https://www.tiktok.com/@alvine_n/video/7262787368006978848" rel="alternate"/>
+    <published>2023-08-02T18:04:21+00:00</published>
   </entry>
 </feed>

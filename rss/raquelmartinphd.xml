@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@raquelmartinphd</id>
   <title>@raquelmartinphd | TikTok</title>
-  <updated>2023-08-01T19:23:04+00:00</updated>
+  <updated>2023-08-02T22:16:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @raquelmartinphd</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@raquelmartinphd/video/7261001664725994798</id>
-    <title>Your hoals are your own #therapy #psychology #lilkim </title>
-    <updated>2023-07-28T22:35:05+00:00</updated>
-    <content>Your hoals are your own #therapy #psychology #lilkim </content>
-    <link href="https://www.tiktok.com/@raquelmartinphd/video/7261001664725994798" rel="alternate"/>
-    <published>2023-07-28T22:35:05+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@raquelmartinphd/video/7261664756669418795</id>
-    <title>#stitch @Malik McIntyre #anxiety #drmartinhere #tipsandtricks #relationships </title>
-    <updated>2023-07-30T17:28:16+00:00</updated>
-    <content>#stitch @Malik McIntyre #anxiety #drmartinhere #tipsandtricks #relationships </content>
-    <link href="https://www.tiktok.com/@raquelmartinphd/video/7261664756669418795" rel="alternate"/>
-    <published>2023-07-30T17:28:16+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@raquelmartinphd/video/7262078464872877358</id>
-    <title>The CROWN Movement has come far but there’s still work to be done and we can do it with your help. Join me and CROWN Coalition co-founder, @dove , to support the CROWN Movement and show that #BlackHairIsProfessional. Let’s celebrate our crowns by signing </title>
-    <updated>2023-07-31T20:13:38+00:00</updated>
-    <content>The CROWN Movement has come far but there’s still work to be done and we can do it with your help. Join me and CROWN Coalition co-founder, @dove , to support the CROWN Movement and show that #BlackHairIsProfessional. Let’s celebrate our crowns by signing the CROWN Act petition linked in my bio. #crownproud </content>
-    <link href="https://www.tiktok.com/@raquelmartinphd/video/7262078464872877358" rel="alternate"/>
-    <published>2023-07-31T20:13:38+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@raquelmartinphd/video/7262145261169003822</id>
     <title>Hope to see yall there!</title>
@@ -51,5 +27,29 @@
     <content>Share your thougjts below.@marclamonthill #drmartinhere </content>
     <link href="https://www.tiktok.com/@raquelmartinphd/video/7262436542298262827" rel="alternate"/>
     <published>2023-08-01T19:23:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@raquelmartinphd/video/7262500439604645162</id>
+    <title>#parenting #drmartinhere #love </title>
+    <updated>2023-08-01T23:31:04+00:00</updated>
+    <content>#parenting #drmartinhere #love </content>
+    <link href="https://www.tiktok.com/@raquelmartinphd/video/7262500439604645162" rel="alternate"/>
+    <published>2023-08-01T23:31:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@raquelmartinphd/video/7262558974401121579</id>
+    <title>#greenscreen #food </title>
+    <updated>2023-08-02T03:18:15+00:00</updated>
+    <content>#greenscreen #food </content>
+    <link href="https://www.tiktok.com/@raquelmartinphd/video/7262558974401121579" rel="alternate"/>
+    <published>2023-08-02T03:18:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@raquelmartinphd/video/7262852401705798958</id>
+    <title>#learnontiktok #relationships #consentnotcoercion #drmartinhere </title>
+    <updated>2023-08-02T22:16:50+00:00</updated>
+    <content>#learnontiktok #relationships #consentnotcoercion #drmartinhere </content>
+    <link href="https://www.tiktok.com/@raquelmartinphd/video/7262852401705798958" rel="alternate"/>
+    <published>2023-08-02T22:16:50+00:00</published>
   </entry>
 </feed>
