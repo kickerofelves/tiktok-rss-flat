@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@softperlig</id>
   <title>@softperlig | TikTok</title>
-  <updated>2023-08-01T18:25:57+00:00</updated>
+  <updated>2023-07-31T03:32:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @softperlig</subtitle>
+  <entry>
+    <id>https://www.tiktok.com/@softperlig/video/7257777938936892699</id>
+    <title>Surprise (lol)</title>
+    <updated>2023-07-20T06:05:20+00:00</updated>
+    <content>Surprise (lol)</content>
+    <link href="https://www.tiktok.com/@softperlig/video/7257777938936892699" rel="alternate"/>
+    <published>2023-07-20T06:05:20+00:00</published>
+  </entry>
   <entry>
     <id>https://www.tiktok.com/@softperlig/video/7258516636141899035</id>
     <title>#MimikMeme </title>
@@ -43,13 +51,5 @@
     <content>New outfit 👍🏻</content>
     <link href="https://www.tiktok.com/@softperlig/video/7261820258850262299" rel="alternate"/>
     <published>2023-07-31T03:32:33+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@softperlig/video/7262421843598970145</id>
-    <title>Wake up, it’s the 1st of the month </title>
-    <updated>2023-08-01T18:25:57+00:00</updated>
-    <content>Wake up, it’s the 1st of the month </content>
-    <link href="https://www.tiktok.com/@softperlig/video/7262421843598970145" rel="alternate"/>
-    <published>2023-08-01T18:25:57+00:00</published>
   </entry>
 </feed>
