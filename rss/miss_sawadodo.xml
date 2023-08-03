@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@miss_sawadodo</id>
   <title>@miss_sawadodo | TikTok</title>
-  <updated>2023-07-31T21:27:24+00:00</updated>
+  <updated>2023-08-02T23:12:44+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @miss_sawadodo</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@miss_sawadodo/video/7259097303347105029</id>
-    <title>[no title]</title>
-    <updated>2023-07-23T19:25:00+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@miss_sawadodo/video/7259097303347105029" rel="alternate"/>
-    <published>2023-07-23T19:25:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@miss_sawadodo/video/7261082367765384453</id>
     <title>[no title]</title>
@@ -51,5 +43,13 @@
     <content>[no description]</content>
     <link href="https://www.tiktok.com/@miss_sawadodo/video/7262097524507364614" rel="alternate"/>
     <published>2023-07-31T21:27:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@miss_sawadodo/video/7262866833919855877</id>
+    <title>[no title]</title>
+    <updated>2023-08-02T23:12:44+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@miss_sawadodo/video/7262866833919855877" rel="alternate"/>
+    <published>2023-08-02T23:12:44+00:00</published>
   </entry>
 </feed>
