@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@woesenpai69</id>
   <title>@woesenpai69 | TikTok</title>
-  <updated>2023-08-01T20:40:40+00:00</updated>
+  <updated>2023-08-03T01:37:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @woesenpai69</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@woesenpai69/video/7259965010359749931</id>
-    <title>Dont downgrade baby</title>
-    <updated>2023-07-26T03:32:14+00:00</updated>
-    <content>Dont downgrade baby</content>
-    <link href="https://www.tiktok.com/@woesenpai69/video/7259965010359749931" rel="alternate"/>
-    <published>2023-07-26T03:32:14+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@woesenpai69/video/7260593965823561002</id>
-    <title>[no title]</title>
-    <updated>2023-07-27T20:13:00+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@woesenpai69/video/7260593965823561002" rel="alternate"/>
-    <published>2023-07-27T20:13:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@woesenpai69/video/7261053166156795179</id>
-    <title>THIS NEW TRAVIS SCOTT IS SO FIRE</title>
-    <updated>2023-07-29T01:54:52+00:00</updated>
-    <content>THIS NEW TRAVIS SCOTT IS SO FIRE</content>
-    <link href="https://www.tiktok.com/@woesenpai69/video/7261053166156795179" rel="alternate"/>
-    <published>2023-07-29T01:54:52+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@woesenpai69/video/7261424425210285355</id>
     <title>Self care day ASMR</title>
@@ -51,5 +27,29 @@
     <content>[no description]</content>
     <link href="https://www.tiktok.com/@woesenpai69/video/7262456524163845418" rel="alternate"/>
     <published>2023-08-01T20:40:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@woesenpai69/video/7262865553780460846</id>
+    <title>At the ritz carlton in dorado beach #الاردن_فلسطين_العراق_سوريا </title>
+    <updated>2023-08-02T23:07:47+00:00</updated>
+    <content>At the ritz carlton in dorado beach #الاردن_فلسطين_العراق_سوريا </content>
+    <link href="https://www.tiktok.com/@woesenpai69/video/7262865553780460846" rel="alternate"/>
+    <published>2023-08-02T23:07:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@woesenpai69/video/7262867725045845290</id>
+    <title>#الاردن_فلسطين_العراق_سوريا </title>
+    <updated>2023-08-02T23:16:17+00:00</updated>
+    <content>#الاردن_فلسطين_العراق_سوريا </content>
+    <link href="https://www.tiktok.com/@woesenpai69/video/7262867725045845290" rel="alternate"/>
+    <published>2023-08-02T23:16:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@woesenpai69/video/7262904034778942762</id>
+    <title>[no title]</title>
+    <updated>2023-08-03T01:37:09+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@woesenpai69/video/7262904034778942762" rel="alternate"/>
+    <published>2023-08-03T01:37:09+00:00</published>
   </entry>
 </feed>
