@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@sonia_barbie</id>
   <title>@sonia_barbie | TikTok</title>
-  <updated>2023-08-02T01:27:27+00:00</updated>
+  <updated>2023-08-02T15:17:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @sonia_barbie</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@sonia_barbie/video/7262386730702064939</id>
-    <title>Happy New month ♌️♌️♌️ Looks by @Trufacebygrace </title>
-    <updated>2023-08-01T16:09:45+00:00</updated>
-    <content>Happy New month ♌️♌️♌️ Looks by @Trufacebygrace </content>
-    <link href="https://www.tiktok.com/@sonia_barbie/video/7262386730702064939" rel="alternate"/>
-    <published>2023-08-01T16:09:45+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@sonia_barbie/video/7262461911105588522</id>
-    <title>🤍🤍🤍🤍</title>
-    <updated>2023-08-01T21:01:30+00:00</updated>
-    <content>🤍🤍🤍🤍</content>
-    <link href="https://www.tiktok.com/@sonia_barbie/video/7262461911105588522" rel="alternate"/>
-    <published>2023-08-01T21:01:30+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@sonia_barbie/video/7262514283743907115</id>
     <title>[no title]</title>
@@ -51,5 +35,21 @@
     <content>[no description]</content>
     <link href="https://www.tiktok.com/@sonia_barbie/video/7262530424939875630" rel="alternate"/>
     <published>2023-08-02T01:27:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@sonia_barbie/video/7262740543917051178</id>
+    <title>[no title]</title>
+    <updated>2023-08-02T15:02:45+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@sonia_barbie/video/7262740543917051178" rel="alternate"/>
+    <published>2023-08-02T15:02:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@sonia_barbie/video/7262744252130823470</id>
+    <title>Happiness comes first 🤍💙😊@Njabushop </title>
+    <updated>2023-08-02T15:17:09+00:00</updated>
+    <content>Happiness comes first 🤍💙😊@Njabushop </content>
+    <link href="https://www.tiktok.com/@sonia_barbie/video/7262744252130823470" rel="alternate"/>
+    <published>2023-08-02T15:17:09+00:00</published>
   </entry>
 </feed>
