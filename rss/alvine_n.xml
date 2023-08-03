@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@alvine_n</id>
   <title>@alvine_n | TikTok</title>
-  <updated>2023-08-02T18:04:21+00:00</updated>
+  <updated>2023-08-03T17:05:43+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @alvine_n</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@alvine_n/video/7262325369095654688</id>
-    <title>🥇 Jurissa Pratt  mum of 3 - 1st Place: $2000 for the best transformation pictures! 🥈 Claudia Pacheco - 2nd Place: $1000 47 lbs down 🔥🔥🔥 🥉 Portiah Dajan mum of 3  &amp; Lizzie Smith - 3rd Place: Each wins $500!  Keep up the incredible work! 💰  Join me for the </title>
-    <updated>2023-08-01T12:11:34+00:00</updated>
-    <content>🥇 Jurissa Pratt  mum of 3 - 1st Place: $2000 for the best transformation pictures! 🥈 Claudia Pacheco - 2nd Place: $1000 47 lbs down 🔥🔥🔥 🥉 Portiah Dajan mum of 3  &amp; Lizzie Smith - 3rd Place: Each wins $500!  Keep up the incredible work! 💰  Join me for the next body recomposition challenge ( $3200prize ) starting on August 4th, and be inspired to achieve your fitness goals! Let's crush it together! 🌟 🚨link in my bio join now get familiar with your nutrition &amp; send your before pictures privately to me once you got the app the link for the private chat is on your settings </content>
-    <link href="https://www.tiktok.com/@alvine_n/video/7262325369095654688" rel="alternate"/>
-    <published>2023-08-01T12:11:34+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@alvine_n/video/7262370665213267232</id>
-    <title>#CapCut beginner core workout 🔥🔥 body recomposition challenge is now live hit the link in my bio to join ❤️ workout + Nuttrition + private community chat</title>
-    <updated>2023-08-01T15:07:20+00:00</updated>
-    <content>#CapCut beginner core workout 🔥🔥 body recomposition challenge is now live hit the link in my bio to join ❤️ workout + Nuttrition + private community chat</content>
-    <link href="https://www.tiktok.com/@alvine_n/video/7262370665213267232" rel="alternate"/>
-    <published>2023-08-01T15:07:20+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@alvine_n/video/7262416943997668640</id>
-    <title>#CapCut </title>
-    <updated>2023-08-01T18:06:59+00:00</updated>
-    <content>#CapCut </content>
-    <link href="https://www.tiktok.com/@alvine_n/video/7262416943997668640" rel="alternate"/>
-    <published>2023-08-01T18:06:59+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@alvine_n/video/7262771516444642592</id>
     <title>Replying to @yammygirl0 join $3200 🏆cash prize Body Recomposition Challenge now! First link in my bio </title>
@@ -51,5 +27,29 @@
     <content>Replying to @Tiffydabaddest </content>
     <link href="https://www.tiktok.com/@alvine_n/video/7262787368006978848" rel="alternate"/>
     <published>2023-08-02T18:04:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@alvine_n/video/7263114042938576160</id>
+    <title>#CapCut how to tone your lower tummy? Spot reduction, or losing fat in one specific area, is not possible. So, an overall body workout can help reduce fat, which in turn will help tone the lower tummy. Do this : cardio , strength training, healthy balance</title>
+    <updated>2023-08-03T15:12:04+00:00</updated>
+    <content>#CapCut how to tone your lower tummy? Spot reduction, or losing fat in one specific area, is not possible. So, an overall body workout can help reduce fat, which in turn will help tone the lower tummy. Do this : cardio , strength training, healthy balance diet , drink lot of water , enough sleep amd be consistent. Body recomposition challenge is now live join now ❤️❤️#fitnessjourney #lowertummypouch #bellyfat </content>
+    <link href="https://www.tiktok.com/@alvine_n/video/7263114042938576160" rel="alternate"/>
+    <published>2023-08-03T15:12:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@alvine_n/video/7263141131309862176</id>
+    <title>Replying to @Teresita Rodriguez are you ready?🔥🔥</title>
+    <updated>2023-08-03T16:57:12+00:00</updated>
+    <content>Replying to @Teresita Rodriguez are you ready?🔥🔥</content>
+    <link href="https://www.tiktok.com/@alvine_n/video/7263141131309862176" rel="alternate"/>
+    <published>2023-08-03T16:57:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@alvine_n/video/7263143324897332513</id>
+    <title>[no title]</title>
+    <updated>2023-08-03T17:05:43+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@alvine_n/video/7263143324897332513" rel="alternate"/>
+    <published>2023-08-03T17:05:43+00:00</published>
   </entry>
 </feed>
