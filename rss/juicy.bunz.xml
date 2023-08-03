@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@juicy.bunz</id>
   <title>@juicy.bunz | TikTok</title>
-  <updated>2023-08-01T22:47:47+00:00</updated>
+  <updated>2023-08-02T20:41:58+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @juicy.bunz</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@juicy.bunz/video/7256510683813072170</id>
-    <title>I just walked up 3 flights of stairs and i still have to cook some food 😥 im done #gym #fitness #gymtok #fyp </title>
-    <updated>2023-07-16T20:07:50+00:00</updated>
-    <content>I just walked up 3 flights of stairs and i still have to cook some food 😥 im done #gym #fitness #gymtok #fyp </content>
-    <link href="https://www.tiktok.com/@juicy.bunz/video/7256510683813072170" rel="alternate"/>
-    <published>2023-07-16T20:07:50+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@juicy.bunz/video/7260006767843642666</id>
     <title>It’s been a long week moving into my new apartment. I deserve a bubble bath and some ahs 😊  #selfcare #relaxation #bubblebath </title>
@@ -51,5 +43,13 @@
     <content>My 6 am morning routine. Getting ready for the gym. I’m definitely a morning person. its my favorite part of the day 🥰 #morningroutine #getreadywithme #minivlog #dailyroutine #asmr </content>
     <link href="https://www.tiktok.com/@juicy.bunz/video/7262489289752104238" rel="alternate"/>
     <published>2023-08-01T22:47:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@juicy.bunz/video/7262827973986766126</id>
+    <title>it’s not that bad  🥲 #fyp #protein #fitness #gym #food </title>
+    <updated>2023-08-02T20:41:58+00:00</updated>
+    <content>it’s not that bad  🥲 #fyp #protein #fitness #gym #food </content>
+    <link href="https://www.tiktok.com/@juicy.bunz/video/7262827973986766126" rel="alternate"/>
+    <published>2023-08-02T20:41:58+00:00</published>
   </entry>
 </feed>
