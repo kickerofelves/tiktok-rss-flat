@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ellietheempress</id>
   <title>@ellietheempress | TikTok</title>
-  <updated>2023-08-03T11:51:19+00:00</updated>
+  <updated>2023-08-03T21:35:51+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ellietheempress</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@ellietheempress/video/7262727073482165550</id>
-    <title>Super small but the view is worth it. #fyp #newyorkcity #nyc #arlonomad </title>
-    <updated>2023-08-02T14:10:32+00:00</updated>
-    <content>Super small but the view is worth it. #fyp #newyorkcity #nyc #arlonomad </content>
-    <link href="https://www.tiktok.com/@ellietheempress/video/7262727073482165550" rel="alternate"/>
-    <published>2023-08-02T14:10:32+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@ellietheempress/video/7262734689449037102</id>
     <title>Made a quick trip to see if this would be a good move for me. Do you think I should move here? </title>
@@ -51,5 +43,13 @@
     <content>Last post from NYC. So many great memories 😘😘</content>
     <link href="https://www.tiktok.com/@ellietheempress/video/7263062282421357870" rel="alternate"/>
     <published>2023-08-03T11:51:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ellietheempress/video/7263212900213460266</id>
+    <title>#foryou #fyp #explore </title>
+    <updated>2023-08-03T21:35:51+00:00</updated>
+    <content>#foryou #fyp #explore </content>
+    <link href="https://www.tiktok.com/@ellietheempress/video/7263212900213460266" rel="alternate"/>
+    <published>2023-08-03T21:35:51+00:00</published>
   </entry>
 </feed>
