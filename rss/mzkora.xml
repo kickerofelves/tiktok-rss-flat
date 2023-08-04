@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mzkora</id>
   <title>@mzkora | TikTok</title>
-  <updated>2023-08-02T17:28:33+00:00</updated>
+  <updated>2023-08-04T21:17:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @mzkora</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@mzkora/video/7260550797321162026</id>
-    <title>#aveenopartner Gear up for a successful school year with these must-have Amazon finds! 🎒📚✨ Shop on Amazon via link in bio! @aveenobabyus </title>
-    <updated>2023-07-27T17:25:33+00:00</updated>
-    <content>#aveenopartner Gear up for a successful school year with these must-have Amazon finds! 🎒📚✨ Shop on Amazon via link in bio! @aveenobabyus </content>
-    <link href="https://www.tiktok.com/@mzkora/video/7260550797321162026" rel="alternate"/>
-    <published>2023-07-27T17:25:33+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@mzkora/video/7260654026772024618</id>
     <title>From Sunday to Sunday, you’ll catch me in my dresses! Shoutout to @FashionNova for their dresses! #fypシ #fyp #momof9 #sundressseason #sundress #vegasheat #dress #momfashion </title>
@@ -51,5 +43,13 @@
     <content>Original mission changed but snack on snacks on snacks. 😋 Of course didn’t forget my Tru Fru! @Trü Frü #trufrupartner #fypシ #fyp #momof9 #snack #healthy #target #momanddaughter #snackrun #healthiswealth </content>
     <link href="https://www.tiktok.com/@mzkora/video/7262778121517010222" rel="alternate"/>
     <published>2023-08-02T17:28:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@mzkora/video/7263579249573924138</id>
+    <title>Three weeks ago, I took a transformative step with Dr. Cuber and the @Athēnix team. Got a tummy tuck, muscle repair, lipo on the back and flanks, and said goodbye to 1.75lbs of skin and 3.5L of fat. Embracing my transformation and feeling snatched...at 40</title>
+    <updated>2023-08-04T21:17:26+00:00</updated>
+    <content>Three weeks ago, I took a transformative step with Dr. Cuber and the @Athēnix team. Got a tummy tuck, muscle repair, lipo on the back and flanks, and said goodbye to 1.75lbs of skin and 3.5L of fat. Embracing my transformation and feeling snatched...at 40 years old! #momof9 #athenixjourney #athenixbody #athenix #fypシ #fyp #postop #tummytuck </content>
+    <link href="https://www.tiktok.com/@mzkora/video/7263579249573924138" rel="alternate"/>
+    <published>2023-08-04T21:17:26+00:00</published>
   </entry>
 </feed>
