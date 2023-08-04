@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ellietheempress</id>
   <title>@ellietheempress | TikTok</title>
-  <updated>2023-08-03T21:35:51+00:00</updated>
+  <updated>2023-08-04T17:09:11+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ellietheempress</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@ellietheempress/video/7262734689449037102</id>
-    <title>Made a quick trip to see if this would be a good move for me. Do you think I should move here? </title>
-    <updated>2023-08-02T14:40:06+00:00</updated>
-    <content>Made a quick trip to see if this would be a good move for me. Do you think I should move here? </content>
-    <link href="https://www.tiktok.com/@ellietheempress/video/7262734689449037102" rel="alternate"/>
-    <published>2023-08-02T14:40:06+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@ellietheempress/video/7262802649202822442</id>
-    <title>#foryou #viral </title>
-    <updated>2023-08-02T19:03:42+00:00</updated>
-    <content>#foryou #viral </content>
-    <link href="https://www.tiktok.com/@ellietheempress/video/7262802649202822442" rel="alternate"/>
-    <published>2023-08-02T19:03:42+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@ellietheempress/video/7262859102110469418</id>
     <title>I was so nervous in this clip lol #fyp #newyorkcity </title>
@@ -51,5 +35,21 @@
     <content>#foryou #fyp #explore </content>
     <link href="https://www.tiktok.com/@ellietheempress/video/7263212900213460266" rel="alternate"/>
     <published>2023-08-03T21:35:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ellietheempress/video/7263427258684034347</id>
+    <title>#foryou #fyp </title>
+    <updated>2023-08-04T11:28:03+00:00</updated>
+    <content>#foryou #fyp </content>
+    <link href="https://www.tiktok.com/@ellietheempress/video/7263427258684034347" rel="alternate"/>
+    <published>2023-08-04T11:28:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ellietheempress/video/7263515272676625710</id>
+    <title>You should try asking me out first lol #foryou #fyp </title>
+    <updated>2023-08-04T17:09:11+00:00</updated>
+    <content>You should try asking me out first lol #foryou #fyp </content>
+    <link href="https://www.tiktok.com/@ellietheempress/video/7263515272676625710" rel="alternate"/>
+    <published>2023-08-04T17:09:11+00:00</published>
   </entry>
 </feed>
