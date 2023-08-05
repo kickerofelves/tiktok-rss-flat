@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@kathryn.celestre</id>
   <title>@kathryn.celestre | TikTok</title>
-  <updated>2023-08-02T16:12:21+00:00</updated>
+  <updated>2023-08-04T19:55:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kathryn.celestre</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@kathryn.celestre/video/7259044011900472618</id>
-    <title>A blessing 🫶🏽 i can only thank God everyday for all the blessings and opportunities. I couldnt have done it without him </title>
-    <updated>2023-07-23T15:58:23+00:00</updated>
-    <content>A blessing 🫶🏽 i can only thank God everyday for all the blessings and opportunities. I couldnt have done it without him </content>
-    <link href="https://www.tiktok.com/@kathryn.celestre/video/7259044011900472618" rel="alternate"/>
-    <published>2023-07-23T15:58:23+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@kathryn.celestre/video/7259784215724576042</id>
     <title>MSW 2023 🤍</title>
@@ -51,5 +43,13 @@
     <content>This filter 😩🤌🏾</content>
     <link href="https://www.tiktok.com/@kathryn.celestre/video/7262758469332192555" rel="alternate"/>
     <published>2023-08-02T16:12:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@kathryn.celestre/video/7263558265571790123</id>
+    <title>🌱</title>
+    <updated>2023-08-04T19:55:59+00:00</updated>
+    <content>🌱</content>
+    <link href="https://www.tiktok.com/@kathryn.celestre/video/7263558265571790123" rel="alternate"/>
+    <published>2023-08-04T19:55:59+00:00</published>
   </entry>
 </feed>
