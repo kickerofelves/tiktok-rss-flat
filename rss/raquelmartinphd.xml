@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@raquelmartinphd</id>
   <title>@raquelmartinphd | TikTok</title>
-  <updated>2023-08-04T14:23:32+00:00</updated>
+  <updated>2023-08-05T20:10:48+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @raquelmartinphd</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@raquelmartinphd/video/7262436542298262827</id>
-    <title>Share your thougjts below.@marclamonthill #drmartinhere </title>
-    <updated>2023-08-01T19:23:04+00:00</updated>
-    <content>Share your thougjts below.@marclamonthill #drmartinhere </content>
-    <link href="https://www.tiktok.com/@raquelmartinphd/video/7262436542298262827" rel="alternate"/>
-    <published>2023-08-01T19:23:04+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@raquelmartinphd/video/7262500439604645162</id>
     <title>#parenting #drmartinhere #love </title>
@@ -51,5 +43,13 @@
     <content>#relationships #attraction #lifestyle </content>
     <link href="https://www.tiktok.com/@raquelmartinphd/video/7263472529946185002" rel="alternate"/>
     <published>2023-08-04T14:23:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@raquelmartinphd/video/7263933178790841646</id>
+    <title>Kudos to all of the Black parents that are learning to lead with respect #parenting </title>
+    <updated>2023-08-05T20:10:48+00:00</updated>
+    <content>Kudos to all of the Black parents that are learning to lead with respect #parenting </content>
+    <link href="https://www.tiktok.com/@raquelmartinphd/video/7263933178790841646" rel="alternate"/>
+    <published>2023-08-05T20:10:48+00:00</published>
   </entry>
 </feed>
