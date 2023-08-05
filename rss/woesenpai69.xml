@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@woesenpai69</id>
   <title>@woesenpai69 | TikTok</title>
-  <updated>2023-08-02T23:16:17+00:00</updated>
+  <updated>2023-08-04T22:48:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @woesenpai69</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@woesenpai69/video/7261053166156795179</id>
-    <title>THIS NEW TRAVIS SCOTT IS SO FIRE</title>
-    <updated>2023-07-29T01:54:52+00:00</updated>
-    <content>THIS NEW TRAVIS SCOTT IS SO FIRE</content>
-    <link href="https://www.tiktok.com/@woesenpai69/video/7261053166156795179" rel="alternate"/>
-    <published>2023-07-29T01:54:52+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@woesenpai69/video/7261424425210285355</id>
-    <title>Self care day ASMR</title>
-    <updated>2023-07-30T01:55:34+00:00</updated>
-    <content>Self care day ASMR</content>
-    <link href="https://www.tiktok.com/@woesenpai69/video/7261424425210285355" rel="alternate"/>
-    <published>2023-07-30T01:55:34+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@woesenpai69/video/7262456524163845418</id>
     <title>[no title]</title>
@@ -51,5 +35,21 @@
     <content>#الاردن_فلسطين_العراق_سوريا </content>
     <link href="https://www.tiktok.com/@woesenpai69/video/7262867725045845290" rel="alternate"/>
     <published>2023-08-02T23:16:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@woesenpai69/video/7263592757044841774</id>
+    <title>I gotta cut bangs ASAP! </title>
+    <updated>2023-08-04T22:09:48+00:00</updated>
+    <content>I gotta cut bangs ASAP! </content>
+    <link href="https://www.tiktok.com/@woesenpai69/video/7263592757044841774" rel="alternate"/>
+    <published>2023-08-04T22:09:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@woesenpai69/video/7263602760430521643</id>
+    <title>I be bored</title>
+    <updated>2023-08-04T22:48:39+00:00</updated>
+    <content>I be bored</content>
+    <link href="https://www.tiktok.com/@woesenpai69/video/7263602760430521643" rel="alternate"/>
+    <published>2023-08-04T22:48:39+00:00</published>
   </entry>
 </feed>
