@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@annarennsworld</id>
   <title>@annarennsworld | TikTok</title>
-  <updated>2023-08-04T19:27:36+00:00</updated>
+  <updated>2023-08-05T20:31:04+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @annarennsworld</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@annarennsworld/video/7262784644712598830</id>
-    <title>Feel bad for being such a sassy preteen to her, thank for never letting me have guys over, thank for giving me a curfew, thank you for making sure i worked hard in school and thank you for letting be a little girl and not grow up too fast</title>
-    <updated>2023-08-02T17:53:51+00:00</updated>
-    <content>Feel bad for being such a sassy preteen to her, thank for never letting me have guys over, thank for giving me a curfew, thank you for making sure i worked hard in school and thank you for letting be a little girl and not grow up too fast</content>
-    <link href="https://www.tiktok.com/@annarennsworld/video/7262784644712598830" rel="alternate"/>
-    <published>2023-08-02T17:53:51+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@annarennsworld/video/7262787861026688302</id>
-    <title>[no title]</title>
-    <updated>2023-08-02T18:06:22+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@annarennsworld/video/7262787861026688302" rel="alternate"/>
-    <published>2023-08-02T18:06:22+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@annarennsworld/video/7263154647332818219</id>
     <title>The amount of times i’ve just sat there quiet after someone saying some rude stuff to me, </title>
@@ -51,5 +35,21 @@
     <content>They’re getting better but I’ve been breaking out ever since I started my new job where I’m around sugar alot and I have a hard time saying no to icecream and processed desserts, its only been 3 weeks and the affects of eating too much sugar is showing. But i just wanted to remind everyone to focus on the inside before spending alot of money on skincare </content>
     <link href="https://www.tiktok.com/@annarennsworld/video/7263550940362460459" rel="alternate"/>
     <published>2023-08-04T19:27:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@annarennsworld/video/7263937172003245354</id>
+    <title>He got that built in plumber, mover, technician dad package 😍</title>
+    <updated>2023-08-05T20:26:23+00:00</updated>
+    <content>He got that built in plumber, mover, technician dad package 😍</content>
+    <link href="https://www.tiktok.com/@annarennsworld/video/7263937172003245354" rel="alternate"/>
+    <published>2023-08-05T20:26:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@annarennsworld/video/7263938397687811371</id>
+    <title>#duet with @Anna renn💋🇪🇹 </title>
+    <updated>2023-08-05T20:31:04+00:00</updated>
+    <content>#duet with @Anna renn💋🇪🇹 </content>
+    <link href="https://www.tiktok.com/@annarennsworld/video/7263938397687811371" rel="alternate"/>
+    <published>2023-08-05T20:31:04+00:00</published>
   </entry>
 </feed>
