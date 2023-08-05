@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@tallyberryyy</id>
   <title>@tallyberryyy | TikTok</title>
-  <updated>2023-07-17T04:34:49+00:00</updated>
+  <updated>2023-08-04T21:47:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @tallyberryyy</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@tallyberryyy/video/7140759249419799814</id>
-    <title>[no title]</title>
-    <updated>2022-09-07T21:52:59+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@tallyberryyy/video/7140759249419799814" rel="alternate"/>
-    <published>2022-09-07T21:52:59+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@tallyberryyy/video/7146603574607351045</id>
-    <title>Big yitty problems #fyp </title>
-    <updated>2022-09-23T15:51:54+00:00</updated>
-    <content>Big yitty problems #fyp </content>
-    <link href="https://www.tiktok.com/@tallyberryyy/video/7146603574607351045" rel="alternate"/>
-    <published>2022-09-23T15:51:54+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@tallyberryyy/video/7252481389700959494</id>
     <title>[no title]</title>
@@ -51,5 +35,21 @@
     <content>Draft and throwback to sunburned 🍒</content>
     <link href="https://www.tiktok.com/@tallyberryyy/video/7256641386215247110" rel="alternate"/>
     <published>2023-07-17T04:34:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@tallyberryyy/video/7263585919695949062</id>
+    <title>[no title]</title>
+    <updated>2023-08-04T21:43:09+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@tallyberryyy/video/7263585919695949062" rel="alternate"/>
+    <published>2023-08-04T21:43:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@tallyberryyy/video/7263587021044698373</id>
+    <title>Jelly </title>
+    <updated>2023-08-04T21:47:28+00:00</updated>
+    <content>Jelly </content>
+    <link href="https://www.tiktok.com/@tallyberryyy/video/7263587021044698373" rel="alternate"/>
+    <published>2023-08-04T21:47:28+00:00</published>
   </entry>
 </feed>
