@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@sincerelypisces</id>
   <title>@sincerelypisces | TikTok</title>
-  <updated>2023-08-03T22:52:51+00:00</updated>
+  <updated>2023-08-06T00:03:38+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @sincerelypisces</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@sincerelypisces/video/7257687100525448490</id>
-    <title>basically the only video i have from london bc i spent almost my whole week there sick :,( </title>
-    <updated>2023-07-20T00:12:49+00:00</updated>
-    <content>basically the only video i have from london bc i spent almost my whole week there sick :,( </content>
-    <link href="https://www.tiktok.com/@sincerelypisces/video/7257687100525448490" rel="alternate"/>
-    <published>2023-07-20T00:12:49+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@sincerelypisces/video/7258050871601220910</id>
     <title>my angel numbers 🥹 ft my very faded tattoo</title>
@@ -51,5 +43,13 @@
     <content>so grateful </content>
     <link href="https://www.tiktok.com/@sincerelypisces/video/7263232759596928298" rel="alternate"/>
     <published>2023-08-03T22:52:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@sincerelypisces/video/7263993180570373422</id>
+    <title>never want to leave </title>
+    <updated>2023-08-06T00:03:38+00:00</updated>
+    <content>never want to leave </content>
+    <link href="https://www.tiktok.com/@sincerelypisces/video/7263993180570373422" rel="alternate"/>
+    <published>2023-08-06T00:03:38+00:00</published>
   </entry>
 </feed>
