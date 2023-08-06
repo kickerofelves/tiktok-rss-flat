@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@woesenpai69</id>
   <title>@woesenpai69 | TikTok</title>
-  <updated>2023-08-04T22:48:39+00:00</updated>
+  <updated>2023-08-06T02:53:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @woesenpai69</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@woesenpai69/video/7262456524163845418</id>
-    <title>[no title]</title>
-    <updated>2023-08-01T20:40:40+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@woesenpai69/video/7262456524163845418" rel="alternate"/>
-    <published>2023-08-01T20:40:40+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@woesenpai69/video/7262865553780460846</id>
-    <title>At the ritz carlton in dorado beach #الاردن_فلسطين_العراق_سوريا </title>
-    <updated>2023-08-02T23:07:47+00:00</updated>
-    <content>At the ritz carlton in dorado beach #الاردن_فلسطين_العراق_سوريا </content>
-    <link href="https://www.tiktok.com/@woesenpai69/video/7262865553780460846" rel="alternate"/>
-    <published>2023-08-02T23:07:47+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@woesenpai69/video/7262867725045845290</id>
     <title>#الاردن_فلسطين_العراق_سوريا </title>
@@ -51,5 +35,21 @@
     <content>I be bored</content>
     <link href="https://www.tiktok.com/@woesenpai69/video/7263602760430521643" rel="alternate"/>
     <published>2023-08-04T22:48:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@woesenpai69/video/7263964738340588842</id>
+    <title>Im doing laundry 😅</title>
+    <updated>2023-08-05T22:13:19+00:00</updated>
+    <content>Im doing laundry 😅</content>
+    <link href="https://www.tiktok.com/@woesenpai69/video/7263964738340588842" rel="alternate"/>
+    <published>2023-08-05T22:13:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@woesenpai69/video/7264037007221869866</id>
+    <title>@ZARA YAAASSS BITCH #ootd </title>
+    <updated>2023-08-06T02:53:42+00:00</updated>
+    <content>@ZARA YAAASSS BITCH #ootd </content>
+    <link href="https://www.tiktok.com/@woesenpai69/video/7264037007221869866" rel="alternate"/>
+    <published>2023-08-06T02:53:42+00:00</published>
   </entry>
 </feed>
