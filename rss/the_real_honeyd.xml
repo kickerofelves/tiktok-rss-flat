@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@the_real_honeyd</id>
   <title>@the_real_honeyd | TikTok</title>
-  <updated>2023-08-05T18:20:04+00:00</updated>
+  <updated>2023-08-06T20:50:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @the_real_honeyd</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@the_real_honeyd/video/7261857181744614698</id>
-    <title>#fy #fypシ #fyp #deppresiøn #fup #bored </title>
-    <updated>2023-07-31T05:55:03+00:00</updated>
-    <content>#fy #fypシ #fyp #deppresiøn #fup #bored </content>
-    <link href="https://www.tiktok.com/@the_real_honeyd/video/7261857181744614698" rel="alternate"/>
-    <published>2023-07-31T05:55:03+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@the_real_honeyd/video/7262200599024815402</id>
     <title>#ftp #fypシ #fyp #deppresiøn #bored #sad#heartbroken #idk #uh #huh #mess #drunk #lmao </title>
@@ -51,5 +43,13 @@
     <content>#fyp #fypシ #uh #huh #uh #ftp #deppresiøn </content>
     <link href="https://www.tiktok.com/@the_real_honeyd/video/7263904641492978987" rel="alternate"/>
     <published>2023-08-05T18:20:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@the_real_honeyd/video/7264314506459876654</id>
+    <title>Crazy night #fyp #fypシ #uh #huh #ftp #gang #fup #crazynight #uhhhhh </title>
+    <updated>2023-08-06T20:50:35+00:00</updated>
+    <content>Crazy night #fyp #fypシ #uh #huh #ftp #gang #fup #crazynight #uhhhhh </content>
+    <link href="https://www.tiktok.com/@the_real_honeyd/video/7264314506459876654" rel="alternate"/>
+    <published>2023-08-06T20:50:35+00:00</published>
   </entry>
 </feed>
