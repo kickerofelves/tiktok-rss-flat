@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rahyndee</id>
   <title>@rahyndee | TikTok</title>
-  <updated>2023-08-05T16:52:04+00:00</updated>
+  <updated>2023-08-06T20:00:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @rahyndee</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@rahyndee/video/7263206205630303530</id>
-    <title>If you believe it then it makes it true ✨🫠 #groceries #vibin #puremichigan #fyp </title>
-    <updated>2023-08-03T21:09:50+00:00</updated>
-    <content>If you believe it then it makes it true ✨🫠 #groceries #vibin #puremichigan #fyp </content>
-    <link href="https://www.tiktok.com/@rahyndee/video/7263206205630303530" rel="alternate"/>
-    <published>2023-08-03T21:09:50+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@rahyndee/video/7263242370852982058</id>
-    <title>What was it you said again?✨ #fyp #beachvibes #puremichigan #fypシ #capcutedit </title>
-    <updated>2023-08-03T23:30:12+00:00</updated>
-    <content>What was it you said again?✨ #fyp #beachvibes #puremichigan #fypシ #capcutedit </content>
-    <link href="https://www.tiktok.com/@rahyndee/video/7263242370852982058" rel="alternate"/>
-    <published>2023-08-03T23:30:12+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@rahyndee/video/7263565143362063658</id>
     <title>I mean if it fits… lets go 🤷🏽‍♀️💁🏽‍♀️  #fyp #foryou #puremichigan </title>
@@ -51,5 +35,21 @@
     <content>My Peach is growing 🤤🍑 .. no pun intended 😂 #fyp #offgridlife #offgrid #fruittrees </content>
     <link href="https://www.tiktok.com/@rahyndee/video/7263881938497408302" rel="alternate"/>
     <published>2023-08-05T16:52:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@rahyndee/video/7264284312357391658</id>
+    <title>It’s YOU vs YOU ⚠️ ..share this w/ a friend that needs motivation 💪🏽🙅🏽‍♀️✨ #fyp #motivation #gymrat #mevsme #workout </title>
+    <updated>2023-08-06T18:53:26+00:00</updated>
+    <content>It’s YOU vs YOU ⚠️ ..share this w/ a friend that needs motivation 💪🏽🙅🏽‍♀️✨ #fyp #motivation #gymrat #mevsme #workout </content>
+    <link href="https://www.tiktok.com/@rahyndee/video/7264284312357391658" rel="alternate"/>
+    <published>2023-08-06T18:53:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@rahyndee/video/7264301599084809514</id>
+    <title>Slow &amp; controlled 🫠💪🏽🍑 #fyp #gymrat #motivation #workout </title>
+    <updated>2023-08-06T20:00:27+00:00</updated>
+    <content>Slow &amp; controlled 🫠💪🏽🍑 #fyp #gymrat #motivation #workout </content>
+    <link href="https://www.tiktok.com/@rahyndee/video/7264301599084809514" rel="alternate"/>
+    <published>2023-08-06T20:00:27+00:00</published>
   </entry>
 </feed>
