@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@kristline__</id>
   <title>@kristline__ | TikTok</title>
-  <updated>2023-08-01T19:03:21+00:00</updated>
+  <updated>2023-08-06T21:16:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kristline__</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@kristline__/video/7254609512181665067</id>
-    <title>The perfect breakfast smoothie with my husband powered by @Bloom Nutrition </title>
-    <updated>2023-07-11T17:10:21+00:00</updated>
-    <content>The perfect breakfast smoothie with my husband powered by @Bloom Nutrition </content>
-    <link href="https://www.tiktok.com/@kristline__/video/7254609512181665067" rel="alternate"/>
-    <published>2023-07-11T17:10:21+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@kristline__/video/7257155588625304874</id>
     <title>Making my husband the best panini sandwich for lunch  __ #fyp</title>
@@ -51,5 +43,13 @@
     <content>Our big day is here. All the love on this day was beautiful. #fyp #wedding #weddingtiktok </content>
     <link href="https://www.tiktok.com/@kristline__/video/7262431448609639726" rel="alternate"/>
     <published>2023-08-01T19:03:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@kristline__/video/7264321173033438507</id>
+    <title>Dinner #fyp </title>
+    <updated>2023-08-06T21:16:28+00:00</updated>
+    <content>Dinner #fyp </content>
+    <link href="https://www.tiktok.com/@kristline__/video/7264321173033438507" rel="alternate"/>
+    <published>2023-08-06T21:16:28+00:00</published>
   </entry>
 </feed>
