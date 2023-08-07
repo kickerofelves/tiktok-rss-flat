@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@circusfaery33</id>
   <title>@circusfaery33 | TikTok</title>
-  <updated>2023-08-06T01:59:45+00:00</updated>
+  <updated>2023-08-06T20:33:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @circusfaery33</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7263869118242229546</id>
-    <title>Replying to @Take a breath it's justTiffany Recognize that in the comment I was responding to, a ✉️ commenter was describing literal erasure of her foster children's cultural identities--raising children to not know their cultural heritage. Know who else </title>
-    <updated>2023-08-05T16:02:21+00:00</updated>
-    <content>Replying to @Take a breath it's justTiffany Recognize that in the comment I was responding to, a ✉️ commenter was describing literal erasure of her foster children's cultural identities--raising children to not know their cultural heritage. Know who else that happems to? ✉️ people. </content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7263869118242229546" rel="alternate"/>
-    <published>2023-08-05T16:02:21+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7263888846197132590</id>
-    <title>Replying to @parksonbuilders If you consider your harmful behavior 'funny,' I guess so. Let me re-summarize what those harmful behaviors were. </title>
-    <updated>2023-08-05T17:18:46+00:00</updated>
-    <content>Replying to @parksonbuilders If you consider your harmful behavior 'funny,' I guess so. Let me re-summarize what those harmful behaviors were. </content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7263888846197132590" rel="alternate"/>
-    <published>2023-08-05T17:18:46+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7263916834796211502</id>
-    <title>Replying to @ic24u I'm fine--I got a little scratch that got infected, but it should be healed in a few days! </title>
-    <updated>2023-08-05T19:07:25+00:00</updated>
-    <content>Replying to @ic24u I'm fine--I got a little scratch that got infected, but it should be healed in a few days! </content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7263916834796211502" rel="alternate"/>
-    <published>2023-08-05T19:07:25+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@circusfaery33/video/7263959745151765803</id>
     <title>#stitch with @Olivia Chen She really shouldn't have picked this particular battle. 🤣</title>
@@ -51,5 +27,29 @@
     <content>Replying to @xingyexue6 You threatening a frivolous lawsuit when I have made no false statements about your or your business is you bullying and harrassing me. Download that. </content>
     <link href="https://www.tiktok.com/@circusfaery33/video/7264023101900361003" rel="alternate"/>
     <published>2023-08-06T01:59:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7264225666487373099</id>
+    <title>Replying to @John Bryan That you  can't tell the difference shows how fragile, privileged and ignorant your beliefs are. #asianamerican #modelminority #antiracism #solidarity </title>
+    <updated>2023-08-06T15:05:56+00:00</updated>
+    <content>Replying to @John Bryan That you  can't tell the difference shows how fragile, privileged and ignorant your beliefs are. #asianamerican #modelminority #antiracism #solidarity </content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7264225666487373099" rel="alternate"/>
+    <published>2023-08-06T15:05:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7264308187682245934</id>
+    <title>Replying to @🤭 Being  Brazilian and not seeing representation in an American movie is not the same as being Native American, seeing no representation, and a joke about genocide. 🤷🏻‍♀️</title>
+    <updated>2023-08-06T20:26:02+00:00</updated>
+    <content>Replying to @🤭 Being  Brazilian and not seeing representation in an American movie is not the same as being Native American, seeing no representation, and a joke about genocide. 🤷🏻‍♀️</content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7264308187682245934" rel="alternate"/>
+    <published>2023-08-06T20:26:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7264310041035967786</id>
+    <title>Replying to @ur mum lol Native Americans should be included in an American movie that holds itself out as inclusive...and not as just a joke about smallpox. </title>
+    <updated>2023-08-06T20:33:12+00:00</updated>
+    <content>Replying to @ur mum lol Native Americans should be included in an American movie that holds itself out as inclusive...and not as just a joke about smallpox. </content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7264310041035967786" rel="alternate"/>
+    <published>2023-08-06T20:33:12+00:00</published>
   </entry>
 </feed>
