@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@shibuya_kaho</id>
   <title>@shibuya_kaho | TikTok</title>
-  <updated>2023-08-03T12:36:31+00:00</updated>
+  <updated>2023-08-06T20:27:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @shibuya_kaho</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@shibuya_kaho/video/7260876013670845704</id>
-    <title>I was on #R2D2 #ANA plane💙 The apron canin attendants were wearing was so adorable... スターウォーズ機、めっちゃ可愛いかった(≧∀≦)</title>
-    <updated>2023-07-28T14:27:21+00:00</updated>
-    <content>I was on #R2D2 #ANA plane💙 The apron canin attendants were wearing was so adorable... スターウォーズ機、めっちゃ可愛いかった(≧∀≦)</content>
-    <link href="https://www.tiktok.com/@shibuya_kaho/video/7260876013670845704" rel="alternate"/>
-    <published>2023-07-28T14:27:21+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@shibuya_kaho/video/7262131083448225042</id>
     <title>Super gorgeous feeling yel with warm welcoming staff♡ とっても素敵なホテルでした(*´ｰ`*人) インフルエンサーキャンペーンに感謝！ @alohilaniresort   #ロカヒハワイ#未来集団 #ハワイ #旅行 #PR</title>
@@ -51,5 +43,13 @@
     <content>Finally went to #UniersalStudioHollywood ‼️The studio tour was amazing✨ イベント後にハリウッドユニバ行ってきました〜🦖 実際に撮影で使った映画ツアーは45分位と長いライドで最高の充実度(°▽°)</content>
     <link href="https://www.tiktok.com/@shibuya_kaho/video/7263073938601790727" rel="alternate"/>
     <published>2023-08-03T12:36:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@shibuya_kaho/video/7264308563277794567</id>
+    <title>Longer version than Twitter! #WorldCosplaySummit 2023, my first time, live-streaming as press, interviewed championship contestants👑 2日目の長尺版！名古屋で行われた世界コスプレサミット、配信者として取材してました(っ ॑꒳ ॑c) </title>
+    <updated>2023-08-06T20:27:32+00:00</updated>
+    <content>Longer version than Twitter! #WorldCosplaySummit 2023, my first time, live-streaming as press, interviewed championship contestants👑 2日目の長尺版！名古屋で行われた世界コスプレサミット、配信者として取材してました(っ ॑꒳ ॑c) </content>
+    <link href="https://www.tiktok.com/@shibuya_kaho/video/7264308563277794567" rel="alternate"/>
+    <published>2023-08-06T20:27:32+00:00</published>
   </entry>
 </feed>
