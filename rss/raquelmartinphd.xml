@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@raquelmartinphd</id>
   <title>@raquelmartinphd | TikTok</title>
-  <updated>2023-08-07T20:23:50+00:00</updated>
+  <updated>2023-08-08T00:50:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @raquelmartinphd</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@raquelmartinphd/video/7263472529946185002</id>
-    <title>#relationships #attraction #lifestyle </title>
-    <updated>2023-08-04T14:23:32+00:00</updated>
-    <content>#relationships #attraction #lifestyle </content>
-    <link href="https://www.tiktok.com/@raquelmartinphd/video/7263472529946185002" rel="alternate"/>
-    <published>2023-08-04T14:23:32+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@raquelmartinphd/video/7263933178790841646</id>
     <title>Kudos to all of the Black parents that are learning to lead with respect #parenting </title>
@@ -51,5 +43,13 @@
     <content>Many of us had expectations of what we thought parenting would look like whether it was about where you’d be living, what your support would look like, or even the needs of your child. It’s ok to acknowledge and accept that this is different than what you expected. It doesn’t take you a bad person. #parenting </content>
     <link href="https://www.tiktok.com/@raquelmartinphd/video/7264678697607826734" rel="alternate"/>
     <published>2023-08-07T20:23:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@raquelmartinphd/video/7264747440979414315</id>
+    <title>#family #grief</title>
+    <updated>2023-08-08T00:50:32+00:00</updated>
+    <content>#family #grief</content>
+    <link href="https://www.tiktok.com/@raquelmartinphd/video/7264747440979414315" rel="alternate"/>
+    <published>2023-08-08T00:50:32+00:00</published>
   </entry>
 </feed>
