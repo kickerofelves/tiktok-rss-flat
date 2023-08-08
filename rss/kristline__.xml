@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@kristline__</id>
   <title>@kristline__ | TikTok</title>
-  <updated>2023-08-01T19:03:21+00:00</updated>
+  <updated>2023-08-07T14:32:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kristline__</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@kristline__/video/7254609512181665067</id>
-    <title>The perfect breakfast smoothie with my husband powered by @Bloom Nutrition </title>
-    <updated>2023-07-11T17:10:21+00:00</updated>
-    <content>The perfect breakfast smoothie with my husband powered by @Bloom Nutrition </content>
-    <link href="https://www.tiktok.com/@kristline__/video/7254609512181665067" rel="alternate"/>
-    <published>2023-07-11T17:10:21+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@kristline__/video/7257155588625304874</id>
     <title>Making my husband the best panini sandwich for lunch  __ #fyp</title>
@@ -51,5 +43,13 @@
     <content>Our big day is here. All the love on this day was beautiful. #fyp #wedding #weddingtiktok </content>
     <link href="https://www.tiktok.com/@kristline__/video/7262431448609639726" rel="alternate"/>
     <published>2023-08-01T19:03:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@kristline__/video/7264588106781805870</id>
+    <title>Make dinner with me for bae &amp; me. Power by @Bloom Nutrition  __ I recently visited PR for the 2nd time and on this trip not only did I experience some new food but I was able to pick the chef brain on how  the cassava &amp; plantain was made, the texture was </title>
+    <updated>2023-08-07T14:32:26+00:00</updated>
+    <content>Make dinner with me for bae &amp; me. Power by @Bloom Nutrition  __ I recently visited PR for the 2nd time and on this trip not only did I experience some new food but I was able to pick the chef brain on how  the cassava &amp; plantain was made, the texture was phenomenal.This is cassava &amp; plantain Mofongo. It was love at first taste for me __ This meal was one of their specials and honestly, it was so delicious that I had to come home and attempt to making it for my husband. Added a few of my touch.</content>
+    <link href="https://www.tiktok.com/@kristline__/video/7264588106781805870" rel="alternate"/>
+    <published>2023-08-07T14:32:26+00:00</published>
   </entry>
 </feed>

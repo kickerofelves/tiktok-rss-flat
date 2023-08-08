@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@sonia_barbie</id>
   <title>@sonia_barbie | TikTok</title>
-  <updated>2023-08-04T07:51:20+00:00</updated>
+  <updated>2023-08-07T22:34:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @sonia_barbie</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@sonia_barbie/video/7262529762302725419</id>
-    <title>Necklace@Trufacebygrace </title>
-    <updated>2023-08-02T01:24:51+00:00</updated>
-    <content>Necklace@Trufacebygrace </content>
-    <link href="https://www.tiktok.com/@sonia_barbie/video/7262529762302725419" rel="alternate"/>
-    <published>2023-08-02T01:24:51+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@sonia_barbie/video/7262530424939875630</id>
-    <title>[no title]</title>
-    <updated>2023-08-02T01:27:27+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@sonia_barbie/video/7262530424939875630" rel="alternate"/>
-    <published>2023-08-02T01:27:27+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@sonia_barbie/video/7262740543917051178</id>
     <title>[no title]</title>
@@ -51,5 +35,21 @@
     <content>[no description]</content>
     <link href="https://www.tiktok.com/@sonia_barbie/video/7263371425568918827" rel="alternate"/>
     <published>2023-08-04T07:51:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@sonia_barbie/video/7264645511901220139</id>
+    <title>Orange is my new favorite color 🧡🍑🍊</title>
+    <updated>2023-08-07T18:15:04+00:00</updated>
+    <content>Orange is my new favorite color 🧡🍑🍊</content>
+    <link href="https://www.tiktok.com/@sonia_barbie/video/7264645511901220139" rel="alternate"/>
+    <published>2023-08-07T18:15:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@sonia_barbie/video/7264712369199156526</id>
+    <title>[no title]</title>
+    <updated>2023-08-07T22:34:27+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@sonia_barbie/video/7264712369199156526" rel="alternate"/>
+    <published>2023-08-07T22:34:27+00:00</published>
   </entry>
 </feed>
