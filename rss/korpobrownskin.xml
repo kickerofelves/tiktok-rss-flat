@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@korpobrownskin</id>
   <title>@korpobrownskin | TikTok</title>
-  <updated>2023-08-07T16:54:38+00:00</updated>
+  <updated>2023-08-08T20:43:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @korpobrownskin</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@korpobrownskin/video/7262030106309446917</id>
-    <title>Save and add these smith machine exercises to your next lower body day 🏋️‍♀️🏋🏽‍♀️ #smithmachineworkouts #goodmornings #legdayworkout #howtogrowGLUTES #fitnesstips </title>
-    <updated>2023-07-31T17:05:47+00:00</updated>
-    <content>Save and add these smith machine exercises to your next lower body day 🏋️‍♀️🏋🏽‍♀️ #smithmachineworkouts #goodmornings #legdayworkout #howtogrowGLUTES #fitnesstips </content>
-    <link href="https://www.tiktok.com/@korpobrownskin/video/7262030106309446917" rel="alternate"/>
-    <published>2023-07-31T17:05:47+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@korpobrownskin/video/7262736304524348678</id>
     <title>Replying to @Lo’ak &lt;3  neteyam &lt;3 HOBIE &lt;3 1. Strength train: be active , workout 3-5 times every week  2. Cut down sugary beverages, processed carbs/food  3. Cut down alcohol  4. Get enough rest , try to manage your stress level  5. Have high protein die</title>
@@ -51,5 +43,13 @@
     <content>Save and add these smith machine exercises to your next lower body day 🏋🏽‍♀️🏋🏽‍♀️ #smithmachineworkouts #goodmornings #smithmachineburlgariansplitsquat #curtsylunges   #legdayworkout #howtogrowGLUTES #fitnesstips l</content>
     <link href="https://www.tiktok.com/@korpobrownskin/video/7264624823660301573" rel="alternate"/>
     <published>2023-08-07T16:54:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@korpobrownskin/video/7265054913695059206</id>
+    <title>You're new to the gym and don't know where and how to use those fancy machine go grab yourself 1 barbell and bust your glutes and legs open with these exercises in the corner. Join my community ⬆️ 🔗🔗first link in my bio for more exclusive access to my wor</title>
+    <updated>2023-08-08T20:43:35+00:00</updated>
+    <content>You're new to the gym and don't know where and how to use those fancy machine go grab yourself 1 barbell and bust your glutes and legs open with these exercises in the corner. Join my community ⬆️ 🔗🔗first link in my bio for more exclusive access to my workout program and structured meal plan #landmineworkout #legandglute #howtogrowglute #glutegrowth #viral #trend </content>
+    <link href="https://www.tiktok.com/@korpobrownskin/video/7265054913695059206" rel="alternate"/>
+    <published>2023-08-08T20:43:35+00:00</published>
   </entry>
 </feed>
