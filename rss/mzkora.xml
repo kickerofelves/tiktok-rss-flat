@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mzkora</id>
   <title>@mzkora | TikTok</title>
-  <updated>2023-08-07T21:35:45+00:00</updated>
+  <updated>2023-08-09T21:55:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @mzkora</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@mzkora/video/7262037683604557098</id>
-    <title>Birthday Dinners are the best!! #fypシ #fyp #momof9 #nabehotpot #mommyandme #daughters #birthdaydinner #minime #birthday </title>
-    <updated>2023-07-31T17:35:18+00:00</updated>
-    <content>Birthday Dinners are the best!! #fypシ #fyp #momof9 #nabehotpot #mommyandme #daughters #birthdaydinner #minime #birthday </content>
-    <link href="https://www.tiktok.com/@mzkora/video/7262037683604557098" rel="alternate"/>
-    <published>2023-07-31T17:35:18+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@mzkora/video/7262416166675696942</id>
-    <title>#Sponsored Get ahead of the class with these top-notch back to school essentials, now available on Amazon! Link in bio! 📚🎒✏️  @LISTERINE® @BAND-AID Brand </title>
-    <updated>2023-08-01T18:04:06+00:00</updated>
-    <content>#Sponsored Get ahead of the class with these top-notch back to school essentials, now available on Amazon! Link in bio! 📚🎒✏️  @LISTERINE® @BAND-AID Brand </content>
-    <link href="https://www.tiktok.com/@mzkora/video/7262416166675696942" rel="alternate"/>
-    <published>2023-08-01T18:04:06+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@mzkora/video/7262778121517010222</id>
     <title>Original mission changed but snack on snacks on snacks. 😋 Of course didn’t forget my Tru Fru! @Trü Frü #trufrupartner #fypシ #fyp #momof9 #snack #healthy #target #momanddaughter #snackrun #healthiswealth </title>
@@ -51,5 +35,21 @@
     <content>Soft Locs for my baby girl. You can learn a lot from TikTok. 😅 No Bookings please. 😂 😂 And yes I am wearing a grandma nightgown. 👵🏽 #softlocs #momof9 #fypシ #fyp #fauxlocs #hairstyle #mixedkids #longhair #braids #locs </content>
     <link href="https://www.tiktok.com/@mzkora/video/7264697233533046059" rel="alternate"/>
     <published>2023-08-07T21:35:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@mzkora/video/7265420437583154475</id>
+    <title>Replying to @Moubee Negotiation 101 with kids: Sweet treats and little feats 🍬🧹 @Shameless Snacks #shamelesspartner #fypシ #fyp #momof9 #teenmom #bigfamily #largefamily #parentingtips #lifehacks </title>
+    <updated>2023-08-09T20:22:13+00:00</updated>
+    <content>Replying to @Moubee Negotiation 101 with kids: Sweet treats and little feats 🍬🧹 @Shameless Snacks #shamelesspartner #fypシ #fyp #momof9 #teenmom #bigfamily #largefamily #parentingtips #lifehacks </content>
+    <link href="https://www.tiktok.com/@mzkora/video/7265420437583154475" rel="alternate"/>
+    <published>2023-08-09T20:22:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@mzkora/video/7265444545427426602</id>
+    <title>Finally tried the Viral  Trader Joe’s Birria Pizza 😀 #fypシ #fyp #momof9 #birria #birriapizza #cooking #recipes #traderjoes #cookingathometiktoktv #cookwithme </title>
+    <updated>2023-08-09T21:55:42+00:00</updated>
+    <content>Finally tried the Viral  Trader Joe’s Birria Pizza 😀 #fypシ #fyp #momof9 #birria #birriapizza #cooking #recipes #traderjoes #cookingathometiktoktv #cookwithme </content>
+    <link href="https://www.tiktok.com/@mzkora/video/7265444545427426602" rel="alternate"/>
+    <published>2023-08-09T21:55:42+00:00</published>
   </entry>
 </feed>
