@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@circusfaery33</id>
   <title>@circusfaery33 | TikTok</title>
-  <updated>2023-08-08T00:23:03+00:00</updated>
+  <updated>2023-08-09T00:18:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @circusfaery33</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7264308187682245934</id>
-    <title>Replying to @🤭 Being  Brazilian and not seeing representation in an American movie is not the same as being Native American, seeing no representation, and a joke about genocide. 🤷🏻‍♀️</title>
-    <updated>2023-08-06T20:26:02+00:00</updated>
-    <content>Replying to @🤭 Being  Brazilian and not seeing representation in an American movie is not the same as being Native American, seeing no representation, and a joke about genocide. 🤷🏻‍♀️</content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7264308187682245934" rel="alternate"/>
-    <published>2023-08-06T20:26:02+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7264310041035967786</id>
-    <title>Replying to @ur mum lol Native Americans should be included in an American movie that holds itself out as inclusive...and not as just a joke about smallpox. </title>
-    <updated>2023-08-06T20:33:12+00:00</updated>
-    <content>Replying to @ur mum lol Native Americans should be included in an American movie that holds itself out as inclusive...and not as just a joke about smallpox. </content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7264310041035967786" rel="alternate"/>
-    <published>2023-08-06T20:33:12+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@circusfaery33/video/7264629372173225258</id>
     <title>Replying to @[̲̅A][̲̅N][̲̅D][̲̅R][̲̅E][̲̅W] I have never had a dog, much less post any videos about dogs dying, so you have the wrong person. But who are you to judge another person's grieving process? </title>
@@ -51,5 +35,21 @@
     <content>Replying to @John Bryan Thank you for confirming my point. </content>
     <link href="https://www.tiktok.com/@circusfaery33/video/7264740368799780138" rel="alternate"/>
     <published>2023-08-08T00:23:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7265048817534487854</id>
+    <title>Replying to @DarkbloomVolva Less racial prejudice from everyone can only help. However, this argument is ahistorical because US history has shown racism against the global majority persists even of we don't respond at all. #asianamerican #modelminority #a</title>
+    <updated>2023-08-08T20:20:02+00:00</updated>
+    <content>Replying to @DarkbloomVolva Less racial prejudice from everyone can only help. However, this argument is ahistorical because US history has shown racism against the global majority persists even of we don't respond at all. #asianamerican #modelminority #antiracism #solidarity #globalmajority </content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7265048817534487854" rel="alternate"/>
+    <published>2023-08-08T20:20:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7265109823052614954</id>
+    <title>Replying to @totallylame_ If you are not racist, but knowingly use your power as a voter to put racist people into positions of power, that's being a bad apple. Also, I know a lot of ✉️ people who come across as salt of the earth nice to other ✉️ people, </title>
+    <updated>2023-08-09T00:18:32+00:00</updated>
+    <content>Replying to @totallylame_ If you are not racist, but knowingly use your power as a voter to put racist people into positions of power, that's being a bad apple. Also, I know a lot of ✉️ people who come across as salt of the earth nice to other ✉️ people, and show a very different side to others. </content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7265109823052614954" rel="alternate"/>
+    <published>2023-08-09T00:18:32+00:00</published>
   </entry>
 </feed>
