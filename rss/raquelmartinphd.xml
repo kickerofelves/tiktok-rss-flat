@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@raquelmartinphd</id>
   <title>@raquelmartinphd | TikTok</title>
-  <updated>2023-08-09T12:53:44+00:00</updated>
+  <updated>2023-08-10T20:37:06+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @raquelmartinphd</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@raquelmartinphd/video/7264370410441952554</id>
-    <title>#counselor #therapist #psychologist #psychiatrist #therapy </title>
-    <updated>2023-08-07T00:27:28+00:00</updated>
-    <content>#counselor #therapist #psychologist #psychiatrist #therapy </content>
-    <link href="https://www.tiktok.com/@raquelmartinphd/video/7264370410441952554" rel="alternate"/>
-    <published>2023-08-07T00:27:28+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@raquelmartinphd/video/7264678697607826734</id>
-    <title>Many of us had expectations of what we thought parenting would look like whether it was about where you’d be living, what your support would look like, or even the needs of your child. It’s ok to acknowledge and accept that this is different than what you</title>
-    <updated>2023-08-07T20:23:50+00:00</updated>
-    <content>Many of us had expectations of what we thought parenting would look like whether it was about where you’d be living, what your support would look like, or even the needs of your child. It’s ok to acknowledge and accept that this is different than what you expected. It doesn’t take you a bad person. #parenting </content>
-    <link href="https://www.tiktok.com/@raquelmartinphd/video/7264678697607826734" rel="alternate"/>
-    <published>2023-08-07T20:23:50+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@raquelmartinphd/video/7264747440979414315</id>
-    <title>#family #grief</title>
-    <updated>2023-08-08T00:50:32+00:00</updated>
-    <content>#family #grief</content>
-    <link href="https://www.tiktok.com/@raquelmartinphd/video/7264747440979414315" rel="alternate"/>
-    <published>2023-08-08T00:50:32+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@raquelmartinphd/video/7265120521249934634</id>
     <title>Mug by @thisisjessicarose art by @Artpce #iamworthy #worth #valueyourself </title>
@@ -51,5 +27,29 @@
     <content>#boymom #goodmorning #toddlers </content>
     <link href="https://www.tiktok.com/@raquelmartinphd/video/7265304768933891371" rel="alternate"/>
     <published>2023-08-09T12:53:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@raquelmartinphd/video/7265689765696064811</id>
+    <title>#mentalhealth </title>
+    <updated>2023-08-10T13:47:36+00:00</updated>
+    <content>#mentalhealth </content>
+    <link href="https://www.tiktok.com/@raquelmartinphd/video/7265689765696064811" rel="alternate"/>
+    <published>2023-08-10T13:47:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@raquelmartinphd/video/7265760215637773610</id>
+    <title>Please vote for us to speak st #sxsw</title>
+    <updated>2023-08-10T18:20:42+00:00</updated>
+    <content>Please vote for us to speak st #sxsw</content>
+    <link href="https://www.tiktok.com/@raquelmartinphd/video/7265760215637773610" rel="alternate"/>
+    <published>2023-08-10T18:20:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@raquelmartinphd/video/7265795350827502890</id>
+    <title>#datingtips </title>
+    <updated>2023-08-10T20:37:06+00:00</updated>
+    <content>#datingtips </content>
+    <link href="https://www.tiktok.com/@raquelmartinphd/video/7265795350827502890" rel="alternate"/>
+    <published>2023-08-10T20:37:06+00:00</published>
   </entry>
 </feed>
