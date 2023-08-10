@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@carlamorelli7</id>
   <title>@carlamorelli7 | TikTok</title>
-  <updated>2023-07-24T19:04:53+00:00</updated>
+  <updated>2023-08-10T12:24:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @carlamorelli7</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@carlamorelli7/video/7257993594441583878</id>
-    <title>Tus colmbianas de la suerte 😝🇨🇴😏🤤 #tiktok #20dejulio #diaindependenciacolombia #colombianas #latinas @Stefany Piett @Steffy Moreno @camilacolombia63 </title>
-    <updated>2023-07-20T20:02:03+00:00</updated>
-    <content>Tus colmbianas de la suerte 😝🇨🇴😏🤤 #tiktok #20dejulio #diaindependenciacolombia #colombianas #latinas @Stefany Piett @Steffy Moreno @camilacolombia63 </content>
-    <link href="https://www.tiktok.com/@carlamorelli7/video/7257993594441583878" rel="alternate"/>
-    <published>2023-07-20T20:02:03+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@carlamorelli7/video/7258130009020222725</id>
     <title>Feliz cumpleaños a mi 💝🩷#barbie </title>
@@ -51,5 +43,13 @@
     <content>Me dice siboe ahudo en llnque anda buscabdo 😏 . Clickear link #fypシ #link #latina </content>
     <link href="https://www.tiktok.com/@carlamorelli7/video/7259463196593982725" rel="alternate"/>
     <published>2023-07-24T19:04:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@carlamorelli7/video/7265668483332164869</id>
+    <title>Bonjour </title>
+    <updated>2023-08-10T12:24:33+00:00</updated>
+    <content>Bonjour </content>
+    <link href="https://www.tiktok.com/@carlamorelli7/video/7265668483332164869" rel="alternate"/>
+    <published>2023-08-10T12:24:33+00:00</published>
   </entry>
 </feed>
