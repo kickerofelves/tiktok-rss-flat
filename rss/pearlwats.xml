@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@pearlwats</id>
   <title>@pearlwats | TikTok</title>
-  <updated>2023-08-09T15:05:13+00:00</updated>
+  <updated>2023-08-10T06:44:31+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @pearlwats</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@pearlwats/video/7257279873000000774</id>
-    <title>[no title]</title>
-    <updated>2023-07-18T21:52:31+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@pearlwats/video/7257279873000000774" rel="alternate"/>
-    <published>2023-07-18T21:52:31+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@pearlwats/video/7263764956510784774</id>
-    <title>#nollywood #movie #actor </title>
-    <updated>2023-08-05T09:17:55+00:00</updated>
-    <content>#nollywood #movie #actor </content>
-    <link href="https://www.tiktok.com/@pearlwats/video/7263764956510784774" rel="alternate"/>
-    <published>2023-08-05T09:17:55+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@pearlwats/video/7265260858303876357</id>
     <title>Vibing with @Maurice Sam </title>
@@ -51,5 +35,21 @@
     <content>@Aluko Gold my girl 😍 </content>
     <link href="https://www.tiktok.com/@pearlwats/video/7265338805081607429" rel="alternate"/>
     <published>2023-08-09T15:05:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@pearlwats/video/7265418757676305670</id>
+    <title>They always spoil my tiktok on set 🤦🏻‍♀️</title>
+    <updated>2023-08-09T20:15:29+00:00</updated>
+    <content>They always spoil my tiktok on set 🤦🏻‍♀️</content>
+    <link href="https://www.tiktok.com/@pearlwats/video/7265418757676305670" rel="alternate"/>
+    <published>2023-08-09T20:15:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@pearlwats/video/7265580852543786245</id>
+    <title>Can you leave my video? @Aluko Gold </title>
+    <updated>2023-08-10T06:44:31+00:00</updated>
+    <content>Can you leave my video? @Aluko Gold </content>
+    <link href="https://www.tiktok.com/@pearlwats/video/7265580852543786245" rel="alternate"/>
+    <published>2023-08-10T06:44:31+00:00</published>
   </entry>
 </feed>
