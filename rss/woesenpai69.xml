@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@woesenpai69</id>
   <title>@woesenpai69 | TikTok</title>
-  <updated>2023-08-10T23:54:47+00:00</updated>
+  <updated>2023-08-06T02:53:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,22 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @woesenpai69</subtitle>
+  <entry>
+    <id>https://www.tiktok.com/@woesenpai69/video/7262865553780460846</id>
+    <title>At the ritz carlton in dorado beach #الاردن_فلسطين_العراق_سوريا </title>
+    <updated>2023-08-02T23:07:47+00:00</updated>
+    <content>At the ritz carlton in dorado beach #الاردن_فلسطين_العراق_سوريا </content>
+    <link href="https://www.tiktok.com/@woesenpai69/video/7262865553780460846" rel="alternate"/>
+    <published>2023-08-02T23:07:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@woesenpai69/video/7262867725045845290</id>
+    <title>#الاردن_فلسطين_العراق_سوريا </title>
+    <updated>2023-08-02T23:16:17+00:00</updated>
+    <content>#الاردن_فلسطين_العراق_سوريا </content>
+    <link href="https://www.tiktok.com/@woesenpai69/video/7262867725045845290" rel="alternate"/>
+    <published>2023-08-02T23:16:17+00:00</published>
+  </entry>
   <entry>
     <id>https://www.tiktok.com/@woesenpai69/video/7263592757044841774</id>
     <title>I gotta cut bangs ASAP! </title>
@@ -35,21 +51,5 @@
     <content>@ZARA YAAASSS BITCH #ootd </content>
     <link href="https://www.tiktok.com/@woesenpai69/video/7264037007221869866" rel="alternate"/>
     <published>2023-08-06T02:53:42+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@woesenpai69/video/7265844511019011374</id>
-    <title>[no title]</title>
-    <updated>2023-08-10T23:47:42+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@woesenpai69/video/7265844511019011374" rel="alternate"/>
-    <published>2023-08-10T23:47:42+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@woesenpai69/video/7265846329958550827</id>
-    <title>Smh horrible</title>
-    <updated>2023-08-10T23:54:47+00:00</updated>
-    <content>Smh horrible</content>
-    <link href="https://www.tiktok.com/@woesenpai69/video/7265846329958550827" rel="alternate"/>
-    <published>2023-08-10T23:54:47+00:00</published>
   </entry>
 </feed>
