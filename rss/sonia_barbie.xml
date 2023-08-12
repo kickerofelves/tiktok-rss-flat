@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@sonia_barbie</id>
   <title>@sonia_barbie | TikTok</title>
-  <updated>2023-08-10T20:03:54+00:00</updated>
+  <updated>2023-08-11T22:44:25+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @sonia_barbie</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@sonia_barbie/video/7264712369199156526</id>
-    <title>[no title]</title>
-    <updated>2023-08-07T22:34:27+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@sonia_barbie/video/7264712369199156526" rel="alternate"/>
-    <published>2023-08-07T22:34:27+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@sonia_barbie/video/7264980785139158314</id>
     <title>[no title]</title>
@@ -51,5 +43,13 @@
     <content>Angel 😇</content>
     <link href="https://www.tiktok.com/@sonia_barbie/video/7265786823937412395" rel="alternate"/>
     <published>2023-08-10T20:03:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@sonia_barbie/video/7266199265456721194</id>
+    <title>Accessories@Trufacebygrace </title>
+    <updated>2023-08-11T22:44:25+00:00</updated>
+    <content>Accessories@Trufacebygrace </content>
+    <link href="https://www.tiktok.com/@sonia_barbie/video/7266199265456721194" rel="alternate"/>
+    <published>2023-08-11T22:44:25+00:00</published>
   </entry>
 </feed>
