@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@circusfaery33</id>
   <title>@circusfaery33 | TikTok</title>
-  <updated>2023-08-11T01:55:31+00:00</updated>
+  <updated>2023-08-11T18:24:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @circusfaery33</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7265394193235725611</id>
-    <title>Replying to @m5r1c4 I'm glad you understand privilege and that we shouldn't ignore issues that don't affect us directly. But why do you prioritize marginalized people in China over your fellow Americans? #asianamerican #modelminority #antiracism #solidari</title>
-    <updated>2023-08-09T18:40:15+00:00</updated>
-    <content>Replying to @m5r1c4 I'm glad you understand privilege and that we shouldn't ignore issues that don't affect us directly. But why do you prioritize marginalized people in China over your fellow Americans? #asianamerican #modelminority #antiracism #solidarity </content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7265394193235725611" rel="alternate"/>
-    <published>2023-08-09T18:40:15+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7265453788016807211</id>
-    <title>Replying to @Hoekla67 I can only speak from personal experience--but ironically, I think it's my family's experienced that too often gets stereotyped as a norm. #asianamerican #modelminority #antiracism #solidarity </title>
-    <updated>2023-08-09T22:31:35+00:00</updated>
-    <content>Replying to @Hoekla67 I can only speak from personal experience--but ironically, I think it's my family's experienced that too often gets stereotyped as a norm. #asianamerican #modelminority #antiracism #solidarity </content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7265453788016807211" rel="alternate"/>
-    <published>2023-08-09T22:31:35+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7265732747828710698</id>
-    <title>Replying to @god_isnt_real__ Thank you for providing an excellent jumping off point to talk about this little known history, which had nothing to do with the completion of the first transcontinental railroad in the US on May 10, 1869--the point you initia</title>
-    <updated>2023-08-10T16:34:09+00:00</updated>
-    <content>Replying to @god_isnt_real__ Thank you for providing an excellent jumping off point to talk about this little known history, which had nothing to do with the completion of the first transcontinental railroad in the US on May 10, 1869--the point you initiated. #asianamerican #modelminority </content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7265732747828710698" rel="alternate"/>
-    <published>2023-08-10T16:34:09+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@circusfaery33/video/7265845347841330475</id>
     <title>Replying to @brrrrrrrrrrrrry Yet agakn--the answer depends on whether the individual's racial prejudoce is contributing to or upholding systemic racism. #asianamerican #modelminority #antiracism #solidarity </title>
@@ -51,5 +27,29 @@
     <content>#greenscreenvideo All the cirkus girls! #circuslife #circuseverydamnday #bindlestifffamilycirkus #bindlestifffamilycircus </content>
     <link href="https://www.tiktok.com/@circusfaery33/video/7265877444924656938" rel="alternate"/>
     <published>2023-08-11T01:55:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7266110873612111146</id>
+    <title>Replying to @raybkchan #greenscreenvideo It's almost like multiple experiences can be simultaneously true. Also, just because tbis is the first time you are hearing me cover this topic doesn't mean I haven't before. </title>
+    <updated>2023-08-11T17:01:28+00:00</updated>
+    <content>Replying to @raybkchan #greenscreenvideo It's almost like multiple experiences can be simultaneously true. Also, just because tbis is the first time you are hearing me cover this topic doesn't mean I haven't before. </content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7266110873612111146" rel="alternate"/>
+    <published>2023-08-11T17:01:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7266115183821606186</id>
+    <title>Replying to @Just For Fun Quote that video. I'll wait.</title>
+    <updated>2023-08-11T17:18:16+00:00</updated>
+    <content>Replying to @Just For Fun Quote that video. I'll wait.</content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7266115183821606186" rel="alternate"/>
+    <published>2023-08-11T17:18:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7266132405981809963</id>
+    <title>Replying to @Just For Fun </title>
+    <updated>2023-08-11T18:24:56+00:00</updated>
+    <content>Replying to @Just For Fun </content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7266132405981809963" rel="alternate"/>
+    <published>2023-08-11T18:24:56+00:00</published>
   </entry>
 </feed>
