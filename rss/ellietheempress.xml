@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ellietheempress</id>
   <title>@ellietheempress | TikTok</title>
-  <updated>2023-08-11T12:29:16+00:00</updated>
+  <updated>2023-08-11T21:45:57+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ellietheempress</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@ellietheempress/video/7265285688487169323</id>
-    <title>#fyp #foryou #viral </title>
-    <updated>2023-08-09T11:39:59+00:00</updated>
-    <content>#fyp #foryou #viral </content>
-    <link href="https://www.tiktok.com/@ellietheempress/video/7265285688487169323" rel="alternate"/>
-    <published>2023-08-09T11:39:59+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@ellietheempress/video/7265371680074157355</id>
     <title>#fyp </title>
@@ -51,5 +43,13 @@
     <content>Covered 🥰</content>
     <link href="https://www.tiktok.com/@ellietheempress/video/7266040726859943210" rel="alternate"/>
     <published>2023-08-11T12:29:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ellietheempress/video/7266184199764299051</id>
+    <title>New Boyfriend Alert 🥰 #fyp #foryou </title>
+    <updated>2023-08-11T21:45:57+00:00</updated>
+    <content>New Boyfriend Alert 🥰 #fyp #foryou </content>
+    <link href="https://www.tiktok.com/@ellietheempress/video/7266184199764299051" rel="alternate"/>
+    <published>2023-08-11T21:45:57+00:00</published>
   </entry>
 </feed>
