@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@carlamorelli7</id>
   <title>@carlamorelli7 | TikTok</title>
-  <updated>2023-08-11T13:43:34+00:00</updated>
+  <updated>2023-08-12T02:14:06+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @carlamorelli7</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@carlamorelli7/video/7259463196593982725</id>
-    <title>Me dice siboe ahudo en llnque anda buscabdo 😏 . Clickear link #fypシ #link #latina </title>
-    <updated>2023-07-24T19:04:53+00:00</updated>
-    <content>Me dice siboe ahudo en llnque anda buscabdo 😏 . Clickear link #fypシ #link #latina </content>
-    <link href="https://www.tiktok.com/@carlamorelli7/video/7259463196593982725" rel="alternate"/>
-    <published>2023-07-24T19:04:53+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@carlamorelli7/video/7265668483332164869</id>
     <title>Bonjour </title>
@@ -51,5 +43,13 @@
     <content>Buenos humos 🥰🫶 #fypシ #tiktok #link </content>
     <link href="https://www.tiktok.com/@carlamorelli7/video/7266059935153278213" rel="alternate"/>
     <published>2023-08-11T13:43:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@carlamorelli7/video/7266253343054417157</id>
+    <title>😌 #tiktok #link #imcarlamorelli_of </title>
+    <updated>2023-08-12T02:14:06+00:00</updated>
+    <content>😌 #tiktok #link #imcarlamorelli_of </content>
+    <link href="https://www.tiktok.com/@carlamorelli7/video/7266253343054417157" rel="alternate"/>
+    <published>2023-08-12T02:14:06+00:00</published>
   </entry>
 </feed>
