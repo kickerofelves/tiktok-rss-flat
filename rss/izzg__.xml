@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@izzg__</id>
   <title>@izzg__ | TikTok</title>
-  <updated>2023-08-11T18:04:10+00:00</updated>
+  <updated>2023-08-12T17:42:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @izzg__</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@izzg__/video/7265745057658064171</id>
-    <title>[no title]</title>
-    <updated>2023-08-10T17:21:57+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@izzg__/video/7265745057658064171" rel="alternate"/>
-    <published>2023-08-10T17:21:57+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@izzg__/video/7265842548512476462</id>
-    <title>[no title]</title>
-    <updated>2023-08-10T23:40:04+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@izzg__/video/7265842548512476462" rel="alternate"/>
-    <published>2023-08-10T23:40:04+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@izzg__/video/7265844215983131947</id>
     <title>[no title]</title>
@@ -51,5 +35,21 @@
     <content>👃 </content>
     <link href="https://www.tiktok.com/@izzg__/video/7266127026472422698" rel="alternate"/>
     <published>2023-08-11T18:04:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@izzg__/video/7266488266545827115</id>
+    <title>or taking care of the bean</title>
+    <updated>2023-08-12T17:25:49+00:00</updated>
+    <content>or taking care of the bean</content>
+    <link href="https://www.tiktok.com/@izzg__/video/7266488266545827115" rel="alternate"/>
+    <published>2023-08-12T17:25:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@izzg__/video/7266492516185263406</id>
+    <title>[no title]</title>
+    <updated>2023-08-12T17:42:24+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@izzg__/video/7266492516185263406" rel="alternate"/>
+    <published>2023-08-12T17:42:24+00:00</published>
   </entry>
 </feed>
