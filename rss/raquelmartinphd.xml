@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@raquelmartinphd</id>
   <title>@raquelmartinphd | TikTok</title>
-  <updated>2023-08-12T01:56:18+00:00</updated>
+  <updated>2023-08-12T21:48:25+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @raquelmartinphd</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@raquelmartinphd/video/7265760215637773610</id>
-    <title>Please vote for us to speak st #sxsw</title>
-    <updated>2023-08-10T18:20:42+00:00</updated>
-    <content>Please vote for us to speak st #sxsw</content>
-    <link href="https://www.tiktok.com/@raquelmartinphd/video/7265760215637773610" rel="alternate"/>
-    <published>2023-08-10T18:20:42+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@raquelmartinphd/video/7265795350827502890</id>
-    <title>#datingtips </title>
-    <updated>2023-08-10T20:37:06+00:00</updated>
-    <content>#datingtips </content>
-    <link href="https://www.tiktok.com/@raquelmartinphd/video/7265795350827502890" rel="alternate"/>
-    <published>2023-08-10T20:37:06+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@raquelmartinphd/video/7265863981049613614</id>
     <title>Replying to @user1774886074934 #dating </title>
@@ -51,5 +35,21 @@
     <content>Yall ruined my husbands night! @Uber Eats @burger republic </content>
     <link href="https://www.tiktok.com/@raquelmartinphd/video/7266248702988258603" rel="alternate"/>
     <published>2023-08-12T01:56:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@raquelmartinphd/video/7266462433210895659</id>
+    <title>Replying to @kwame garnett </title>
+    <updated>2023-08-12T15:45:43+00:00</updated>
+    <content>Replying to @kwame garnett </content>
+    <link href="https://www.tiktok.com/@raquelmartinphd/video/7266462433210895659" rel="alternate"/>
+    <published>2023-08-12T15:45:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@raquelmartinphd/video/7266555907516108078</id>
+    <title>#women #communication </title>
+    <updated>2023-08-12T21:48:25+00:00</updated>
+    <content>#women #communication </content>
+    <link href="https://www.tiktok.com/@raquelmartinphd/video/7266555907516108078" rel="alternate"/>
+    <published>2023-08-12T21:48:25+00:00</published>
   </entry>
 </feed>
