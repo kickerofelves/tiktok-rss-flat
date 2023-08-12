@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rahyndee</id>
   <title>@rahyndee | TikTok</title>
-  <updated>2023-08-11T01:58:28+00:00</updated>
+  <updated>2023-08-11T23:53:44+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @rahyndee</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@rahyndee/video/7264727968243535146</id>
-    <title>Welcome to Rahyndees Kitchen 👩🏽‍🍳 ..Ribeye Caps on the menu 🧈🥩🥛 . #fyp #foryou #cook #cheffrahyndee #cooking </title>
-    <updated>2023-08-07T23:34:55+00:00</updated>
-    <content>Welcome to Rahyndees Kitchen 👩🏽‍🍳 ..Ribeye Caps on the menu 🧈🥩🥛 . #fyp #foryou #cook #cheffrahyndee #cooking </content>
-    <link href="https://www.tiktok.com/@rahyndee/video/7264727968243535146" rel="alternate"/>
-    <published>2023-08-07T23:34:55+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@rahyndee/video/7265095627938237727</id>
-    <title>Rahyndees rustic shower 🚿🧼 #fyp #rusticcamping #offgrid #outdoorshower #camping </title>
-    <updated>2023-08-08T23:21:44+00:00</updated>
-    <content>Rahyndees rustic shower 🚿🧼 #fyp #rusticcamping #offgrid #outdoorshower #camping </content>
-    <link href="https://www.tiktok.com/@rahyndee/video/7265095627938237727" rel="alternate"/>
-    <published>2023-08-08T23:21:44+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@rahyndee/video/7265428571487866142</id>
     <title>Welcome to Rahyndees kitchen 👩🏽‍🍳 Tacos are on the menu 🌮🤤 #fyp #cooking #foodie #tacos </title>
@@ -51,5 +35,21 @@
     <content>Rahyndees outdoor rustic shower 🚿🧼 #fyp #offgridliving #offgridlife #rustic </content>
     <link href="https://www.tiktok.com/@rahyndee/video/7265878171516538142" rel="alternate"/>
     <published>2023-08-11T01:58:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@rahyndee/video/7266195070825581854</id>
+    <title>Short stacked 💪🏽 #fitness #gymrat #motivation #gym #fyp </title>
+    <updated>2023-08-11T22:28:40+00:00</updated>
+    <content>Short stacked 💪🏽 #fitness #gymrat #motivation #gym #fyp </content>
+    <link href="https://www.tiktok.com/@rahyndee/video/7266195070825581854" rel="alternate"/>
+    <published>2023-08-11T22:28:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@rahyndee/video/7266216985950702879</id>
+    <title>Fillet &amp; Green beans anyone!??? 👩🏽‍🍳 #offgridliving #cooking #kitchen </title>
+    <updated>2023-08-11T23:53:44+00:00</updated>
+    <content>Fillet &amp; Green beans anyone!??? 👩🏽‍🍳 #offgridliving #cooking #kitchen </content>
+    <link href="https://www.tiktok.com/@rahyndee/video/7266216985950702879" rel="alternate"/>
+    <published>2023-08-11T23:53:44+00:00</published>
   </entry>
 </feed>
