@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@lunabends</id>
   <title>@lunabends | TikTok</title>
-  <updated>2023-08-10T18:19:09+00:00</updated>
+  <updated>2023-08-11T18:28:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @lunabends</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@lunabends/video/7263640840965197098</id>
-    <title>Perfect theme song 🤣 #poletok #poledance #poletricks #spinpole #aerialtricks #flexible #poledancer #dancer </title>
-    <updated>2023-08-05T01:16:26+00:00</updated>
-    <content>Perfect theme song 🤣 #poletok #poledance #poletricks #spinpole #aerialtricks #flexible #poledancer #dancer </content>
-    <link href="https://www.tiktok.com/@lunabends/video/7263640840965197098" rel="alternate"/>
-    <published>2023-08-05T01:16:26+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@lunabends/video/7263884267552345386</id>
     <title>Wooo ! Attempts were made 🤣🥲 #poledancer #poletok #nightlife #miami #miamilife #miaminightlife #club #nightclub #miamiclub #dancer #gogodancer #comewithme #grwm #workwithme #afterhours </title>
@@ -51,5 +43,13 @@
     <content>Cuz why not 🤷🏽‍♀️  #squats #peach </content>
     <link href="https://www.tiktok.com/@lunabends/video/7265759802884754731" rel="alternate"/>
     <published>2023-08-10T18:19:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lunabends/video/7266133427240389930</id>
+    <title>I'm hooked ! 😎 mani/pedi is a non negotiable in my life . I like looking at my hands &amp; feet &amp; seeing them done nicely , it makes me happy.  #russianpedicure #russianmanicure #pedi #mani #comewithme #nails #girlythings </title>
+    <updated>2023-08-11T18:28:59+00:00</updated>
+    <content>I'm hooked ! 😎 mani/pedi is a non negotiable in my life . I like looking at my hands &amp; feet &amp; seeing them done nicely , it makes me happy.  #russianpedicure #russianmanicure #pedi #mani #comewithme #nails #girlythings </content>
+    <link href="https://www.tiktok.com/@lunabends/video/7266133427240389930" rel="alternate"/>
+    <published>2023-08-11T18:28:59+00:00</published>
   </entry>
 </feed>
