@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@alvine_n</id>
   <title>@alvine_n | TikTok</title>
-  <updated>2023-08-11T19:38:20+00:00</updated>
+  <updated>2023-08-13T17:36:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @alvine_n</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@alvine_n/video/7265022526596730144</id>
-    <title>@AYBL summer sale end tomorrow up to 60% off run code ALVINE ❤️ Use only 3 cable moves to build an hourglass figure and create the illusion of a smaller waist ⏳#HourglassFigure #FitnessJourney #CableWorkouts #workoutmotivation </title>
-    <updated>2023-08-08T18:37:57+00:00</updated>
-    <content>@AYBL summer sale end tomorrow up to 60% off run code ALVINE ❤️ Use only 3 cable moves to build an hourglass figure and create the illusion of a smaller waist ⏳#HourglassFigure #FitnessJourney #CableWorkouts #workoutmotivation </content>
-    <link href="https://www.tiktok.com/@alvine_n/video/7265022526596730144" rel="alternate"/>
-    <published>2023-08-08T18:37:57+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@alvine_n/video/7265387879856131360</id>
-    <title>#CapCut Exciting news: my body recomposition challenge now has a home version! 💪🛋 join now </title>
-    <updated>2023-08-09T18:15:42+00:00</updated>
-    <content>#CapCut Exciting news: my body recomposition challenge now has a home version! 💪🛋 join now </content>
-    <link href="https://www.tiktok.com/@alvine_n/video/7265387879856131360" rel="alternate"/>
-    <published>2023-08-09T18:15:42+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@alvine_n/video/7265400419948498209</id>
-    <title>Comment below if you’re ready 💪</title>
-    <updated>2023-08-09T19:04:21+00:00</updated>
-    <content>Comment below if you’re ready 💪</content>
-    <link href="https://www.tiktok.com/@alvine_n/video/7265400419948498209" rel="alternate"/>
-    <published>2023-08-09T19:04:21+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@alvine_n/video/7265740207352237345</id>
     <title>Replying to @Rachel♥️ Certainly! While you can't spot-reduce fat from a specific area, you can target the muscles in that region to make them stronger and more toned. For the glutes, here are some effective exercises. Squat c lunges , hip thrust, glutes b</title>
@@ -51,5 +27,29 @@
     <content>Replying to @Emerald thank you boo🥹🥹❤️</content>
     <link href="https://www.tiktok.com/@alvine_n/video/7266151346770840864" rel="alternate"/>
     <published>2023-08-11T19:38:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@alvine_n/video/7266847472855616801</id>
+    <title>#CapCut </title>
+    <updated>2023-08-13T16:39:40+00:00</updated>
+    <content>#CapCut </content>
+    <link href="https://www.tiktok.com/@alvine_n/video/7266847472855616801" rel="alternate"/>
+    <published>2023-08-13T16:39:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@alvine_n/video/7266855454377119009</id>
+    <title>Replying to @Mz_MaRii custom Nuttrition &amp; workout plan first link in my bio join my private community for daily support &amp; motivation ❤️❤️</title>
+    <updated>2023-08-13T17:10:40+00:00</updated>
+    <content>Replying to @Mz_MaRii custom Nuttrition &amp; workout plan first link in my bio join my private community for daily support &amp; motivation ❤️❤️</content>
+    <link href="https://www.tiktok.com/@alvine_n/video/7266855454377119009" rel="alternate"/>
+    <published>2023-08-13T17:10:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@alvine_n/video/7266862167784279328</id>
+    <title>Yes, LISS (Low-Intensity Steady-State) cardio can be an effective method for fat loss while preserving muscle, set @AYBL  #proteinfoods #workoutmotivation #gymmotivation #fatloss </title>
+    <updated>2023-08-13T17:36:42+00:00</updated>
+    <content>Yes, LISS (Low-Intensity Steady-State) cardio can be an effective method for fat loss while preserving muscle, set @AYBL  #proteinfoods #workoutmotivation #gymmotivation #fatloss </content>
+    <link href="https://www.tiktok.com/@alvine_n/video/7266862167784279328" rel="alternate"/>
+    <published>2023-08-13T17:36:42+00:00</published>
   </entry>
 </feed>
