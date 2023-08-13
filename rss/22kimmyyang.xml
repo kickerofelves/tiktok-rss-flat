@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@22kimmyyang</id>
   <title>@22kimmyyang | TikTok</title>
-  <updated>2023-08-13T02:56:08+00:00</updated>
+  <updated>2023-08-13T17:11:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @22kimmyyang</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@22kimmyyang/video/7265792439787474219</id>
-    <title>[no title]</title>
-    <updated>2023-08-10T20:25:43+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@22kimmyyang/video/7265792439787474219" rel="alternate"/>
-    <published>2023-08-10T20:25:43+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@22kimmyyang/video/7266095464909425963</id>
     <title>[no title]</title>
@@ -51,5 +43,13 @@
     <content>[no description]</content>
     <link href="https://www.tiktok.com/@22kimmyyang/video/7266635227693468971" rel="alternate"/>
     <published>2023-08-13T02:56:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@22kimmyyang/video/7266855545309515051</id>
+    <title>Having fun with @Bronwin Aurora </title>
+    <updated>2023-08-13T17:11:08+00:00</updated>
+    <content>Having fun with @Bronwin Aurora </content>
+    <link href="https://www.tiktok.com/@22kimmyyang/video/7266855545309515051" rel="alternate"/>
+    <published>2023-08-13T17:11:08+00:00</published>
   </entry>
 </feed>
