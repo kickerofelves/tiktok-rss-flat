@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@circusfaery33</id>
   <title>@circusfaery33 | TikTok</title>
-  <updated>2023-08-11T18:24:56+00:00</updated>
+  <updated>2023-08-13T01:48:38+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @circusfaery33</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7265845347841330475</id>
-    <title>Replying to @brrrrrrrrrrrrry Yet agakn--the answer depends on whether the individual's racial prejudoce is contributing to or upholding systemic racism. #asianamerican #modelminority #antiracism #solidarity </title>
-    <updated>2023-08-10T23:50:57+00:00</updated>
-    <content>Replying to @brrrrrrrrrrrrry Yet agakn--the answer depends on whether the individual's racial prejudoce is contributing to or upholding systemic racism. #asianamerican #modelminority #antiracism #solidarity </content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7265845347841330475" rel="alternate"/>
-    <published>2023-08-10T23:50:57+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7265877444924656938</id>
-    <title>#greenscreenvideo All the cirkus girls! #circuslife #circuseverydamnday #bindlestifffamilycirkus #bindlestifffamilycircus </title>
-    <updated>2023-08-11T01:55:31+00:00</updated>
-    <content>#greenscreenvideo All the cirkus girls! #circuslife #circuseverydamnday #bindlestifffamilycirkus #bindlestifffamilycircus </content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7265877444924656938" rel="alternate"/>
-    <published>2023-08-11T01:55:31+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7266110873612111146</id>
-    <title>Replying to @raybkchan #greenscreenvideo It's almost like multiple experiences can be simultaneously true. Also, just because tbis is the first time you are hearing me cover this topic doesn't mean I haven't before. </title>
-    <updated>2023-08-11T17:01:28+00:00</updated>
-    <content>Replying to @raybkchan #greenscreenvideo It's almost like multiple experiences can be simultaneously true. Also, just because tbis is the first time you are hearing me cover this topic doesn't mean I haven't before. </content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7266110873612111146" rel="alternate"/>
-    <published>2023-08-11T17:01:28+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@circusfaery33/video/7266115183821606186</id>
     <title>Replying to @Just For Fun Quote that video. I'll wait.</title>
@@ -51,5 +27,29 @@
     <content>Replying to @Just For Fun </content>
     <link href="https://www.tiktok.com/@circusfaery33/video/7266132405981809963" rel="alternate"/>
     <published>2023-08-11T18:24:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7266603669775240490</id>
+    <title>#greenscreenvideo #greenscreen Walking in the Sankofa Festival parade after our annual week-long stilt intensive with guest teachers and performers from @Kaisokah Moko Jumbies USA inc  </title>
+    <updated>2023-08-13T00:53:40+00:00</updated>
+    <content>#greenscreenvideo #greenscreen Walking in the Sankofa Festival parade after our annual week-long stilt intensive with guest teachers and performers from @Kaisokah Moko Jumbies USA inc  </content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7266603669775240490" rel="alternate"/>
+    <published>2023-08-13T00:53:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7266610584689315114</id>
+    <title>#stitch with @Ed To the gynecologist who was wondering why...</title>
+    <updated>2023-08-13T01:20:28+00:00</updated>
+    <content>#stitch with @Ed To the gynecologist who was wondering why...</content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7266610584689315114" rel="alternate"/>
+    <published>2023-08-13T01:20:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7266617824989203754</id>
+    <title>Replying to @Just For Fun #greenscreen The answer to your question is yes--that is racist and ignorant. </title>
+    <updated>2023-08-13T01:48:38+00:00</updated>
+    <content>Replying to @Just For Fun #greenscreen The answer to your question is yes--that is racist and ignorant. </content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7266617824989203754" rel="alternate"/>
+    <published>2023-08-13T01:48:38+00:00</published>
   </entry>
 </feed>
