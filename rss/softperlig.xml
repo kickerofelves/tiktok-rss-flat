@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@softperlig</id>
   <title>@softperlig | TikTok</title>
-  <updated>2023-08-10T14:41:23+00:00</updated>
+  <updated>2023-08-13T06:51:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @softperlig</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@softperlig/video/7261820258850262299</id>
-    <title>New outfit 👍🏻</title>
-    <updated>2023-07-31T03:32:33+00:00</updated>
-    <content>New outfit 👍🏻</content>
-    <link href="https://www.tiktok.com/@softperlig/video/7261820258850262299" rel="alternate"/>
-    <published>2023-07-31T03:32:33+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@softperlig/video/7263336178726751521</id>
     <title>[no title]</title>
@@ -51,5 +43,13 @@
     <content>[no description]</content>
     <link href="https://www.tiktok.com/@softperlig/video/7265703733374242081" rel="alternate"/>
     <published>2023-08-10T14:41:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@softperlig/video/7266695846824037664</id>
+    <title>Almost forgot to blink</title>
+    <updated>2023-08-13T06:51:28+00:00</updated>
+    <content>Almost forgot to blink</content>
+    <link href="https://www.tiktok.com/@softperlig/video/7266695846824037664" rel="alternate"/>
+    <published>2023-08-13T06:51:28+00:00</published>
   </entry>
 </feed>
