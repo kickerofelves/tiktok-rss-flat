@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@carlamorelli7</id>
   <title>@carlamorelli7 | TikTok</title>
-  <updated>2023-08-12T21:33:53+00:00</updated>
+  <updated>2023-08-13T15:46:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @carlamorelli7</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@carlamorelli7/video/7265848106481159429</id>
-    <title>@Lucero Black #fypシ </title>
-    <updated>2023-08-11T00:01:36+00:00</updated>
-    <content>@Lucero Black #fypシ </content>
-    <link href="https://www.tiktok.com/@carlamorelli7/video/7265848106481159429" rel="alternate"/>
-    <published>2023-08-11T00:01:36+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@carlamorelli7/video/7265849794885618949</id>
-    <title>🍑🍑 hay hay Ahyyyy #fypシ #link #tiktok #imcarlamorelli_of @Lucero Black </title>
-    <updated>2023-08-11T00:08:08+00:00</updated>
-    <content>🍑🍑 hay hay Ahyyyy #fypシ #link #tiktok #imcarlamorelli_of @Lucero Black </content>
-    <link href="https://www.tiktok.com/@carlamorelli7/video/7265849794885618949" rel="alternate"/>
-    <published>2023-08-11T00:08:08+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@carlamorelli7/video/7266059935153278213</id>
     <title>Buenos humos 🥰🫶 #fypシ #tiktok #link </title>
@@ -51,5 +35,21 @@
     <content>🤪 #link #pageforyou </content>
     <link href="https://www.tiktok.com/@carlamorelli7/video/7266552214179663110" rel="alternate"/>
     <published>2023-08-12T21:33:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@carlamorelli7/video/7266831916278582533</id>
+    <title>😌 </title>
+    <updated>2023-08-13T15:39:15+00:00</updated>
+    <content>😌 </content>
+    <link href="https://www.tiktok.com/@carlamorelli7/video/7266831916278582533" rel="alternate"/>
+    <published>2023-08-13T15:39:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@carlamorelli7/video/7266833704163560709</id>
+    <title>Que delicia de domingo 😇 #lalalachallenge #lalala #sunday </title>
+    <updated>2023-08-13T15:46:12+00:00</updated>
+    <content>Que delicia de domingo 😇 #lalalachallenge #lalala #sunday </content>
+    <link href="https://www.tiktok.com/@carlamorelli7/video/7266833704163560709" rel="alternate"/>
+    <published>2023-08-13T15:46:12+00:00</published>
   </entry>
 </feed>
