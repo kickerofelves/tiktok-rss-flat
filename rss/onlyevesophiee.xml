@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@onlyevesophiee</id>
   <title>@onlyevesophiee | TikTok</title>
-  <updated>2023-08-12T14:07:07+00:00</updated>
+  <updated>2023-08-12T23:32:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @onlyevesophiee</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@onlyevesophiee/video/7266038005230538016</id>
-    <title>Jiggle jiggle jiggle</title>
-    <updated>2023-08-11T12:18:32+00:00</updated>
-    <content>Jiggle jiggle jiggle</content>
-    <link href="https://www.tiktok.com/@onlyevesophiee/video/7266038005230538016" rel="alternate"/>
-    <published>2023-08-11T12:18:32+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@onlyevesophiee/video/7266067588667411744</id>
-    <title>Oops</title>
-    <updated>2023-08-11T14:13:19+00:00</updated>
-    <content>Oops</content>
-    <link href="https://www.tiktok.com/@onlyevesophiee/video/7266067588667411744" rel="alternate"/>
-    <published>2023-08-11T14:13:19+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@onlyevesophiee/video/7266205456345976097</id>
     <title>My new air freshener </title>
@@ -51,5 +35,21 @@
     <content>What an evening 🥰</content>
     <link href="https://www.tiktok.com/@onlyevesophiee/video/7266437068866243873" rel="alternate"/>
     <published>2023-08-12T14:07:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@onlyevesophiee/video/7266546755708243233</id>
+    <title>[no title]</title>
+    <updated>2023-08-12T21:12:45+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@onlyevesophiee/video/7266546755708243233" rel="alternate"/>
+    <published>2023-08-12T21:12:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@onlyevesophiee/video/7266582793486961952</id>
+    <title>Should i get my bangs back for winter?</title>
+    <updated>2023-08-12T23:32:42+00:00</updated>
+    <content>Should i get my bangs back for winter?</content>
+    <link href="https://www.tiktok.com/@onlyevesophiee/video/7266582793486961952" rel="alternate"/>
+    <published>2023-08-12T23:32:42+00:00</published>
   </entry>
 </feed>
