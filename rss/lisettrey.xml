@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@lisettrey</id>
   <title>@lisettrey | TikTok</title>
-  <updated>2023-08-10T22:50:54+00:00</updated>
+  <updated>2023-08-14T00:57:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @lisettrey</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@lisettrey/video/7264319700992150790</id>
-    <title>🔥</title>
-    <updated>2023-08-06T21:10:38+00:00</updated>
-    <content>🔥</content>
-    <link href="https://www.tiktok.com/@lisettrey/video/7264319700992150790" rel="alternate"/>
-    <published>2023-08-06T21:10:38+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@lisettrey/video/7265731380284345605</id>
-    <title>😜</title>
-    <updated>2023-08-10T16:28:36+00:00</updated>
-    <content>😜</content>
-    <link href="https://www.tiktok.com/@lisettrey/video/7265731380284345605" rel="alternate"/>
-    <published>2023-08-10T16:28:36+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@lisettrey/video/7265744981170638085</id>
     <title>🫶🏽🫶🏽</title>
@@ -51,5 +35,21 @@
     <content>☺️</content>
     <link href="https://www.tiktok.com/@lisettrey/video/7265829887733189893" rel="alternate"/>
     <published>2023-08-10T22:50:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lisettrey/video/7266936089116527877</id>
+    <title>Estaba en la piscina 🥹</title>
+    <updated>2023-08-13T22:23:31+00:00</updated>
+    <content>Estaba en la piscina 🥹</content>
+    <link href="https://www.tiktok.com/@lisettrey/video/7266936089116527877" rel="alternate"/>
+    <published>2023-08-13T22:23:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lisettrey/video/7266975794918952197</id>
+    <title>Le cambie el audio y quedo bien con ese tambien🤣</title>
+    <updated>2023-08-14T00:57:35+00:00</updated>
+    <content>Le cambie el audio y quedo bien con ese tambien🤣</content>
+    <link href="https://www.tiktok.com/@lisettrey/video/7266975794918952197" rel="alternate"/>
+    <published>2023-08-14T00:57:35+00:00</published>
   </entry>
 </feed>
