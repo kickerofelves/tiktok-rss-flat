@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ellietheempress</id>
   <title>@ellietheempress | TikTok</title>
-  <updated>2023-08-14T16:51:34+00:00</updated>
+  <updated>2023-08-14T20:37:25+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ellietheempress</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@ellietheempress/video/7266523941425155374</id>
-    <title>Just for fun 🥰 #foryou </title>
-    <updated>2023-08-12T19:44:17+00:00</updated>
-    <content>Just for fun 🥰 #foryou </content>
-    <link href="https://www.tiktok.com/@ellietheempress/video/7266523941425155374" rel="alternate"/>
-    <published>2023-08-12T19:44:17+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@ellietheempress/video/7266774980740779307</id>
     <title>Beyoncé Renaissance Tour was amazing #foryou #fyp </title>
@@ -51,5 +43,13 @@
     <content>#fyp #foryou </content>
     <link href="https://www.tiktok.com/@ellietheempress/video/7267221565178236203" rel="alternate"/>
     <published>2023-08-14T16:51:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ellietheempress/video/7267279772865088810</id>
+    <title>#foryou #viral #fyp </title>
+    <updated>2023-08-14T20:37:25+00:00</updated>
+    <content>#foryou #viral #fyp </content>
+    <link href="https://www.tiktok.com/@ellietheempress/video/7267279772865088810" rel="alternate"/>
+    <published>2023-08-14T20:37:25+00:00</published>
   </entry>
 </feed>
