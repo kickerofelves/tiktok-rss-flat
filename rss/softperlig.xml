@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@softperlig</id>
   <title>@softperlig | TikTok</title>
-  <updated>2023-08-13T06:51:28+00:00</updated>
+  <updated>2023-08-15T03:31:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @softperlig</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@softperlig/video/7263336178726751521</id>
-    <title>[no title]</title>
-    <updated>2023-08-04T05:34:34+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@softperlig/video/7263336178726751521" rel="alternate"/>
-    <published>2023-08-04T05:34:34+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@softperlig/video/7264041661372632352</id>
     <title>The tension becomes unbearable </title>
@@ -51,5 +43,13 @@
     <content>Almost forgot to blink</content>
     <link href="https://www.tiktok.com/@softperlig/video/7266695846824037664" rel="alternate"/>
     <published>2023-08-13T06:51:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@softperlig/video/7267386372678241569</id>
+    <title>When youre in the no friends club</title>
+    <updated>2023-08-15T03:31:00+00:00</updated>
+    <content>When youre in the no friends club</content>
+    <link href="https://www.tiktok.com/@softperlig/video/7267386372678241569" rel="alternate"/>
+    <published>2023-08-15T03:31:00+00:00</published>
   </entry>
 </feed>
