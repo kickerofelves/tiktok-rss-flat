@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@lunabends</id>
   <title>@lunabends | TikTok</title>
-  <updated>2023-08-12T17:41:04+00:00</updated>
+  <updated>2023-08-14T20:28:22+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @lunabends</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@lunabends/video/7265022000127692078</id>
-    <title>Honestly , I would love it  #pole #poletok #poletricks #spinpole #flexible #stronggirl #pleasersheels </title>
-    <updated>2023-08-08T18:35:56+00:00</updated>
-    <content>Honestly , I would love it  #pole #poletok #poletricks #spinpole #flexible #stronggirl #pleasersheels </content>
-    <link href="https://www.tiktok.com/@lunabends/video/7265022000127692078" rel="alternate"/>
-    <published>2023-08-08T18:35:56+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@lunabends/video/7265345064866712878</id>
     <title>Flexy moves ☺️ #pole #poletok #poledance #dancer #poletricks #spinpole #flexible #splits #pleasersheels </title>
@@ -51,5 +43,13 @@
     <content>Lol okay I'm so done with that audio now 🤣 #fypシ </content>
     <link href="https://www.tiktok.com/@lunabends/video/7266492177792961838" rel="alternate"/>
     <published>2023-08-12T17:41:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lunabends/video/7267277460863995179</id>
+    <title>My home pole spins extra slow or out of control there's never a happy medium 😅 #poletok #spinpole #poletricks #flexible </title>
+    <updated>2023-08-14T20:28:22+00:00</updated>
+    <content>My home pole spins extra slow or out of control there's never a happy medium 😅 #poletok #spinpole #poletricks #flexible </content>
+    <link href="https://www.tiktok.com/@lunabends/video/7267277460863995179" rel="alternate"/>
+    <published>2023-08-14T20:28:22+00:00</published>
   </entry>
 </feed>
