@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@alvine_n</id>
   <title>@alvine_n | TikTok</title>
-  <updated>2023-08-13T17:36:42+00:00</updated>
+  <updated>2023-08-15T19:01:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @alvine_n</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@alvine_n/video/7265740207352237345</id>
-    <title>Replying to @Rachel♥️ Certainly! While you can't spot-reduce fat from a specific area, you can target the muscles in that region to make them stronger and more toned. For the glutes, here are some effective exercises. Squat c lunges , hip thrust, glutes b</title>
-    <updated>2023-08-10T17:02:56+00:00</updated>
-    <content>Replying to @Rachel♥️ Certainly! While you can't spot-reduce fat from a specific area, you can target the muscles in that region to make them stronger and more toned. For the glutes, here are some effective exercises. Squat c lunges , hip thrust, glutes bridges , split squat , …etc for effective fat loss, it's essential to combine strength training with cardiovascular exercises and a balanced diet.</content>
-    <link href="https://www.tiktok.com/@alvine_n/video/7265740207352237345" rel="alternate"/>
-    <published>2023-08-10T17:02:56+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@alvine_n/video/7266151346770840864</id>
-    <title>Replying to @Emerald thank you boo🥹🥹❤️</title>
-    <updated>2023-08-11T19:38:20+00:00</updated>
-    <content>Replying to @Emerald thank you boo🥹🥹❤️</content>
-    <link href="https://www.tiktok.com/@alvine_n/video/7266151346770840864" rel="alternate"/>
-    <published>2023-08-11T19:38:20+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@alvine_n/video/7266847472855616801</id>
-    <title>#CapCut </title>
-    <updated>2023-08-13T16:39:40+00:00</updated>
-    <content>#CapCut </content>
-    <link href="https://www.tiktok.com/@alvine_n/video/7266847472855616801" rel="alternate"/>
-    <published>2023-08-13T16:39:40+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@alvine_n/video/7266855454377119009</id>
     <title>Replying to @Mz_MaRii custom Nuttrition &amp; workout plan first link in my bio join my private community for daily support &amp; motivation ❤️❤️</title>
@@ -51,5 +27,29 @@
     <content>Yes, LISS (Low-Intensity Steady-State) cardio can be an effective method for fat loss while preserving muscle, set @AYBL  #proteinfoods #workoutmotivation #gymmotivation #fatloss </content>
     <link href="https://www.tiktok.com/@alvine_n/video/7266862167784279328" rel="alternate"/>
     <published>2023-08-13T17:36:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@alvine_n/video/7267609169576873249</id>
+    <title>#CapCut diet is 🔑 🔥#cookingathometiktoktv #fatlosstips #healthyrecipes #healthy </title>
+    <updated>2023-08-15T17:55:25+00:00</updated>
+    <content>#CapCut diet is 🔑 🔥#cookingathometiktoktv #fatlosstips #healthyrecipes #healthy </content>
+    <link href="https://www.tiktok.com/@alvine_n/video/7267609169576873249" rel="alternate"/>
+    <published>2023-08-15T17:55:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@alvine_n/video/7267617893875993888</id>
+    <title>Replying to @claudiapacheco around the world for strengthening your core &gt;🔥🔥🔥🔥</title>
+    <updated>2023-08-15T18:29:19+00:00</updated>
+    <content>Replying to @claudiapacheco around the world for strengthening your core &gt;🔥🔥🔥🔥</content>
+    <link href="https://www.tiktok.com/@alvine_n/video/7267617893875993888" rel="alternate"/>
+    <published>2023-08-15T18:29:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@alvine_n/video/7267626159532150049</id>
+    <title>Replying to @Claudia Pacheco </title>
+    <updated>2023-08-15T19:01:23+00:00</updated>
+    <content>Replying to @Claudia Pacheco </content>
+    <link href="https://www.tiktok.com/@alvine_n/video/7267626159532150049" rel="alternate"/>
+    <published>2023-08-15T19:01:23+00:00</published>
   </entry>
 </feed>
