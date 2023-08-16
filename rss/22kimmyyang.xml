@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@22kimmyyang</id>
   <title>@22kimmyyang | TikTok</title>
-  <updated>2023-08-15T00:54:08+00:00</updated>
+  <updated>2023-08-15T23:15:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @22kimmyyang</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@22kimmyyang/video/7266503554486095147</id>
-    <title>[no title]</title>
-    <updated>2023-08-12T18:25:16+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@22kimmyyang/video/7266503554486095147" rel="alternate"/>
-    <published>2023-08-12T18:25:16+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@22kimmyyang/video/7266635227693468971</id>
     <title>[no title]</title>
@@ -51,5 +43,13 @@
     <content>[no description]</content>
     <link href="https://www.tiktok.com/@22kimmyyang/video/7267345947233946923" rel="alternate"/>
     <published>2023-08-15T00:54:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@22kimmyyang/video/7267691581832973614</id>
+    <title>Sliding into your dms like 🤓</title>
+    <updated>2023-08-15T23:15:20+00:00</updated>
+    <content>Sliding into your dms like 🤓</content>
+    <link href="https://www.tiktok.com/@22kimmyyang/video/7267691581832973614" rel="alternate"/>
+    <published>2023-08-15T23:15:20+00:00</published>
   </entry>
 </feed>
