@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@milaababyy143</id>
   <title>@milaababyy143 | TikTok</title>
-  <updated>2023-08-07T02:22:00+00:00</updated>
+  <updated>2023-08-15T23:00:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @milaababyy143</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@milaababyy143/video/7262790914077117738</id>
-    <title>[no title]</title>
-    <updated>2023-08-02T18:18:11+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@milaababyy143/video/7262790914077117738" rel="alternate"/>
-    <published>2023-08-02T18:18:11+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@milaababyy143/video/7262798105911790890</id>
-    <title>[no title]</title>
-    <updated>2023-08-02T18:46:05+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@milaababyy143/video/7262798105911790890" rel="alternate"/>
-    <published>2023-08-02T18:46:05+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@milaababyy143/video/7262800704727715114</id>
     <title>45 pound weight loss 🥹</title>
@@ -51,5 +35,21 @@
     <content>[no description]</content>
     <link href="https://www.tiktok.com/@milaababyy143/video/7264399916410211626" rel="alternate"/>
     <published>2023-08-07T02:22:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@milaababyy143/video/7267687444064095531</id>
+    <title>[no title]</title>
+    <updated>2023-08-15T22:59:16+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@milaababyy143/video/7267687444064095531" rel="alternate"/>
+    <published>2023-08-15T22:59:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@milaababyy143/video/7267687665963666730</id>
+    <title>[no title]</title>
+    <updated>2023-08-15T23:00:10+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@milaababyy143/video/7267687665963666730" rel="alternate"/>
+    <published>2023-08-15T23:00:10+00:00</published>
   </entry>
 </feed>
