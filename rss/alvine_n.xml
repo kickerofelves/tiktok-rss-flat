@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@alvine_n</id>
   <title>@alvine_n | TikTok</title>
-  <updated>2023-08-15T19:01:23+00:00</updated>
+  <updated>2023-08-16T19:01:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @alvine_n</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@alvine_n/video/7266855454377119009</id>
-    <title>Replying to @Mz_MaRii custom Nuttrition &amp; workout plan first link in my bio join my private community for daily support &amp; motivation ❤️❤️</title>
-    <updated>2023-08-13T17:10:40+00:00</updated>
-    <content>Replying to @Mz_MaRii custom Nuttrition &amp; workout plan first link in my bio join my private community for daily support &amp; motivation ❤️❤️</content>
-    <link href="https://www.tiktok.com/@alvine_n/video/7266855454377119009" rel="alternate"/>
-    <published>2023-08-13T17:10:40+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@alvine_n/video/7266862167784279328</id>
-    <title>Yes, LISS (Low-Intensity Steady-State) cardio can be an effective method for fat loss while preserving muscle, set @AYBL  #proteinfoods #workoutmotivation #gymmotivation #fatloss </title>
-    <updated>2023-08-13T17:36:42+00:00</updated>
-    <content>Yes, LISS (Low-Intensity Steady-State) cardio can be an effective method for fat loss while preserving muscle, set @AYBL  #proteinfoods #workoutmotivation #gymmotivation #fatloss </content>
-    <link href="https://www.tiktok.com/@alvine_n/video/7266862167784279328" rel="alternate"/>
-    <published>2023-08-13T17:36:42+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@alvine_n/video/7267609169576873249</id>
     <title>#CapCut diet is 🔑 🔥#cookingathometiktoktv #fatlosstips #healthyrecipes #healthy </title>
@@ -51,5 +35,21 @@
     <content>Replying to @Claudia Pacheco workout &amp; Nuttrition + private community for daily support and motivation firts link in bio ❤️❤️❤️</content>
     <link href="https://www.tiktok.com/@alvine_n/video/7267626159532150049" rel="alternate"/>
     <published>2023-08-15T19:01:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@alvine_n/video/7267975838572776736</id>
+    <title>Replying to @Claudia Pacheco </title>
+    <updated>2023-08-16T17:38:17+00:00</updated>
+    <content>Replying to @Claudia Pacheco </content>
+    <link href="https://www.tiktok.com/@alvine_n/video/7267975838572776736" rel="alternate"/>
+    <published>2023-08-16T17:38:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@alvine_n/video/7267997399870704929</id>
+    <title>I used to train abs every day &amp; now 1-3 max 💪</title>
+    <updated>2023-08-16T19:01:56+00:00</updated>
+    <content>I used to train abs every day &amp; now 1-3 max 💪</content>
+    <link href="https://www.tiktok.com/@alvine_n/video/7267997399870704929" rel="alternate"/>
+    <published>2023-08-16T19:01:56+00:00</published>
   </entry>
 </feed>
