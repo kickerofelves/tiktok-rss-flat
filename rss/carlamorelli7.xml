@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@carlamorelli7</id>
   <title>@carlamorelli7 | TikTok</title>
-  <updated>2023-08-14T13:03:46+00:00</updated>
+  <updated>2023-08-15T23:09:11+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @carlamorelli7</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@carlamorelli7/video/7266253343054417157</id>
-    <title>😌 #tiktok #link #imcarlamorelli_of </title>
-    <updated>2023-08-12T02:14:06+00:00</updated>
-    <content>😌 #tiktok #link #imcarlamorelli_of </content>
-    <link href="https://www.tiktok.com/@carlamorelli7/video/7266253343054417157" rel="alternate"/>
-    <published>2023-08-12T02:14:06+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@carlamorelli7/video/7266552214179663110</id>
-    <title>🤪 #link #pageforyou </title>
-    <updated>2023-08-12T21:33:53+00:00</updated>
-    <content>🤪 #link #pageforyou </content>
-    <link href="https://www.tiktok.com/@carlamorelli7/video/7266552214179663110" rel="alternate"/>
-    <published>2023-08-12T21:33:53+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@carlamorelli7/video/7266831916278582533</id>
     <title>😌 </title>
@@ -51,5 +35,21 @@
     <content>Yo soy tu Diosa y tu mi Dioj 🔥🥵 #link #imcarlamorelli_of #fypシ </content>
     <link href="https://www.tiktok.com/@carlamorelli7/video/7267162933472414981" rel="alternate"/>
     <published>2023-08-14T13:03:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@carlamorelli7/video/7267674212494609670</id>
+    <title>Tu y yo comiéndonos a besitos #imcarlamorelli_of </title>
+    <updated>2023-08-15T22:07:50+00:00</updated>
+    <content>Tu y yo comiéndonos a besitos #imcarlamorelli_of </content>
+    <link href="https://www.tiktok.com/@carlamorelli7/video/7267674212494609670" rel="alternate"/>
+    <published>2023-08-15T22:07:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@carlamorelli7/video/7267690022927682821</id>
+    <title>[no title]</title>
+    <updated>2023-08-15T23:09:11+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@carlamorelli7/video/7267690022927682821" rel="alternate"/>
+    <published>2023-08-15T23:09:11+00:00</published>
   </entry>
 </feed>
