@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@girlzhavemorefun</id>
   <title>@girlzhavemorefun | TikTok</title>
-  <updated>2023-08-15T22:56:57+00:00</updated>
+  <updated>2023-08-16T17:30:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @girlzhavemorefun</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@girlzhavemorefun/video/7266393631114743083</id>
-    <title>Irs the weeeeekndddd #viral #fyp #acegirlsonly #pink </title>
-    <updated>2023-08-12T11:19:30+00:00</updated>
-    <content>Irs the weeeeekndddd #viral #fyp #acegirlsonly #pink </content>
-    <link href="https://www.tiktok.com/@girlzhavemorefun/video/7266393631114743083" rel="alternate"/>
-    <published>2023-08-12T11:19:30+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@girlzhavemorefun/video/7267294552132685098</id>
     <title>Girl you know iiiii #viral #fyp #acegirlsonly #headlights </title>
@@ -51,5 +43,13 @@
     <content>Fav song rn #fyp #viral #acegirlsonly #travisscott </content>
     <link href="https://www.tiktok.com/@girlzhavemorefun/video/7267686839602007339" rel="alternate"/>
     <published>2023-08-15T22:56:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@girlzhavemorefun/video/7267973716087278891</id>
+    <title>Ughhh #fyp #acegirlsonly #viral #men </title>
+    <updated>2023-08-16T17:30:12+00:00</updated>
+    <content>Ughhh #fyp #acegirlsonly #viral #men </content>
+    <link href="https://www.tiktok.com/@girlzhavemorefun/video/7267973716087278891" rel="alternate"/>
+    <published>2023-08-16T17:30:12+00:00</published>
   </entry>
 </feed>

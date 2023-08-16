@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ellietheempress</id>
   <title>@ellietheempress | TikTok</title>
-  <updated>2023-08-15T13:37:31+00:00</updated>
+  <updated>2023-08-16T16:33:04+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ellietheempress</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@ellietheempress/video/7267220713319288106</id>
-    <title>#foryou #fyp #viral </title>
-    <updated>2023-08-14T16:48:11+00:00</updated>
-    <content>#foryou #fyp #viral </content>
-    <link href="https://www.tiktok.com/@ellietheempress/video/7267220713319288106" rel="alternate"/>
-    <published>2023-08-14T16:48:11+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@ellietheempress/video/7267221565178236203</id>
-    <title>#fyp #foryou </title>
-    <updated>2023-08-14T16:51:34+00:00</updated>
-    <content>#fyp #foryou </content>
-    <link href="https://www.tiktok.com/@ellietheempress/video/7267221565178236203" rel="alternate"/>
-    <published>2023-08-14T16:51:34+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@ellietheempress/video/7267279772865088810</id>
     <title>#foryou #viral #fyp </title>
@@ -51,5 +35,21 @@
     <content>Rate this dance move from 1 to 10 #foryou </content>
     <link href="https://www.tiktok.com/@ellietheempress/video/7267542684141702443" rel="alternate"/>
     <published>2023-08-15T13:37:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ellietheempress/video/7267878470171020586</id>
+    <title>#foryou #fyp #viral </title>
+    <updated>2023-08-16T11:21:04+00:00</updated>
+    <content>#foryou #fyp #viral </content>
+    <link href="https://www.tiktok.com/@ellietheempress/video/7267878470171020586" rel="alternate"/>
+    <published>2023-08-16T11:21:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ellietheempress/video/7267959002380750123</id>
+    <title>#foryou #viral </title>
+    <updated>2023-08-16T16:33:04+00:00</updated>
+    <content>#foryou #viral </content>
+    <link href="https://www.tiktok.com/@ellietheempress/video/7267959002380750123" rel="alternate"/>
+    <published>2023-08-16T16:33:04+00:00</published>
   </entry>
 </feed>
