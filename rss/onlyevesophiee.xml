@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@onlyevesophiee</id>
   <title>@onlyevesophiee | TikTok</title>
-  <updated>2023-08-16T23:16:36+00:00</updated>
+  <updated>2023-08-17T10:27:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @onlyevesophiee</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@onlyevesophiee/video/7267704550662933793</id>
-    <title>Head shoulders knees and toe 🥜</title>
-    <updated>2023-08-16T00:05:46+00:00</updated>
-    <content>Head shoulders knees and toe 🥜</content>
-    <link href="https://www.tiktok.com/@onlyevesophiee/video/7267704550662933793" rel="alternate"/>
-    <published>2023-08-16T00:05:46+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@onlyevesophiee/video/7267846369027607840</id>
     <title>Come into me !</title>
@@ -51,5 +43,13 @@
     <content>I just finished the gym hence the dirty clothes</content>
     <link href="https://www.tiktok.com/@onlyevesophiee/video/7268063008964840737" rel="alternate"/>
     <published>2023-08-16T23:16:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@onlyevesophiee/video/7268235848104168736</id>
+    <title>Im not wearing any socks</title>
+    <updated>2023-08-17T10:27:20+00:00</updated>
+    <content>Im not wearing any socks</content>
+    <link href="https://www.tiktok.com/@onlyevesophiee/video/7268235848104168736" rel="alternate"/>
+    <published>2023-08-17T10:27:20+00:00</published>
   </entry>
 </feed>
