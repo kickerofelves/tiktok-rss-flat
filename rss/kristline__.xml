@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@kristline__</id>
   <title>@kristline__ | TikTok</title>
-  <updated>2023-08-14T14:56:02+00:00</updated>
+  <updated>2023-08-16T14:44:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kristline__</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@kristline__/video/7260191689552203054</id>
-    <title>Come make my breakfast with me and my hunny🖤 Powerd by @Bloom Nutrition </title>
-    <updated>2023-07-26T18:11:52+00:00</updated>
-    <content>Come make my breakfast with me and my hunny🖤 Powerd by @Bloom Nutrition </content>
-    <link href="https://www.tiktok.com/@kristline__/video/7260191689552203054" rel="alternate"/>
-    <published>2023-07-26T18:11:52+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@kristline__/video/7262431448609639726</id>
-    <title>Our big day is here. All the love on this day was beautiful. #fyp #wedding #weddingtiktok </title>
-    <updated>2023-08-01T19:03:21+00:00</updated>
-    <content>Our big day is here. All the love on this day was beautiful. #fyp #wedding #weddingtiktok </content>
-    <link href="https://www.tiktok.com/@kristline__/video/7262431448609639726" rel="alternate"/>
-    <published>2023-08-01T19:03:21+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@kristline__/video/7264588106781805870</id>
     <title>Make dinner with me for bae &amp; me. Power by @Bloom Nutrition  __ I recently visited PR for the 2nd time and on this trip not only did I experience some new food but I was able to pick the chef brain on how  the cassava &amp; plantain was made, the texture was </title>
@@ -51,5 +35,21 @@
     <content>Making my husband his favorite ethnic Liberian dish. __ Kattley torborgee [ My  YouTube cooking show is now live on my channel] @kristline__  __ Side story.👇🏾  when we first started dating I was worried about giving him kittley because I thought he wouldn’t like it because of how different it might be to his taste buds; fast forward to a year &amp; half of dating, I mistakenly give him some and till this day, he can’t stop requesting this meal.  Watch my full YouTube video for more context.[link in bio</content>
     <link href="https://www.tiktok.com/@kristline__/video/7267191777776667950" rel="alternate"/>
     <published>2023-08-14T14:56:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@kristline__/video/7267923647648566574</id>
+    <title>Chocolate girls</title>
+    <updated>2023-08-16T14:15:50+00:00</updated>
+    <content>Chocolate girls</content>
+    <link href="https://www.tiktok.com/@kristline__/video/7267923647648566574" rel="alternate"/>
+    <published>2023-08-16T14:15:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@kristline__/video/7267931147286367534</id>
+    <title>POV: you are African and traditional wedding celebration are a must.</title>
+    <updated>2023-08-16T14:44:56+00:00</updated>
+    <content>POV: you are African and traditional wedding celebration are a must.</content>
+    <link href="https://www.tiktok.com/@kristline__/video/7267931147286367534" rel="alternate"/>
+    <published>2023-08-16T14:44:56+00:00</published>
   </entry>
 </feed>

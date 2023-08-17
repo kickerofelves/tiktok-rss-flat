@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@shibuya_kaho</id>
   <title>@shibuya_kaho | TikTok</title>
-  <updated>2023-08-16T04:02:15+00:00</updated>
+  <updated>2023-08-16T14:10:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @shibuya_kaho</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@shibuya_kaho/video/7263073938601790727</id>
-    <title>Finally went to #UniersalStudioHollywood ‼️The studio tour was amazing✨ イベント後にハリウッドユニバ行ってきました〜🦖 実際に撮影で使った映画ツアーは45分位と長いライドで最高の充実度(°▽°)</title>
-    <updated>2023-08-03T12:36:31+00:00</updated>
-    <content>Finally went to #UniersalStudioHollywood ‼️The studio tour was amazing✨ イベント後にハリウッドユニバ行ってきました〜🦖 実際に撮影で使った映画ツアーは45分位と長いライドで最高の充実度(°▽°)</content>
-    <link href="https://www.tiktok.com/@shibuya_kaho/video/7263073938601790727" rel="alternate"/>
-    <published>2023-08-03T12:36:31+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@shibuya_kaho/video/7264308563277794567</id>
     <title>Longer version than Twitter! #WorldCosplaySummit 2023, my first time, live-streaming as press, interviewed championship contestants👑 2日目の長尺版！名古屋で行われた世界コスプレサミット、配信者として取材してました(っ ॑꒳ ॑c) </title>
@@ -51,5 +43,13 @@
     <content>Nyagoya🐈 There is this amazing rescued cat cafe "Hidamari Go" in a bus!!  保護猫カフェ#ひだまり号 🌻</content>
     <link href="https://www.tiktok.com/@shibuya_kaho/video/7267765522215865601" rel="alternate"/>
     <published>2023-08-16T04:02:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@shibuya_kaho/video/7267922189054250242</id>
+    <title>Homemade Pastrami Sandwich...!! お肉がジューシー過ぎてもう🍔 #TheGoodVibes</title>
+    <updated>2023-08-16T14:10:05+00:00</updated>
+    <content>Homemade Pastrami Sandwich...!! お肉がジューシー過ぎてもう🍔 #TheGoodVibes</content>
+    <link href="https://www.tiktok.com/@shibuya_kaho/video/7267922189054250242" rel="alternate"/>
+    <published>2023-08-16T14:10:05+00:00</published>
   </entry>
 </feed>
