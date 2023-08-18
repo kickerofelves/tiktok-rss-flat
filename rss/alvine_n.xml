@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@alvine_n</id>
   <title>@alvine_n | TikTok</title>
-  <updated>2023-08-17T18:28:37+00:00</updated>
+  <updated>2023-08-18T17:20:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @alvine_n</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@alvine_n/video/7267617893875993888</id>
-    <title>Replying to @claudiapacheco around the world for strengthening your core &gt;🔥🔥🔥🔥</title>
-    <updated>2023-08-15T18:29:19+00:00</updated>
-    <content>Replying to @claudiapacheco around the world for strengthening your core &gt;🔥🔥🔥🔥</content>
-    <link href="https://www.tiktok.com/@alvine_n/video/7267617893875993888" rel="alternate"/>
-    <published>2023-08-15T18:29:19+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@alvine_n/video/7267626159532150049</id>
     <title>Replying to @Claudia Pacheco workout &amp; Nuttrition + private community for daily support and motivation firts link in bio ❤️❤️❤️</title>
@@ -51,5 +43,13 @@
     <content>Replying to @CocoChanel🦋🤍✨ 90-day challenge first link in my bio don’t forget to join my private community chat trough your settings ❤️#bodytransformation </content>
     <link href="https://www.tiktok.com/@alvine_n/video/7268359884675091745" rel="alternate"/>
     <published>2023-08-17T18:28:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@alvine_n/video/7268713373972417824</id>
+    <title>Replying to @Dims do you agree? </title>
+    <updated>2023-08-18T17:20:20+00:00</updated>
+    <content>Replying to @Dims do you agree? </content>
+    <link href="https://www.tiktok.com/@alvine_n/video/7268713373972417824" rel="alternate"/>
+    <published>2023-08-18T17:20:20+00:00</published>
   </entry>
 </feed>
