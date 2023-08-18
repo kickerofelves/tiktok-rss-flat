@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@shibuya_kaho</id>
   <title>@shibuya_kaho | TikTok</title>
-  <updated>2023-08-16T14:10:05+00:00</updated>
+  <updated>2023-08-17T14:12:46+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @shibuya_kaho</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@shibuya_kaho/video/7264308563277794567</id>
-    <title>Longer version than Twitter! #WorldCosplaySummit 2023, my first time, live-streaming as press, interviewed championship contestants👑 2日目の長尺版！名古屋で行われた世界コスプレサミット、配信者として取材してました(っ ॑꒳ ॑c) </title>
-    <updated>2023-08-06T20:27:32+00:00</updated>
-    <content>Longer version than Twitter! #WorldCosplaySummit 2023, my first time, live-streaming as press, interviewed championship contestants👑 2日目の長尺版！名古屋で行われた世界コスプレサミット、配信者として取材してました(っ ॑꒳ ॑c) </content>
-    <link href="https://www.tiktok.com/@shibuya_kaho/video/7264308563277794567" rel="alternate"/>
-    <published>2023-08-06T20:27:32+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@shibuya_kaho/video/7264891309448547591</id>
     <title>So many nice options for food in Hawaii🤤 ハワイの食事には美味しくて素敵な場所が多過ぎて、胃袋が足りなかったです‥ @ruthschrishi @redfishpoke @veinatkakaako #ロカヒハワイ #未来集団 #ハワイ #旅行 #PR</title>
@@ -51,5 +43,13 @@
     <content>Homemade Pastrami Sandwich...!! お肉がジューシー過ぎてもう🍔 #TheGoodVibes</content>
     <link href="https://www.tiktok.com/@shibuya_kaho/video/7267922189054250242" rel="alternate"/>
     <published>2023-08-16T14:10:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@shibuya_kaho/video/7268293961821850881</id>
+    <title>Things that I've been working on •new songs •game collab •anime VA + theme song •clothing &amp; bathing suit design and more! Currently watching Toho Spiderman from 1978 and playing Lost Judgement!! やることが多過ぎて混乱してきたので、まとめてみました‥早く発表できるよう頑張ります💪</title>
+    <updated>2023-08-17T14:12:46+00:00</updated>
+    <content>Things that I've been working on •new songs •game collab •anime VA + theme song •clothing &amp; bathing suit design and more! Currently watching Toho Spiderman from 1978 and playing Lost Judgement!! やることが多過ぎて混乱してきたので、まとめてみました‥早く発表できるよう頑張ります💪</content>
+    <link href="https://www.tiktok.com/@shibuya_kaho/video/7268293961821850881" rel="alternate"/>
+    <published>2023-08-17T14:12:46+00:00</published>
   </entry>
 </feed>
