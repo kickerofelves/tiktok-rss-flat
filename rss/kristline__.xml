@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@kristline__</id>
   <title>@kristline__ | TikTok</title>
-  <updated>2023-08-17T13:52:17+00:00</updated>
+  <updated>2023-08-18T12:29:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kristline__</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@kristline__/video/7264965877664124203</id>
-    <title>Today was one of those days where I was not feeling my best and My husband decided to pick up my favorite salad bowl for lunch from @panerabread. Their Southwest Chicken Caesar has been my go to lately. Nothing beats a delicious and healthy meal all in on</title>
-    <updated>2023-08-08T14:58:11+00:00</updated>
-    <content>Today was one of those days where I was not feeling my best and My husband decided to pick up my favorite salad bowl for lunch from @panerabread. Their Southwest Chicken Caesar has been my go to lately. Nothing beats a delicious and healthy meal all in one package.</content>
-    <link href="https://www.tiktok.com/@kristline__/video/7264965877664124203" rel="alternate"/>
-    <published>2023-08-08T14:58:11+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@kristline__/video/7267191777776667950</id>
     <title>Making my husband his favorite ethnic Liberian dish. __ Kattley torborgee [ My  YouTube cooking show is now live on my channel] @kristline__  __ Side story.👇🏾  when we first started dating I was worried about giving him kittley because I thought he wouldn</title>
@@ -51,5 +43,13 @@
     <content>Cook dinner with me for 2 #fyp  My cook book is now open for preorders (click the link in my bio)</content>
     <link href="https://www.tiktok.com/@kristline__/video/7268288661660142891" rel="alternate"/>
     <published>2023-08-17T13:52:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@kristline__/video/7268638386112515370</id>
+    <title>Day 2 of my birthday week in Greece 🇬🇷  __ Toast to another healthy and blissful year of life to me. #birthdayfit  __ Custom dress by @Kdkollections </title>
+    <updated>2023-08-18T12:29:50+00:00</updated>
+    <content>Day 2 of my birthday week in Greece 🇬🇷  __ Toast to another healthy and blissful year of life to me. #birthdayfit  __ Custom dress by @Kdkollections </content>
+    <link href="https://www.tiktok.com/@kristline__/video/7268638386112515370" rel="alternate"/>
+    <published>2023-08-18T12:29:50+00:00</published>
   </entry>
 </feed>
