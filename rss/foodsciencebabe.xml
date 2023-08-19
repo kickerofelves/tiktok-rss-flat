@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@foodsciencebabe</id>
   <title>@foodsciencebabe | TikTok</title>
-  <updated>2023-08-04T18:15:42+00:00</updated>
+  <updated>2023-08-18T19:38:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @foodsciencebabe</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@foodsciencebabe/video/7260194676563594539</id>
-    <title>Replying to @Cancel Pizza Cancelling pizza is ridiculous. ❤ to keep pizza &amp; “uncancel” MSG #AjiPartner #CancelPizza @KnowMSG </title>
-    <updated>2023-07-26T18:23:26+00:00</updated>
-    <content>Replying to @Cancel Pizza Cancelling pizza is ridiculous. ❤ to keep pizza &amp; “uncancel” MSG #AjiPartner #CancelPizza @KnowMSG </content>
-    <link href="https://www.tiktok.com/@foodsciencebabe/video/7260194676563594539" rel="alternate"/>
-    <published>2023-07-26T18:23:26+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@foodsciencebabe/video/7260597445413850414</id>
     <title>#stitch with  @Liam Nixtamalization is a traditional maize preparation process in which dried kernels are cooked and steeped in an alkaline solution, usually water and food-grade lime (calcium hydroxide). #factsnotfear #processedfoood #flavcity #foodscien</title>
@@ -51,5 +43,13 @@
     <content>These arguments always give me a good chuckle 🤭 #foodscience #foodscientist #factsnotfear #sciencecommunication </content>
     <link href="https://www.tiktok.com/@foodsciencebabe/video/7263532400867659051" rel="alternate"/>
     <published>2023-08-04T18:15:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@foodsciencebabe/video/7268748985207246123</id>
+    <title>#stitch with  @createsure #picklegate explained!</title>
+    <updated>2023-08-18T19:38:35+00:00</updated>
+    <content>#stitch with  @createsure #picklegate explained!</content>
+    <link href="https://www.tiktok.com/@foodsciencebabe/video/7268748985207246123" rel="alternate"/>
+    <published>2023-08-18T19:38:35+00:00</published>
   </entry>
 </feed>
