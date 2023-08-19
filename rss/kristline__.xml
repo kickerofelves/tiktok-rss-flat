@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@kristline__</id>
   <title>@kristline__ | TikTok</title>
-  <updated>2023-08-18T12:29:50+00:00</updated>
+  <updated>2023-08-19T12:52:31+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kristline__</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@kristline__/video/7267191777776667950</id>
-    <title>Making my husband his favorite ethnic Liberian dish. __ Kattley torborgee [ My  YouTube cooking show is now live on my channel] @kristline__  __ Side story.👇🏾  when we first started dating I was worried about giving him kittley because I thought he wouldn</title>
-    <updated>2023-08-14T14:56:02+00:00</updated>
-    <content>Making my husband his favorite ethnic Liberian dish. __ Kattley torborgee [ My  YouTube cooking show is now live on my channel] @kristline__  __ Side story.👇🏾  when we first started dating I was worried about giving him kittley because I thought he wouldn’t like it because of how different it might be to his taste buds; fast forward to a year &amp; half of dating, I mistakenly give him some and till this day, he can’t stop requesting this meal.  Watch my full YouTube video for more context.[link in bio</content>
-    <link href="https://www.tiktok.com/@kristline__/video/7267191777776667950" rel="alternate"/>
-    <published>2023-08-14T14:56:02+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@kristline__/video/7267923647648566574</id>
     <title>Chocolate girls</title>
@@ -51,5 +43,13 @@
     <content>Day 2 of my birthday week in Greece 🇬🇷  __ Toast to another healthy and blissful year of life to me. #birthdayfit  __ Custom dress by @Kdkollections </content>
     <link href="https://www.tiktok.com/@kristline__/video/7268638386112515370" rel="alternate"/>
     <published>2023-08-18T12:29:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@kristline__/video/7269015318712831274</id>
+    <title>POV: receiving the best birthday present ever. My husband surprised me with volume 2 of my cook book with our wedding photos on it.🥺 This is the most thoughtful and sweetest thing ever. I love it. Thank you so much BaBa 😘 ___ Side story: My husband is the</title>
+    <updated>2023-08-19T12:52:31+00:00</updated>
+    <content>POV: receiving the best birthday present ever. My husband surprised me with volume 2 of my cook book with our wedding photos on it.🥺 This is the most thoughtful and sweetest thing ever. I love it. Thank you so much BaBa 😘 ___ Side story: My husband is the editor and designer of my cookbooks. </content>
+    <link href="https://www.tiktok.com/@kristline__/video/7269015318712831274" rel="alternate"/>
+    <published>2023-08-19T12:52:31+00:00</published>
   </entry>
 </feed>
