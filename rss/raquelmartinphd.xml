@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@raquelmartinphd</id>
   <title>@raquelmartinphd | TikTok</title>
-  <updated>2023-08-19T02:07:16+00:00</updated>
+  <updated>2023-08-19T18:30:11+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @raquelmartinphd</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@raquelmartinphd/video/7267632784636661034</id>
-    <title>[no title]</title>
-    <updated>2023-08-15T19:27:07+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@raquelmartinphd/video/7267632784636661034" rel="alternate"/>
-    <published>2023-08-15T19:27:07+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@raquelmartinphd/video/7268010656618548522</id>
-    <title>This is a throwback yall. Im not pregnant. #mentalhealth #educational #learnontiktok #tipsandtricks </title>
-    <updated>2023-08-16T19:53:28+00:00</updated>
-    <content>This is a throwback yall. Im not pregnant. #mentalhealth #educational #learnontiktok #tipsandtricks </content>
-    <link href="https://www.tiktok.com/@raquelmartinphd/video/7268010656618548522" rel="alternate"/>
-    <published>2023-08-16T19:53:28+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@raquelmartinphd/video/7268102154651569454</id>
-    <title>#momsoftiktok #toddlers </title>
-    <updated>2023-08-17T01:48:29+00:00</updated>
-    <content>#momsoftiktok #toddlers </content>
-    <link href="https://www.tiktok.com/@raquelmartinphd/video/7268102154651569454" rel="alternate"/>
-    <published>2023-08-17T01:48:29+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@raquelmartinphd/video/7268419145295875370</id>
     <title>#tipsandtricks </title>
@@ -51,5 +27,29 @@
     <content>#mentalhealth #bipolar #themoreyouknow </content>
     <link href="https://www.tiktok.com/@raquelmartinphd/video/7268849157857660203" rel="alternate"/>
     <published>2023-08-19T02:07:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@raquelmartinphd/video/7269045894115314986</id>
+    <title>What does pro Black mean to you? </title>
+    <updated>2023-08-19T14:50:53+00:00</updated>
+    <content>What does pro Black mean to you? </content>
+    <link href="https://www.tiktok.com/@raquelmartinphd/video/7269045894115314986" rel="alternate"/>
+    <published>2023-08-19T14:50:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@raquelmartinphd/video/7269069993026047278</id>
+    <title>#stitch with @RougeWorld </title>
+    <updated>2023-08-19T16:24:26+00:00</updated>
+    <content>#stitch with @RougeWorld </content>
+    <link href="https://www.tiktok.com/@raquelmartinphd/video/7269069993026047278" rel="alternate"/>
+    <published>2023-08-19T16:24:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@raquelmartinphd/video/7269102439377407278</id>
+    <title>#parenting </title>
+    <updated>2023-08-19T18:30:11+00:00</updated>
+    <content>#parenting </content>
+    <link href="https://www.tiktok.com/@raquelmartinphd/video/7269102439377407278" rel="alternate"/>
+    <published>2023-08-19T18:30:11+00:00</published>
   </entry>
 </feed>
