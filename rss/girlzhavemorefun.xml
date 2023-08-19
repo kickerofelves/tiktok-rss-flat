@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@girlzhavemorefun</id>
   <title>@girlzhavemorefun | TikTok</title>
-  <updated>2023-08-16T17:30:12+00:00</updated>
+  <updated>2023-08-19T00:28:15+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @girlzhavemorefun</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@girlzhavemorefun/video/7267294552132685098</id>
-    <title>Girl you know iiiii #viral #fyp #acegirlsonly #headlights </title>
-    <updated>2023-08-14T21:34:41+00:00</updated>
-    <content>Girl you know iiiii #viral #fyp #acegirlsonly #headlights </content>
-    <link href="https://www.tiktok.com/@girlzhavemorefun/video/7267294552132685098" rel="alternate"/>
-    <published>2023-08-14T21:34:41+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@girlzhavemorefun/video/7267551942610537771</id>
     <title>#fyp #viral #acegirlsonly </title>
@@ -51,5 +43,13 @@
     <content>Ughhh #fyp #acegirlsonly #viral #men </content>
     <link href="https://www.tiktok.com/@girlzhavemorefun/video/7267973716087278891" rel="alternate"/>
     <published>2023-08-16T17:30:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@girlzhavemorefun/video/7268823634091822379</id>
+    <title>Feelin like a gma in these pjs lol #fyp #acegirlsonly #viral #trending </title>
+    <updated>2023-08-19T00:28:15+00:00</updated>
+    <content>Feelin like a gma in these pjs lol #fyp #acegirlsonly #viral #trending </content>
+    <link href="https://www.tiktok.com/@girlzhavemorefun/video/7268823634091822379" rel="alternate"/>
+    <published>2023-08-19T00:28:15+00:00</published>
   </entry>
 </feed>
