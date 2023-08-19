@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@circusfaery33</id>
   <title>@circusfaery33 | TikTok</title>
-  <updated>2023-08-18T01:51:21+00:00</updated>
+  <updated>2023-08-18T21:58:37+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @circusfaery33</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7268327627205774638</id>
-    <title>#stitch with @Stephen Hilton Targeting children to politicize their existence is vile. #protecttranskids #protecttranslives #lqbtqia </title>
-    <updated>2023-08-17T16:23:33+00:00</updated>
-    <content>#stitch with @Stephen Hilton Targeting children to politicize their existence is vile. #protecttranskids #protecttranslives #lqbtqia </content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7268327627205774638" rel="alternate"/>
-    <published>2023-08-17T16:23:33+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7268331079965150506</id>
-    <title>#stitch with @Stephen Hilton There's a difference between not having children and disowning them. #protecttranskids </title>
-    <updated>2023-08-17T16:36:54+00:00</updated>
-    <content>#stitch with @Stephen Hilton There's a difference between not having children and disowning them. #protecttranskids </content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7268331079965150506" rel="alternate"/>
-    <published>2023-08-17T16:36:54+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7268360665964743978</id>
-    <title>Replying to @Me You are aware that there are trans veterans, right? How limited is your capacity for care that you think this is an either or issue? </title>
-    <updated>2023-08-17T18:31:41+00:00</updated>
-    <content>Replying to @Me You are aware that there are trans veterans, right? How limited is your capacity for care that you think this is an either or issue? </content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7268360665964743978" rel="alternate"/>
-    <published>2023-08-17T18:31:41+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@circusfaery33/video/7268464856037117230</id>
     <title>Replying to @Me As predicted, you don't actually care about veterans. You disrespect veterans by using them to push your transphobia.</title>
@@ -51,5 +27,29 @@
     <content>#stitch with @blacademics Thank you, Evan! </content>
     <link href="https://www.tiktok.com/@circusfaery33/video/7268473964756946222" rel="alternate"/>
     <published>2023-08-18T01:51:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7268689203012062506</id>
+    <title>Replying to @Oranges Same answer as usual--Western colonization, interference and greed. </title>
+    <updated>2023-08-18T15:46:36+00:00</updated>
+    <content>Replying to @Oranges Same answer as usual--Western colonization, interference and greed. </content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7268689203012062506" rel="alternate"/>
+    <published>2023-08-18T15:46:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7268760094513433898</id>
+    <title>Replying to @Otis_the_dachshund And it lies especially heavy in those who codified the superiority of their color of skin into law to justify systematic destruction of the fragile civilizations, love and peace of other people. </title>
+    <updated>2023-08-18T20:21:42+00:00</updated>
+    <content>Replying to @Otis_the_dachshund And it lies especially heavy in those who codified the superiority of their color of skin into law to justify systematic destruction of the fragile civilizations, love and peace of other people. </content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7268760094513433898" rel="alternate"/>
+    <published>2023-08-18T20:21:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7268785078254210346</id>
+    <title>Replying to @bludnut It's the myth of meritocracy that upholds ✉️ supremacy. A true meritocracy would probably dismantle ✉️ suprremacy. </title>
+    <updated>2023-08-18T21:58:37+00:00</updated>
+    <content>Replying to @bludnut It's the myth of meritocracy that upholds ✉️ supremacy. A true meritocracy would probably dismantle ✉️ suprremacy. </content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7268785078254210346" rel="alternate"/>
+    <published>2023-08-18T21:58:37+00:00</published>
   </entry>
 </feed>
