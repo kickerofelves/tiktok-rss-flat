@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@kathryn.celestre</id>
   <title>@kathryn.celestre | TikTok</title>
-  <updated>2023-08-18T20:57:44+00:00</updated>
+  <updated>2023-08-19T12:07:46+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -37,19 +37,19 @@
     <published>2023-08-12T14:14:28+00:00</published>
   </entry>
   <entry>
-    <id>https://www.tiktok.com/@kathryn.celestre/video/7268330878089186603</id>
-    <title>Added my own twist to it 😭</title>
-    <updated>2023-08-17T16:36:08+00:00</updated>
-    <content>Added my own twist to it 😭</content>
-    <link href="https://www.tiktok.com/@kathryn.celestre/video/7268330878089186603" rel="alternate"/>
-    <published>2023-08-17T16:36:08+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.tiktok.com/@kathryn.celestre/video/7268769390202621230</id>
     <title>TURN THAT SHI UP 🦟🐜🦟🐜🦟🐜🦟🐜</title>
     <updated>2023-08-18T20:57:44+00:00</updated>
     <content>TURN THAT SHI UP 🦟🐜🦟🐜🦟🐜🦟🐜</content>
     <link href="https://www.tiktok.com/@kathryn.celestre/video/7268769390202621230" rel="alternate"/>
     <published>2023-08-18T20:57:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@kathryn.celestre/video/7269003788516674862</id>
+    <title>My Power🐉</title>
+    <updated>2023-08-19T12:07:46+00:00</updated>
+    <content>My Power🐉</content>
+    <link href="https://www.tiktok.com/@kathryn.celestre/video/7269003788516674862" rel="alternate"/>
+    <published>2023-08-19T12:07:46+00:00</published>
   </entry>
 </feed>
