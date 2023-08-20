@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mzkora</id>
   <title>@mzkora | TikTok</title>
-  <updated>2023-08-18T00:58:05+00:00</updated>
+  <updated>2023-08-20T18:32:53+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @mzkora</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@mzkora/video/7267296297311374634</id>
-    <title>#SONICPartner Fueling up for the new school year with @SONIC Drive-In 🍔🍟 Remember, every sip helps make a difference, as SONIC donates a portion of proceeds from drink purchases back to support local schools!! 📚 @DonorsChoose #sonicdrivein #backtoschool</title>
-    <updated>2023-08-14T21:41:29+00:00</updated>
-    <content>#SONICPartner Fueling up for the new school year with @SONIC Drive-In 🍔🍟 Remember, every sip helps make a difference, as SONIC donates a portion of proceeds from drink purchases back to support local schools!! 📚 @DonorsChoose #sonicdrivein #backtoschool</content>
-    <link href="https://www.tiktok.com/@mzkora/video/7267296297311374634" rel="alternate"/>
-    <published>2023-08-14T21:41:29+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@mzkora/video/7267661134734314795</id>
     <title>Replying to @Neha Mahajan Gave my kids freedom to be who they wanted to be and to embrace whatever they choose. #fypシ #fyp #momof9 #largefamily #familyof10 #grownkids #teenagers #culture #indian #trinidad </title>
@@ -51,5 +43,13 @@
     <content>I love all these fits from @Savage X Fenty ! I am obsessed! I can start working out in 1 week! I cant wait!! 💪🏽💪🏽 #momof9 #fypシ #fyp #momsoftiktok #indian #savagexfenty #workoutfits #gymfits #fitness </content>
     <link href="https://www.tiktok.com/@mzkora/video/7268460242877304107" rel="alternate"/>
     <published>2023-08-18T00:58:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@mzkora/video/7269474212211871022</id>
+    <title>These kids need to “Quit playing games with my heart.” Because “Everybody” is going to be without Wi-Fi! #momof9 #fypシ #fyp #parentsoftiktok #parenting #familyof10 #whodiditbetter #kidsoftiktok #comedyskit #itwasntme </title>
+    <updated>2023-08-20T18:32:53+00:00</updated>
+    <content>These kids need to “Quit playing games with my heart.” Because “Everybody” is going to be without Wi-Fi! #momof9 #fypシ #fyp #parentsoftiktok #parenting #familyof10 #whodiditbetter #kidsoftiktok #comedyskit #itwasntme </content>
+    <link href="https://www.tiktok.com/@mzkora/video/7269474212211871022" rel="alternate"/>
+    <published>2023-08-20T18:32:53+00:00</published>
   </entry>
 </feed>
