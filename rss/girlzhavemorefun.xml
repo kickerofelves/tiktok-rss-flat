@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@girlzhavemorefun</id>
   <title>@girlzhavemorefun | TikTok</title>
-  <updated>2023-08-19T00:28:15+00:00</updated>
+  <updated>2023-08-19T22:25:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @girlzhavemorefun</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@girlzhavemorefun/video/7267551942610537771</id>
-    <title>#fyp #viral #acegirlsonly </title>
-    <updated>2023-08-15T14:13:26+00:00</updated>
-    <content>#fyp #viral #acegirlsonly </content>
-    <link href="https://www.tiktok.com/@girlzhavemorefun/video/7267551942610537771" rel="alternate"/>
-    <published>2023-08-15T14:13:26+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@girlzhavemorefun/video/7267686156471389483</id>
-    <title>Finally back home #fyp #viral #acegirlsonly </title>
-    <updated>2023-08-15T22:54:18+00:00</updated>
-    <content>Finally back home #fyp #viral #acegirlsonly </content>
-    <link href="https://www.tiktok.com/@girlzhavemorefun/video/7267686156471389483" rel="alternate"/>
-    <published>2023-08-15T22:54:18+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@girlzhavemorefun/video/7267686839602007339</id>
     <title>Fav song rn #fyp #viral #acegirlsonly #travisscott </title>
@@ -51,5 +35,21 @@
     <content>Feelin like a gma in these pjs lol #fyp #acegirlsonly #viral #trending </content>
     <link href="https://www.tiktok.com/@girlzhavemorefun/video/7268823634091822379" rel="alternate"/>
     <published>2023-08-19T00:28:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@girlzhavemorefun/video/7269161183012228395</id>
+    <title>#fyp #acegirlsonly #viral #trending </title>
+    <updated>2023-08-19T22:18:08+00:00</updated>
+    <content>#fyp #acegirlsonly #viral #trending </content>
+    <link href="https://www.tiktok.com/@girlzhavemorefun/video/7269161183012228395" rel="alternate"/>
+    <published>2023-08-19T22:18:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@girlzhavemorefun/video/7269162957743934762</id>
+    <title>#fyp #acegirlsonly #viral #trending </title>
+    <updated>2023-08-19T22:25:05+00:00</updated>
+    <content>#fyp #acegirlsonly #viral #trending </content>
+    <link href="https://www.tiktok.com/@girlzhavemorefun/video/7269162957743934762" rel="alternate"/>
+    <published>2023-08-19T22:25:05+00:00</published>
   </entry>
 </feed>
