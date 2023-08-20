@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@annarennsworld</id>
   <title>@annarennsworld | TikTok</title>
-  <updated>2023-08-19T19:42:33+00:00</updated>
+  <updated>2023-08-20T18:57:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @annarennsworld</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@annarennsworld/video/7268740265727282475</id>
-    <title>[no title]</title>
-    <updated>2023-08-18T19:04:44+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@annarennsworld/video/7268740265727282475" rel="alternate"/>
-    <published>2023-08-18T19:04:44+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@annarennsworld/video/7269120479154195754</id>
-    <title>Because how tf dare u laugh for another women what was so funny😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂🤨😂😂🤨🤨</title>
-    <updated>2023-08-19T19:40:16+00:00</updated>
-    <content>Because how tf dare u laugh for another women what was so funny😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂🤨😂😂🤨🤨</content>
-    <link href="https://www.tiktok.com/@annarennsworld/video/7269120479154195754" rel="alternate"/>
-    <published>2023-08-19T19:40:16+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@annarennsworld/video/7269120927932222763</id>
-    <title>Replying to @bearsbeets04 lmk if you guys want links to everything I mentioned in the video!! Also leave some body care/beauty tips because we don’t gatekeep around hereee</title>
-    <updated>2023-08-19T19:41:59+00:00</updated>
-    <content>Replying to @bearsbeets04 lmk if you guys want links to everything I mentioned in the video!! Also leave some body care/beauty tips because we don’t gatekeep around hereee</content>
-    <link href="https://www.tiktok.com/@annarennsworld/video/7269120927932222763" rel="alternate"/>
-    <published>2023-08-19T19:41:59+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@annarennsworld/video/7269120989114518827</id>
     <title>My sister got me this light for my bday and I’m in love alix earl was right  #alixearllight </title>
@@ -51,5 +27,29 @@
     <content>Replying to @Britany Osorto especially for hair😭😭</content>
     <link href="https://www.tiktok.com/@annarennsworld/video/7269121068554734894" rel="alternate"/>
     <published>2023-08-19T19:42:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@annarennsworld/video/7269466926378798378</id>
+    <title>HELP</title>
+    <updated>2023-08-20T18:04:33+00:00</updated>
+    <content>HELP</content>
+    <link href="https://www.tiktok.com/@annarennsworld/video/7269466926378798378" rel="alternate"/>
+    <published>2023-08-20T18:04:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@annarennsworld/video/7269478538758147374</id>
+    <title>GIRL DINNEERRRRR </title>
+    <updated>2023-08-20T18:49:36+00:00</updated>
+    <content>GIRL DINNEERRRRR </content>
+    <link href="https://www.tiktok.com/@annarennsworld/video/7269478538758147374" rel="alternate"/>
+    <published>2023-08-20T18:49:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@annarennsworld/video/7269480454674222378</id>
+    <title>U LOOK LIKE NO🙈</title>
+    <updated>2023-08-20T18:57:05+00:00</updated>
+    <content>U LOOK LIKE NO🙈</content>
+    <link href="https://www.tiktok.com/@annarennsworld/video/7269480454674222378" rel="alternate"/>
+    <published>2023-08-20T18:57:05+00:00</published>
   </entry>
 </feed>
