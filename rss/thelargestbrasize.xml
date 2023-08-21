@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@thelargestbrasize</id>
   <title>@thelargestbrasize | TikTok</title>
-  <updated>2023-08-17T15:47:36+00:00</updated>
+  <updated>2023-08-20T19:19:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @thelargestbrasize</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@thelargestbrasize/video/7263929756326972705</id>
-    <title>[no title]</title>
-    <updated>2023-08-05T19:57:26+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@thelargestbrasize/video/7263929756326972705" rel="alternate"/>
-    <published>2023-08-05T19:57:26+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@thelargestbrasize/video/7265025908220677409</id>
-    <title>[no title]</title>
-    <updated>2023-08-08T18:51:02+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@thelargestbrasize/video/7265025908220677409" rel="alternate"/>
-    <published>2023-08-08T18:51:02+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@thelargestbrasize/video/7266519329330466080</id>
-    <title>[no title]</title>
-    <updated>2023-08-12T19:26:19+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@thelargestbrasize/video/7266519329330466080" rel="alternate"/>
-    <published>2023-08-12T19:26:19+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@thelargestbrasize/video/7267193139541052705</id>
     <title>[no title]</title>
@@ -51,5 +27,29 @@
     <content>[no description]</content>
     <link href="https://www.tiktok.com/@thelargestbrasize/video/7268318398847765793" rel="alternate"/>
     <published>2023-08-17T15:47:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@thelargestbrasize/video/7269473111718825249</id>
+    <title>[no title]</title>
+    <updated>2023-08-20T18:28:29+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@thelargestbrasize/video/7269473111718825249" rel="alternate"/>
+    <published>2023-08-20T18:28:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@thelargestbrasize/video/7269486232445390112</id>
+    <title>[no title]</title>
+    <updated>2023-08-20T19:19:22+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@thelargestbrasize/video/7269486232445390112" rel="alternate"/>
+    <published>2023-08-20T19:19:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@thelargestbrasize/video/7269486305258573089</id>
+    <title>[no title]</title>
+    <updated>2023-08-20T19:19:42+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@thelargestbrasize/video/7269486305258573089" rel="alternate"/>
+    <published>2023-08-20T19:19:42+00:00</published>
   </entry>
 </feed>

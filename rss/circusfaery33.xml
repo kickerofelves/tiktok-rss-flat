@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@circusfaery33</id>
   <title>@circusfaery33 | TikTok</title>
-  <updated>2023-08-20T01:24:54+00:00</updated>
+  <updated>2023-08-21T00:42:15+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @circusfaery33</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7269031810200243498</id>
-    <title>Replying to @krimess 'Be specific' from somebody who mixed up Attila the Hun amd Genghis Khan...welll...I hope you can see the irony and laugh with us. </title>
-    <updated>2023-08-19T13:56:24+00:00</updated>
-    <content>Replying to @krimess 'Be specific' from somebody who mixed up Attila the Hun amd Genghis Khan...welll...I hope you can see the irony and laugh with us. </content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7269031810200243498" rel="alternate"/>
-    <published>2023-08-19T13:56:24+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7269111927429664043</id>
-    <title>Replying to @Got And what if you do? In a society with  94% approval raiting of interracial relationship, that has made strides towards respecting the autonomy of women--but bigots throw all that right out the window when it comes to Asian women. </title>
-    <updated>2023-08-19T19:06:58+00:00</updated>
-    <content>Replying to @Got And what if you do? In a society with  94% approval raiting of interracial relationship, that has made strides towards respecting the autonomy of women--but bigots throw all that right out the window when it comes to Asian women. </content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7269111927429664043" rel="alternate"/>
-    <published>2023-08-19T19:06:58+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7269172529854614830</id>
-    <title>Replying to @BigRedEB You are free to have differing views from mine, but you are not free to impose them on me. </title>
-    <updated>2023-08-19T23:02:10+00:00</updated>
-    <content>Replying to @BigRedEB You are free to have differing views from mine, but you are not free to impose them on me. </content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7269172529854614830" rel="alternate"/>
-    <published>2023-08-19T23:02:10+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@circusfaery33/video/7269204628217023786</id>
     <title>Replying to @BigRedEB Well, then it's a good thing for me that all of those support my nonbinary existence. </title>
@@ -51,5 +27,29 @@
     <content>Replying to @BigRedEB Binary gender was a pollitcally imposed rule of ✉️ colonizers. </content>
     <link href="https://www.tiktok.com/@circusfaery33/video/7269209307030326571" rel="alternate"/>
     <published>2023-08-20T01:24:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7269513447895797034</id>
+    <title>Replying to @bludnut I'm not surprised that both videos went over your head. #asianamerican #modelminority #antiracism #solidarity </title>
+    <updated>2023-08-20T21:05:07+00:00</updated>
+    <content>Replying to @bludnut I'm not surprised that both videos went over your head. #asianamerican #modelminority #antiracism #solidarity </content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7269513447895797034" rel="alternate"/>
+    <published>2023-08-20T21:05:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7269518555786349867</id>
+    <title>Replying to @6six六 Did that cause Singapore to grow legs and walk east?! </title>
+    <updated>2023-08-20T21:24:57+00:00</updated>
+    <content>Replying to @6six六 Did that cause Singapore to grow legs and walk east?! </content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7269518555786349867" rel="alternate"/>
+    <published>2023-08-20T21:24:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7269569393892363566</id>
+    <title>Replying to @Got Ethiopia ✔️ I wasn't able to find the others--can you help me out and tell me which countries they are? </title>
+    <updated>2023-08-21T00:42:15+00:00</updated>
+    <content>Replying to @Got Ethiopia ✔️ I wasn't able to find the others--can you help me out and tell me which countries they are? </content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7269569393892363566" rel="alternate"/>
+    <published>2023-08-21T00:42:15+00:00</published>
   </entry>
 </feed>
