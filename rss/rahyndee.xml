@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rahyndee</id>
   <title>@rahyndee | TikTok</title>
-  <updated>2023-08-19T23:32:00+00:00</updated>
+  <updated>2023-08-21T00:41:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @rahyndee</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@rahyndee/video/7268332080369618207</id>
-    <title>LouBalance  X Rahyndee 🖤🤍 #fyp #putinbayohio #putinbayisland #slowmotion </title>
-    <updated>2023-08-17T16:40:51+00:00</updated>
-    <content>LouBalance  X Rahyndee 🖤🤍 #fyp #putinbayohio #putinbayisland #slowmotion </content>
-    <link href="https://www.tiktok.com/@rahyndee/video/7268332080369618207" rel="alternate"/>
-    <published>2023-08-17T16:40:51+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@rahyndee/video/7268360250443468062</id>
     <title>Off Grid showers are the best 😏 #fyp #offgridliving #rustic #outdoorshower </title>
@@ -51,5 +43,13 @@
     <content>Some people feel the rain &amp; the others just get wet ✨ #rainyday #letitrain #puremichigan #fyp </content>
     <link href="https://www.tiktok.com/@rahyndee/video/7269180186879331615" rel="alternate"/>
     <published>2023-08-19T23:32:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@rahyndee/video/7269569078476459295</id>
+    <title>Another day another Petoski stone 🫠💦 #puremichigan #lakelife #beachbabe #fyp </title>
+    <updated>2023-08-21T00:41:10+00:00</updated>
+    <content>Another day another Petoski stone 🫠💦 #puremichigan #lakelife #beachbabe #fyp </content>
+    <link href="https://www.tiktok.com/@rahyndee/video/7269569078476459295" rel="alternate"/>
+    <published>2023-08-21T00:41:10+00:00</published>
   </entry>
 </feed>

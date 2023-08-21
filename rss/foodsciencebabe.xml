@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@foodsciencebabe</id>
   <title>@foodsciencebabe | TikTok</title>
-  <updated>2023-08-18T19:38:35+00:00</updated>
+  <updated>2023-08-20T20:16:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @foodsciencebabe</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@foodsciencebabe/video/7260597445413850414</id>
-    <title>#stitch with  @Liam Nixtamalization is a traditional maize preparation process in which dried kernels are cooked and steeped in an alkaline solution, usually water and food-grade lime (calcium hydroxide). #factsnotfear #processedfoood #flavcity #foodscien</title>
-    <updated>2023-07-27T20:26:29+00:00</updated>
-    <content>#stitch with  @Liam Nixtamalization is a traditional maize preparation process in which dried kernels are cooked and steeped in an alkaline solution, usually water and food-grade lime (calcium hydroxide). #factsnotfear #processedfoood #flavcity #foodscience </content>
-    <link href="https://www.tiktok.com/@foodsciencebabe/video/7260597445413850414" rel="alternate"/>
-    <published>2023-07-27T20:26:29+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@foodsciencebabe/video/7262067357634415914</id>
     <title>What’s your favorite almond texture? This study (PMID 24962063), which measured sensory texture attributes of 5 types of almonds (blanched slivered, natural sliced, whole blanched, whole dry roasted, and natural whole) conditioned at 4 different moisture </title>
@@ -51,5 +43,13 @@
     <content>#stitch with  @createsure #picklegate explained!</content>
     <link href="https://www.tiktok.com/@foodsciencebabe/video/7268748985207246123" rel="alternate"/>
     <published>2023-08-18T19:38:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@foodsciencebabe/video/7269500948597214510</id>
+    <title>Replying to @Trista French  1. It has to have dill (herb or flavor) to be labeled “dill” on the front of the package.  2. A container of pickles does not have to contain dill to be labeled as “pickles” on the front of the package. 3. Dill may be listed as</title>
+    <updated>2023-08-20T20:16:33+00:00</updated>
+    <content>Replying to @Trista French  1. It has to have dill (herb or flavor) to be labeled “dill” on the front of the package.  2. A container of pickles does not have to contain dill to be labeled as “pickles” on the front of the package. 3. Dill may be listed as “spice” or “natural flavor” in the ingredient declaration, so even if dill is added, it may not be listed as “dill” on the ingredient declaration. 4. Yes, I said pickles a lot in this video  🙃  #picklegate #pickle #pickles #foodlabels #foodscience #greenscreen </content>
+    <link href="https://www.tiktok.com/@foodsciencebabe/video/7269500948597214510" rel="alternate"/>
+    <published>2023-08-20T20:16:33+00:00</published>
   </entry>
 </feed>
