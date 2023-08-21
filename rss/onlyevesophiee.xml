@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@onlyevesophiee</id>
   <title>@onlyevesophiee | TikTok</title>
-  <updated>2023-08-20T10:08:12+00:00</updated>
+  <updated>2023-08-20T19:11:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @onlyevesophiee</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@onlyevesophiee/video/7268790765797608736</id>
-    <title>Can i come in?</title>
-    <updated>2023-08-18T22:20:40+00:00</updated>
-    <content>Can i come in?</content>
-    <link href="https://www.tiktok.com/@onlyevesophiee/video/7268790765797608736" rel="alternate"/>
-    <published>2023-08-18T22:20:40+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@onlyevesophiee/video/7269038102398684449</id>
     <title>#onthisday </title>
@@ -51,5 +43,13 @@
     <content>I never wear those things </content>
     <link href="https://www.tiktok.com/@onlyevesophiee/video/7269344187307265313" rel="alternate"/>
     <published>2023-08-20T10:08:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@onlyevesophiee/video/7269484098354220320</id>
+    <title>New bikini </title>
+    <updated>2023-08-20T19:11:09+00:00</updated>
+    <content>New bikini </content>
+    <link href="https://www.tiktok.com/@onlyevesophiee/video/7269484098354220320" rel="alternate"/>
+    <published>2023-08-20T19:11:09+00:00</published>
   </entry>
 </feed>
