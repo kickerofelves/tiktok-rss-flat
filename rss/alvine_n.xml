@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@alvine_n</id>
   <title>@alvine_n | TikTok</title>
-  <updated>2023-08-20T08:57:25+00:00</updated>
+  <updated>2023-08-21T17:32:18+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @alvine_n</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@alvine_n/video/7267997399870704929</id>
-    <title>I used to train abs every day &amp; now 1-3 max 💪</title>
-    <updated>2023-08-16T19:01:56+00:00</updated>
-    <content>I used to train abs every day &amp; now 1-3 max 💪</content>
-    <link href="https://www.tiktok.com/@alvine_n/video/7267997399870704929" rel="alternate"/>
-    <published>2023-08-16T19:01:56+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@alvine_n/video/7268359884675091745</id>
-    <title>Replying to @CocoChanel🦋🤍✨ 90-day challenge first link in my bio don’t forget to join my private community chat trough your settings ❤️#bodytransformation </title>
-    <updated>2023-08-17T18:28:37+00:00</updated>
-    <content>Replying to @CocoChanel🦋🤍✨ 90-day challenge first link in my bio don’t forget to join my private community chat trough your settings ❤️#bodytransformation </content>
-    <link href="https://www.tiktok.com/@alvine_n/video/7268359884675091745" rel="alternate"/>
-    <published>2023-08-17T18:28:37+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@alvine_n/video/7268713373972417824</id>
     <title>Replying to @Dims do you agree? </title>
@@ -51,5 +35,21 @@
     <content>Replying to @Teresita Rodriguez you can warm up 5-10 minutes then your cardio after strength training or another 20-30 minutes 3-5 times a week game changer #cardio #gymtok #losefat </content>
     <link href="https://www.tiktok.com/@alvine_n/video/7269325928336084256" rel="alternate"/>
     <published>2023-08-20T08:57:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@alvine_n/video/7269820259169766689</id>
+    <title>Replying to @Zeee💸 custom Nuttrition &amp; workout plan + private community for daily support &amp; motivation first link in my bio ❤️ 🍑 Building Upper Glutes &amp; 🔥 Losing Back Fat! Follow for more tips! You can’t spot reduce fat focus on overall weight loss  1️⃣ S</title>
+    <updated>2023-08-21T16:55:35+00:00</updated>
+    <content>Replying to @Zeee💸 custom Nuttrition &amp; workout plan + private community for daily support &amp; motivation first link in my bio ❤️ 🍑 Building Upper Glutes &amp; 🔥 Losing Back Fat! Follow for more tips! You can’t spot reduce fat focus on overall weight loss  1️⃣ Strength Train: Focus on exercises that target the glutes like hip thrusts, squats, &amp; glute bridges! 2️⃣ Calorie Deficit: Consume fewer calories than you burn for fat loss. 3️⃣ Prioritize Protein: Helps build muscle &amp; keeps you full. 4️⃣ Targeted Cardio: Helps in overall fat loss &amp; boosts metabolism. 5️⃣ Consistency is Key: Stick to your routine &amp; be patient! #UpperGlutes #BackFatLoss #FitnessTips #CalorieDeficit #StrengthTraining</content>
+    <link href="https://www.tiktok.com/@alvine_n/video/7269820259169766689" rel="alternate"/>
+    <published>2023-08-21T16:55:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@alvine_n/video/7269829705539292448</id>
+    <title>Replying to @wyonabadoni8 meal plan base on your body type + workout + private community chat fir daily support &amp; motivation in bio ❤️#bellyfat #mealplan </title>
+    <updated>2023-08-21T17:32:18+00:00</updated>
+    <content>Replying to @wyonabadoni8 meal plan base on your body type + workout + private community chat fir daily support &amp; motivation in bio ❤️#bellyfat #mealplan </content>
+    <link href="https://www.tiktok.com/@alvine_n/video/7269829705539292448" rel="alternate"/>
+    <published>2023-08-21T17:32:18+00:00</published>
   </entry>
 </feed>
