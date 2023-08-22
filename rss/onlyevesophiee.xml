@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@onlyevesophiee</id>
   <title>@onlyevesophiee | TikTok</title>
-  <updated>2023-08-22T00:06:54+00:00</updated>
+  <updated>2023-08-22T12:02:57+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @onlyevesophiee</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@onlyevesophiee/video/7269344187307265313</id>
-    <title>I never wear those things </title>
-    <updated>2023-08-20T10:08:12+00:00</updated>
-    <content>I never wear those things </content>
-    <link href="https://www.tiktok.com/@onlyevesophiee/video/7269344187307265313" rel="alternate"/>
-    <published>2023-08-20T10:08:12+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@onlyevesophiee/video/7269484098354220320</id>
-    <title>New bikini </title>
-    <updated>2023-08-20T19:11:09+00:00</updated>
-    <content>New bikini </content>
-    <link href="https://www.tiktok.com/@onlyevesophiee/video/7269484098354220320" rel="alternate"/>
-    <published>2023-08-20T19:11:09+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@onlyevesophiee/video/7269702300866825505</id>
     <title>How is the recoil in this one?</title>
@@ -51,5 +35,21 @@
     <content>Whats your type? </content>
     <link href="https://www.tiktok.com/@onlyevesophiee/video/7269931387015220512" rel="alternate"/>
     <published>2023-08-22T00:06:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@onlyevesophiee/video/7270073352402898208</id>
+    <title>I never wear thise things</title>
+    <updated>2023-08-22T09:17:45+00:00</updated>
+    <content>I never wear thise things</content>
+    <link href="https://www.tiktok.com/@onlyevesophiee/video/7270073352402898208" rel="alternate"/>
+    <published>2023-08-22T09:17:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@onlyevesophiee/video/7270115927356755232</id>
+    <title>Squidgy is ok 🤭</title>
+    <updated>2023-08-22T12:02:57+00:00</updated>
+    <content>Squidgy is ok 🤭</content>
+    <link href="https://www.tiktok.com/@onlyevesophiee/video/7270115927356755232" rel="alternate"/>
+    <published>2023-08-22T12:02:57+00:00</published>
   </entry>
 </feed>
