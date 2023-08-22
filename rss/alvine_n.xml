@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@alvine_n</id>
   <title>@alvine_n | TikTok</title>
-  <updated>2023-08-21T17:32:18+00:00</updated>
+  <updated>2023-08-22T18:42:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @alvine_n</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@alvine_n/video/7268713373972417824</id>
-    <title>Replying to @Dims do you agree? </title>
-    <updated>2023-08-18T17:20:20+00:00</updated>
-    <content>Replying to @Dims do you agree? </content>
-    <link href="https://www.tiktok.com/@alvine_n/video/7268713373972417824" rel="alternate"/>
-    <published>2023-08-18T17:20:20+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@alvine_n/video/7269013037737102625</id>
-    <title>Replying to @Francisca Vos  #gymtok </title>
-    <updated>2023-08-19T12:43:10+00:00</updated>
-    <content>Replying to @Francisca Vos  #gymtok </content>
-    <link href="https://www.tiktok.com/@alvine_n/video/7269013037737102625" rel="alternate"/>
-    <published>2023-08-19T12:43:10+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@alvine_n/video/7269325928336084256</id>
-    <title>Replying to @Teresita Rodriguez you can warm up 5-10 minutes then your cardio after strength training or another 20-30 minutes 3-5 times a week game changer #cardio #gymtok #losefat </title>
-    <updated>2023-08-20T08:57:25+00:00</updated>
-    <content>Replying to @Teresita Rodriguez you can warm up 5-10 minutes then your cardio after strength training or another 20-30 minutes 3-5 times a week game changer #cardio #gymtok #losefat </content>
-    <link href="https://www.tiktok.com/@alvine_n/video/7269325928336084256" rel="alternate"/>
-    <published>2023-08-20T08:57:25+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@alvine_n/video/7269820259169766689</id>
     <title>Replying to @Zeee💸 custom Nuttrition &amp; workout plan + private community for daily support &amp; motivation first link in my bio ❤️ 🍑 Building Upper Glutes &amp; 🔥 Losing Back Fat! Follow for more tips! You can’t spot reduce fat focus on overall weight loss  1️⃣ S</title>
@@ -51,5 +27,29 @@
     <content>Replying to @wyonabadoni8 meal plan base on your body type + workout + private community chat fir daily support &amp; motivation in bio ❤️#bellyfat #mealplan </content>
     <link href="https://www.tiktok.com/@alvine_n/video/7269829705539292448" rel="alternate"/>
     <published>2023-08-21T17:32:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@alvine_n/video/7270165314015464736</id>
+    <title>#CapCut back workout #backworkout #back </title>
+    <updated>2023-08-22T15:14:38+00:00</updated>
+    <content>#CapCut back workout #backworkout #back </content>
+    <link href="https://www.tiktok.com/@alvine_n/video/7270165314015464736" rel="alternate"/>
+    <published>2023-08-22T15:14:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@alvine_n/video/7270214340530244897</id>
+    <title>Exercises that will help tone your back and activate your core simultaneously for an hourglass shape.🍑⏳🔥. Gorilla row 🔥🔥🔥</title>
+    <updated>2023-08-22T18:24:48+00:00</updated>
+    <content>Exercises that will help tone your back and activate your core simultaneously for an hourglass shape.🍑⏳🔥. Gorilla row 🔥🔥🔥</content>
+    <link href="https://www.tiktok.com/@alvine_n/video/7270214340530244897" rel="alternate"/>
+    <published>2023-08-22T18:24:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@alvine_n/video/7270218808403512609</id>
+    <title>Replying to @Claudia Pacheco </title>
+    <updated>2023-08-22T18:42:09+00:00</updated>
+    <content>Replying to @Claudia Pacheco </content>
+    <link href="https://www.tiktok.com/@alvine_n/video/7270218808403512609" rel="alternate"/>
+    <published>2023-08-22T18:42:09+00:00</published>
   </entry>
 </feed>
