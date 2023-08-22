@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@sonia_barbie</id>
   <title>@sonia_barbie | TikTok</title>
-  <updated>2023-08-21T22:52:47+00:00</updated>
+  <updated>2023-08-22T12:42:34+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @sonia_barbie</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@sonia_barbie/video/7266922389861109034</id>
-    <title>[no title]</title>
-    <updated>2023-08-13T21:30:29+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@sonia_barbie/video/7266922389861109034" rel="alternate"/>
-    <published>2023-08-13T21:30:29+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@sonia_barbie/video/7267329200741305642</id>
     <title>I’m so proud of my skin and how much it has improved over the past few months. @Linda Osifo has honestly been a game changer in my skincare regimen. The Clearly Corrective daily cleanser is chef’s kiss 💋 and the dark spot corrector has really helped even </title>
@@ -51,5 +43,13 @@
     <content>Fits like a second skin , The Link to this dress is in my bio  Bad @SAINT LAURENT  Shoe @ZARA </content>
     <link href="https://www.tiktok.com/@sonia_barbie/video/7269912280651812138" rel="alternate"/>
     <published>2023-08-21T22:52:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@sonia_barbie/video/7270126105066097962</id>
+    <title>Dress link in bio </title>
+    <updated>2023-08-22T12:42:34+00:00</updated>
+    <content>Dress link in bio </content>
+    <link href="https://www.tiktok.com/@sonia_barbie/video/7270126105066097962" rel="alternate"/>
+    <published>2023-08-22T12:42:34+00:00</published>
   </entry>
 </feed>
