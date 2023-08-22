@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@foodsciencebabe</id>
   <title>@foodsciencebabe | TikTok</title>
-  <updated>2023-08-20T20:16:33+00:00</updated>
+  <updated>2023-08-21T21:05:43+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @foodsciencebabe</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@foodsciencebabe/video/7262067357634415914</id>
-    <title>What’s your favorite almond texture? This study (PMID 24962063), which measured sensory texture attributes of 5 types of almonds (blanched slivered, natural sliced, whole blanched, whole dry roasted, and natural whole) conditioned at 4 different moisture </title>
-    <updated>2023-07-31T19:30:35+00:00</updated>
-    <content>What’s your favorite almond texture? This study (PMID 24962063), which measured sensory texture attributes of 5 types of almonds (blanched slivered, natural sliced, whole blanched, whole dry roasted, and natural whole) conditioned at 4 different moisture levels, found that consumer texture liking ratings were highly positively correlated with the attributes crispness, crunchiness, and persistence of crunch. Thanks to different processing techniques, you can get crunchy, creamy, smooth and more with almonds! If you’ve got questions about developing products with California almonds, follow the Nuts about Almond Inspiration page on LinkedIn for other resources. #ad #sponsored #californiaalmonds #almonds #almondinspiration #foodscience </content>
-    <link href="https://www.tiktok.com/@foodsciencebabe/video/7262067357634415914" rel="alternate"/>
-    <published>2023-07-31T19:30:35+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@foodsciencebabe/video/7262786558699375915</id>
     <title>Imagine cancelling all of the foods that inherently contain MSG. I have a much better idea...let's uncancel MSG! #CancelPizza #UncancelMSG #AjiPartner #factsnotfear @KnowMSG </title>
@@ -51,5 +43,13 @@
     <content>Replying to @Trista French  1. It has to have dill (herb or flavor) to be labeled “dill” on the front of the package.  2. A container of pickles does not have to contain dill to be labeled as “pickles” on the front of the package. 3. Dill may be listed as “spice” or “natural flavor” in the ingredient declaration, so even if dill is added, it may not be listed as “dill” on the ingredient declaration. 4. Yes, I said pickles a lot in this video  🙃  #picklegate #pickle #pickles #foodlabels #foodscience #greenscreen </content>
     <link href="https://www.tiktok.com/@foodsciencebabe/video/7269500948597214510" rel="alternate"/>
     <published>2023-08-20T20:16:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@foodsciencebabe/video/7269884676922166570</id>
+    <title>In addition, “processed” is not inherently bad and HFCS is not inherently bad either. These arguments all arise from the appeal to nature fallacy as well as a misunderstanding of basic sugar chemistry. See more about HFCS in my “sweeteners” playlist. #fac</title>
+    <updated>2023-08-21T21:05:43+00:00</updated>
+    <content>In addition, “processed” is not inherently bad and HFCS is not inherently bad either. These arguments all arise from the appeal to nature fallacy as well as a misunderstanding of basic sugar chemistry. See more about HFCS in my “sweeteners” playlist. #factsnotfear #foodscience #glucosetest #glucola #pregnancy #greenscreen </content>
+    <link href="https://www.tiktok.com/@foodsciencebabe/video/7269884676922166570" rel="alternate"/>
+    <published>2023-08-21T21:05:43+00:00</published>
   </entry>
 </feed>
