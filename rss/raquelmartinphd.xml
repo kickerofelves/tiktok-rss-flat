@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@raquelmartinphd</id>
   <title>@raquelmartinphd | TikTok</title>
-  <updated>2023-08-22T22:47:53+00:00</updated>
+  <updated>2023-08-23T16:53:02+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @raquelmartinphd</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@raquelmartinphd/video/7269605445352901930</id>
-    <title>[no title]</title>
-    <updated>2023-08-21T03:02:08+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@raquelmartinphd/video/7269605445352901930" rel="alternate"/>
-    <published>2023-08-21T03:02:08+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@raquelmartinphd/video/7269871050945547562</id>
     <title>Replying to @Instacart </title>
@@ -51,5 +43,13 @@
     <content>#blackhair #braid #mentalhealth #learnontiktok </content>
     <link href="https://www.tiktok.com/@raquelmartinphd/video/7270282081568181547" rel="alternate"/>
     <published>2023-08-22T22:47:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@raquelmartinphd/video/7270561707909582123</id>
+    <title>#teens #mentalhealth </title>
+    <updated>2023-08-23T16:53:02+00:00</updated>
+    <content>#teens #mentalhealth </content>
+    <link href="https://www.tiktok.com/@raquelmartinphd/video/7270561707909582123" rel="alternate"/>
+    <published>2023-08-23T16:53:02+00:00</published>
   </entry>
 </feed>

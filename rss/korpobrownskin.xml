@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@korpobrownskin</id>
   <title>@korpobrownskin | TikTok</title>
-  <updated>2023-08-21T15:11:49+00:00</updated>
+  <updated>2023-08-23T18:59:21+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @korpobrownskin</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@korpobrownskin/video/7266491051655941382</id>
-    <title>#fyp #viral #fouryoupage </title>
-    <updated>2023-08-12T17:36:32+00:00</updated>
-    <content>#fyp #viral #fouryoupage </content>
-    <link href="https://www.tiktok.com/@korpobrownskin/video/7266491051655941382" rel="alternate"/>
-    <published>2023-08-12T17:36:32+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@korpobrownskin/video/7266521771774446854</id>
     <title>Besties , 2024 is 5months away. This is the reminder you needed to see today, you started this year with a goal how far are you now?  You said this year was going to be the year you achieve your dream body , it’s hard and life can be full of ups and downs</title>
@@ -51,5 +43,13 @@
     <content>You’re a Force to be Reckoned With, Sis! Join My Fitness App! 💥 Get ready to unleash your inner power! My 60-day challenge will transform you, inside and out. We’ve got each other’s backs all the way! Link in bio.  #legday #legdayworkout #barbellsquat #barbellworkout #gluteandquad #glutegrowth </content>
     <link href="https://www.tiktok.com/@korpobrownskin/video/7269793523296177413" rel="alternate"/>
     <published>2023-08-21T15:11:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@korpobrownskin/video/7270594330316770566</id>
+    <title>Tone your back and snatch your waistline with these 4 BACK exercises! Save and add to your next upper body day  📲📲link in my bio for my 60 days Snatch That Body Challenge workout plan and meal plan Pre-workout and performance surge “ my favorites” code KO</title>
+    <updated>2023-08-23T18:59:21+00:00</updated>
+    <content>Tone your back and snatch your waistline with these 4 BACK exercises! Save and add to your next upper body day  📲📲link in my bio for my 60 days Snatch That Body Challenge workout plan and meal plan Pre-workout and performance surge “ my favorites” code KORPO for 15% off #backgain #backexercises #backworkout #howtogetsnatchwaist #latpulldown #viral #foryoupage #backworkouttolosebackfat #trend </content>
+    <link href="https://www.tiktok.com/@korpobrownskin/video/7270594330316770566" rel="alternate"/>
+    <published>2023-08-23T18:59:21+00:00</published>
   </entry>
 </feed>

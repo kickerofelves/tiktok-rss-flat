@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@alvine_n</id>
   <title>@alvine_n | TikTok</title>
-  <updated>2023-08-22T18:42:09+00:00</updated>
+  <updated>2023-08-23T18:31:51+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @alvine_n</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@alvine_n/video/7269820259169766689</id>
-    <title>Replying to @Zeee💸 custom Nuttrition &amp; workout plan + private community for daily support &amp; motivation first link in my bio ❤️ 🍑 Building Upper Glutes &amp; 🔥 Losing Back Fat! Follow for more tips! You can’t spot reduce fat focus on overall weight loss  1️⃣ S</title>
-    <updated>2023-08-21T16:55:35+00:00</updated>
-    <content>Replying to @Zeee💸 custom Nuttrition &amp; workout plan + private community for daily support &amp; motivation first link in my bio ❤️ 🍑 Building Upper Glutes &amp; 🔥 Losing Back Fat! Follow for more tips! You can’t spot reduce fat focus on overall weight loss  1️⃣ Strength Train: Focus on exercises that target the glutes like hip thrusts, squats, &amp; glute bridges! 2️⃣ Calorie Deficit: Consume fewer calories than you burn for fat loss. 3️⃣ Prioritize Protein: Helps build muscle &amp; keeps you full. 4️⃣ Targeted Cardio: Helps in overall fat loss &amp; boosts metabolism. 5️⃣ Consistency is Key: Stick to your routine &amp; be patient! #UpperGlutes #BackFatLoss #FitnessTips #CalorieDeficit #StrengthTraining</content>
-    <link href="https://www.tiktok.com/@alvine_n/video/7269820259169766689" rel="alternate"/>
-    <published>2023-08-21T16:55:35+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@alvine_n/video/7269829705539292448</id>
-    <title>Replying to @wyonabadoni8 meal plan base on your body type + workout + private community chat fir daily support &amp; motivation in bio ❤️#bellyfat #mealplan </title>
-    <updated>2023-08-21T17:32:18+00:00</updated>
-    <content>Replying to @wyonabadoni8 meal plan base on your body type + workout + private community chat fir daily support &amp; motivation in bio ❤️#bellyfat #mealplan </content>
-    <link href="https://www.tiktok.com/@alvine_n/video/7269829705539292448" rel="alternate"/>
-    <published>2023-08-21T17:32:18+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@alvine_n/video/7270165314015464736</id>
-    <title>#CapCut back workout #backworkout #back </title>
-    <updated>2023-08-22T15:14:38+00:00</updated>
-    <content>#CapCut back workout #backworkout #back </content>
-    <link href="https://www.tiktok.com/@alvine_n/video/7270165314015464736" rel="alternate"/>
-    <published>2023-08-22T15:14:38+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@alvine_n/video/7270214340530244897</id>
     <title>Exercises that will help tone your back and activate your core simultaneously for an hourglass shape.🍑⏳🔥. Gorilla row 🔥🔥🔥</title>
@@ -51,5 +27,29 @@
     <content>Replying to @Claudia Pacheco </content>
     <link href="https://www.tiktok.com/@alvine_n/video/7270218808403512609" rel="alternate"/>
     <published>2023-08-22T18:42:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@alvine_n/video/7270574205932965153</id>
+    <title>Replying to @Sonfl🌻werM💙M the audacity 😂</title>
+    <updated>2023-08-23T17:41:17+00:00</updated>
+    <content>Replying to @Sonfl🌻werM💙M the audacity 😂</content>
+    <link href="https://www.tiktok.com/@alvine_n/video/7270574205932965153" rel="alternate"/>
+    <published>2023-08-23T17:41:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@alvine_n/video/7270576320378113312</id>
+    <title>back workout beginner friendly #beginnerworkout #beginner #backworkout #gymtok</title>
+    <updated>2023-08-23T17:49:29+00:00</updated>
+    <content>back workout beginner friendly #beginnerworkout #beginner #backworkout #gymtok</content>
+    <link href="https://www.tiktok.com/@alvine_n/video/7270576320378113312" rel="alternate"/>
+    <published>2023-08-23T17:49:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@alvine_n/video/7270587232610831649</id>
+    <title>Replying to @Dims yessss🔥</title>
+    <updated>2023-08-23T18:31:51+00:00</updated>
+    <content>Replying to @Dims yessss🔥</content>
+    <link href="https://www.tiktok.com/@alvine_n/video/7270587232610831649" rel="alternate"/>
+    <published>2023-08-23T18:31:51+00:00</published>
   </entry>
 </feed>
