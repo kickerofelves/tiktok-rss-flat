@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@shotzbydrip</id>
   <title>@shotzbydrip | TikTok</title>
-  <updated>2023-07-11T03:41:45+00:00</updated>
+  <updated>2023-08-22T18:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @shotzbydrip</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@shotzbydrip/video/7158972942104202538</id>
-    <title>Who wants to be @fineassariiii1 first arrest😜👮🏽‍♀️❤️‍🔥? Full vid on my IG:ShotzByDrip.Co #explore #edplorepage #viral </title>
-    <updated>2022-10-26T23:51:28+00:00</updated>
-    <content>Who wants to be @fineassariiii1 first arrest😜👮🏽‍♀️❤️‍🔥? Full vid on my IG:ShotzByDrip.Co #explore #edplorepage #viral </content>
-    <link href="https://www.tiktok.com/@shotzbydrip/video/7158972942104202538" rel="alternate"/>
-    <published>2022-10-26T23:51:28+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@shotzbydrip/video/7237398122031353130</id>
     <title>Atl CarWash was🔥😮‍💨</title>
@@ -51,5 +43,13 @@
     <content>Hows the view👀🍑? #fyp </content>
     <link href="https://www.tiktok.com/@shotzbydrip/video/7254401156082945323" rel="alternate"/>
     <published>2023-07-11T03:41:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@shotzbydrip/video/7270207820933434654</id>
+    <title>How many times did you watch👀? #fyp #explore #viral #explorepage </title>
+    <updated>2023-08-22T18:00:00+00:00</updated>
+    <content>How many times did you watch👀? #fyp #explore #viral #explorepage </content>
+    <link href="https://www.tiktok.com/@shotzbydrip/video/7270207820933434654" rel="alternate"/>
+    <published>2023-08-22T18:00:00+00:00</published>
   </entry>
 </feed>
