@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@pearlwats</id>
   <title>@pearlwats | TikTok</title>
-  <updated>2023-08-23T15:38:57+00:00</updated>
+  <updated>2023-08-24T18:19:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @pearlwats</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@pearlwats/video/7270207057859529990</id>
-    <title>Hey Neighbor! Now showing on Uchenna Mbunabo Tv on yourtibe</title>
-    <updated>2023-08-22T17:56:32+00:00</updated>
-    <content>Hey Neighbor! Now showing on Uchenna Mbunabo Tv on yourtibe</content>
-    <link href="https://www.tiktok.com/@pearlwats/video/7270207057859529990" rel="alternate"/>
-    <published>2023-08-22T17:56:32+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@pearlwats/video/7270453843765349638</id>
     <title>HEY NEIGHBOR is showing on Uchenna Mbunabo Tv on youtube. Go watch🫶</title>
@@ -51,5 +43,13 @@
     <content>[no description]</content>
     <link href="https://www.tiktok.com/@pearlwats/video/7270542692864544005" rel="alternate"/>
     <published>2023-08-23T15:38:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@pearlwats/video/7270955052091690245</id>
+    <title>[no title]</title>
+    <updated>2023-08-24T18:19:08+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@pearlwats/video/7270955052091690245" rel="alternate"/>
+    <published>2023-08-24T18:19:08+00:00</published>
   </entry>
 </feed>

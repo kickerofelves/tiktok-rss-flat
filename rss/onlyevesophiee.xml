@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@onlyevesophiee</id>
   <title>@onlyevesophiee | TikTok</title>
-  <updated>2023-08-24T00:21:03+00:00</updated>
+  <updated>2023-08-24T15:40:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @onlyevesophiee</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@onlyevesophiee/video/7269702300866825505</id>
-    <title>How is the recoil in this one?</title>
-    <updated>2023-08-21T09:17:55+00:00</updated>
-    <content>How is the recoil in this one?</content>
-    <link href="https://www.tiktok.com/@onlyevesophiee/video/7269702300866825505" rel="alternate"/>
-    <published>2023-08-21T09:17:55+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@onlyevesophiee/video/7269761657017044257</id>
-    <title>Takatakataka </title>
-    <updated>2023-08-21T13:08:13+00:00</updated>
-    <content>Takatakataka </content>
-    <link href="https://www.tiktok.com/@onlyevesophiee/video/7269761657017044257" rel="alternate"/>
-    <published>2023-08-21T13:08:13+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@onlyevesophiee/video/7270073352402898208</id>
     <title>I never wear thise things</title>
@@ -51,5 +35,21 @@
     <content>Someone say springbreak</content>
     <link href="https://www.tiktok.com/@onlyevesophiee/video/7270677206722956576" rel="alternate"/>
     <published>2023-08-24T00:21:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@onlyevesophiee/video/7270866216275692833</id>
+    <title>Im not doing anything </title>
+    <updated>2023-08-24T12:34:27+00:00</updated>
+    <content>Im not doing anything </content>
+    <link href="https://www.tiktok.com/@onlyevesophiee/video/7270866216275692833" rel="alternate"/>
+    <published>2023-08-24T12:34:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@onlyevesophiee/video/7270914064019164448</id>
+    <title>Pov recoil?</title>
+    <updated>2023-08-24T15:40:10+00:00</updated>
+    <content>Pov recoil?</content>
+    <link href="https://www.tiktok.com/@onlyevesophiee/video/7270914064019164448" rel="alternate"/>
+    <published>2023-08-24T15:40:10+00:00</published>
   </entry>
 </feed>
