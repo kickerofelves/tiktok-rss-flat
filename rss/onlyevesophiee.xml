@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@onlyevesophiee</id>
   <title>@onlyevesophiee | TikTok</title>
-  <updated>2023-08-23T10:11:25+00:00</updated>
+  <updated>2023-08-24T00:21:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @onlyevesophiee</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@onlyevesophiee/video/7269484098354220320</id>
-    <title>New bikini </title>
-    <updated>2023-08-20T19:11:09+00:00</updated>
-    <content>New bikini </content>
-    <link href="https://www.tiktok.com/@onlyevesophiee/video/7269484098354220320" rel="alternate"/>
-    <published>2023-08-20T19:11:09+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@onlyevesophiee/video/7269702300866825505</id>
     <title>How is the recoil in this one?</title>
@@ -45,11 +37,19 @@
     <published>2023-08-22T09:17:45+00:00</published>
   </entry>
   <entry>
-    <id>https://www.tiktok.com/@onlyevesophiee/video/7270458265174068513</id>
-    <title>[no title]</title>
-    <updated>2023-08-23T10:11:25+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@onlyevesophiee/video/7270458265174068513" rel="alternate"/>
-    <published>2023-08-23T10:11:25+00:00</published>
+    <id>https://www.tiktok.com/@onlyevesophiee/video/7270647062822210849</id>
+    <title>I love these shorts</title>
+    <updated>2023-08-23T22:24:02+00:00</updated>
+    <content>I love these shorts</content>
+    <link href="https://www.tiktok.com/@onlyevesophiee/video/7270647062822210849" rel="alternate"/>
+    <published>2023-08-23T22:24:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@onlyevesophiee/video/7270677206722956576</id>
+    <title>Someone say springbreak</title>
+    <updated>2023-08-24T00:21:03+00:00</updated>
+    <content>Someone say springbreak</content>
+    <link href="https://www.tiktok.com/@onlyevesophiee/video/7270677206722956576" rel="alternate"/>
+    <published>2023-08-24T00:21:03+00:00</published>
   </entry>
 </feed>
