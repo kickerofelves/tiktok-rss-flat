@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@lunabends</id>
   <title>@lunabends | TikTok</title>
-  <updated>2023-08-23T16:35:07+00:00</updated>
+  <updated>2023-08-23T18:49:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @lunabends</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@lunabends/video/7269066779190758699</id>
-    <title>Gym vibes with @Tdohfit  #flexible #stretching #yoga </title>
-    <updated>2023-08-19T16:11:52+00:00</updated>
-    <content>Gym vibes with @Tdohfit  #flexible #stretching #yoga </content>
-    <link href="https://www.tiktok.com/@lunabends/video/7269066779190758699" rel="alternate"/>
-    <published>2023-08-19T16:11:52+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@lunabends/video/7269184265529707819</id>
     <title>Making shapes  #pole #spinpole #poletricks </title>
@@ -51,5 +43,13 @@
     <content>Attempted my pretzel pose on the pole 🤣😬 #pole #poletricks #spinpole #dancer </content>
     <link href="https://www.tiktok.com/@lunabends/video/7270557056862604587" rel="alternate"/>
     <published>2023-08-23T16:35:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lunabends/video/7270591640211901738</id>
+    <title>My go to move when i dont feel like doing much 🤣 #pole #splits #flexible </title>
+    <updated>2023-08-23T18:49:08+00:00</updated>
+    <content>My go to move when i dont feel like doing much 🤣 #pole #splits #flexible </content>
+    <link href="https://www.tiktok.com/@lunabends/video/7270591640211901738" rel="alternate"/>
+    <published>2023-08-23T18:49:08+00:00</published>
   </entry>
 </feed>
