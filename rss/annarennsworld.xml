@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@annarennsworld</id>
   <title>@annarennsworld | TikTok</title>
-  <updated>2023-08-22T19:00:10+00:00</updated>
+  <updated>2023-08-24T19:06:17+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @annarennsworld</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@annarennsworld/video/7269466926378798378</id>
-    <title>HELP</title>
-    <updated>2023-08-20T18:04:33+00:00</updated>
-    <content>HELP</content>
-    <link href="https://www.tiktok.com/@annarennsworld/video/7269466926378798378" rel="alternate"/>
-    <published>2023-08-20T18:04:33+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@annarennsworld/video/7269478538758147374</id>
     <title>GIRL DINNEERRRRR </title>
@@ -51,5 +43,13 @@
     <content>LMAO</content>
     <link href="https://www.tiktok.com/@annarennsworld/video/7270223400356891946" rel="alternate"/>
     <published>2023-08-22T19:00:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@annarennsworld/video/7270967131280510254</id>
+    <title>Went on that boat even w our sore bleeding feet from the night before😭 I’ll try to get more vids of my physically out but i don’t use my phone alot when I’m partying🤭</title>
+    <updated>2023-08-24T19:06:17+00:00</updated>
+    <content>Went on that boat even w our sore bleeding feet from the night before😭 I’ll try to get more vids of my physically out but i don’t use my phone alot when I’m partying🤭</content>
+    <link href="https://www.tiktok.com/@annarennsworld/video/7270967131280510254" rel="alternate"/>
+    <published>2023-08-24T19:06:17+00:00</published>
   </entry>
 </feed>
