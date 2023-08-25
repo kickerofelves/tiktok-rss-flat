@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mzkora</id>
   <title>@mzkora | TikTok</title>
-  <updated>2023-08-24T23:45:54+00:00</updated>
+  <updated>2023-08-25T14:52:38+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @mzkora</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@mzkora/video/7267712299308289322</id>
-    <title>Yeaaaaah… 30 Yr old me would definitely Boombastic Side Eye😅 #fypシ #fyp #momof9 #couple #dance #parents #parentsoftiktok #dancing </title>
-    <updated>2023-08-16T00:35:44+00:00</updated>
-    <content>Yeaaaaah… 30 Yr old me would definitely Boombastic Side Eye😅 #fypシ #fyp #momof9 #couple #dance #parents #parentsoftiktok #dancing </content>
-    <link href="https://www.tiktok.com/@mzkora/video/7267712299308289322" rel="alternate"/>
-    <published>2023-08-16T00:35:44+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@mzkora/video/7268368450416938282</id>
     <title>Replying to @PhilLee7 Embracing the choices that empower me. Living for myself and no one else. This tummy tuck was more than a procedure; it was a step towards feeling even more confident in my own skin. Worth every moment. 💪@Athēnix #momof9 #AthenixJour</title>
@@ -51,5 +43,13 @@
     <content>Who’s better with money is a trick question! 😅 #fypシ #fyp #couple #couplequestions #parentsof9 #momanddad #blindiancouple #blindian #india #trinidad </content>
     <link href="https://www.tiktok.com/@mzkora/video/7271039210402876714" rel="alternate"/>
     <published>2023-08-24T23:45:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@mzkora/video/7271272891772308782</id>
+    <title>I look like my momma. 👵🏽 #fypシ #fyp #couple #parentsof9 #momanddad #granny #zaddy #blindiancouple #oldfilter #oldage </title>
+    <updated>2023-08-25T14:52:38+00:00</updated>
+    <content>I look like my momma. 👵🏽 #fypシ #fyp #couple #parentsof9 #momanddad #granny #zaddy #blindiancouple #oldfilter #oldage </content>
+    <link href="https://www.tiktok.com/@mzkora/video/7271272891772308782" rel="alternate"/>
+    <published>2023-08-25T14:52:38+00:00</published>
   </entry>
 </feed>
