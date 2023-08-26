@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@alvine_n</id>
   <title>@alvine_n | TikTok</title>
-  <updated>2023-08-24T19:17:57+00:00</updated>
+  <updated>2023-08-26T09:11:06+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @alvine_n</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@alvine_n/video/7270576320378113312</id>
-    <title>back workout beginner friendly #beginnerworkout #beginner #backworkout #gymtok</title>
-    <updated>2023-08-23T17:49:29+00:00</updated>
-    <content>back workout beginner friendly #beginnerworkout #beginner #backworkout #gymtok</content>
-    <link href="https://www.tiktok.com/@alvine_n/video/7270576320378113312" rel="alternate"/>
-    <published>2023-08-23T17:49:29+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@alvine_n/video/7270587232610831649</id>
     <title>Replying to @Dims yessss🔥</title>
@@ -51,5 +43,13 @@
     <content>#CapCut </content>
     <link href="https://www.tiktok.com/@alvine_n/video/7270970195294915873" rel="alternate"/>
     <published>2023-08-24T19:17:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@alvine_n/video/7271555976489110816</id>
+    <title>Replying to @FabFau so proud 🥹🥹 join ud now 🥹❤️❤️❤️</title>
+    <updated>2023-08-26T09:11:06+00:00</updated>
+    <content>Replying to @FabFau so proud 🥹🥹 join ud now 🥹❤️❤️❤️</content>
+    <link href="https://www.tiktok.com/@alvine_n/video/7271555976489110816" rel="alternate"/>
+    <published>2023-08-26T09:11:06+00:00</published>
   </entry>
 </feed>
