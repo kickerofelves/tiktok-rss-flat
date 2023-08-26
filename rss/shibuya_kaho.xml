@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@shibuya_kaho</id>
   <title>@shibuya_kaho | TikTok</title>
-  <updated>2023-08-23T00:42:57+00:00</updated>
+  <updated>2023-08-26T02:04:30+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @shibuya_kaho</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@shibuya_kaho/video/7269026603403840770</id>
-    <title>Day 0 of World Cosplay Summit... it was at night, but for a first-timer there, I was sweating like monster🥵 前夜祭、暗いのに暑さハンパなかったです！サマードレス着てたのに涼しさ全然感じなかった‥ #名古屋 #コスプレサミット2023 </title>
-    <updated>2023-08-19T13:35:47+00:00</updated>
-    <content>Day 0 of World Cosplay Summit... it was at night, but for a first-timer there, I was sweating like monster🥵 前夜祭、暗いのに暑さハンパなかったです！サマードレス着てたのに涼しさ全然感じなかった‥ #名古屋 #コスプレサミット2023 </content>
-    <link href="https://www.tiktok.com/@shibuya_kaho/video/7269026603403840770" rel="alternate"/>
-    <published>2023-08-19T13:35:47+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@shibuya_kaho/video/7269403107031911682</id>
     <title>The cheese place near Tokyo Tower🗼 #TokyoSwissInn  東京タワー近くのチーズが美味しいお店です(*´∇`*)</title>
@@ -51,5 +43,13 @@
     <content>I enjoyed streaming on Twitch while traveling✈️ Thanks for being there with me~ 私だけインフルエンサーツアー内で独り参加だったけど、配信してたお陰でチャットの皆さんと楽しく過ごせました！ありがとうございました✨ #ロカヒハワイ </content>
     <link href="https://www.tiktok.com/@shibuya_kaho/video/7270311748689792257" rel="alternate"/>
     <published>2023-08-23T00:42:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@shibuya_kaho/video/7271446028669308161</id>
+    <title>My time at hotel in Hawaii😂 ホテルでうたた寝したのも配信に残ってました‥ 居心地の良さに感謝です！</title>
+    <updated>2023-08-26T02:04:30+00:00</updated>
+    <content>My time at hotel in Hawaii😂 ホテルでうたた寝したのも配信に残ってました‥ 居心地の良さに感謝です！</content>
+    <link href="https://www.tiktok.com/@shibuya_kaho/video/7271446028669308161" rel="alternate"/>
+    <published>2023-08-26T02:04:30+00:00</published>
   </entry>
 </feed>
