@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@raquelmartinphd</id>
   <title>@raquelmartinphd | TikTok</title>
-  <updated>2023-08-25T14:35:12+00:00</updated>
+  <updated>2023-08-25T23:18:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @raquelmartinphd</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@raquelmartinphd/video/7270282081568181547</id>
-    <title>#blackhair #braid #mentalhealth #learnontiktok </title>
-    <updated>2023-08-22T22:47:53+00:00</updated>
-    <content>#blackhair #braid #mentalhealth #learnontiktok </content>
-    <link href="https://www.tiktok.com/@raquelmartinphd/video/7270282081568181547" rel="alternate"/>
-    <published>2023-08-22T22:47:53+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@raquelmartinphd/video/7270561707909582123</id>
     <title>#teens #mentalhealth </title>
@@ -51,5 +43,13 @@
     <content>#parenting #parenthood </content>
     <link href="https://www.tiktok.com/@raquelmartinphd/video/7271268387731377450" rel="alternate"/>
     <published>2023-08-25T14:35:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@raquelmartinphd/video/7271403226803604779</id>
+    <title>#parenting #mom #dad #blackdoctors </title>
+    <updated>2023-08-25T23:18:20+00:00</updated>
+    <content>#parenting #mom #dad #blackdoctors </content>
+    <link href="https://www.tiktok.com/@raquelmartinphd/video/7271403226803604779" rel="alternate"/>
+    <published>2023-08-25T23:18:20+00:00</published>
   </entry>
 </feed>
