@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@foodsciencebabe</id>
   <title>@foodsciencebabe | TikTok</title>
-  <updated>2023-08-21T21:05:43+00:00</updated>
+  <updated>2023-08-26T20:41:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @foodsciencebabe</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@foodsciencebabe/video/7262786558699375915</id>
-    <title>Imagine cancelling all of the foods that inherently contain MSG. I have a much better idea...let's uncancel MSG! #CancelPizza #UncancelMSG #AjiPartner #factsnotfear @KnowMSG </title>
-    <updated>2023-08-02T18:01:18+00:00</updated>
-    <content>Imagine cancelling all of the foods that inherently contain MSG. I have a much better idea...let's uncancel MSG! #CancelPizza #UncancelMSG #AjiPartner #factsnotfear @KnowMSG </content>
-    <link href="https://www.tiktok.com/@foodsciencebabe/video/7262786558699375915" rel="alternate"/>
-    <published>2023-08-02T18:01:18+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@foodsciencebabe/video/7263532400867659051</id>
     <title>These arguments always give me a good chuckle 🤭 #foodscience #foodscientist #factsnotfear #sciencecommunication </title>
@@ -51,5 +43,13 @@
     <content>In addition, “processed” is not inherently bad and HFCS is not inherently bad either. These arguments all arise from the appeal to nature fallacy as well as a misunderstanding of basic sugar chemistry. See more about HFCS in my “sweeteners” playlist. #factsnotfear #foodscience #glucosetest #glucola #pregnancy #greenscreen </content>
     <link href="https://www.tiktok.com/@foodsciencebabe/video/7269884676922166570" rel="alternate"/>
     <published>2023-08-21T21:05:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@foodsciencebabe/video/7271733873686383915</id>
+    <title>Watch until the end for our top 3 favorite new Minnesota State Fair foods! #minnesotastatefair #minnesotastatefair2023 #statefair #fairfood #fairfoodreview #foodreview #foodtiktok </title>
+    <updated>2023-08-26T20:41:32+00:00</updated>
+    <content>Watch until the end for our top 3 favorite new Minnesota State Fair foods! #minnesotastatefair #minnesotastatefair2023 #statefair #fairfood #fairfoodreview #foodreview #foodtiktok </content>
+    <link href="https://www.tiktok.com/@foodsciencebabe/video/7271733873686383915" rel="alternate"/>
+    <published>2023-08-26T20:41:32+00:00</published>
   </entry>
 </feed>
