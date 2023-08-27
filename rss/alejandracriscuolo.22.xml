@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@alejandracriscuolo.22</id>
   <title>@alejandracriscuolo.22 | TikTok</title>
-  <updated>2023-08-27T02:04:37+00:00</updated>
+  <updated>2023-08-27T02:02:57+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @alejandracriscuolo.22</subtitle>
+  <entry>
+    <id>https://www.tiktok.com/@alejandracriscuolo.22/video/7271359296766545157</id>
+    <title>#alejandracriscuolo #alejandracriscuolo22 </title>
+    <updated>2023-08-25T20:27:49+00:00</updated>
+    <content>#alejandracriscuolo #alejandracriscuolo22 </content>
+    <link href="https://www.tiktok.com/@alejandracriscuolo.22/video/7271359296766545157" rel="alternate"/>
+    <published>2023-08-25T20:27:49+00:00</published>
+  </entry>
   <entry>
     <id>https://www.tiktok.com/@alejandracriscuolo.22/video/7271359689605025029</id>
     <title>#alejandracriscuolo #alejandracriscuolo22 </title>
@@ -43,13 +51,5 @@
     <content>#alejandracriscuolo #alejandracriscuolo22 </content>
     <link href="https://www.tiktok.com/@alejandracriscuolo.22/video/7271816740072459526" rel="alternate"/>
     <published>2023-08-27T02:02:57+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@alejandracriscuolo.22/video/7271817175214673157</id>
-    <title>#alejandracriscuolo #alejandracriscuolo22 #fakebodyy⚠️ </title>
-    <updated>2023-08-27T02:04:37+00:00</updated>
-    <content>#alejandracriscuolo #alejandracriscuolo22 #fakebodyy⚠️ </content>
-    <link href="https://www.tiktok.com/@alejandracriscuolo.22/video/7271817175214673157" rel="alternate"/>
-    <published>2023-08-27T02:04:37+00:00</published>
   </entry>
 </feed>
