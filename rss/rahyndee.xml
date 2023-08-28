@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rahyndee</id>
   <title>@rahyndee | TikTok</title>
-  <updated>2023-08-27T01:15:33+00:00</updated>
+  <updated>2023-08-28T16:19:38+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @rahyndee</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@rahyndee/video/7270707489283312927</id>
-    <title>💪🏽Throw em up 💪🏽 #fitchick #fitness #beachbabe #fitthick #fyp </title>
-    <updated>2023-08-24T02:18:36+00:00</updated>
-    <content>💪🏽Throw em up 💪🏽 #fitchick #fitness #beachbabe #fitthick #fyp </content>
-    <link href="https://www.tiktok.com/@rahyndee/video/7270707489283312927" rel="alternate"/>
-    <published>2023-08-24T02:18:36+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@rahyndee/video/7271071446644837662</id>
-    <title>I wants all the kisses 🤭💋💋 #furrbabies #boatlife #fyp #lakedays #puremichigan </title>
-    <updated>2023-08-25T01:51:08+00:00</updated>
-    <content>I wants all the kisses 🤭💋💋 #furrbabies #boatlife #fyp #lakedays #puremichigan </content>
-    <link href="https://www.tiktok.com/@rahyndee/video/7271071446644837662" rel="alternate"/>
-    <published>2023-08-25T01:51:08+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@rahyndee/video/7271414322859937055</id>
     <title>He thought I didn’t notice him filming me  😏🤤 #thelook #boatlife #fyp #lakedays #puremichigan </title>
@@ -51,5 +35,21 @@
     <content>Another version of my off grod shower video ✨ #fyp #offgrid #offgridliving #outdoorshower </content>
     <link href="https://www.tiktok.com/@rahyndee/video/7271804433565109534" rel="alternate"/>
     <published>2023-08-27T01:15:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@rahyndee/video/7272102622817979679</id>
+    <title>Boatday with me 🫠✨ . #fyp #boatlife #lakeday #puremichigan #vlog </title>
+    <updated>2023-08-27T20:32:39+00:00</updated>
+    <content>Boatday with me 🫠✨ . #fyp #boatlife #lakeday #puremichigan #vlog </content>
+    <link href="https://www.tiktok.com/@rahyndee/video/7272102622817979679" rel="alternate"/>
+    <published>2023-08-27T20:32:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@rahyndee/video/7272408430759922974</id>
+    <title>Someone suggested I try Turkey Eggs 🤤🍳🥚 #breatfast #cooking #vlog #fyp #offgridliving </title>
+    <updated>2023-08-28T16:19:38+00:00</updated>
+    <content>Someone suggested I try Turkey Eggs 🤤🍳🥚 #breatfast #cooking #vlog #fyp #offgridliving </content>
+    <link href="https://www.tiktok.com/@rahyndee/video/7272408430759922974" rel="alternate"/>
+    <published>2023-08-28T16:19:38+00:00</published>
   </entry>
 </feed>
