@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@onlyevesophiee</id>
   <title>@onlyevesophiee | TikTok</title>
-  <updated>2023-08-28T22:26:41+00:00</updated>
+  <updated>2023-08-29T14:04:17+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @onlyevesophiee</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@onlyevesophiee/video/7271770080202034464</id>
-    <title>Would you make my wishes come through?    #fyp #egirl #viral </title>
-    <updated>2023-08-26T23:02:00+00:00</updated>
-    <content>Would you make my wishes come through?    #fyp #egirl #viral </content>
-    <link href="https://www.tiktok.com/@onlyevesophiee/video/7271770080202034464" rel="alternate"/>
-    <published>2023-08-26T23:02:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@onlyevesophiee/video/7271940027083476257</id>
     <title>Trying to find my size in jeans 😩 #fyp #egirl #fakebody #viral </title>
@@ -51,5 +43,13 @@
     <content>You want some ? #fyp #viral #fakebody #egirl </content>
     <link href="https://www.tiktok.com/@onlyevesophiee/video/7272503062168653088" rel="alternate"/>
     <published>2023-08-28T22:26:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@onlyevesophiee/video/7272744793719983392</id>
+    <title>Are you  coming? #fyp #viral #fakebody #egirl </title>
+    <updated>2023-08-29T14:04:17+00:00</updated>
+    <content>Are you  coming? #fyp #viral #fakebody #egirl </content>
+    <link href="https://www.tiktok.com/@onlyevesophiee/video/7272744793719983392" rel="alternate"/>
+    <published>2023-08-29T14:04:17+00:00</published>
   </entry>
 </feed>
