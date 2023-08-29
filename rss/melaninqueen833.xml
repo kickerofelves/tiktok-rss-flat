@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@melaninqueen833</id>
   <title>@melaninqueen833 | TikTok</title>
-  <updated>2023-08-28T23:38:27+00:00</updated>
+  <updated>2023-08-29T20:09:53+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @melaninqueen833</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@melaninqueen833/video/7271381315625192746</id>
-    <title>[no title]</title>
-    <updated>2023-08-25T21:53:19+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@melaninqueen833/video/7271381315625192746" rel="alternate"/>
-    <published>2023-08-25T21:53:19+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@melaninqueen833/video/7271642572534074666</id>
     <title>[no title]</title>
@@ -45,11 +37,19 @@
     <published>2023-08-28T17:12:39+00:00</published>
   </entry>
   <entry>
-    <id>https://www.tiktok.com/@melaninqueen833/video/7272521648195079467</id>
+    <id>https://www.tiktok.com/@melaninqueen833/video/7272763444292488491</id>
     <title>[no title]</title>
-    <updated>2023-08-28T23:38:27+00:00</updated>
+    <updated>2023-08-29T15:16:43+00:00</updated>
     <content>[no description]</content>
-    <link href="https://www.tiktok.com/@melaninqueen833/video/7272521648195079467" rel="alternate"/>
-    <published>2023-08-28T23:38:27+00:00</published>
+    <link href="https://www.tiktok.com/@melaninqueen833/video/7272763444292488491" rel="alternate"/>
+    <published>2023-08-29T15:16:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@melaninqueen833/video/7272838948806855979</id>
+    <title>[no title]</title>
+    <updated>2023-08-29T20:09:53+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@melaninqueen833/video/7272838948806855979" rel="alternate"/>
+    <published>2023-08-29T20:09:53+00:00</published>
   </entry>
 </feed>
