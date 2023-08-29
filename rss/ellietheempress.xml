@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ellietheempress</id>
   <title>@ellietheempress | TikTok</title>
-  <updated>2023-08-29T01:43:08+00:00</updated>
+  <updated>2023-08-29T19:06:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ellietheempress</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@ellietheempress/video/7271721106283990318</id>
-    <title>#foryou </title>
-    <updated>2023-08-26T19:51:54+00:00</updated>
-    <content>#foryou </content>
-    <link href="https://www.tiktok.com/@ellietheempress/video/7271721106283990318" rel="alternate"/>
-    <published>2023-08-26T19:51:54+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@ellietheempress/video/7272139432520584491</id>
-    <title>I hate and love negative comments sometimes… #fyp #foryou </title>
-    <updated>2023-08-27T22:55:16+00:00</updated>
-    <content>I hate and love negative comments sometimes… #fyp #foryou </content>
-    <link href="https://www.tiktok.com/@ellietheempress/video/7272139432520584491" rel="alternate"/>
-    <published>2023-08-27T22:55:16+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@ellietheempress/video/7272159822965984555</id>
-    <title>#foryou </title>
-    <updated>2023-08-28T00:14:28+00:00</updated>
-    <content>#foryou </content>
-    <link href="https://www.tiktok.com/@ellietheempress/video/7272159822965984555" rel="alternate"/>
-    <published>2023-08-28T00:14:28+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@ellietheempress/video/7272365118388718890</id>
     <title>#foryou #fyp </title>
@@ -51,5 +27,29 @@
     <content>#foryou #fyp #viral </content>
     <link href="https://www.tiktok.com/@ellietheempress/video/7272553771828415790" rel="alternate"/>
     <published>2023-08-29T01:43:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ellietheempress/video/7272709622723546410</id>
+    <title>#fyp #foryou </title>
+    <updated>2023-08-29T11:47:53+00:00</updated>
+    <content>#fyp #foryou </content>
+    <link href="https://www.tiktok.com/@ellietheempress/video/7272709622723546410" rel="alternate"/>
+    <published>2023-08-29T11:47:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ellietheempress/video/7272801492883590442</id>
+    <title>Falling in love with Guatemala. Come wuth me to Pacaya Volcano #guatemala #pacayavolcano #guatemalahorsetours </title>
+    <updated>2023-08-29T17:44:39+00:00</updated>
+    <content>Falling in love with Guatemala. Come wuth me to Pacaya Volcano #guatemala #pacayavolcano #guatemalahorsetours </content>
+    <link href="https://www.tiktok.com/@ellietheempress/video/7272801492883590442" rel="alternate"/>
+    <published>2023-08-29T17:44:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ellietheempress/video/7272822658159496490</id>
+    <title>#pacayavolcano #guatemala #guatemalahorsetours #foryou </title>
+    <updated>2023-08-29T19:06:41+00:00</updated>
+    <content>#pacayavolcano #guatemala #guatemalahorsetours #foryou </content>
+    <link href="https://www.tiktok.com/@ellietheempress/video/7272822658159496490" rel="alternate"/>
+    <published>2023-08-29T19:06:41+00:00</published>
   </entry>
 </feed>
