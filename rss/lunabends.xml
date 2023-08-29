@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@lunabends</id>
   <title>@lunabends | TikTok</title>
-  <updated>2023-08-25T16:17:37+00:00</updated>
+  <updated>2023-08-28T23:22:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @lunabends</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@lunabends/video/7270215127167880494</id>
-    <title>Bendy things  #yogi #yoga #flexible #splits #stretch </title>
-    <updated>2023-08-22T18:28:08+00:00</updated>
-    <content>Bendy things  #yogi #yoga #flexible #splits #stretch </content>
-    <link href="https://www.tiktok.com/@lunabends/video/7270215127167880494" rel="alternate"/>
-    <published>2023-08-22T18:28:08+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@lunabends/video/7270557056862604587</id>
     <title>Attempted my pretzel pose on the pole 🤣😬 #pole #poletricks #spinpole #dancer </title>
@@ -51,5 +43,13 @@
     <content>Peep the back muscles 🤭 #poletok #dancer #stronggirls #poledance #spinpole #staticpole #pleasersheels </content>
     <link href="https://www.tiktok.com/@lunabends/video/7271294802304486702" rel="alternate"/>
     <published>2023-08-25T16:17:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lunabends/video/7272517410131938602</id>
+    <title>Puppy pose variations  #yogi #yoga #flexible </title>
+    <updated>2023-08-28T23:22:03+00:00</updated>
+    <content>Puppy pose variations  #yogi #yoga #flexible </content>
+    <link href="https://www.tiktok.com/@lunabends/video/7272517410131938602" rel="alternate"/>
+    <published>2023-08-28T23:22:03+00:00</published>
   </entry>
 </feed>
