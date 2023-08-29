@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rahyndee</id>
   <title>@rahyndee | TikTok</title>
-  <updated>2023-08-28T16:19:38+00:00</updated>
+  <updated>2023-08-29T01:33:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @rahyndee</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@rahyndee/video/7271414322859937055</id>
-    <title>He thought I didn’t notice him filming me  😏🤤 #thelook #boatlife #fyp #lakedays #puremichigan </title>
-    <updated>2023-08-26T00:01:25+00:00</updated>
-    <content>He thought I didn’t notice him filming me  😏🤤 #thelook #boatlife #fyp #lakedays #puremichigan </content>
-    <link href="https://www.tiktok.com/@rahyndee/video/7271414322859937055" rel="alternate"/>
-    <published>2023-08-26T00:01:25+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@rahyndee/video/7271441266024385823</id>
     <title>..doing a little stretching thats all 💜😈 #fyp #stretching #flexing #gymrat </title>
@@ -51,5 +43,13 @@
     <content>Someone suggested I try Turkey Eggs 🤤🍳🥚 #breatfast #cooking #vlog #fyp #offgridliving </content>
     <link href="https://www.tiktok.com/@rahyndee/video/7272408430759922974" rel="alternate"/>
     <published>2023-08-28T16:19:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@rahyndee/video/7272551146126986527</id>
+    <title>This video proves they are “real”… right?? #fyp #proof #grocerystore #allnatural </title>
+    <updated>2023-08-29T01:33:10+00:00</updated>
+    <content>This video proves they are “real”… right?? #fyp #proof #grocerystore #allnatural </content>
+    <link href="https://www.tiktok.com/@rahyndee/video/7272551146126986527" rel="alternate"/>
+    <published>2023-08-29T01:33:10+00:00</published>
   </entry>
 </feed>
