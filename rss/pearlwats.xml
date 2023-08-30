@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@pearlwats</id>
   <title>@pearlwats | TikTok</title>
-  <updated>2023-08-29T10:35:24+00:00</updated>
+  <updated>2023-08-30T18:09:44+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @pearlwats</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@pearlwats/video/7270542692864544005</id>
-    <title>[no title]</title>
-    <updated>2023-08-23T15:38:57+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@pearlwats/video/7270542692864544005" rel="alternate"/>
-    <published>2023-08-23T15:38:57+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@pearlwats/video/7270955052091690245</id>
     <title>[no title]</title>
@@ -51,5 +43,13 @@
     <content>#CapCut #fyp #viral </content>
     <link href="https://www.tiktok.com/@pearlwats/video/7272690975032691973" rel="alternate"/>
     <published>2023-08-29T10:35:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@pearlwats/video/7273179139014757638</id>
+    <title>Showing on Nolly family tv youtube channel</title>
+    <updated>2023-08-30T18:09:44+00:00</updated>
+    <content>Showing on Nolly family tv youtube channel</content>
+    <link href="https://www.tiktok.com/@pearlwats/video/7273179139014757638" rel="alternate"/>
+    <published>2023-08-30T18:09:44+00:00</published>
   </entry>
 </feed>
