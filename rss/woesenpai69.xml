@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@woesenpai69</id>
   <title>@woesenpai69 | TikTok</title>
-  <updated>2023-08-29T01:33:27+00:00</updated>
+  <updated>2023-08-29T17:03:51+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @woesenpai69</subtitle>
+  <entry>
+    <id>https://www.tiktok.com/@woesenpai69/video/7268816598834662698</id>
+    <title>Cant trust nothing in other countries. </title>
+    <updated>2023-08-19T00:00:55+00:00</updated>
+    <content>Cant trust nothing in other countries. </content>
+    <link href="https://www.tiktok.com/@woesenpai69/video/7268816598834662698" rel="alternate"/>
+    <published>2023-08-19T00:00:55+00:00</published>
+  </entry>
   <entry>
     <id>https://www.tiktok.com/@woesenpai69/video/7269387075567258922</id>
     <title>Brown eats omg </title>
@@ -29,27 +37,19 @@
     <published>2023-08-28T18:23:46+00:00</published>
   </entry>
   <entry>
-    <id>https://www.tiktok.com/@woesenpai69/video/7272533962554395950</id>
-    <title>Throw back that mmm mm </title>
-    <updated>2023-08-29T00:26:15+00:00</updated>
-    <content>Throw back that mmm mm </content>
-    <link href="https://www.tiktok.com/@woesenpai69/video/7272533962554395950" rel="alternate"/>
-    <published>2023-08-29T00:26:15+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@woesenpai69/video/7272535642725436718</id>
-    <title>[no title]</title>
-    <updated>2023-08-29T00:32:46+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@woesenpai69/video/7272535642725436718" rel="alternate"/>
-    <published>2023-08-29T00:32:46+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.tiktok.com/@woesenpai69/video/7272551279732329771</id>
     <title>[no title]</title>
     <updated>2023-08-29T01:33:27+00:00</updated>
     <content>[no description]</content>
     <link href="https://www.tiktok.com/@woesenpai69/video/7272551279732329771" rel="alternate"/>
     <published>2023-08-29T01:33:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@woesenpai69/video/7272791049746189614</id>
+    <title>Listen to the car slam on the breaks to look lmao </title>
+    <updated>2023-08-29T17:03:51+00:00</updated>
+    <content>Listen to the car slam on the breaks to look lmao </content>
+    <link href="https://www.tiktok.com/@woesenpai69/video/7272791049746189614" rel="alternate"/>
+    <published>2023-08-29T17:03:51+00:00</published>
   </entry>
 </feed>
