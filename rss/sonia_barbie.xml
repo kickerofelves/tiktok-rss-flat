@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@sonia_barbie</id>
   <title>@sonia_barbie | TikTok</title>
-  <updated>2023-08-29T15:31:33+00:00</updated>
+  <updated>2023-08-30T12:54:04+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @sonia_barbie</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@sonia_barbie/video/7269912280651812138</id>
-    <title>Fits like a second skin , The Link to this dress is in my bio  Bad @SAINT LAURENT  Shoe @ZARA </title>
-    <updated>2023-08-21T22:52:47+00:00</updated>
-    <content>Fits like a second skin , The Link to this dress is in my bio  Bad @SAINT LAURENT  Shoe @ZARA </content>
-    <link href="https://www.tiktok.com/@sonia_barbie/video/7269912280651812138" rel="alternate"/>
-    <published>2023-08-21T22:52:47+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@sonia_barbie/video/7270126105066097962</id>
     <title>Dress link in bio </title>
@@ -51,5 +43,13 @@
     <content>@heirsofafrika @Claire Sulmers </content>
     <link href="https://www.tiktok.com/@sonia_barbie/video/7272767259431406890" rel="alternate"/>
     <published>2023-08-29T15:31:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@sonia_barbie/video/7273097720263363883</id>
+    <title>#Repost @sonia_barbie_tucker ・・・ Love these @amazonfashion dresses. They comes in sets of 2 different colors, and fit perfectly. I got the pink &amp; the black set, but I definitely need more!! You can shop this on my Amazon storefront at the link in my bio 💕</title>
+    <updated>2023-08-30T12:54:04+00:00</updated>
+    <content>#Repost @sonia_barbie_tucker ・・・ Love these @amazonfashion dresses. They comes in sets of 2 different colors, and fit perfectly. I got the pink &amp; the black set, but I definitely need more!! You can shop this on my Amazon storefront at the link in my bio 💕💕💕</content>
+    <link href="https://www.tiktok.com/@sonia_barbie/video/7273097720263363883" rel="alternate"/>
+    <published>2023-08-30T12:54:04+00:00</published>
   </entry>
 </feed>
