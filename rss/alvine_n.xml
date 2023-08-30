@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@alvine_n</id>
   <title>@alvine_n | TikTok</title>
-  <updated>2023-08-29T20:04:31+00:00</updated>
+  <updated>2023-08-30T18:34:38+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @alvine_n</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@alvine_n/video/7272433961492581664</id>
-    <title>Replying to @jrwsmalls I'm sorry to hear you're feeling this way. The 🔑to achieve your goal, combination of strength training, calorie deficit, hiit workout and cardio join body recomposition challenge now</title>
-    <updated>2023-08-28T17:58:07+00:00</updated>
-    <content>Replying to @jrwsmalls I'm sorry to hear you're feeling this way. The 🔑to achieve your goal, combination of strength training, calorie deficit, hiit workout and cardio join body recomposition challenge now</content>
-    <link href="https://www.tiktok.com/@alvine_n/video/7272433961492581664" rel="alternate"/>
-    <published>2023-08-28T17:58:07+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@alvine_n/video/7272709485288820000</id>
-    <title>[no title]</title>
-    <updated>2023-08-29T11:47:17+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@alvine_n/video/7272709485288820000" rel="alternate"/>
-    <published>2023-08-29T11:47:17+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@alvine_n/video/7272740605514566944</id>
-    <title>Replying to @FabFau so proud 🥹👏👏👏#weightlosstransformation #weightloss #cardio </title>
-    <updated>2023-08-29T13:48:02+00:00</updated>
-    <content>Replying to @FabFau so proud 🥹👏👏👏#weightlosstransformation #weightloss #cardio </content>
-    <link href="https://www.tiktok.com/@alvine_n/video/7272740605514566944" rel="alternate"/>
-    <published>2023-08-29T13:48:02+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@alvine_n/video/7272799009197083936</id>
     <title>Replying to @Charley ❤️ join body recomposition challenge in my bio custom workout + Nuttrition’ join my private community chat for daily support &amp; motivation </title>
@@ -51,5 +27,29 @@
     <content>Replying to @K R calorie deficit 💯💯💯</content>
     <link href="https://www.tiktok.com/@alvine_n/video/7272837624602070305" rel="alternate"/>
     <published>2023-08-29T20:04:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@alvine_n/video/7273092992246844704</id>
+    <title>Replying to @Lony_cake thank you so much boo you are killing it 🔥🔥🔥</title>
+    <updated>2023-08-30T12:35:30+00:00</updated>
+    <content>Replying to @Lony_cake thank you so much boo you are killing it 🔥🔥🔥</content>
+    <link href="https://www.tiktok.com/@alvine_n/video/7273092992246844704" rel="alternate"/>
+    <published>2023-08-30T12:35:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@alvine_n/video/7273159587987983648</id>
+    <title>#CapCut the only core workout you should be doing to snatched your wiast 🔥🔥</title>
+    <updated>2023-08-30T16:53:54+00:00</updated>
+    <content>#CapCut the only core workout you should be doing to snatched your wiast 🔥🔥</content>
+    <link href="https://www.tiktok.com/@alvine_n/video/7273159587987983648" rel="alternate"/>
+    <published>2023-08-30T16:53:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@alvine_n/video/7273185554215226656</id>
+    <title>What if you start today? </title>
+    <updated>2023-08-30T18:34:38+00:00</updated>
+    <content>What if you start today? </content>
+    <link href="https://www.tiktok.com/@alvine_n/video/7273185554215226656" rel="alternate"/>
+    <published>2023-08-30T18:34:38+00:00</published>
   </entry>
 </feed>
