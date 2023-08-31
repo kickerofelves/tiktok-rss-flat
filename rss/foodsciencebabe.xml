@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@foodsciencebabe</id>
   <title>@foodsciencebabe | TikTok</title>
-  <updated>2023-08-30T18:52:48+00:00</updated>
+  <updated>2023-08-29T19:20:46+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @foodsciencebabe</subtitle>
+  <entry>
+    <id>https://www.tiktok.com/@foodsciencebabe/video/7269500948597214510</id>
+    <title>Replying to @Trista French  1. It has to have dill (herb or flavor) to be labeled “dill” on the front of the package.  2. A container of pickles does not have to contain dill to be labeled as “pickles” on the front of the package. 3. Dill may be listed as</title>
+    <updated>2023-08-20T20:16:33+00:00</updated>
+    <content>Replying to @Trista French  1. It has to have dill (herb or flavor) to be labeled “dill” on the front of the package.  2. A container of pickles does not have to contain dill to be labeled as “pickles” on the front of the package. 3. Dill may be listed as “spice” or “natural flavor” in the ingredient declaration, so even if dill is added, it may not be listed as “dill” on the ingredient declaration. 4. Yes, I said pickles a lot in this video  🙃  #picklegate #pickle #pickles #foodlabels #foodscience #greenscreen </content>
+    <link href="https://www.tiktok.com/@foodsciencebabe/video/7269500948597214510" rel="alternate"/>
+    <published>2023-08-20T20:16:33+00:00</published>
+  </entry>
   <entry>
     <id>https://www.tiktok.com/@foodsciencebabe/video/7269884676922166570</id>
     <title>In addition, “processed” is not inherently bad and HFCS is not inherently bad either. These arguments all arise from the appeal to nature fallacy as well as a misunderstanding of basic sugar chemistry. See more about HFCS in my “sweeteners” playlist. #fac</title>
@@ -43,13 +51,5 @@
     <content>Replying to @Carmen Nissan I know these comments are all in good fun but I don’t know why I say it like that 😆 #bag #beg #bayg #minnesota #minnesotan </content>
     <link href="https://www.tiktok.com/@foodsciencebabe/video/7272826299377356078" rel="alternate"/>
     <published>2023-08-29T19:20:46+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@foodsciencebabe/video/7273190170948652330</id>
-    <title>#duet with @Bethenny Frankel haha what a scam! 4 cups instead of 6 😱 #foodlabels #popcorn #scam </title>
-    <updated>2023-08-30T18:52:48+00:00</updated>
-    <content>#duet with @Bethenny Frankel haha what a scam! 4 cups instead of 6 😱 #foodlabels #popcorn #scam </content>
-    <link href="https://www.tiktok.com/@foodsciencebabe/video/7273190170948652330" rel="alternate"/>
-    <published>2023-08-30T18:52:48+00:00</published>
   </entry>
 </feed>
