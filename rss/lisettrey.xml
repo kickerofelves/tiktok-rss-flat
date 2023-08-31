@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@lisettrey</id>
   <title>@lisettrey | TikTok</title>
-  <updated>2023-08-27T22:15:18+00:00</updated>
+  <updated>2023-08-30T21:05:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @lisettrey</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@lisettrey/video/7271893376872664325</id>
-    <title>Another one😜</title>
-    <updated>2023-08-27T07:00:19+00:00</updated>
-    <content>Another one😜</content>
-    <link href="https://www.tiktok.com/@lisettrey/video/7271893376872664325" rel="alternate"/>
-    <published>2023-08-27T07:00:19+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@lisettrey/video/7271898432753749253</id>
-    <title>☕️ </title>
-    <updated>2023-08-27T07:19:57+00:00</updated>
-    <content>☕️ </content>
-    <link href="https://www.tiktok.com/@lisettrey/video/7271898432753749253" rel="alternate"/>
-    <published>2023-08-27T07:19:57+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@lisettrey/video/7271898857544355078</id>
-    <title>Wap 🥰</title>
-    <updated>2023-08-27T07:21:34+00:00</updated>
-    <content>Wap 🥰</content>
-    <link href="https://www.tiktok.com/@lisettrey/video/7271898857544355078" rel="alternate"/>
-    <published>2023-08-27T07:21:34+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@lisettrey/video/7272029085478505734</id>
     <title>#CapCut 🥰</title>
@@ -51,5 +27,29 @@
     <content>Instagram: lisettrey 🥰</content>
     <link href="https://www.tiktok.com/@lisettrey/video/7272129170082172165" rel="alternate"/>
     <published>2023-08-27T22:15:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lisettrey/video/7273222238734765317</id>
+    <title>Hot wuk 🤣🥹</title>
+    <updated>2023-08-30T20:57:01+00:00</updated>
+    <content>Hot wuk 🤣🥹</content>
+    <link href="https://www.tiktok.com/@lisettrey/video/7273222238734765317" rel="alternate"/>
+    <published>2023-08-30T20:57:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lisettrey/video/7273222986692300037</id>
+    <title>Instagram: lisettrey 😘</title>
+    <updated>2023-08-30T20:59:53+00:00</updated>
+    <content>Instagram: lisettrey 😘</content>
+    <link href="https://www.tiktok.com/@lisettrey/video/7273222986692300037" rel="alternate"/>
+    <published>2023-08-30T20:59:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lisettrey/video/7273224413821095174</id>
+    <title>Gym ✅</title>
+    <updated>2023-08-30T21:05:27+00:00</updated>
+    <content>Gym ✅</content>
+    <link href="https://www.tiktok.com/@lisettrey/video/7273224413821095174" rel="alternate"/>
+    <published>2023-08-30T21:05:27+00:00</published>
   </entry>
 </feed>
