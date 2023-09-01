@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mzkora</id>
   <title>@mzkora | TikTok</title>
-  <updated>2023-08-31T01:47:53+00:00</updated>
+  <updated>2023-09-01T03:59:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @mzkora</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@mzkora/video/7271272891772308782</id>
-    <title>I look like my momma. 👵🏽 #fypシ #fyp #couple #parentsof9 #momanddad #granny #zaddy #blindiancouple #oldfilter #oldage </title>
-    <updated>2023-08-25T14:52:38+00:00</updated>
-    <content>I look like my momma. 👵🏽 #fypシ #fyp #couple #parentsof9 #momanddad #granny #zaddy #blindiancouple #oldfilter #oldage </content>
-    <link href="https://www.tiktok.com/@mzkora/video/7271272891772308782" rel="alternate"/>
-    <published>2023-08-25T14:52:38+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@mzkora/video/7273115117351390506</id>
     <title>It’s great getting back in the gym after a 6 week pause. My tummy tuck was one of the best things I could have done for myself but I did miss the gym. Now that I can lift these weights like they should let me go ahead and get strong again. 😬 Energy provid</title>
@@ -51,5 +43,13 @@
     <content>Replying to @jewel_b6 No I really can’t. My husband speaks better than me. 😭 #fyp #fypシ #parentsof9 #momanddad #malayalam #malayali #kerala #indian #nativelanguage </content>
     <link href="https://www.tiktok.com/@mzkora/video/7273297170135305518" rel="alternate"/>
     <published>2023-08-31T01:47:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@mzkora/video/7273702174205562155</id>
+    <title>This did not include early morning high school drop offs or afternoon pick ups and alot of the inbetweens. 😅 Hubby only sees me coming and going, never during. 🤣 He couldnt keep up. 🤪 #fyp #fypシ #momof9 #dayinmylife #dailyvlog #parents #familyof10 #busyda</title>
+    <updated>2023-09-01T03:59:39+00:00</updated>
+    <content>This did not include early morning high school drop offs or afternoon pick ups and alot of the inbetweens. 😅 Hubby only sees me coming and going, never during. 🤣 He couldnt keep up. 🤪 #fyp #fypシ #momof9 #dayinmylife #dailyvlog #parents #familyof10 #busyday </content>
+    <link href="https://www.tiktok.com/@mzkora/video/7273702174205562155" rel="alternate"/>
+    <published>2023-09-01T03:59:39+00:00</published>
   </entry>
 </feed>

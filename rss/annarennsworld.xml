@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@annarennsworld</id>
   <title>@annarennsworld | TikTok</title>
-  <updated>2023-08-31T19:36:16+00:00</updated>
+  <updated>2023-09-01T05:43:17+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @annarennsworld</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@annarennsworld/video/7273570454076575022</id>
-    <title>[no title]</title>
-    <updated>2023-08-31T19:28:19+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@annarennsworld/video/7273570454076575022" rel="alternate"/>
-    <published>2023-08-31T19:28:19+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@annarennsworld/video/7273570457985518894</id>
     <title>I was SPEECHLESS like HUHHHH and I’m a die hard laura mercier fan too </title>
@@ -51,5 +43,13 @@
     <content>Replying to @bongwater linked this vanity in bio💞when i was looking for a new vanity i told myself i want something that has hidden storage so i can have a more clean looking room because I’m such a slov </content>
     <link href="https://www.tiktok.com/@annarennsworld/video/7273572501370752298" rel="alternate"/>
     <published>2023-08-31T19:36:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@annarennsworld/video/7273728850687741226</id>
+    <title>Make them maddd girl😍😘🥰😍😍😍😍</title>
+    <updated>2023-09-01T05:43:17+00:00</updated>
+    <content>Make them maddd girl😍😘🥰😍😍😍😍</content>
+    <link href="https://www.tiktok.com/@annarennsworld/video/7273728850687741226" rel="alternate"/>
+    <published>2023-09-01T05:43:17+00:00</published>
   </entry>
 </feed>
