@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@alvine_n</id>
   <title>@alvine_n | TikTok</title>
-  <updated>2023-08-31T20:05:54+00:00</updated>
+  <updated>2023-09-01T06:54:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @alvine_n</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@alvine_n/video/7272837624602070305</id>
-    <title>Replying to @K R calorie deficit 💯💯💯</title>
-    <updated>2023-08-29T20:04:31+00:00</updated>
-    <content>Replying to @K R calorie deficit 💯💯💯</content>
-    <link href="https://www.tiktok.com/@alvine_n/video/7272837624602070305" rel="alternate"/>
-    <published>2023-08-29T20:04:31+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@alvine_n/video/7273092992246844704</id>
     <title>Replying to @Lony_cake thank you so much boo you are killing it 🔥🔥🔥</title>
@@ -51,5 +43,13 @@
     <content>💪🌟 Inspiring Transformation Alert! 🌟💪 This amazing woman, a mom of 3, banished her stubborn belly fat for good! 👋 Say goodbye to feeling alone on your fitness journey. Join our supportive community and let's crush our goals together! 💃👯‍♀️ #StrongTogether #FitnessFamily #Transformation</content>
     <link href="https://www.tiktok.com/@alvine_n/video/7273580148773932320" rel="alternate"/>
     <published>2023-08-31T20:05:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@alvine_n/video/7273747161605590305</id>
+    <title>Replying to @FabFau take your lower tummy to next level with this workout 🔥🔥</title>
+    <updated>2023-09-01T06:54:05+00:00</updated>
+    <content>Replying to @FabFau take your lower tummy to next level with this workout 🔥🔥</content>
+    <link href="https://www.tiktok.com/@alvine_n/video/7273747161605590305" rel="alternate"/>
+    <published>2023-09-01T06:54:05+00:00</published>
   </entry>
 </feed>
