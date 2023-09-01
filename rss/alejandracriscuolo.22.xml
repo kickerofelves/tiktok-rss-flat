@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@alejandracriscuolo.22</id>
   <title>@alejandracriscuolo.22 | TikTok</title>
-  <updated>2023-08-31T23:29:14+00:00</updated>
+  <updated>2023-08-31T22:48:11+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,22 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @alejandracriscuolo.22</subtitle>
+  <entry>
+    <id>https://www.tiktok.com/@alejandracriscuolo.22/video/7272229779301043461</id>
+    <title>#alejandracriscuolo #alejandracriscuolo22 #viral #fakebodyy⚠️ </title>
+    <updated>2023-08-28T04:45:46+00:00</updated>
+    <content>#alejandracriscuolo #alejandracriscuolo22 #viral #fakebodyy⚠️ </content>
+    <link href="https://www.tiktok.com/@alejandracriscuolo.22/video/7272229779301043461" rel="alternate"/>
+    <published>2023-08-28T04:45:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@alejandracriscuolo.22/video/7272875114935504133</id>
+    <title>#alejandracriscuolo #alejandracriscuolo22 </title>
+    <updated>2023-08-29T22:29:59+00:00</updated>
+    <content>#alejandracriscuolo #alejandracriscuolo22 </content>
+    <link href="https://www.tiktok.com/@alejandracriscuolo.22/video/7272875114935504133" rel="alternate"/>
+    <published>2023-08-29T22:29:59+00:00</published>
+  </entry>
   <entry>
     <id>https://www.tiktok.com/@alejandracriscuolo.22/video/7272875317931314438</id>
     <title>#alejandracriscuolo #alejandracriscuolo22 </title>
@@ -29,27 +45,11 @@
     <published>2023-08-29T22:31:11+00:00</published>
   </entry>
   <entry>
-    <id>https://www.tiktok.com/@alejandracriscuolo.22/video/7272875543333211397</id>
-    <title>#alejandracriscuolo #alejandracriscuolo22 #viral </title>
-    <updated>2023-08-29T22:31:38+00:00</updated>
-    <content>#alejandracriscuolo #alejandracriscuolo22 #viral </content>
-    <link href="https://www.tiktok.com/@alejandracriscuolo.22/video/7272875543333211397" rel="alternate"/>
-    <published>2023-08-29T22:31:38+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.tiktok.com/@alejandracriscuolo.22/video/7273621977724718342</id>
     <title>#alejandracriscuolo #alejandracriscuolo22 </title>
     <updated>2023-08-31T22:48:11+00:00</updated>
     <content>#alejandracriscuolo #alejandracriscuolo22 </content>
     <link href="https://www.tiktok.com/@alejandracriscuolo.22/video/7273621977724718342" rel="alternate"/>
     <published>2023-08-31T22:48:11+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@alejandracriscuolo.22/video/7273632551275597061</id>
-    <title>[no title]</title>
-    <updated>2023-08-31T23:29:14+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@alejandracriscuolo.22/video/7273632551275597061" rel="alternate"/>
-    <published>2023-08-31T23:29:14+00:00</published>
   </entry>
 </feed>
