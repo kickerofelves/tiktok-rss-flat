@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@circusfaery33</id>
   <title>@circusfaery33 | TikTok</title>
-  <updated>2023-09-01T00:41:27+00:00</updated>
+  <updated>2023-09-01T19:49:55+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @circusfaery33</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7272831046050434350</id>
-    <title>Replying to @chris11 ✉️ people like you fought against exactly that until you lost less than 60 years ago.  #asianamerican #modelminority #antiracism #solidarity </title>
-    <updated>2023-08-29T19:39:17+00:00</updated>
-    <content>Replying to @chris11 ✉️ people like you fought against exactly that until you lost less than 60 years ago.  #asianamerican #modelminority #antiracism #solidarity </content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7272831046050434350" rel="alternate"/>
-    <published>2023-08-29T19:39:17+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7272879245523799338</id>
-    <title>Replying to @Jojo Yes--absolutely correct. And what were you trying to accomplish?</title>
-    <updated>2023-08-29T22:46:08+00:00</updated>
-    <content>Replying to @Jojo Yes--absolutely correct. And what were you trying to accomplish?</content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7272879245523799338" rel="alternate"/>
-    <published>2023-08-29T22:46:08+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7273132123811368234</id>
-    <title>Replying to @G People don't change names when migrating from the foreign birthplace of Michigan to New York. 🤣</title>
-    <updated>2023-08-30T15:07:41+00:00</updated>
-    <content>Replying to @G People don't change names when migrating from the foreign birthplace of Michigan to New York. 🤣</content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7273132123811368234" rel="alternate"/>
-    <published>2023-08-30T15:07:41+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@circusfaery33/video/7273273438716824875</id>
     <title>Replying to @user2802127456600 Because names are so personal to how we identify, be receptive to each person's individual choice. I appreciate people offering to learn to pronounce my Chinese name, but Amy is the name I identify with. </title>
@@ -51,5 +27,29 @@
     <content>Replying to @Dub D Says You got it right! </content>
     <link href="https://www.tiktok.com/@circusfaery33/video/7273651130079530283" rel="alternate"/>
     <published>2023-09-01T00:41:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7273856402836196654</id>
+    <title>Replying to @Temi I was hoping for some actual nuance; this is just gaslighting. </title>
+    <updated>2023-09-01T13:57:56+00:00</updated>
+    <content>Replying to @Temi I was hoping for some actual nuance; this is just gaslighting. </content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7273856402836196654" rel="alternate"/>
+    <published>2023-09-01T13:57:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7273901133884706090</id>
+    <title>Replying to @user3359385047571 Calling me a colonizer would only hurt if facts hurt my feelings. </title>
+    <updated>2023-09-01T16:51:33+00:00</updated>
+    <content>Replying to @user3359385047571 Calling me a colonizer would only hurt if facts hurt my feelings. </content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7273901133884706090" rel="alternate"/>
+    <published>2023-09-01T16:51:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7273947104425348395</id>
+    <title>Replying to @mathewraftery Redoing this response to include counter-allegations of propaganda. </title>
+    <updated>2023-09-01T19:49:55+00:00</updated>
+    <content>Replying to @mathewraftery Redoing this response to include counter-allegations of propaganda. </content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7273947104425348395" rel="alternate"/>
+    <published>2023-09-01T19:49:55+00:00</published>
   </entry>
 </feed>

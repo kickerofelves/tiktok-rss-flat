@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@sonia_barbie</id>
   <title>@sonia_barbie | TikTok</title>
-  <updated>2023-08-31T15:09:57+00:00</updated>
+  <updated>2023-09-01T22:43:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @sonia_barbie</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@sonia_barbie/video/7271347524064120106</id>
-    <title>❤️❤️❤️🥰</title>
-    <updated>2023-08-25T19:42:15+00:00</updated>
-    <content>❤️❤️❤️🥰</content>
-    <link href="https://www.tiktok.com/@sonia_barbie/video/7271347524064120106" rel="alternate"/>
-    <published>2023-08-25T19:42:15+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@sonia_barbie/video/7272746924707515691</id>
-    <title>Public speaking has always been one of my biggest fears, and to say I was nervous was an understatement🥹 Thank you @heirsofafrika for both honoring me and helping me overcome my fears 🙏🏾 I got so emotional but my heart is so full🥹  Full speach on my YouTu</title>
-    <updated>2023-08-29T14:12:39+00:00</updated>
-    <content>Public speaking has always been one of my biggest fears, and to say I was nervous was an understatement🥹 Thank you @heirsofafrika for both honoring me and helping me overcome my fears 🙏🏾 I got so emotional but my heart is so full🥹  Full speach on my YouTube channel link in my Bio  . Thank you @Claire Sulmers for your beautiful words 🥹 you are amazing Queen ❤️❤️👸🏾</content>
-    <link href="https://www.tiktok.com/@sonia_barbie/video/7272746924707515691" rel="alternate"/>
-    <published>2023-08-29T14:12:39+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@sonia_barbie/video/7272767259431406890</id>
     <title>@heirsofafrika @Claire Sulmers </title>
@@ -51,5 +35,21 @@
     <content>Dress from @Sincerely RIA </content>
     <link href="https://www.tiktok.com/@sonia_barbie/video/7273503858100391210" rel="alternate"/>
     <published>2023-08-31T15:09:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@sonia_barbie/video/7273883389445377322</id>
+    <title>She is a masterpiece and she has mastered peace😉🧡 Shoes Lin in bio at my Amazon store front ❤️</title>
+    <updated>2023-09-01T15:42:41+00:00</updated>
+    <content>She is a masterpiece and she has mastered peace😉🧡 Shoes Lin in bio at my Amazon store front ❤️</content>
+    <link href="https://www.tiktok.com/@sonia_barbie/video/7273883389445377322" rel="alternate"/>
+    <published>2023-09-01T15:42:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@sonia_barbie/video/7273991827575852331</id>
+    <title>Happy Friday 💕💕💕</title>
+    <updated>2023-09-01T22:43:27+00:00</updated>
+    <content>Happy Friday 💕💕💕</content>
+    <link href="https://www.tiktok.com/@sonia_barbie/video/7273991827575852331" rel="alternate"/>
+    <published>2023-09-01T22:43:27+00:00</published>
   </entry>
 </feed>
