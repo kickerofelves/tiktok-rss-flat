@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@woesenpai69</id>
   <title>@woesenpai69 | TikTok</title>
-  <updated>2023-08-31T23:54:18+00:00</updated>
+  <updated>2023-09-01T17:53:44+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @woesenpai69</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@woesenpai69/video/7272551279732329771</id>
-    <title>[no title]</title>
-    <updated>2023-08-29T01:33:27+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@woesenpai69/video/7272551279732329771" rel="alternate"/>
-    <published>2023-08-29T01:33:27+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@woesenpai69/video/7272791049746189614</id>
-    <title>Listen to the car slam on the breaks to look lmao </title>
-    <updated>2023-08-29T17:03:51+00:00</updated>
-    <content>Listen to the car slam on the breaks to look lmao </content>
-    <link href="https://www.tiktok.com/@woesenpai69/video/7272791049746189614" rel="alternate"/>
-    <published>2023-08-29T17:03:51+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@woesenpai69/video/7273138974586080554</id>
     <title>Im tryna do da dash with @Sexyy Red </title>
@@ -51,5 +35,21 @@
     <content>#guess </content>
     <link href="https://www.tiktok.com/@woesenpai69/video/7273638994271833386" rel="alternate"/>
     <published>2023-08-31T23:54:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@woesenpai69/video/7273896520372751662</id>
+    <title>Stop acting innocent </title>
+    <updated>2023-09-01T16:33:42+00:00</updated>
+    <content>Stop acting innocent </content>
+    <link href="https://www.tiktok.com/@woesenpai69/video/7273896520372751662" rel="alternate"/>
+    <published>2023-09-01T16:33:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@woesenpai69/video/7273917162048310570</id>
+    <title>[no title]</title>
+    <updated>2023-09-01T17:53:44+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@woesenpai69/video/7273917162048310570" rel="alternate"/>
+    <published>2023-09-01T17:53:44+00:00</published>
   </entry>
 </feed>
