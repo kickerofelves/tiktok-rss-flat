@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mzkora</id>
   <title>@mzkora | TikTok</title>
-  <updated>2023-09-01T03:59:39+00:00</updated>
+  <updated>2023-09-02T00:07:18+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @mzkora</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@mzkora/video/7273115117351390506</id>
-    <title>It’s great getting back in the gym after a 6 week pause. My tummy tuck was one of the best things I could have done for myself but I did miss the gym. Now that I can lift these weights like they should let me go ahead and get strong again. 😬 Energy provid</title>
-    <updated>2023-08-30T14:01:32+00:00</updated>
-    <content>It’s great getting back in the gym after a 6 week pause. My tummy tuck was one of the best things I could have done for myself but I did miss the gym. Now that I can lift these weights like they should let me go ahead and get strong again. 😬 Energy provided by @Shameless Snacks #shamelesspartner #momof9 #fyp #fypシ #mombod #fitness #gymrat </content>
-    <link href="https://www.tiktok.com/@mzkora/video/7273115117351390506" rel="alternate"/>
-    <published>2023-08-30T14:01:32+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@mzkora/video/7273189426602249518</id>
-    <title>From the moment I decided on this journey with @Athēnix , it wasn't just about the inches. It was about reclaiming my body's strength and stability. Now, with 6 inches off and my core muscles mended, I feel more empowered and centered than ever. #Athenix </title>
-    <updated>2023-08-30T18:49:57+00:00</updated>
-    <content>From the moment I decided on this journey with @Athēnix , it wasn't just about the inches. It was about reclaiming my body's strength and stability. Now, with 6 inches off and my core muscles mended, I feel more empowered and centered than ever. #Athenix #AthenixJourney #AthenixBody #momof9 #fyp #fypシ #tummytuck </content>
-    <link href="https://www.tiktok.com/@mzkora/video/7273189426602249518" rel="alternate"/>
-    <published>2023-08-30T18:49:57+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@mzkora/video/7273257428572015915</id>
     <title>#ad Navigating a busy day with eight kids and two pets is made better with @Air Wick US thanks to their new Advanced Plug-In paired with Vibrant Lavender and Water Lily. It's our secret to a home that always smells welcoming!  #AirWick #HomeFragrance #Air</title>
@@ -51,5 +35,21 @@
     <content>This did not include early morning high school drop offs or afternoon pick ups and alot of the inbetweens. 😅 Hubby only sees me coming and going, never during. 🤣 He couldnt keep up. 🤪 #fyp #fypシ #momof9 #dayinmylife #dailyvlog #parents #familyof10 #busyday </content>
     <link href="https://www.tiktok.com/@mzkora/video/7273702174205562155" rel="alternate"/>
     <published>2023-09-01T03:59:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@mzkora/video/7273985061047881003</id>
+    <title>#ad Still summer outside, but its always pumpkin spice season in my soul. Embrace the basic, one @Premier Protein sip at a time! 🌞🎃 #premierproteinpumpkinspice #pumpkinspice #premierprotein #pumpkinspiceseason #pumpkinspiceislife </title>
+    <updated>2023-09-01T22:17:15+00:00</updated>
+    <content>#ad Still summer outside, but its always pumpkin spice season in my soul. Embrace the basic, one @Premier Protein sip at a time! 🌞🎃 #premierproteinpumpkinspice #pumpkinspice #premierprotein #pumpkinspiceseason #pumpkinspiceislife </content>
+    <link href="https://www.tiktok.com/@mzkora/video/7273985061047881003" rel="alternate"/>
+    <published>2023-09-01T22:17:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@mzkora/video/7274013427524275502</id>
+    <title>Clearly I show my age. 👵🏽 I am surprised my kids know any of these. 😂 #fyp #fypシ #oldage #oldagechallenge #momof9 #familychallenge #familyof10 #parentsoftiktok #parent #millennial </title>
+    <updated>2023-09-02T00:07:18+00:00</updated>
+    <content>Clearly I show my age. 👵🏽 I am surprised my kids know any of these. 😂 #fyp #fypシ #oldage #oldagechallenge #momof9 #familychallenge #familyof10 #parentsoftiktok #parent #millennial </content>
+    <link href="https://www.tiktok.com/@mzkora/video/7274013427524275502" rel="alternate"/>
+    <published>2023-09-02T00:07:18+00:00</published>
   </entry>
 </feed>
