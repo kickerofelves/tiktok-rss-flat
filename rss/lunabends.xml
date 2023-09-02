@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@lunabends</id>
   <title>@lunabends | TikTok</title>
-  <updated>2023-09-02T00:42:21+00:00</updated>
+  <updated>2023-09-02T16:31:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @lunabends</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@lunabends/video/7271294802304486702</id>
-    <title>Peep the back muscles 🤭 #poletok #dancer #stronggirls #poledance #spinpole #staticpole #pleasersheels </title>
-    <updated>2023-08-25T16:17:37+00:00</updated>
-    <content>Peep the back muscles 🤭 #poletok #dancer #stronggirls #poledance #spinpole #staticpole #pleasersheels </content>
-    <link href="https://www.tiktok.com/@lunabends/video/7271294802304486702" rel="alternate"/>
-    <published>2023-08-25T16:17:37+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@lunabends/video/7272517410131938602</id>
     <title>Puppy pose variations  #yogi #yoga #flexible </title>
@@ -51,5 +43,13 @@
     <content>Splits with a whole lot of quad action 🤭 #yogi #yoga #flexible #stretching </content>
     <link href="https://www.tiktok.com/@lunabends/video/7274022464236309806" rel="alternate"/>
     <published>2023-09-02T00:42:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lunabends/video/7274266981010885931</id>
+    <title>Some headstand fun  #yogi #yoga #flexible #stretching </title>
+    <updated>2023-09-02T16:31:20+00:00</updated>
+    <content>Some headstand fun  #yogi #yoga #flexible #stretching </content>
+    <link href="https://www.tiktok.com/@lunabends/video/7274266981010885931" rel="alternate"/>
+    <published>2023-09-02T16:31:20+00:00</published>
   </entry>
 </feed>
