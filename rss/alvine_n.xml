@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@alvine_n</id>
   <title>@alvine_n | TikTok</title>
-  <updated>2023-09-02T14:15:23+00:00</updated>
+  <updated>2023-09-03T13:02:25+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @alvine_n</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@alvine_n/video/7273159587987983648</id>
-    <title>#CapCut the only core workout you should be doing to snatched your wiast 🔥🔥</title>
-    <updated>2023-08-30T16:53:54+00:00</updated>
-    <content>#CapCut the only core workout you should be doing to snatched your wiast 🔥🔥</content>
-    <link href="https://www.tiktok.com/@alvine_n/video/7273159587987983648" rel="alternate"/>
-    <published>2023-08-30T16:53:54+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@alvine_n/video/7273495517861055777</id>
-    <title>Replying to @deejat wearing @AYBL revive collection now live support link in bio ❤️❤️#coreworkout #weightlosstransformation #gymtok </title>
-    <updated>2023-08-31T14:37:29+00:00</updated>
-    <content>Replying to @deejat wearing @AYBL revive collection now live support link in bio ❤️❤️#coreworkout #weightlosstransformation #gymtok </content>
-    <link href="https://www.tiktok.com/@alvine_n/video/7273495517861055777" rel="alternate"/>
-    <published>2023-08-31T14:37:29+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@alvine_n/video/7273580148773932320</id>
     <title>💪🌟 Inspiring Transformation Alert! 🌟💪 This amazing woman, a mom of 3, banished her stubborn belly fat for good! 👋 Say goodbye to feeling alone on your fitness journey. Join our supportive community and let's crush our goals together! 💃👯‍♀️ #StrongTogether</title>
@@ -51,5 +35,21 @@
     <content>Replying to @connie.xx01 join my private community chat through the first link in my bio for help :  Tips :  Balanced Diet: Eat fewer calories and focus on whole foods. Cardio and Strength: Do regular cardio workouts and core-strengthening exercises. HIIT: Incorporate high-intensity interval training for fat burning. Control Portions: Watch portion sizes to avoid overeating. Hydrate and Sleep: Stay hydrated and get enough quality sleep. Manage Stress: Reduce stress through relaxation techniques. Be Patient: Results take time; focus on overall fat loss.</content>
     <link href="https://www.tiktok.com/@alvine_n/video/7274231987185962272" rel="alternate"/>
     <published>2023-09-02T14:15:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@alvine_n/video/7274576836972088608</id>
+    <title>Replying to @Basetsana Belinda you got tjis 💪💪💪</title>
+    <updated>2023-09-03T12:33:34+00:00</updated>
+    <content>Replying to @Basetsana Belinda you got tjis 💪💪💪</content>
+    <link href="https://www.tiktok.com/@alvine_n/video/7274576836972088608" rel="alternate"/>
+    <published>2023-09-03T12:33:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@alvine_n/video/7274584271749205280</id>
+    <title>Replying to @vynnahadzerller0 so proud 🥹 Join my private through the first link in my bio workout olan + Nuttrition included let’s train together 💪💪</title>
+    <updated>2023-09-03T13:02:25+00:00</updated>
+    <content>Replying to @vynnahadzerller0 so proud 🥹 Join my private through the first link in my bio workout olan + Nuttrition included let’s train together 💪💪</content>
+    <link href="https://www.tiktok.com/@alvine_n/video/7274584271749205280" rel="alternate"/>
+    <published>2023-09-03T13:02:25+00:00</published>
   </entry>
 </feed>
