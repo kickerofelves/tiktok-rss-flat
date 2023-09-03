@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@kiky_live1</id>
   <title>@kiky_live1 | TikTok</title>
-  <updated>2023-09-02T19:47:04+00:00</updated>
+  <updated>2023-09-03T10:53:54+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kiky_live1</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@kiky_live1/video/7272735083478502689</id>
-    <title>#parati #haitiantiktok🇭🇹 #viral #fakebodyy⚠️ #foryou #yogagirl #fypシ </title>
-    <updated>2023-08-29T13:26:36+00:00</updated>
-    <content>#parati #haitiantiktok🇭🇹 #viral #fakebodyy⚠️ #foryou #yogagirl #fypシ </content>
-    <link href="https://www.tiktok.com/@kiky_live1/video/7272735083478502689" rel="alternate"/>
-    <published>2023-08-29T13:26:36+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@kiky_live1/video/7274317044009471265</id>
-    <title>#fypシ #yogagirl #foryou #fakebodyy⚠️ #viral #portoui </title>
-    <updated>2023-09-02T19:45:24+00:00</updated>
-    <content>#fypシ #yogagirl #foryou #fakebodyy⚠️ #viral #portoui </content>
-    <link href="https://www.tiktok.com/@kiky_live1/video/7274317044009471265" rel="alternate"/>
-    <published>2023-09-02T19:45:24+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@kiky_live1/video/7274317105707715872</id>
-    <title>#portoui #viral #fakebodyy⚠️ #foryou #fypシ </title>
-    <updated>2023-09-02T19:45:39+00:00</updated>
-    <content>#portoui #viral #fakebodyy⚠️ #foryou #fypシ </content>
-    <link href="https://www.tiktok.com/@kiky_live1/video/7274317105707715872" rel="alternate"/>
-    <published>2023-09-02T19:45:39+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@kiky_live1/video/7274317262801161504</id>
     <title>#fypシ #foryou #fakebodyy⚠️ #viral #parati </title>
@@ -51,5 +27,29 @@
     <content>#parati #viral #fakebodyy⚠️ #foryou #fypシ #portoui </content>
     <link href="https://www.tiktok.com/@kiky_live1/video/7274317468246560032" rel="alternate"/>
     <published>2023-09-02T19:47:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@kiky_live1/video/7274550740486589729</id>
+    <title>#portoui #fypシ #foryou #fakebodyy⚠️ #parati </title>
+    <updated>2023-09-03T10:52:18+00:00</updated>
+    <content>#portoui #fypシ #foryou #fakebodyy⚠️ #parati </content>
+    <link href="https://www.tiktok.com/@kiky_live1/video/7274550740486589729" rel="alternate"/>
+    <published>2023-09-03T10:52:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@kiky_live1/video/7274550984603454753</id>
+    <title>#parati #fakebodyy⚠️ #foryou #fypシ #portoui #haitiantiktok🇭🇹 </title>
+    <updated>2023-09-03T10:53:14+00:00</updated>
+    <content>#parati #fakebodyy⚠️ #foryou #fypシ #portoui #haitiantiktok🇭🇹 </content>
+    <link href="https://www.tiktok.com/@kiky_live1/video/7274550984603454753" rel="alternate"/>
+    <published>2023-09-03T10:53:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@kiky_live1/video/7274551153457696032</id>
+    <title>#haitiantiktok🇭🇹 #portoui #fypシ #foryou #parati #viral </title>
+    <updated>2023-09-03T10:53:54+00:00</updated>
+    <content>#haitiantiktok🇭🇹 #portoui #fypシ #foryou #parati #viral </content>
+    <link href="https://www.tiktok.com/@kiky_live1/video/7274551153457696032" rel="alternate"/>
+    <published>2023-09-03T10:53:54+00:00</published>
   </entry>
 </feed>
