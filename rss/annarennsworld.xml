@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@annarennsworld</id>
   <title>@annarennsworld | TikTok</title>
-  <updated>2023-09-02T19:07:55+00:00</updated>
+  <updated>2023-09-04T15:41:30+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @annarennsworld</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@annarennsworld/video/7274306951180307755</id>
-    <title>[no title]</title>
-    <updated>2023-09-02T19:06:23+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@annarennsworld/video/7274306951180307755" rel="alternate"/>
-    <published>2023-09-02T19:06:23+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@annarennsworld/video/7274307046361697582</id>
     <title>They luvvvvvvvgvggvvvvvvvvvv them lets be fr rn </title>
@@ -51,5 +43,13 @@
     <content>💞💞for legal purposes this video is a joke</content>
     <link href="https://www.tiktok.com/@annarennsworld/video/7274307341972016426" rel="alternate"/>
     <published>2023-09-02T19:07:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@annarennsworld/video/7274996316810349870</id>
+    <title>[no title]</title>
+    <updated>2023-09-04T15:41:30+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@annarennsworld/video/7274996316810349870" rel="alternate"/>
+    <published>2023-09-04T15:41:30+00:00</published>
   </entry>
 </feed>
