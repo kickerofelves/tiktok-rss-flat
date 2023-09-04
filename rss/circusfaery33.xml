@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@circusfaery33</id>
   <title>@circusfaery33 | TikTok</title>
-  <updated>2023-09-02T15:58:51+00:00</updated>
+  <updated>2023-09-03T19:23:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @circusfaery33</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7273901133884706090</id>
-    <title>Replying to @user3359385047571 Calling me a colonizer would only hurt if facts hurt my feelings. </title>
-    <updated>2023-09-01T16:51:33+00:00</updated>
-    <content>Replying to @user3359385047571 Calling me a colonizer would only hurt if facts hurt my feelings. </content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7273901133884706090" rel="alternate"/>
-    <published>2023-09-01T16:51:33+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7273947104425348395</id>
-    <title>Replying to @mathewraftery Redoing this response to include counter-allegations of propaganda. </title>
-    <updated>2023-09-01T19:49:55+00:00</updated>
-    <content>Replying to @mathewraftery Redoing this response to include counter-allegations of propaganda. </content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7273947104425348395" rel="alternate"/>
-    <published>2023-09-01T19:49:55+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7274235257170185514</id>
-    <title>Replying to @chris11 Stop dragging all ✉️ people down with your hatred. </title>
-    <updated>2023-09-02T14:28:12+00:00</updated>
-    <content>Replying to @chris11 Stop dragging all ✉️ people down with your hatred. </content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7274235257170185514" rel="alternate"/>
-    <published>2023-09-02T14:28:12+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@circusfaery33/video/7274236709288627502</id>
     <title>Replying to @chris11 Lesson on me for free--you mean stop whining.</title>
@@ -51,5 +27,29 @@
     <content>Replying to @Eagleeyes2045 I can't tell if you went on this zombke tirade without listening or whether you are really that myopic and ignorant.</content>
     <link href="https://www.tiktok.com/@circusfaery33/video/7274258612808174890" rel="alternate"/>
     <published>2023-09-02T15:58:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7274619416501914923</id>
+    <title>Replying to @Doug Cornler Absolutely! 🥰</title>
+    <updated>2023-09-03T15:18:58+00:00</updated>
+    <content>Replying to @Doug Cornler Absolutely! 🥰</content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7274619416501914923" rel="alternate"/>
+    <published>2023-09-03T15:18:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7274660565690240299</id>
+    <title>Replying to @traveling wilbury Addressing bigotry is inherent to who I am, but this is not my life. </title>
+    <updated>2023-09-03T17:58:34+00:00</updated>
+    <content>Replying to @traveling wilbury Addressing bigotry is inherent to who I am, but this is not my life. </content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7274660565690240299" rel="alternate"/>
+    <published>2023-09-03T17:58:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7274682337806437678</id>
+    <title>Replying to @traveling wilbury #greenscreen Here's how to block. Now your challenge is to see if you cam do in 5...4..3..2...</title>
+    <updated>2023-09-03T19:23:05+00:00</updated>
+    <content>Replying to @traveling wilbury #greenscreen Here's how to block. Now your challenge is to see if you cam do in 5...4..3..2...</content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7274682337806437678" rel="alternate"/>
+    <published>2023-09-03T19:23:05+00:00</published>
   </entry>
 </feed>

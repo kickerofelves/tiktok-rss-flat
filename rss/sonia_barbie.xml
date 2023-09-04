@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@sonia_barbie</id>
   <title>@sonia_barbie | TikTok</title>
-  <updated>2023-09-01T22:43:27+00:00</updated>
+  <updated>2023-09-03T18:05:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @sonia_barbie</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@sonia_barbie/video/7272767259431406890</id>
-    <title>@heirsofafrika @Claire Sulmers </title>
-    <updated>2023-08-29T15:31:33+00:00</updated>
-    <content>@heirsofafrika @Claire Sulmers </content>
-    <link href="https://www.tiktok.com/@sonia_barbie/video/7272767259431406890" rel="alternate"/>
-    <published>2023-08-29T15:31:33+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@sonia_barbie/video/7273097720263363883</id>
-    <title>#Repost @sonia_barbie_tucker ・・・ Love these @amazonfashion dresses. They comes in sets of 2 different colors, and fit perfectly. I got the pink &amp; the black set, but I definitely need more!! You can shop this on my Amazon storefront at the link in my bio 💕</title>
-    <updated>2023-08-30T12:54:04+00:00</updated>
-    <content>#Repost @sonia_barbie_tucker ・・・ Love these @amazonfashion dresses. They comes in sets of 2 different colors, and fit perfectly. I got the pink &amp; the black set, but I definitely need more!! You can shop this on my Amazon storefront at the link in my bio 💕💕💕</content>
-    <link href="https://www.tiktok.com/@sonia_barbie/video/7273097720263363883" rel="alternate"/>
-    <published>2023-08-30T12:54:04+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@sonia_barbie/video/7273503858100391210</id>
-    <title>Dress from @Sincerely RIA </title>
-    <updated>2023-08-31T15:09:57+00:00</updated>
-    <content>Dress from @Sincerely RIA </content>
-    <link href="https://www.tiktok.com/@sonia_barbie/video/7273503858100391210" rel="alternate"/>
-    <published>2023-08-31T15:09:57+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@sonia_barbie/video/7273883389445377322</id>
     <title>She is a masterpiece and she has mastered peace😉🧡 Shoes Lin in bio at my Amazon store front ❤️</title>
@@ -51,5 +27,29 @@
     <content>Happy Friday 💕💕💕</content>
     <link href="https://www.tiktok.com/@sonia_barbie/video/7273991827575852331" rel="alternate"/>
     <published>2023-09-01T22:43:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@sonia_barbie/video/7274626143095999787</id>
+    <title>Happy Sunday </title>
+    <updated>2023-09-03T15:45:07+00:00</updated>
+    <content>Happy Sunday </content>
+    <link href="https://www.tiktok.com/@sonia_barbie/video/7274626143095999787" rel="alternate"/>
+    <published>2023-09-03T15:45:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@sonia_barbie/video/7274641274823544106</id>
+    <title>Dress by @House of Je Suis 💚💚💚</title>
+    <updated>2023-09-03T16:43:47+00:00</updated>
+    <content>Dress by @House of Je Suis 💚💚💚</content>
+    <link href="https://www.tiktok.com/@sonia_barbie/video/7274641274823544106" rel="alternate"/>
+    <published>2023-09-03T16:43:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@sonia_barbie/video/7274662388102745386</id>
+    <title>Shoe link in my bio at my Amazon storefront ❤️</title>
+    <updated>2023-09-03T18:05:39+00:00</updated>
+    <content>Shoe link in my bio at my Amazon storefront ❤️</content>
+    <link href="https://www.tiktok.com/@sonia_barbie/video/7274662388102745386" rel="alternate"/>
+    <published>2023-09-03T18:05:39+00:00</published>
   </entry>
 </feed>
