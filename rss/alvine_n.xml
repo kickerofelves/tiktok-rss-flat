@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@alvine_n</id>
   <title>@alvine_n | TikTok</title>
-  <updated>2023-09-03T13:02:25+00:00</updated>
+  <updated>2023-09-04T16:43:38+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @alvine_n</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@alvine_n/video/7273580148773932320</id>
-    <title>💪🌟 Inspiring Transformation Alert! 🌟💪 This amazing woman, a mom of 3, banished her stubborn belly fat for good! 👋 Say goodbye to feeling alone on your fitness journey. Join our supportive community and let's crush our goals together! 💃👯‍♀️ #StrongTogether</title>
-    <updated>2023-08-31T20:05:54+00:00</updated>
-    <content>💪🌟 Inspiring Transformation Alert! 🌟💪 This amazing woman, a mom of 3, banished her stubborn belly fat for good! 👋 Say goodbye to feeling alone on your fitness journey. Join our supportive community and let's crush our goals together! 💃👯‍♀️ #StrongTogether #FitnessFamily #Transformation</content>
-    <link href="https://www.tiktok.com/@alvine_n/video/7273580148773932320" rel="alternate"/>
-    <published>2023-08-31T20:05:54+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@alvine_n/video/7273747161605590305</id>
     <title>Replying to @FabFau take your lower tummy to next level with this workout 🔥🔥</title>
@@ -51,5 +43,13 @@
     <content>Replying to @vynnahadzerller0 so proud 🥹 Join my private through the first link in my bio workout olan + Nuttrition included let’s train together 💪💪</content>
     <link href="https://www.tiktok.com/@alvine_n/video/7274584271749205280" rel="alternate"/>
     <published>2023-09-03T13:02:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@alvine_n/video/7275012359410830624</id>
+    <title>#CapCut how l got rid of my stubborn belly fat #weightlosstransformation #bellyfat #absworkout </title>
+    <updated>2023-09-04T16:43:38+00:00</updated>
+    <content>#CapCut how l got rid of my stubborn belly fat #weightlosstransformation #bellyfat #absworkout </content>
+    <link href="https://www.tiktok.com/@alvine_n/video/7275012359410830624" rel="alternate"/>
+    <published>2023-09-04T16:43:38+00:00</published>
   </entry>
 </feed>
