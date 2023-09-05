@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@shibuya_kaho</id>
   <title>@shibuya_kaho | TikTok</title>
-  <updated>2023-08-30T04:37:45+00:00</updated>
+  <updated>2023-09-05T04:02:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @shibuya_kaho</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@shibuya_kaho/video/7270311748689792257</id>
-    <title>I enjoyed streaming on Twitch while traveling✈️ Thanks for being there with me~ 私だけインフルエンサーツアー内で独り参加だったけど、配信してたお陰でチャットの皆さんと楽しく過ごせました！ありがとうございました✨ #ロカヒハワイ </title>
-    <updated>2023-08-23T00:42:57+00:00</updated>
-    <content>I enjoyed streaming on Twitch while traveling✈️ Thanks for being there with me~ 私だけインフルエンサーツアー内で独り参加だったけど、配信してたお陰でチャットの皆さんと楽しく過ごせました！ありがとうございました✨ #ロカヒハワイ </content>
-    <link href="https://www.tiktok.com/@shibuya_kaho/video/7270311748689792257" rel="alternate"/>
-    <published>2023-08-23T00:42:57+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@shibuya_kaho/video/7271446028669308161</id>
     <title>My time at hotel in Hawaii😂 ホテルでうたた寝したのも配信に残ってました‥ 居心地の良さに感謝です！</title>
@@ -51,5 +43,13 @@
     <content>Shirahoshi-hime🩷 #OnePieceCosplay 歩きにくかったです(о´∀`о)</content>
     <link href="https://www.tiktok.com/@shibuya_kaho/video/7272969878456274177" rel="alternate"/>
     <published>2023-08-30T04:37:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@shibuya_kaho/video/7275187212185013505</id>
+    <title>Another cosplay🍰 I chose the studio, for she's known to eat a lot... which I can totally identify with! #PrincessConnect ペコリーヌ♡</title>
+    <updated>2023-09-05T04:02:07+00:00</updated>
+    <content>Another cosplay🍰 I chose the studio, for she's known to eat a lot... which I can totally identify with! #PrincessConnect ペコリーヌ♡</content>
+    <link href="https://www.tiktok.com/@shibuya_kaho/video/7275187212185013505" rel="alternate"/>
+    <published>2023-09-05T04:02:07+00:00</published>
   </entry>
 </feed>
