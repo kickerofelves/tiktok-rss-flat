@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@kristline__</id>
   <title>@kristline__ | TikTok</title>
-  <updated>2023-09-02T22:11:18+00:00</updated>
+  <updated>2023-09-04T15:03:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kristline__</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@kristline__/video/7269428661571341611</id>
-    <title>#GRWM for my birthday photo shoot #fyp</title>
-    <updated>2023-08-20T15:36:09+00:00</updated>
-    <content>#GRWM for my birthday photo shoot #fyp</content>
-    <link href="https://www.tiktok.com/@kristline__/video/7269428661571341611" rel="alternate"/>
-    <published>2023-08-20T15:36:09+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@kristline__/video/7270496282932792618</id>
     <title>3/3 of my birthday Photoshoot. __ Custom dress by @Kdkollections  Glow oil is link in my bio</title>
@@ -51,5 +43,13 @@
     <content>Stretch with us</content>
     <link href="https://www.tiktok.com/@kristline__/video/7274354606711557419" rel="alternate"/>
     <published>2023-09-02T22:11:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@kristline__/video/7274986487865822506</id>
+    <title>Lets unbox my newest members of my pots collections from @caraway_home  __ What should we name the newbee family?</title>
+    <updated>2023-09-04T15:03:28+00:00</updated>
+    <content>Lets unbox my newest members of my pots collections from @caraway_home  __ What should we name the newbee family?</content>
+    <link href="https://www.tiktok.com/@kristline__/video/7274986487865822506" rel="alternate"/>
+    <published>2023-09-04T15:03:28+00:00</published>
   </entry>
 </feed>

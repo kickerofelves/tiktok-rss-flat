@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@circusfaery33</id>
   <title>@circusfaery33 | TikTok</title>
-  <updated>2023-09-03T19:23:05+00:00</updated>
+  <updated>2023-09-04T20:02:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @circusfaery33</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7274236709288627502</id>
-    <title>Replying to @chris11 Lesson on me for free--you mean stop whining.</title>
-    <updated>2023-09-02T14:33:53+00:00</updated>
-    <content>Replying to @chris11 Lesson on me for free--you mean stop whining.</content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7274236709288627502" rel="alternate"/>
-    <published>2023-09-02T14:33:53+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7274258612808174890</id>
-    <title>Replying to @Eagleeyes2045 I can't tell if you went on this zombke tirade without listening or whether you are really that myopic and ignorant.</title>
-    <updated>2023-09-02T15:58:51+00:00</updated>
-    <content>Replying to @Eagleeyes2045 I can't tell if you went on this zombke tirade without listening or whether you are really that myopic and ignorant.</content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7274258612808174890" rel="alternate"/>
-    <published>2023-09-02T15:58:51+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@circusfaery33/video/7274619416501914923</id>
     <title>Replying to @Doug Cornler Absolutely! 🥰</title>
@@ -51,5 +35,21 @@
     <content>Replying to @traveling wilbury #greenscreen Here's how to block. Now your challenge is to see if you cam do in 5...4..3..2...</content>
     <link href="https://www.tiktok.com/@circusfaery33/video/7274682337806437678" rel="alternate"/>
     <published>2023-09-03T19:23:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7275004893558066475</id>
+    <title>One of the hardest things about moving away from NYC was not being with my ballet teachers anymore. A silver lining of lockdown was that it normalized virtual ballet instruction--thanks to that, I was able to resume training with my favorite teacher.</title>
+    <updated>2023-09-04T16:14:46+00:00</updated>
+    <content>One of the hardest things about moving away from NYC was not being with my ballet teachers anymore. A silver lining of lockdown was that it normalized virtual ballet instruction--thanks to that, I was able to resume training with my favorite teacher.</content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7275004893558066475" rel="alternate"/>
+    <published>2023-09-04T16:14:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7275063563184524587</id>
+    <title>I don't feel this is quite worthy of the sound, but it's progress. </title>
+    <updated>2023-09-04T20:02:24+00:00</updated>
+    <content>I don't feel this is quite worthy of the sound, but it's progress. </content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7275063563184524587" rel="alternate"/>
+    <published>2023-09-04T20:02:24+00:00</published>
   </entry>
 </feed>
