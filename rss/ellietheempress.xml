@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ellietheempress</id>
   <title>@ellietheempress | TikTok</title>
-  <updated>2023-09-04T21:36:14+00:00</updated>
+  <updated>2023-09-05T11:46:54+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ellietheempress</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@ellietheempress/video/7274412772945890602</id>
-    <title>I do get scared sometimes, but also get scared of my house lol #guatemala #antigua </title>
-    <updated>2023-09-03T01:56:54+00:00</updated>
-    <content>I do get scared sometimes, but also get scared of my house lol #guatemala #antigua </content>
-    <link href="https://www.tiktok.com/@ellietheempress/video/7274412772945890602" rel="alternate"/>
-    <published>2023-09-03T01:56:54+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@ellietheempress/video/7274562499276737838</id>
     <title>#foryou #fyp #viral </title>
@@ -51,5 +43,13 @@
     <content>Practicing my dance moves #fyp #foryou #guatemala </content>
     <link href="https://www.tiktok.com/@ellietheempress/video/7275087745540738346" rel="alternate"/>
     <published>2023-09-04T21:36:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ellietheempress/video/7275306970385550638</id>
+    <title>#foryou #guatemala #antigua #fyp </title>
+    <updated>2023-09-05T11:46:54+00:00</updated>
+    <content>#foryou #guatemala #antigua #fyp </content>
+    <link href="https://www.tiktok.com/@ellietheempress/video/7275306970385550638" rel="alternate"/>
+    <published>2023-09-05T11:46:54+00:00</published>
   </entry>
 </feed>
