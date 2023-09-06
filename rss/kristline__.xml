@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@kristline__</id>
   <title>@kristline__ | TikTok</title>
-  <updated>2023-09-04T15:03:28+00:00</updated>
+  <updated>2023-09-05T14:44:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kristline__</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@kristline__/video/7270496282932792618</id>
-    <title>3/3 of my birthday Photoshoot. __ Custom dress by @Kdkollections  Glow oil is link in my bio</title>
-    <updated>2023-08-23T12:39:25+00:00</updated>
-    <content>3/3 of my birthday Photoshoot. __ Custom dress by @Kdkollections  Glow oil is link in my bio</content>
-    <link href="https://www.tiktok.com/@kristline__/video/7270496282932792618" rel="alternate"/>
-    <published>2023-08-23T12:39:25+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@kristline__/video/7270958812092271914</id>
     <title>I visited home a few weeks ago to surprise my little sister with a full bedroom makeover. Watch till the end to see her reaction. How did I do from 1-10? __ My little sister is entering her 2md year of college and all she ever talks about is how she wante</title>
@@ -51,5 +43,13 @@
     <content>Lets unbox my newest members of my pots collections from @caraway_home  __ What should we name the newbee family?</content>
     <link href="https://www.tiktok.com/@kristline__/video/7274986487865822506" rel="alternate"/>
     <published>2023-09-04T15:03:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@kristline__/video/7275352703012736298</id>
+    <title>pOV: your non Liberia husband is obsessed with Liberian food and eats it daily. Fufu &amp; pepper soup 🍲  __ Skin @goddess_gleam link my bio  Dress @ofuure __ Click the link in my bio for my Liberian fufu recipe &amp; COOK BOOKS</title>
+    <updated>2023-09-05T14:44:24+00:00</updated>
+    <content>pOV: your non Liberia husband is obsessed with Liberian food and eats it daily. Fufu &amp; pepper soup 🍲  __ Skin @goddess_gleam link my bio  Dress @ofuure __ Click the link in my bio for my Liberian fufu recipe &amp; COOK BOOKS</content>
+    <link href="https://www.tiktok.com/@kristline__/video/7275352703012736298" rel="alternate"/>
+    <published>2023-09-05T14:44:24+00:00</published>
   </entry>
 </feed>
