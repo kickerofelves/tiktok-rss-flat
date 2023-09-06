@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@sonia_barbie</id>
   <title>@sonia_barbie | TikTok</title>
-  <updated>2023-09-05T21:24:00+00:00</updated>
+  <updated>2023-09-06T06:54:17+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @sonia_barbie</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@sonia_barbie/video/7274626143095999787</id>
-    <title>Happy Sunday </title>
-    <updated>2023-09-03T15:45:07+00:00</updated>
-    <content>Happy Sunday </content>
-    <link href="https://www.tiktok.com/@sonia_barbie/video/7274626143095999787" rel="alternate"/>
-    <published>2023-09-03T15:45:07+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@sonia_barbie/video/7274641274823544106</id>
     <title>Dress by @House of Je Suis 💚💚💚</title>
@@ -51,5 +43,13 @@
     <content>Kicking off NYFW with @prettylittlething  💕  Thank you guys for having me🙏🏾🙌🏿 . .</content>
     <link href="https://www.tiktok.com/@sonia_barbie/video/7275455701726711083" rel="alternate"/>
     <published>2023-09-05T21:24:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@sonia_barbie/video/7275602619383483690</id>
+    <title>Dress link in bio at my Amazon storefront 🥰</title>
+    <updated>2023-09-06T06:54:17+00:00</updated>
+    <content>Dress link in bio at my Amazon storefront 🥰</content>
+    <link href="https://www.tiktok.com/@sonia_barbie/video/7275602619383483690" rel="alternate"/>
+    <published>2023-09-06T06:54:17+00:00</published>
   </entry>
 </feed>
