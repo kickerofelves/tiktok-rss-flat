@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ellietheempress</id>
   <title>@ellietheempress | TikTok</title>
-  <updated>2023-09-06T00:05:19+00:00</updated>
+  <updated>2023-09-06T12:13:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ellietheempress</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@ellietheempress/video/7274602651394886955</id>
-    <title>#fyp #viral #guatemala </title>
-    <updated>2023-09-03T14:14:00+00:00</updated>
-    <content>#fyp #viral #guatemala </content>
-    <link href="https://www.tiktok.com/@ellietheempress/video/7274602651394886955" rel="alternate"/>
-    <published>2023-09-03T14:14:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@ellietheempress/video/7274941397038320942</id>
     <title>#viral #fyp #guatemala </title>
@@ -51,5 +43,13 @@
     <content>#foryou #fyp #guatemala #lakeatitlan </content>
     <link href="https://www.tiktok.com/@ellietheempress/video/7275497272480107818" rel="alternate"/>
     <published>2023-09-06T00:05:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ellietheempress/video/7275684879726021930</id>
+    <title>What games should i play on twitch? #fyp #foryou </title>
+    <updated>2023-09-06T12:13:23+00:00</updated>
+    <content>What games should i play on twitch? #fyp #foryou </content>
+    <link href="https://www.tiktok.com/@ellietheempress/video/7275684879726021930" rel="alternate"/>
+    <published>2023-09-06T12:13:23+00:00</published>
   </entry>
 </feed>
