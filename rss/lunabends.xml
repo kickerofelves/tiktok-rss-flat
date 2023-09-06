@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@lunabends</id>
   <title>@lunabends | TikTok</title>
-  <updated>2023-09-04T18:07:24+00:00</updated>
+  <updated>2023-09-05T18:41:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @lunabends</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@lunabends/video/7273536323531672874</id>
-    <title>It's been an excruciatingly hot summer  #fypシ </title>
-    <updated>2023-08-31T17:15:53+00:00</updated>
-    <content>It's been an excruciatingly hot summer  #fypシ </content>
-    <link href="https://www.tiktok.com/@lunabends/video/7273536323531672874" rel="alternate"/>
-    <published>2023-08-31T17:15:53+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@lunabends/video/7273904465978166571</id>
     <title>Lil spin combo . Might teach it in class today .  #poletok #spinpole #dancer </title>
@@ -51,5 +43,13 @@
     <content>That's okay 🤷🏽‍♀️🤭 #yogi #stretching #flexible #splits </content>
     <link href="https://www.tiktok.com/@lunabends/video/7275033898608905514" rel="alternate"/>
     <published>2023-09-04T18:07:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lunabends/video/7275413870234193195</id>
+    <title>Work vibes  #fypシ </title>
+    <updated>2023-09-05T18:41:47+00:00</updated>
+    <content>Work vibes  #fypシ </content>
+    <link href="https://www.tiktok.com/@lunabends/video/7275413870234193195" rel="alternate"/>
+    <published>2023-09-05T18:41:47+00:00</published>
   </entry>
 </feed>
