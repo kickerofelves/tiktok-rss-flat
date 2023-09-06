@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@alvine_n</id>
   <title>@alvine_n | TikTok</title>
-  <updated>2023-09-05T15:06:35+00:00</updated>
+  <updated>2023-09-06T18:29:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @alvine_n</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@alvine_n/video/7274231987185962272</id>
-    <title>Replying to @connie.xx01 join my private community chat through the first link in my bio for help :  Tips :  Balanced Diet: Eat fewer calories and focus on whole foods. Cardio and Strength: Do regular cardio workouts and core-strengthening exercises. HIIT</title>
-    <updated>2023-09-02T14:15:23+00:00</updated>
-    <content>Replying to @connie.xx01 join my private community chat through the first link in my bio for help :  Tips :  Balanced Diet: Eat fewer calories and focus on whole foods. Cardio and Strength: Do regular cardio workouts and core-strengthening exercises. HIIT: Incorporate high-intensity interval training for fat burning. Control Portions: Watch portion sizes to avoid overeating. Hydrate and Sleep: Stay hydrated and get enough quality sleep. Manage Stress: Reduce stress through relaxation techniques. Be Patient: Results take time; focus on overall fat loss.</content>
-    <link href="https://www.tiktok.com/@alvine_n/video/7274231987185962272" rel="alternate"/>
-    <published>2023-09-02T14:15:23+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@alvine_n/video/7274576836972088608</id>
-    <title>Replying to @Basetsana Belinda you got tjis 💪💪💪</title>
-    <updated>2023-09-03T12:33:34+00:00</updated>
-    <content>Replying to @Basetsana Belinda you got tjis 💪💪💪</content>
-    <link href="https://www.tiktok.com/@alvine_n/video/7274576836972088608" rel="alternate"/>
-    <published>2023-09-03T12:33:34+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@alvine_n/video/7274584271749205280</id>
-    <title>Replying to @vynnahadzerller0 so proud 🥹 Join my private through the first link in my bio workout olan + Nuttrition included let’s train together 💪💪</title>
-    <updated>2023-09-03T13:02:25+00:00</updated>
-    <content>Replying to @vynnahadzerller0 so proud 🥹 Join my private through the first link in my bio workout olan + Nuttrition included let’s train together 💪💪</content>
-    <link href="https://www.tiktok.com/@alvine_n/video/7274584271749205280" rel="alternate"/>
-    <published>2023-09-03T13:02:25+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@alvine_n/video/7275012359410830624</id>
     <title>#CapCut how l got rid of my stubborn belly fat #weightlosstransformation #bellyfat #absworkout </title>
@@ -51,5 +27,29 @@
     <content>Replying to @mourynshyra we don’t skip cardio 💅🔥🔥🔥</content>
     <link href="https://www.tiktok.com/@alvine_n/video/7275358446101237024" rel="alternate"/>
     <published>2023-09-05T15:06:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@alvine_n/video/7275732901784718625</id>
+    <title>Functional core &gt;&gt;🔥🔥🔥</title>
+    <updated>2023-09-06T15:19:39+00:00</updated>
+    <content>Functional core &gt;&gt;🔥🔥🔥</content>
+    <link href="https://www.tiktok.com/@alvine_n/video/7275732901784718625" rel="alternate"/>
+    <published>2023-09-06T15:19:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@alvine_n/video/7275758469599284513</id>
+    <title>Replying to @India Gray this is 5 weeks into body recomposition challenge ( strength training + cardio + healthy balance diet ) link in my bio to join ❤️</title>
+    <updated>2023-09-06T16:58:53+00:00</updated>
+    <content>Replying to @India Gray this is 5 weeks into body recomposition challenge ( strength training + cardio + healthy balance diet ) link in my bio to join ❤️</content>
+    <link href="https://www.tiktok.com/@alvine_n/video/7275758469599284513" rel="alternate"/>
+    <published>2023-09-06T16:58:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@alvine_n/video/7275781859332623648</id>
+    <title>[no title]</title>
+    <updated>2023-09-06T18:29:39+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@alvine_n/video/7275781859332623648" rel="alternate"/>
+    <published>2023-09-06T18:29:39+00:00</published>
   </entry>
 </feed>
