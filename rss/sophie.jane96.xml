@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@sophie.jane96</id>
   <title>@sophie.jane96 | TikTok</title>
-  <updated>2023-09-01T21:11:29+00:00</updated>
+  <updated>2023-09-07T19:25:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -19,14 +19,6 @@
     <content>👀😯</content>
     <link href="https://www.tiktok.com/@sophie.jane96/video/7270590831067761953" rel="alternate"/>
     <published>2023-08-23T18:45:49+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@sophie.jane96/video/7270608330693954848</id>
-    <title>💙</title>
-    <updated>2023-08-23T19:53:45+00:00</updated>
-    <content>💙</content>
-    <link href="https://www.tiktok.com/@sophie.jane96/video/7270608330693954848" rel="alternate"/>
-    <published>2023-08-23T19:53:45+00:00</published>
   </entry>
   <entry>
     <id>https://www.tiktok.com/@sophie.jane96/video/7272350316916411680</id>
@@ -51,5 +43,13 @@
     <content>Replying to @1Kick4U chop chop</content>
     <link href="https://www.tiktok.com/@sophie.jane96/video/7273968135256968480" rel="alternate"/>
     <published>2023-09-01T21:11:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@sophie.jane96/video/7276167452902346016</id>
+    <title>🤣🤣</title>
+    <updated>2023-09-07T19:25:56+00:00</updated>
+    <content>🤣🤣</content>
+    <link href="https://www.tiktok.com/@sophie.jane96/video/7276167452902346016" rel="alternate"/>
+    <published>2023-09-07T19:25:56+00:00</published>
   </entry>
 </feed>
