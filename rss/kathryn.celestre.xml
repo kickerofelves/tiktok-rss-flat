@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@kathryn.celestre</id>
   <title>@kathryn.celestre | TikTok</title>
-  <updated>2023-08-25T12:34:24+00:00</updated>
+  <updated>2023-09-08T15:04:01+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kathryn.celestre</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@kathryn.celestre/video/7265102487777037611</id>
-    <title>These shorts tho🥺🫶🏽</title>
-    <updated>2023-08-08T23:48:16+00:00</updated>
-    <content>These shorts tho🥺🫶🏽</content>
-    <link href="https://www.tiktok.com/@kathryn.celestre/video/7265102487777037611" rel="alternate"/>
-    <published>2023-08-08T23:48:16+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@kathryn.celestre/video/7266438896718941486</id>
     <title>🌱</title>
@@ -51,5 +43,13 @@
     <content>Ok but this fit is so cute! @Allure The Brand </content>
     <link href="https://www.tiktok.com/@kathryn.celestre/video/7271237266700242218" rel="alternate"/>
     <published>2023-08-25T12:34:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@kathryn.celestre/video/7276471003348323615</id>
+    <title>1 or 2?  Shorts by @Allure The Brand </title>
+    <updated>2023-09-08T15:04:01+00:00</updated>
+    <content>1 or 2?  Shorts by @Allure The Brand </content>
+    <link href="https://www.tiktok.com/@kathryn.celestre/video/7276471003348323615" rel="alternate"/>
+    <published>2023-09-08T15:04:01+00:00</published>
   </entry>
 </feed>
