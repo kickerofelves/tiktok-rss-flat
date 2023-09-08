@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@kristline__</id>
   <title>@kristline__ | TikTok</title>
-  <updated>2023-09-05T14:44:24+00:00</updated>
+  <updated>2023-09-07T14:08:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kristline__</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@kristline__/video/7270958812092271914</id>
-    <title>I visited home a few weeks ago to surprise my little sister with a full bedroom makeover. Watch till the end to see her reaction. How did I do from 1-10? __ My little sister is entering her 2md year of college and all she ever talks about is how she wante</title>
-    <updated>2023-08-24T18:34:00+00:00</updated>
-    <content>I visited home a few weeks ago to surprise my little sister with a full bedroom makeover. Watch till the end to see her reaction. How did I do from 1-10? __ My little sister is entering her 2md year of college and all she ever talks about is how she wanted a college girl room but she’s broke, as a big sister who was a broke college student,I know the feeling.</content>
-    <link href="https://www.tiktok.com/@kristline__/video/7270958812092271914" rel="alternate"/>
-    <published>2023-08-24T18:34:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@kristline__/video/7272754948507553067</id>
-    <title>Cook dinner with me for 2 ___ The full video instructional video is now on my YouTube channel  ___ __ 📣📣𝐏𝐑𝐄𝐎𝐑𝐃𝐄𝐑 𝐅𝐎𝐑 𝐌𝐘 𝐂𝐎𝐎𝐊 𝐁𝐎𝐎𝐊 𝐈𝐒 𝐍𝐎𝐖 𝐋𝐈𝐕𝐄 𝐎𝐍 𝐌𝐘 𝐖𝐄𝐁𝐒𝐈𝐓𝐄  𝐒𝐈𝐒𝐓𝐄𝐑𝐒 &amp; 𝐁𝐑𝐎𝐓𝐇𝐀𝐒!!🎉 𝐒𝐊𝐈𝐍 𝐂𝐀𝐑𝐄 @goddess_gleam Cooking knife @middletonmadeknives 🤌🏾</title>
-    <updated>2023-08-29T14:43:49+00:00</updated>
-    <content>Cook dinner with me for 2 ___ The full video instructional video is now on my YouTube channel  ___ __ 📣📣𝐏𝐑𝐄𝐎𝐑𝐃𝐄𝐑 𝐅𝐎𝐑 𝐌𝐘 𝐂𝐎𝐎𝐊 𝐁𝐎𝐎𝐊 𝐈𝐒 𝐍𝐎𝐖 𝐋𝐈𝐕𝐄 𝐎𝐍 𝐌𝐘 𝐖𝐄𝐁𝐒𝐈𝐓𝐄  𝐒𝐈𝐒𝐓𝐄𝐑𝐒 &amp; 𝐁𝐑𝐎𝐓𝐇𝐀𝐒!!🎉 𝐒𝐊𝐈𝐍 𝐂𝐀𝐑𝐄 @goddess_gleam Cooking knife @middletonmadeknives 🤌🏾</content>
-    <link href="https://www.tiktok.com/@kristline__/video/7272754948507553067" rel="alternate"/>
-    <published>2023-08-29T14:43:49+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@kristline__/video/7274354606711557419</id>
     <title>Stretch with us</title>
@@ -51,5 +35,21 @@
     <content>pOV: your non Liberia husband is obsessed with Liberian food and eats it daily. Fufu &amp; pepper soup 🍲  __ Skin @goddess_gleam link my bio  Dress @ofuure __ Click the link in my bio for my Liberian fufu recipe &amp; COOK BOOKS</content>
     <link href="https://www.tiktok.com/@kristline__/video/7275352703012736298" rel="alternate"/>
     <published>2023-09-05T14:44:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@kristline__/video/7276081666580368683</id>
+    <title>Follow me on YouTube for mlre recipes </title>
+    <updated>2023-09-07T13:53:20+00:00</updated>
+    <content>Follow me on YouTube for mlre recipes </content>
+    <link href="https://www.tiktok.com/@kristline__/video/7276081666580368683" rel="alternate"/>
+    <published>2023-09-07T13:53:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@kristline__/video/7276085622337457450</id>
+    <title>Lets make a quick breakfast. __ Power by @Bloom Nutrition </title>
+    <updated>2023-09-07T14:08:42+00:00</updated>
+    <content>Lets make a quick breakfast. __ Power by @Bloom Nutrition </content>
+    <link href="https://www.tiktok.com/@kristline__/video/7276085622337457450" rel="alternate"/>
+    <published>2023-09-07T14:08:42+00:00</published>
   </entry>
 </feed>
