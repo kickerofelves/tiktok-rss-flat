@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@pearlwats</id>
   <title>@pearlwats | TikTok</title>
-  <updated>2023-09-06T19:56:52+00:00</updated>
+  <updated>2023-09-08T14:35:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @pearlwats</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@pearlwats/video/7270988218647006469</id>
-    <title>[no title]</title>
-    <updated>2023-08-24T20:27:51+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@pearlwats/video/7270988218647006469" rel="alternate"/>
-    <published>2023-08-24T20:27:51+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@pearlwats/video/7271581506005372165</id>
     <title>[no title]</title>
@@ -51,5 +43,13 @@
     <content>😂😂😂</content>
     <link href="https://www.tiktok.com/@pearlwats/video/7275804339698978053" rel="alternate"/>
     <published>2023-09-06T19:56:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@pearlwats/video/7276463675249052933</id>
+    <title>I WILL NOT SPREAD MY LEGS !!!!🙅‍♀️😡🤌🏽 #fyp #movie #movieclips #actor @Maurice Sam </title>
+    <updated>2023-09-08T14:35:24+00:00</updated>
+    <content>I WILL NOT SPREAD MY LEGS !!!!🙅‍♀️😡🤌🏽 #fyp #movie #movieclips #actor @Maurice Sam </content>
+    <link href="https://www.tiktok.com/@pearlwats/video/7276463675249052933" rel="alternate"/>
+    <published>2023-09-08T14:35:24+00:00</published>
   </entry>
 </feed>
