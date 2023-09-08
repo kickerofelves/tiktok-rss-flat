@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@foodsciencebabe</id>
   <title>@foodsciencebabe | TikTok</title>
-  <updated>2023-09-01T21:55:06+00:00</updated>
+  <updated>2023-09-07T20:17:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @foodsciencebabe</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@foodsciencebabe/video/7269884676922166570</id>
-    <title>In addition, “processed” is not inherently bad and HFCS is not inherently bad either. These arguments all arise from the appeal to nature fallacy as well as a misunderstanding of basic sugar chemistry. See more about HFCS in my “sweeteners” playlist. #fac</title>
-    <updated>2023-08-21T21:05:43+00:00</updated>
-    <content>In addition, “processed” is not inherently bad and HFCS is not inherently bad either. These arguments all arise from the appeal to nature fallacy as well as a misunderstanding of basic sugar chemistry. See more about HFCS in my “sweeteners” playlist. #factsnotfear #foodscience #glucosetest #glucola #pregnancy #greenscreen </content>
-    <link href="https://www.tiktok.com/@foodsciencebabe/video/7269884676922166570" rel="alternate"/>
-    <published>2023-08-21T21:05:43+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@foodsciencebabe/video/7271733873686383915</id>
     <title>Watch until the end for our top 3 favorite new Minnesota State Fair foods! #minnesotastatefair #minnesotastatefair2023 #statefair #fairfood #fairfoodreview #foodreview #foodtiktok </title>
@@ -51,5 +43,13 @@
     <content>Replying to @Dabney FDA Labeling regulations regarding statements of identity:  21CFR101.3 Identity labeling of food in packaged form. (a) The principal display panel of a food in package form shall bear as one of its principal features a statement of the identity of the commodity. (b) Such statement of identity shall be in terms of: (1) The name now or hereafter specified in or required by any applicable Federal law or regulation; or, in the absence thereof, (2) The common or usual name of the food; or, in the absence thereof, (3) An appropriately descriptive term, or when the nature of the food is obvious, a fanciful name commonly used by the public for such food. #picklegate #foodlabels #foodregulations #foodscience </content>
     <link href="https://www.tiktok.com/@foodsciencebabe/video/7273979353107533098" rel="alternate"/>
     <published>2023-09-01T21:55:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@foodsciencebabe/video/7276180742311546158</id>
+    <title>Graphics are from jameskennedymonash.wordpress.com #naturalflavors #foodscience #chemistry #flavoredwater </title>
+    <updated>2023-09-07T20:17:42+00:00</updated>
+    <content>Graphics are from jameskennedymonash.wordpress.com #naturalflavors #foodscience #chemistry #flavoredwater </content>
+    <link href="https://www.tiktok.com/@foodsciencebabe/video/7276180742311546158" rel="alternate"/>
+    <published>2023-09-07T20:17:42+00:00</published>
   </entry>
 </feed>
