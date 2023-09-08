@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@alvine_n</id>
   <title>@alvine_n | TikTok</title>
-  <updated>2023-09-08T07:46:36+00:00</updated>
+  <updated>2023-09-08T12:05:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @alvine_n</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@alvine_n/video/7275758469599284513</id>
-    <title>Replying to @India Gray this is 5 weeks into body recomposition challenge ( strength training + cardio + healthy balance diet ) link in my bio to join ❤️</title>
-    <updated>2023-09-06T16:58:53+00:00</updated>
-    <content>Replying to @India Gray this is 5 weeks into body recomposition challenge ( strength training + cardio + healthy balance diet ) link in my bio to join ❤️</content>
-    <link href="https://www.tiktok.com/@alvine_n/video/7275758469599284513" rel="alternate"/>
-    <published>2023-09-06T16:58:53+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@alvine_n/video/7275781859332623648</id>
     <title>[no title]</title>
@@ -51,5 +43,13 @@
     <content>#onthisday </content>
     <link href="https://www.tiktok.com/@alvine_n/video/7276358309014162720" rel="alternate"/>
     <published>2023-09-08T07:46:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@alvine_n/video/7276425149564439840</id>
+    <title>Replying to @FabFau l love this for you 🙌🙌🙌</title>
+    <updated>2023-09-08T12:05:59+00:00</updated>
+    <content>Replying to @FabFau l love this for you 🙌🙌🙌</content>
+    <link href="https://www.tiktok.com/@alvine_n/video/7276425149564439840" rel="alternate"/>
+    <published>2023-09-08T12:05:59+00:00</published>
   </entry>
 </feed>
