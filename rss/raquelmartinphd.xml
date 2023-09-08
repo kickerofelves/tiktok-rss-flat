@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@raquelmartinphd</id>
   <title>@raquelmartinphd | TikTok</title>
-  <updated>2023-09-08T00:50:26+00:00</updated>
+  <updated>2023-09-08T16:37:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @raquelmartinphd</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@raquelmartinphd/video/7274753672255376683</id>
-    <title>#sundaydinner #dinner #bananapudding #cooking </title>
-    <updated>2023-09-03T23:59:52+00:00</updated>
-    <content>#sundaydinner #dinner #bananapudding #cooking </content>
-    <link href="https://www.tiktok.com/@raquelmartinphd/video/7274753672255376683" rel="alternate"/>
-    <published>2023-09-03T23:59:52+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@raquelmartinphd/video/7275044193381420334</id>
     <title>#beyonce </title>
@@ -51,5 +43,13 @@
     <content>[no description]</content>
     <link href="https://www.tiktok.com/@raquelmartinphd/video/7276251040381504810" rel="alternate"/>
     <published>2023-09-08T00:50:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@raquelmartinphd/video/7276495120046837034</id>
+    <title>They’re so cute! #sneakers #newshoes </title>
+    <updated>2023-09-08T16:37:32+00:00</updated>
+    <content>They’re so cute! #sneakers #newshoes </content>
+    <link href="https://www.tiktok.com/@raquelmartinphd/video/7276495120046837034" rel="alternate"/>
+    <published>2023-09-08T16:37:32+00:00</published>
   </entry>
 </feed>
