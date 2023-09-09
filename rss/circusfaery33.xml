@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@circusfaery33</id>
   <title>@circusfaery33 | TikTok</title>
-  <updated>2023-09-08T00:38:16+00:00</updated>
+  <updated>2023-09-09T00:01:30+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @circusfaery33</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7275749371898023210</id>
-    <title>Replying to @xxgaimsxx It's like you don't understand that ✉️ supremacy is all about rubbing our noses in being scapegoats so people like you blame us instead fighting the systems that harm everyone. #asianamerican #modelminority #antiracism #solidari </title>
-    <updated>2023-09-06T16:23:39+00:00</updated>
-    <content>Replying to @xxgaimsxx It's like you don't understand that ✉️ supremacy is all about rubbing our noses in being scapegoats so people like you blame us instead fighting the systems that harm everyone. #asianamerican #modelminority #antiracism #solidari </content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7275749371898023210" rel="alternate"/>
-    <published>2023-09-06T16:23:39+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7275811462361287982</id>
-    <title>Replying to @truthsetsyoufree🇺🇸 If you listen to learn and not to gaslight, Black people are talking about what they are personally experiencing now. #asianamerican #modelminority #antiracism #solidarity </title>
-    <updated>2023-09-06T20:24:34+00:00</updated>
-    <content>Replying to @truthsetsyoufree🇺🇸 If you listen to learn and not to gaslight, Black people are talking about what they are personally experiencing now. #asianamerican #modelminority #antiracism #solidarity </content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7275811462361287982" rel="alternate"/>
-    <published>2023-09-06T20:24:34+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@circusfaery33/video/7275885435421773099</id>
     <title>Replying to @Wanderlust As a fellow not white not Black person, I'd like to try to help out.</title>
@@ -51,5 +35,21 @@
     <content>Replying to @CT Here's some advice from an Asian American about how ✉️ people might better themselves. 🤣</content>
     <link href="https://www.tiktok.com/@circusfaery33/video/7276247912101743915" rel="alternate"/>
     <published>2023-09-08T00:38:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7276598410403155243</id>
+    <title>Replying to @malcolmjenko7 If you have a problem with the fact that I am third generation Asian American, you are the one against the Constitutiom and country. </title>
+    <updated>2023-09-08T23:18:21+00:00</updated>
+    <content>Replying to @malcolmjenko7 If you have a problem with the fact that I am third generation Asian American, you are the one against the Constitutiom and country. </content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7276598410403155243" rel="alternate"/>
+    <published>2023-09-08T23:18:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7276609526604827946</id>
+    <title>Replying to @ar36282 It's not me. It's you.</title>
+    <updated>2023-09-09T00:01:30+00:00</updated>
+    <content>Replying to @ar36282 It's not me. It's you.</content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7276609526604827946" rel="alternate"/>
+    <published>2023-09-09T00:01:30+00:00</published>
   </entry>
 </feed>
