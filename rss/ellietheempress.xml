@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ellietheempress</id>
   <title>@ellietheempress | TikTok</title>
-  <updated>2023-09-08T15:43:50+00:00</updated>
+  <updated>2023-09-09T12:22:25+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ellietheempress</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@ellietheempress/video/7275684879726021930</id>
-    <title>What games should i play on twitch? #fyp #foryou </title>
-    <updated>2023-09-06T12:13:23+00:00</updated>
-    <content>What games should i play on twitch? #fyp #foryou </content>
-    <link href="https://www.tiktok.com/@ellietheempress/video/7275684879726021930" rel="alternate"/>
-    <published>2023-09-06T12:13:23+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@ellietheempress/video/7275815723186900267</id>
     <title>You can see the valcanoes until about 7PM amd then the clouds block them 😩 #antigua #antiguaguatemala #foryou #fyp </title>
@@ -51,5 +43,13 @@
     <content>My twins are a vibe #foryou #fyp </content>
     <link href="https://www.tiktok.com/@ellietheempress/video/7276481286045371694" rel="alternate"/>
     <published>2023-09-08T15:43:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ellietheempress/video/7276800420004056363</id>
+    <title>#fyp #foryou #guatemala #lakeatitlan </title>
+    <updated>2023-09-09T12:22:25+00:00</updated>
+    <content>#fyp #foryou #guatemala #lakeatitlan </content>
+    <link href="https://www.tiktok.com/@ellietheempress/video/7276800420004056363" rel="alternate"/>
+    <published>2023-09-09T12:22:25+00:00</published>
   </entry>
 </feed>
