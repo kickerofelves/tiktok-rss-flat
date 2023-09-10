@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mzkora</id>
   <title>@mzkora | TikTok</title>
-  <updated>2023-09-05T17:54:16+00:00</updated>
+  <updated>2023-09-10T18:42:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @mzkora</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@mzkora/video/7273702174205562155</id>
-    <title>This did not include early morning high school drop offs or afternoon pick ups and alot of the inbetweens. 😅 Hubby only sees me coming and going, never during. 🤣 He couldnt keep up. 🤪 #fyp #fypシ #momof9 #dayinmylife #dailyvlog #parents #familyof10 #busyda</title>
-    <updated>2023-09-01T03:59:39+00:00</updated>
-    <content>This did not include early morning high school drop offs or afternoon pick ups and alot of the inbetweens. 😅 Hubby only sees me coming and going, never during. 🤣 He couldnt keep up. 🤪 #fyp #fypシ #momof9 #dayinmylife #dailyvlog #parents #familyof10 #busyday </content>
-    <link href="https://www.tiktok.com/@mzkora/video/7273702174205562155" rel="alternate"/>
-    <published>2023-09-01T03:59:39+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@mzkora/video/7273985061047881003</id>
     <title>#ad Still summer outside, but its always pumpkin spice season in my soul. Embrace the basic, one @Premier Protein sip at a time! 🌞🎃 #premierproteinpumpkinspice #pumpkinspice #premierprotein #pumpkinspiceseason #pumpkinspiceislife </title>
@@ -51,5 +43,13 @@
     <content>#greenscreen First time having my entire page stolen. 😅 Reported it but Tiktok isn’t taking it down. So not sure what to do. 🤷🏽‍♀️ #fyp #fypシ #momof9 #stolencontent #influencer #contentcreator #mzkora </content>
     <link href="https://www.tiktok.com/@mzkora/video/7275401642881633578" rel="alternate"/>
     <published>2023-09-05T17:54:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@mzkora/video/7277269391765458218</id>
+    <title>This I can deal with!! 😂 #fyp #fypシ #momof9 #2023 #blessed #vacation </title>
+    <updated>2023-09-10T18:42:09+00:00</updated>
+    <content>This I can deal with!! 😂 #fyp #fypシ #momof9 #2023 #blessed #vacation </content>
+    <link href="https://www.tiktok.com/@mzkora/video/7277269391765458218" rel="alternate"/>
+    <published>2023-09-10T18:42:09+00:00</published>
   </entry>
 </feed>
