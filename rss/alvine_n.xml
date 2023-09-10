@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@alvine_n</id>
   <title>@alvine_n | TikTok</title>
-  <updated>2023-09-10T08:53:15+00:00</updated>
+  <updated>2023-09-10T15:56:51+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @alvine_n</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@alvine_n/video/7276142260662603041</id>
-    <title>Doing 30 minutes of cardio does not count as a workout. Instead, focus on compound exercises and lift heavy weights. You can do cardio after your main workout or on another day.#cardio #gymtok #strengthtraining </title>
-    <updated>2023-09-07T17:48:12+00:00</updated>
-    <content>Doing 30 minutes of cardio does not count as a workout. Instead, focus on compound exercises and lift heavy weights. You can do cardio after your main workout or on another day.#cardio #gymtok #strengthtraining </content>
-    <link href="https://www.tiktok.com/@alvine_n/video/7276142260662603041" rel="alternate"/>
-    <published>2023-09-07T17:48:12+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@alvine_n/video/7276358309014162720</id>
     <title>#onthisday </title>
@@ -51,5 +43,13 @@
     <content>They are doing Body recomposition challenge link in my bio join nutrition + workout plan + private community chat for daily support &amp; motivation ❤️</content>
     <link href="https://www.tiktok.com/@alvine_n/video/7277117641490238752" rel="alternate"/>
     <published>2023-09-10T08:53:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@alvine_n/video/7277226813645016352</id>
+    <title>💯 agree!!!focusing on compound exercises is more effective than doing abs workouts every day, especially if your goal is overall core strength and aesthetics.  But that doesn’t mean you should completely neglect ab-specific exercises. It’s good to incorpo</title>
+    <updated>2023-09-10T15:56:51+00:00</updated>
+    <content>💯 agree!!!focusing on compound exercises is more effective than doing abs workouts every day, especially if your goal is overall core strength and aesthetics.  But that doesn’t mean you should completely neglect ab-specific exercises. It’s good to incorporate them into your routine but not necessarily every day. You can include dedicated ab workouts 2-3 times a week to target the tummy muscles directly. If fat loss is your goal balance diet with a calorie deficit is a must it will help reduce body fat &amp; make your tummy flat . Join my private community group chat trough the first link in my bio workout, nutrition included let’s go 💪💪💪</content>
+    <link href="https://www.tiktok.com/@alvine_n/video/7277226813645016352" rel="alternate"/>
+    <published>2023-09-10T15:56:51+00:00</published>
   </entry>
 </feed>
