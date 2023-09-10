@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ellietheempress</id>
   <title>@ellietheempress | TikTok</title>
-  <updated>2023-09-09T23:28:55+00:00</updated>
+  <updated>2023-09-10T17:13:40+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ellietheempress</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@ellietheempress/video/7276040650347449646</id>
-    <title>#foryou #fyp #guatemala </title>
-    <updated>2023-09-07T11:14:13+00:00</updated>
-    <content>#foryou #fyp #guatemala </content>
-    <link href="https://www.tiktok.com/@ellietheempress/video/7276040650347449646" rel="alternate"/>
-    <published>2023-09-07T11:14:13+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@ellietheempress/video/7276229948015267114</id>
-    <title>#foryou #lakeatitlan #fyp </title>
-    <updated>2023-09-07T23:28:34+00:00</updated>
-    <content>#foryou #lakeatitlan #fyp </content>
-    <link href="https://www.tiktok.com/@ellietheempress/video/7276229948015267114" rel="alternate"/>
-    <published>2023-09-07T23:28:34+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@ellietheempress/video/7276481286045371694</id>
     <title>My twins are a vibe #foryou #fyp </title>
@@ -51,5 +35,21 @@
     <content>#fyp #foryou #guatemala #antigua </content>
     <link href="https://www.tiktok.com/@ellietheempress/video/7276972205693750574" rel="alternate"/>
     <published>2023-09-09T23:28:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ellietheempress/video/7277185026683440427</id>
+    <title>As long as I post everyday youll never forget about me 🥰 #foryou #fyp #guatemala #antigua </title>
+    <updated>2023-09-10T13:14:58+00:00</updated>
+    <content>As long as I post everyday youll never forget about me 🥰 #foryou #fyp #guatemala #antigua </content>
+    <link href="https://www.tiktok.com/@ellietheempress/video/7277185026683440427" rel="alternate"/>
+    <published>2023-09-10T13:14:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ellietheempress/video/7277246588639055146</id>
+    <title>#foryou #fyp #guatemala </title>
+    <updated>2023-09-10T17:13:40+00:00</updated>
+    <content>#foryou #fyp #guatemala </content>
+    <link href="https://www.tiktok.com/@ellietheempress/video/7277246588639055146" rel="alternate"/>
+    <published>2023-09-10T17:13:40+00:00</published>
   </entry>
 </feed>
