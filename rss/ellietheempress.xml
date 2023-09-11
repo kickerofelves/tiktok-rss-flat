@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ellietheempress</id>
   <title>@ellietheempress | TikTok</title>
-  <updated>2023-09-10T17:13:40+00:00</updated>
+  <updated>2023-09-11T18:17:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ellietheempress</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@ellietheempress/video/7276481286045371694</id>
-    <title>My twins are a vibe #foryou #fyp </title>
-    <updated>2023-09-08T15:43:50+00:00</updated>
-    <content>My twins are a vibe #foryou #fyp </content>
-    <link href="https://www.tiktok.com/@ellietheempress/video/7276481286045371694" rel="alternate"/>
-    <published>2023-09-08T15:43:50+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@ellietheempress/video/7276800420004056363</id>
-    <title>#fyp #foryou #guatemala #lakeatitlan </title>
-    <updated>2023-09-09T12:22:25+00:00</updated>
-    <content>#fyp #foryou #guatemala #lakeatitlan </content>
-    <link href="https://www.tiktok.com/@ellietheempress/video/7276800420004056363" rel="alternate"/>
-    <published>2023-09-09T12:22:25+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@ellietheempress/video/7276972205693750574</id>
     <title>#fyp #foryou #guatemala #antigua </title>
@@ -51,5 +35,21 @@
     <content>#foryou #fyp #guatemala </content>
     <link href="https://www.tiktok.com/@ellietheempress/video/7277246588639055146" rel="alternate"/>
     <published>2023-09-10T17:13:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ellietheempress/video/7277549031474122026</id>
+    <title>#foryou #fyp #viral </title>
+    <updated>2023-09-11T12:47:29+00:00</updated>
+    <content>#foryou #fyp #viral </content>
+    <link href="https://www.tiktok.com/@ellietheempress/video/7277549031474122026" rel="alternate"/>
+    <published>2023-09-11T12:47:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ellietheempress/video/7277634081381190955</id>
+    <title>#foryou #viral </title>
+    <updated>2023-09-11T18:17:28+00:00</updated>
+    <content>#foryou #viral </content>
+    <link href="https://www.tiktok.com/@ellietheempress/video/7277634081381190955" rel="alternate"/>
+    <published>2023-09-11T18:17:28+00:00</published>
   </entry>
 </feed>
