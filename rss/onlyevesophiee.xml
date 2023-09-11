@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@onlyevesophiee</id>
   <title>@onlyevesophiee | TikTok</title>
-  <updated>2023-09-10T15:02:37+00:00</updated>
+  <updated>2023-09-11T03:06:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @onlyevesophiee</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@onlyevesophiee/video/7274990043029064993</id>
-    <title>Oops</title>
-    <updated>2023-09-04T15:17:01+00:00</updated>
-    <content>Oops</content>
-    <link href="https://www.tiktok.com/@onlyevesophiee/video/7274990043029064993" rel="alternate"/>
-    <published>2023-09-04T15:17:01+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@onlyevesophiee/video/7276475671411477792</id>
-    <title>Front or back?</title>
-    <updated>2023-09-08T15:21:59+00:00</updated>
-    <content>Front or back?</content>
-    <link href="https://www.tiktok.com/@onlyevesophiee/video/7276475671411477792" rel="alternate"/>
-    <published>2023-09-08T15:21:59+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@onlyevesophiee/video/7276609709979847969</id>
     <title>My legs hurt from training i cant move properly 😩😂</title>
@@ -51,5 +35,21 @@
     <content>Umm i think none</content>
     <link href="https://www.tiktok.com/@onlyevesophiee/video/7277212844054023456" rel="alternate"/>
     <published>2023-09-10T15:02:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@onlyevesophiee/video/7277324848211266849</id>
+    <title>How is the recoil ?</title>
+    <updated>2023-09-10T22:17:23+00:00</updated>
+    <content>How is the recoil ?</content>
+    <link href="https://www.tiktok.com/@onlyevesophiee/video/7277324848211266849" rel="alternate"/>
+    <published>2023-09-10T22:17:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@onlyevesophiee/video/7277399088109227297</id>
+    <title>Does my face match my body?</title>
+    <updated>2023-09-11T03:06:20+00:00</updated>
+    <content>Does my face match my body?</content>
+    <link href="https://www.tiktok.com/@onlyevesophiee/video/7277399088109227297" rel="alternate"/>
+    <published>2023-09-11T03:06:20+00:00</published>
   </entry>
 </feed>
