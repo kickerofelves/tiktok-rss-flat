@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@sonia_barbie</id>
   <title>@sonia_barbie | TikTok</title>
-  <updated>2023-09-09T07:42:21+00:00</updated>
+  <updated>2023-09-11T03:34:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @sonia_barbie</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@sonia_barbie/video/7274662388102745386</id>
-    <title>Shoe link in my bio at my Amazon storefront ❤️</title>
-    <updated>2023-09-03T18:05:39+00:00</updated>
-    <content>Shoe link in my bio at my Amazon storefront ❤️</content>
-    <link href="https://www.tiktok.com/@sonia_barbie/video/7274662388102745386" rel="alternate"/>
-    <published>2023-09-03T18:05:39+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@sonia_barbie/video/7275089967422901546</id>
     <title>[no title]</title>
@@ -51,5 +43,13 @@
     <content>New York fashion week </content>
     <link href="https://www.tiktok.com/@sonia_barbie/video/7276728132722249003" rel="alternate"/>
     <published>2023-09-09T07:42:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@sonia_barbie/video/7277406632835927338</id>
+    <title>@fashionbombdaily show ❤️🙏🏾</title>
+    <updated>2023-09-11T03:34:49+00:00</updated>
+    <content>@fashionbombdaily show ❤️🙏🏾</content>
+    <link href="https://www.tiktok.com/@sonia_barbie/video/7277406632835927338" rel="alternate"/>
+    <published>2023-09-11T03:34:49+00:00</published>
   </entry>
 </feed>
