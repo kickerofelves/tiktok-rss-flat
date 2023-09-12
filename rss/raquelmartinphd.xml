@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@raquelmartinphd</id>
   <title>@raquelmartinphd | TikTok</title>
-  <updated>2023-09-11T22:56:06+00:00</updated>
+  <updated>2023-09-12T17:36:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @raquelmartinphd</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@raquelmartinphd/video/7277229971129617706</id>
-    <title>#greenscreen </title>
-    <updated>2023-09-10T16:09:12+00:00</updated>
-    <content>#greenscreen </content>
-    <link href="https://www.tiktok.com/@raquelmartinphd/video/7277229971129617706" rel="alternate"/>
-    <published>2023-09-10T16:09:12+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@raquelmartinphd/video/7277353467457326382</id>
     <title>#philly #respect </title>
@@ -51,5 +43,13 @@
     <content>[no description]</content>
     <link href="https://www.tiktok.com/@raquelmartinphd/video/7277705910749990190" rel="alternate"/>
     <published>2023-09-11T22:56:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@raquelmartinphd/video/7277994500084010282</id>
+    <title>#blackdoctors </title>
+    <updated>2023-09-12T17:36:03+00:00</updated>
+    <content>#blackdoctors </content>
+    <link href="https://www.tiktok.com/@raquelmartinphd/video/7277994500084010282" rel="alternate"/>
+    <published>2023-09-12T17:36:03+00:00</published>
   </entry>
 </feed>
