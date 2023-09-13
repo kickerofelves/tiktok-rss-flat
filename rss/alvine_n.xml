@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@alvine_n</id>
   <title>@alvine_n | TikTok</title>
-  <updated>2023-09-11T15:58:36+00:00</updated>
+  <updated>2023-09-12T20:49:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @alvine_n</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@alvine_n/video/7277105172537511200</id>
-    <title>Game changer 🔥🔥🔥</title>
-    <updated>2023-09-10T08:04:52+00:00</updated>
-    <content>Game changer 🔥🔥🔥</content>
-    <link href="https://www.tiktok.com/@alvine_n/video/7277105172537511200" rel="alternate"/>
-    <published>2023-09-10T08:04:52+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@alvine_n/video/7277117641490238752</id>
     <title>They are doing Body recomposition challenge link in my bio join nutrition + workout plan + private community chat for daily support &amp; motivation ❤️</title>
@@ -51,5 +43,13 @@
     <content>#CapCut you want to start your journey and don’t know download my fitness app first link in my bio workout + private community chat for daily support &amp; motivation let’s go 💪💪</content>
     <link href="https://www.tiktok.com/@alvine_n/video/7277598353297280288" rel="alternate"/>
     <published>2023-09-11T15:58:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@alvine_n/video/7278044412976942368</id>
+    <title>Replying to @_shernice_ body recomposition challenge hit different first link in my bio to join ❤️❤️</title>
+    <updated>2023-09-12T20:49:32+00:00</updated>
+    <content>Replying to @_shernice_ body recomposition challenge hit different first link in my bio to join ❤️❤️</content>
+    <link href="https://www.tiktok.com/@alvine_n/video/7278044412976942368" rel="alternate"/>
+    <published>2023-09-12T20:49:32+00:00</published>
   </entry>
 </feed>
