@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mzkora</id>
   <title>@mzkora | TikTok</title>
-  <updated>2023-09-12T03:01:29+00:00</updated>
+  <updated>2023-09-12T21:37:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @mzkora</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@mzkora/video/7274013427524275502</id>
-    <title>Clearly I show my age. 👵🏽 I am surprised my kids know any of these. 😂 #fyp #fypシ #oldage #oldagechallenge #momof9 #familychallenge #familyof10 #parentsoftiktok #parent #millennial </title>
-    <updated>2023-09-02T00:07:18+00:00</updated>
-    <content>Clearly I show my age. 👵🏽 I am surprised my kids know any of these. 😂 #fyp #fypシ #oldage #oldagechallenge #momof9 #familychallenge #familyof10 #parentsoftiktok #parent #millennial </content>
-    <link href="https://www.tiktok.com/@mzkora/video/7274013427524275502" rel="alternate"/>
-    <published>2023-09-02T00:07:18+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@mzkora/video/7274675081433943339</id>
     <title>Should I be worried? 😳😅😂 #fyp #fypシ #momof9 #parentsoftiktok #couplequestions #parents #psycho #psychoedition #gemini #leo @GQGEMINI </title>
@@ -51,5 +43,13 @@
     <content>My kids look so much younger here. This was 1 year ago. #fyp #fypシ #momof9 #familyof10 #momedition #fingerdown #mzkora </content>
     <link href="https://www.tiktok.com/@mzkora/video/7277769157154721067" rel="alternate"/>
     <published>2023-09-12T03:01:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@mzkora/video/7278056801675840810</id>
+    <title>My easy go-to healthy meal option! Featuring @FLY BY JING Chili Crisp #flybyjingpartner #fypシ #fyp #chilioil #healthymeals #momof9</title>
+    <updated>2023-09-12T21:37:42+00:00</updated>
+    <content>My easy go-to healthy meal option! Featuring @FLY BY JING Chili Crisp #flybyjingpartner #fypシ #fyp #chilioil #healthymeals #momof9</content>
+    <link href="https://www.tiktok.com/@mzkora/video/7278056801675840810" rel="alternate"/>
+    <published>2023-09-12T21:37:42+00:00</published>
   </entry>
 </feed>
