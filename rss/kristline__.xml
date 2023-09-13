@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@kristline__</id>
   <title>@kristline__ | TikTok</title>
-  <updated>2023-09-10T15:32:44+00:00</updated>
+  <updated>2023-09-12T17:35:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kristline__</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@kristline__/video/7274986487865822506</id>
-    <title>Lets unbox my newest members of my pots collections from @caraway_home  __ What should we name the newbee family?</title>
-    <updated>2023-09-04T15:03:28+00:00</updated>
-    <content>Lets unbox my newest members of my pots collections from @caraway_home  __ What should we name the newbee family?</content>
-    <link href="https://www.tiktok.com/@kristline__/video/7274986487865822506" rel="alternate"/>
-    <published>2023-09-04T15:03:28+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@kristline__/video/7275352703012736298</id>
     <title>pOV: your non Liberia husband is obsessed with Liberian food and eats it daily. Fufu &amp; pepper soup 🍲  __ Skin @goddess_gleam link my bio  Dress @ofuure __ Click the link in my bio for my Liberian fufu recipe &amp; COOK BOOKS</title>
@@ -51,5 +43,13 @@
     <content>Lets make breakfast for two  __ Smoothie power by bloom</content>
     <link href="https://www.tiktok.com/@kristline__/video/7277220569957862699" rel="alternate"/>
     <published>2023-09-10T15:32:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@kristline__/video/7277994429049228586</id>
+    <title>#GRWM  Morning routine </title>
+    <updated>2023-09-12T17:35:49+00:00</updated>
+    <content>#GRWM  Morning routine </content>
+    <link href="https://www.tiktok.com/@kristline__/video/7277994429049228586" rel="alternate"/>
+    <published>2023-09-12T17:35:49+00:00</published>
   </entry>
 </feed>
