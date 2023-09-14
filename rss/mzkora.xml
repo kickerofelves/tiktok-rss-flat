@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mzkora</id>
   <title>@mzkora | TikTok</title>
-  <updated>2023-09-12T21:37:42+00:00</updated>
+  <updated>2023-09-14T02:37:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @mzkora</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@mzkora/video/7274675081433943339</id>
-    <title>Should I be worried? 😳😅😂 #fyp #fypシ #momof9 #parentsoftiktok #couplequestions #parents #psycho #psychoedition #gemini #leo @GQGEMINI </title>
-    <updated>2023-09-03T18:54:53+00:00</updated>
-    <content>Should I be worried? 😳😅😂 #fyp #fypシ #momof9 #parentsoftiktok #couplequestions #parents #psycho #psychoedition #gemini #leo @GQGEMINI </content>
-    <link href="https://www.tiktok.com/@mzkora/video/7274675081433943339" rel="alternate"/>
-    <published>2023-09-03T18:54:53+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@mzkora/video/7275401642881633578</id>
-    <title>#greenscreen First time having my entire page stolen. 😅 Reported it but Tiktok isn’t taking it down. So not sure what to do. 🤷🏽‍♀️ #fyp #fypシ #momof9 #stolencontent #influencer #contentcreator #mzkora </title>
-    <updated>2023-09-05T17:54:16+00:00</updated>
-    <content>#greenscreen First time having my entire page stolen. 😅 Reported it but Tiktok isn’t taking it down. So not sure what to do. 🤷🏽‍♀️ #fyp #fypシ #momof9 #stolencontent #influencer #contentcreator #mzkora </content>
-    <link href="https://www.tiktok.com/@mzkora/video/7275401642881633578" rel="alternate"/>
-    <published>2023-09-05T17:54:16+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@mzkora/video/7277269391765458218</id>
     <title>This I can deal with!! 😂 #fyp #fypシ #momof9 #2023 #blessed #vacation </title>
@@ -51,5 +35,21 @@
     <content>My easy go-to healthy meal option! Featuring @FLY BY JING Chili Crisp #flybyjingpartner #fypシ #fyp #chilioil #healthymeals #momof9</content>
     <link href="https://www.tiktok.com/@mzkora/video/7278056801675840810" rel="alternate"/>
     <published>2023-09-12T21:37:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@mzkora/video/7278473102299008298</id>
+    <title>Not sure why my feet were on beat. 😂 I’m running though, like a turtle, but still running. 🐢 Cleaning up my diet, lifting, &amp; implementing running. ##fyp##fypシ##momof9##running##excercise##mombod##postop##tummytuck##9weekspostop</title>
+    <updated>2023-09-14T00:33:05+00:00</updated>
+    <content>Not sure why my feet were on beat. 😂 I’m running though, like a turtle, but still running. 🐢 Cleaning up my diet, lifting, &amp; implementing running. ##fyp##fypシ##momof9##running##excercise##mombod##postop##tummytuck##9weekspostop</content>
+    <link href="https://www.tiktok.com/@mzkora/video/7278473102299008298" rel="alternate"/>
+    <published>2023-09-14T00:33:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@mzkora/video/7278505250380647726</id>
+    <title>Replying to @its_paruuu this is literally the video that blew up my pages. I told my husband I wanted to make this video in 2018 in 2022, I finally made it and here we are. Looking back at this made me realize how much my kids have grown. #fyp #fypシ #momo</title>
+    <updated>2023-09-14T02:37:49+00:00</updated>
+    <content>Replying to @its_paruuu this is literally the video that blew up my pages. I told my husband I wanted to make this video in 2018 in 2022, I finally made it and here we are. Looking back at this made me realize how much my kids have grown. #fyp #fypシ #momof9 #familyof10 #blindian #family #largefamily #indian #mixedkids #mixedcouple </content>
+    <link href="https://www.tiktok.com/@mzkora/video/7278505250380647726" rel="alternate"/>
+    <published>2023-09-14T02:37:49+00:00</published>
   </entry>
 </feed>
