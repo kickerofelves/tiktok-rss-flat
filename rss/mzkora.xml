@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mzkora</id>
   <title>@mzkora | TikTok</title>
-  <updated>2023-09-14T02:37:49+00:00</updated>
+  <updated>2023-09-14T18:30:19+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @mzkora</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@mzkora/video/7277269391765458218</id>
-    <title>This I can deal with!! 😂 #fyp #fypシ #momof9 #2023 #blessed #vacation </title>
-    <updated>2023-09-10T18:42:09+00:00</updated>
-    <content>This I can deal with!! 😂 #fyp #fypシ #momof9 #2023 #blessed #vacation </content>
-    <link href="https://www.tiktok.com/@mzkora/video/7277269391765458218" rel="alternate"/>
-    <published>2023-09-10T18:42:09+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@mzkora/video/7277769157154721067</id>
     <title>My kids look so much younger here. This was 1 year ago. #fyp #fypシ #momof9 #familyof10 #momedition #fingerdown #mzkora </title>
@@ -51,5 +43,13 @@
     <content>Replying to @its_paruuu this is literally the video that blew up my pages. I told my husband I wanted to make this video in 2018 in 2022, I finally made it and here we are. Looking back at this made me realize how much my kids have grown. #fyp #fypシ #momof9 #familyof10 #blindian #family #largefamily #indian #mixedkids #mixedcouple </content>
     <link href="https://www.tiktok.com/@mzkora/video/7278505250380647726" rel="alternate"/>
     <published>2023-09-14T02:37:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@mzkora/video/7278750697548451114</id>
+    <title>Replying to @drevee718 Too many stories of people getting pregnant after their tubal. 😓😓😓 #fyp #fypシ #momof9 #familyof10 ##pregnancyloss #ectopicpregnancy #triggerwarning #pregnancy </title>
+    <updated>2023-09-14T18:30:19+00:00</updated>
+    <content>Replying to @drevee718 Too many stories of people getting pregnant after their tubal. 😓😓😓 #fyp #fypシ #momof9 #familyof10 ##pregnancyloss #ectopicpregnancy #triggerwarning #pregnancy </content>
+    <link href="https://www.tiktok.com/@mzkora/video/7278750697548451114" rel="alternate"/>
+    <published>2023-09-14T18:30:19+00:00</published>
   </entry>
 </feed>
