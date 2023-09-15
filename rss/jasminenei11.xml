@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jasminenei11</id>
   <title>@jasminenei11 | TikTok</title>
-  <updated>2023-09-13T21:05:52+00:00</updated>
+  <updated>2023-09-14T22:14:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @jasminenei11</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@jasminenei11/video/7276895626397355307</id>
-    <title>She a baddie</title>
-    <updated>2023-09-09T18:31:49+00:00</updated>
-    <content>She a baddie</content>
-    <link href="https://www.tiktok.com/@jasminenei11/video/7276895626397355307" rel="alternate"/>
-    <published>2023-09-09T18:31:49+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@jasminenei11/video/7276969145072127274</id>
     <title>[no title]</title>
@@ -51,5 +43,13 @@
     <content>[no description]</content>
     <link href="https://www.tiktok.com/@jasminenei11/video/7278419687187254571" rel="alternate"/>
     <published>2023-09-13T21:05:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@jasminenei11/video/7278808483682749742</id>
+    <title>4 DIVORCES AND COUNTING…</title>
+    <updated>2023-09-14T22:14:32+00:00</updated>
+    <content>4 DIVORCES AND COUNTING…</content>
+    <link href="https://www.tiktok.com/@jasminenei11/video/7278808483682749742" rel="alternate"/>
+    <published>2023-09-14T22:14:32+00:00</published>
   </entry>
 </feed>
