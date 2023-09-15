@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@onlyevesophiee</id>
   <title>@onlyevesophiee | TikTok</title>
-  <updated>2023-09-15T00:21:51+00:00</updated>
+  <updated>2023-09-15T16:31:22+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @onlyevesophiee</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@onlyevesophiee/video/7278064744295157025</id>
-    <title>Smash xx</title>
-    <updated>2023-09-12T22:08:33+00:00</updated>
-    <content>Smash xx</content>
-    <link href="https://www.tiktok.com/@onlyevesophiee/video/7278064744295157025" rel="alternate"/>
-    <published>2023-09-12T22:08:33+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@onlyevesophiee/video/7278097877757463840</id>
     <title>What is that</title>
@@ -51,5 +43,13 @@
     <content>Pov sitting asmr 🤭</content>
     <link href="https://www.tiktok.com/@onlyevesophiee/video/7278841264349465888" rel="alternate"/>
     <published>2023-09-15T00:21:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@onlyevesophiee/video/7279091145081376033</id>
+    <title>You should make me your girl xx</title>
+    <updated>2023-09-15T16:31:22+00:00</updated>
+    <content>You should make me your girl xx</content>
+    <link href="https://www.tiktok.com/@onlyevesophiee/video/7279091145081376033" rel="alternate"/>
+    <published>2023-09-15T16:31:22+00:00</published>
   </entry>
 </feed>
