@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@22kimmyyang</id>
   <title>@22kimmyyang | TikTok</title>
-  <updated>2023-09-14T03:10:45+00:00</updated>
+  <updated>2023-09-15T01:36:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @22kimmyyang</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@22kimmyyang/video/7276937892306455851</id>
-    <title>I love my twin 👯‍♀️ </title>
-    <updated>2023-09-09T21:15:44+00:00</updated>
-    <content>I love my twin 👯‍♀️ </content>
-    <link href="https://www.tiktok.com/@22kimmyyang/video/7276937892306455851" rel="alternate"/>
-    <published>2023-09-09T21:15:44+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@22kimmyyang/video/7277360087545417003</id>
     <title>[no title]</title>
@@ -51,5 +43,13 @@
     <content>[no description]</content>
     <link href="https://www.tiktok.com/@22kimmyyang/video/7278513721415142699" rel="alternate"/>
     <published>2023-09-14T03:10:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@22kimmyyang/video/7278860408889429290</id>
+    <title>@Isla Moon </title>
+    <updated>2023-09-15T01:36:03+00:00</updated>
+    <content>@Isla Moon </content>
+    <link href="https://www.tiktok.com/@22kimmyyang/video/7278860408889429290" rel="alternate"/>
+    <published>2023-09-15T01:36:03+00:00</published>
   </entry>
 </feed>
