@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rahyndee</id>
   <title>@rahyndee | TikTok</title>
-  <updated>2023-09-15T05:03:30+00:00</updated>
+  <updated>2023-09-15T21:44:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @rahyndee</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@rahyndee/video/7278542081851723039</id>
-    <title>Mullet mommy 🫠 #fyp #slowmotion #california #modlewalk </title>
-    <updated>2023-09-14T05:00:56+00:00</updated>
-    <content>Mullet mommy 🫠 #fyp #slowmotion #california #modlewalk </content>
-    <link href="https://www.tiktok.com/@rahyndee/video/7278542081851723039" rel="alternate"/>
-    <published>2023-09-14T05:00:56+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@rahyndee/video/7278782153129872682</id>
-    <title>Wya sugaaa ?? 🫠 #fyp #california #lol #forfun </title>
-    <updated>2023-09-14T20:32:24+00:00</updated>
-    <content>Wya sugaaa ?? 🫠 #fyp #california #lol #forfun </content>
-    <link href="https://www.tiktok.com/@rahyndee/video/7278782153129872682" rel="alternate"/>
-    <published>2023-09-14T20:32:24+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@rahyndee/video/7278795685565058346</id>
     <title>Did I even need the filter? 🤦🏽‍♀️🫠 #fyp #SoCal #you </title>
@@ -51,5 +35,21 @@
     <content>🫠 #SoCal #fyp #modlewalk #fitcheck #trendy </content>
     <link href="https://www.tiktok.com/@rahyndee/video/7278913866392702251" rel="alternate"/>
     <published>2023-09-15T05:03:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@rahyndee/video/7279169757494955306</id>
+    <title>Hot soup 🍲 #fyp #SoCal #modlewalk #fitcheck </title>
+    <updated>2023-09-15T21:36:32+00:00</updated>
+    <content>Hot soup 🍲 #fyp #SoCal #modlewalk #fitcheck </content>
+    <link href="https://www.tiktok.com/@rahyndee/video/7279169757494955306" rel="alternate"/>
+    <published>2023-09-15T21:36:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@rahyndee/video/7279171775949196587</id>
+    <title>Short thrifting vlog ✨ #fyp #thrifting #joinme #SoCal </title>
+    <updated>2023-09-15T21:44:23+00:00</updated>
+    <content>Short thrifting vlog ✨ #fyp #thrifting #joinme #SoCal </content>
+    <link href="https://www.tiktok.com/@rahyndee/video/7279171775949196587" rel="alternate"/>
+    <published>2023-09-15T21:44:23+00:00</published>
   </entry>
 </feed>
