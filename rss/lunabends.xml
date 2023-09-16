@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@lunabends</id>
   <title>@lunabends | TikTok</title>
-  <updated>2023-09-14T19:24:06+00:00</updated>
+  <updated>2023-09-15T21:33:37+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @lunabends</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@lunabends/video/7277273974701116714</id>
-    <title>Bendy things  #poletok #dancer #flexible #dancetricks #poletricks #spinpole #fyp </title>
-    <updated>2023-09-10T18:59:56+00:00</updated>
-    <content>Bendy things  #poletok #dancer #flexible #dancetricks #poletricks #spinpole #fyp </content>
-    <link href="https://www.tiktok.com/@lunabends/video/7277273974701116714" rel="alternate"/>
-    <published>2023-09-10T18:59:56+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@lunabends/video/7277568801342885162</id>
     <title>🖤 night owl shenanigans </title>
@@ -51,5 +43,13 @@
     <content>Mood 🤷🏽‍♀️💰 #dancer #nightlife </content>
     <link href="https://www.tiktok.com/@lunabends/video/7278764560729869610" rel="alternate"/>
     <published>2023-09-14T19:24:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lunabends/video/7279169018995477803</id>
+    <title>Headstand play ... feeling wobbly but thats okay  #yogi #yoga #flexible </title>
+    <updated>2023-09-15T21:33:37+00:00</updated>
+    <content>Headstand play ... feeling wobbly but thats okay  #yogi #yoga #flexible </content>
+    <link href="https://www.tiktok.com/@lunabends/video/7279169018995477803" rel="alternate"/>
+    <published>2023-09-15T21:33:37+00:00</published>
   </entry>
 </feed>
