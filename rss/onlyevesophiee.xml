@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@onlyevesophiee</id>
   <title>@onlyevesophiee | TikTok</title>
-  <updated>2023-09-16T00:23:09+00:00</updated>
+  <updated>2023-09-16T14:20:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @onlyevesophiee</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@onlyevesophiee/video/7278097877757463840</id>
-    <title>What is that</title>
-    <updated>2023-09-13T00:17:33+00:00</updated>
-    <content>What is that</content>
-    <link href="https://www.tiktok.com/@onlyevesophiee/video/7278097877757463840" rel="alternate"/>
-    <published>2023-09-13T00:17:33+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@onlyevesophiee/video/7278701693729017121</id>
     <title>Boom boom 😈</title>
@@ -51,5 +43,13 @@
     <content>Front or back </content>
     <link href="https://www.tiktok.com/@onlyevesophiee/video/7279212618869443873" rel="alternate"/>
     <published>2023-09-16T00:23:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@onlyevesophiee/video/7279428490670165281</id>
+    <title>Does my face match my body? Be honest x</title>
+    <updated>2023-09-16T14:20:27+00:00</updated>
+    <content>Does my face match my body? Be honest x</content>
+    <link href="https://www.tiktok.com/@onlyevesophiee/video/7279428490670165281" rel="alternate"/>
+    <published>2023-09-16T14:20:27+00:00</published>
   </entry>
 </feed>
