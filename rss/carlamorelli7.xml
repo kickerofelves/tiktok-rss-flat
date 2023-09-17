@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@carlamorelli7</id>
   <title>@carlamorelli7 | TikTok</title>
-  <updated>2023-09-16T20:02:34+00:00</updated>
+  <updated>2023-09-17T06:20:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @carlamorelli7</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@carlamorelli7/video/7267162933472414981</id>
-    <title>Yo soy tu Diosa y tu mi Dioj 🔥🥵 #link #imcarlamorelli_of #fypシ </title>
-    <updated>2023-08-14T13:03:46+00:00</updated>
-    <content>Yo soy tu Diosa y tu mi Dioj 🔥🥵 #link #imcarlamorelli_of #fypシ </content>
-    <link href="https://www.tiktok.com/@carlamorelli7/video/7267162933472414981" rel="alternate"/>
-    <published>2023-08-14T13:03:46+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@carlamorelli7/video/7267674212494609670</id>
     <title>Tu y yo comiéndonos a besitos #imcarlamorelli_of </title>
@@ -51,5 +43,13 @@
     <content>😜</content>
     <link href="https://www.tiktok.com/@carlamorelli7/video/7279516663051996422" rel="alternate"/>
     <published>2023-09-16T20:02:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@carlamorelli7/video/7279676017222896901</id>
+    <title>🇲🇽@Tatiana Alvarez @Salome Gil 🌸 @Giaitzel sigue mi link 👉🏾</title>
+    <updated>2023-09-17T06:20:56+00:00</updated>
+    <content>🇲🇽@Tatiana Alvarez @Salome Gil 🌸 @Giaitzel sigue mi link 👉🏾</content>
+    <link href="https://www.tiktok.com/@carlamorelli7/video/7279676017222896901" rel="alternate"/>
+    <published>2023-09-17T06:20:56+00:00</published>
   </entry>
 </feed>
