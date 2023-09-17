@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@annarennsworld</id>
   <title>@annarennsworld | TikTok</title>
-  <updated>2023-09-16T19:06:20+00:00</updated>
+  <updated>2023-09-17T19:09:55+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @annarennsworld</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@annarennsworld/video/7279138408423820587</id>
-    <title>Like benzino 💞😘😘😘😘</title>
-    <updated>2023-09-15T19:34:56+00:00</updated>
-    <content>Like benzino 💞😘😘😘😘</content>
-    <link href="https://www.tiktok.com/@annarennsworld/video/7279138408423820587" rel="alternate"/>
-    <published>2023-09-15T19:34:56+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@annarennsworld/video/7279501997794004267</id>
-    <title>Maybe I’m just sensitive but those automatic Messages are so formal it hurts my feelings like just text me “girl I’m busy ttyl” or sum😒😒😒 </title>
-    <updated>2023-09-16T19:05:48+00:00</updated>
-    <content>Maybe I’m just sensitive but those automatic Messages are so formal it hurts my feelings like just text me “girl I’m busy ttyl” or sum😒😒😒 </content>
-    <link href="https://www.tiktok.com/@annarennsworld/video/7279501997794004267" rel="alternate"/>
-    <published>2023-09-16T19:05:48+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@annarennsworld/video/7279502059655662890</id>
-    <title>“You toxic like sza” now everytime kill bill is on you gonna have to worry about me actually living out those lyrics 😂😂😂😂😂😂😂😂</title>
-    <updated>2023-09-16T19:06:01+00:00</updated>
-    <content>“You toxic like sza” now everytime kill bill is on you gonna have to worry about me actually living out those lyrics 😂😂😂😂😂😂😂😂</content>
-    <link href="https://www.tiktok.com/@annarennsworld/video/7279502059655662890" rel="alternate"/>
-    <published>2023-09-16T19:06:01+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@annarennsworld/video/7279502088294518062</id>
     <title>Its sm fun tho</title>
@@ -51,5 +27,29 @@
     <content>[no description]</content>
     <link href="https://www.tiktok.com/@annarennsworld/video/7279502145504742699" rel="alternate"/>
     <published>2023-09-16T19:06:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@annarennsworld/video/7279874060824137003</id>
+    <title>[no title]</title>
+    <updated>2023-09-17T19:09:33+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@annarennsworld/video/7279874060824137003" rel="alternate"/>
+    <published>2023-09-17T19:09:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@annarennsworld/video/7279874041413127470</id>
+    <title>CLAIM</title>
+    <updated>2023-09-17T19:09:48+00:00</updated>
+    <content>CLAIM</content>
+    <link href="https://www.tiktok.com/@annarennsworld/video/7279874041413127470" rel="alternate"/>
+    <published>2023-09-17T19:09:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@annarennsworld/video/7279874153644084522</id>
+    <title>[no title]</title>
+    <updated>2023-09-17T19:09:55+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@annarennsworld/video/7279874153644084522" rel="alternate"/>
+    <published>2023-09-17T19:09:55+00:00</published>
   </entry>
 </feed>
