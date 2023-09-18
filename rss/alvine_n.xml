@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@alvine_n</id>
   <title>@alvine_n | TikTok</title>
-  <updated>2023-09-17T16:29:48+00:00</updated>
+  <updated>2023-09-18T18:02:37+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @alvine_n</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@alvine_n/video/7278044412976942368</id>
-    <title>Replying to @_shernice_ body recomposition challenge hit different first link in my bio to join ❤️❤️</title>
-    <updated>2023-09-12T20:49:32+00:00</updated>
-    <content>Replying to @_shernice_ body recomposition challenge hit different first link in my bio to join ❤️❤️</content>
-    <link href="https://www.tiktok.com/@alvine_n/video/7278044412976942368" rel="alternate"/>
-    <published>2023-09-12T20:49:32+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@alvine_n/video/7278354823798426912</id>
-    <title>Replying to @Renee the best pre workout out there </title>
-    <updated>2023-09-13T16:54:06+00:00</updated>
-    <content>Replying to @Renee the best pre workout out there </content>
-    <link href="https://www.tiktok.com/@alvine_n/video/7278354823798426912" rel="alternate"/>
-    <published>2023-09-13T16:54:06+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@alvine_n/video/7278357477106781472</id>
-    <title>#onthisday </title>
-    <updated>2023-09-13T17:04:22+00:00</updated>
-    <content>#onthisday </content>
-    <link href="https://www.tiktok.com/@alvine_n/video/7278357477106781472" rel="alternate"/>
-    <published>2023-09-13T17:04:22+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@alvine_n/video/7278755133465349409</id>
     <title>Body recomposition challenge &gt;&gt; </title>
@@ -51,5 +27,29 @@
     <content>Replying to @Vee Mack body recomposition challenge in bio join now amd submit your before pictures!! Don’t forget to join my private community chat in your settings once you’ve got the app ❤️❤️</content>
     <link href="https://www.tiktok.com/@alvine_n/video/7279832908444060961" rel="alternate"/>
     <published>2023-09-17T16:29:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@alvine_n/video/7280222197111655713</id>
+    <title>Replying to @safb530 so proud of you 🥹</title>
+    <updated>2023-09-18T17:40:25+00:00</updated>
+    <content>Replying to @safb530 so proud of you 🥹</content>
+    <link href="https://www.tiktok.com/@alvine_n/video/7280222197111655713" rel="alternate"/>
+    <published>2023-09-18T17:40:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@alvine_n/video/7280227618325138720</id>
+    <title>#CapCut are you  ready? </title>
+    <updated>2023-09-18T18:01:27+00:00</updated>
+    <content>#CapCut are you  ready? </content>
+    <link href="https://www.tiktok.com/@alvine_n/video/7280227618325138720" rel="alternate"/>
+    <published>2023-09-18T18:01:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@alvine_n/video/7280227913113406752</id>
+    <title>Replying to @Rimie🦋 </title>
+    <updated>2023-09-18T18:02:37+00:00</updated>
+    <content>Replying to @Rimie🦋 </content>
+    <link href="https://www.tiktok.com/@alvine_n/video/7280227913113406752" rel="alternate"/>
+    <published>2023-09-18T18:02:37+00:00</published>
   </entry>
 </feed>
