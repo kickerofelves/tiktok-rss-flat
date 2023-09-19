@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@onlyevesophiee</id>
   <title>@onlyevesophiee | TikTok</title>
-  <updated>2023-09-19T00:13:40+00:00</updated>
+  <updated>2023-09-19T12:53:44+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @onlyevesophiee</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@onlyevesophiee/video/7279919568661908768</id>
-    <title>Its getting too loud</title>
-    <updated>2023-09-17T22:06:09+00:00</updated>
-    <content>Its getting too loud</content>
-    <link href="https://www.tiktok.com/@onlyevesophiee/video/7279919568661908768" rel="alternate"/>
-    <published>2023-09-17T22:06:09+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@onlyevesophiee/video/7279951045701192992</id>
     <title>Date night outfit what do you think?</title>
@@ -51,5 +43,13 @@
     <content>What would we do on our date</content>
     <link href="https://www.tiktok.com/@onlyevesophiee/video/7280323493558816033" rel="alternate"/>
     <published>2023-09-19T00:13:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@onlyevesophiee/video/7280519397398170912</id>
+    <title>F me up bby</title>
+    <updated>2023-09-19T12:53:44+00:00</updated>
+    <content>F me up bby</content>
+    <link href="https://www.tiktok.com/@onlyevesophiee/video/7280519397398170912" rel="alternate"/>
+    <published>2023-09-19T12:53:44+00:00</published>
   </entry>
 </feed>
