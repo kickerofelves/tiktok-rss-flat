@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rahyndee</id>
   <title>@rahyndee | TikTok</title>
-  <updated>2023-09-18T02:53:55+00:00</updated>
+  <updated>2023-09-19T01:16:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @rahyndee</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@rahyndee/video/7279566118329601326</id>
-    <title>It’s a little scary for no reason 🫣 #fyp #sandiego #SoCal #foryou </title>
-    <updated>2023-09-16T23:14:33+00:00</updated>
-    <content>It’s a little scary for no reason 🫣 #fyp #sandiego #SoCal #foryou </content>
-    <link href="https://www.tiktok.com/@rahyndee/video/7279566118329601326" rel="alternate"/>
-    <published>2023-09-16T23:14:33+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@rahyndee/video/7279577891753479466</id>
-    <title>Call me “Miss Boop” 🫠😂 #fyp #sandiego #📍 #foryou </title>
-    <updated>2023-09-17T00:00:17+00:00</updated>
-    <content>Call me “Miss Boop” 🫠😂 #fyp #sandiego #📍 #foryou </content>
-    <link href="https://www.tiktok.com/@rahyndee/video/7279577891753479466" rel="alternate"/>
-    <published>2023-09-17T00:00:17+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@rahyndee/video/7279936666431737130</id>
-    <title>#fypシ #foodie #sandiego #📍 </title>
-    <updated>2023-09-17T23:12:32+00:00</updated>
-    <content>#fypシ #foodie #sandiego #📍 </content>
-    <link href="https://www.tiktok.com/@rahyndee/video/7279936666431737130" rel="alternate"/>
-    <published>2023-09-17T23:12:32+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@rahyndee/video/7279961943018851627</id>
     <title>Blown away.. you gotta try📍Cafe21 in San Diego if you havn’t already ✨ . #foodie #amust #fypシ #📍 #sandiego #fyp </title>
@@ -51,5 +27,29 @@
     <content>📍Template in San Deigo is one of the coolest coffee shops i’ve ever seen ✨ . #coffeetiktok #coffee #sandiego #📍 #fyp </content>
     <link href="https://www.tiktok.com/@rahyndee/video/7279993715995807018" rel="alternate"/>
     <published>2023-09-18T02:53:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@rahyndee/video/7280268546783923502</id>
+    <title>My hair is officially 2inches long💅🏽🫠 . #fyp #hairgrowth #sandiego #foryou </title>
+    <updated>2023-09-18T20:40:25+00:00</updated>
+    <content>My hair is officially 2inches long💅🏽🫠 . #fyp #hairgrowth #sandiego #foryou </content>
+    <link href="https://www.tiktok.com/@rahyndee/video/7280268546783923502" rel="alternate"/>
+    <published>2023-09-18T20:40:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@rahyndee/video/7280332079815019818</id>
+    <title>This coffee shop was a whole adventure ✨📍 #fyp #coffeeshop #coffeetiktok #wlw </title>
+    <updated>2023-09-19T00:46:54+00:00</updated>
+    <content>This coffee shop was a whole adventure ✨📍 #fyp #coffeeshop #coffeetiktok #wlw </content>
+    <link href="https://www.tiktok.com/@rahyndee/video/7280332079815019818" rel="alternate"/>
+    <published>2023-09-19T00:46:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@rahyndee/video/7280339574734294318</id>
+    <title>🙃 #fyp #wlw </title>
+    <updated>2023-09-19T01:16:00+00:00</updated>
+    <content>🙃 #fyp #wlw </content>
+    <link href="https://www.tiktok.com/@rahyndee/video/7280339574734294318" rel="alternate"/>
+    <published>2023-09-19T01:16:00+00:00</published>
   </entry>
 </feed>
