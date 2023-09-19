@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mzkora</id>
   <title>@mzkora | TikTok</title>
-  <updated>2023-09-18T19:16:57+00:00</updated>
+  <updated>2023-09-19T00:41:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @mzkora</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@mzkora/video/7278473102299008298</id>
-    <title>Not sure why my feet were on beat. 😂 I’m running though, like a turtle, but still running. 🐢 Cleaning up my diet, lifting, &amp; implementing running. ##fyp##fypシ##momof9##running##excercise##mombod##postop##tummytuck##9weekspostop</title>
-    <updated>2023-09-14T00:33:05+00:00</updated>
-    <content>Not sure why my feet were on beat. 😂 I’m running though, like a turtle, but still running. 🐢 Cleaning up my diet, lifting, &amp; implementing running. ##fyp##fypシ##momof9##running##excercise##mombod##postop##tummytuck##9weekspostop</content>
-    <link href="https://www.tiktok.com/@mzkora/video/7278473102299008298" rel="alternate"/>
-    <published>2023-09-14T00:33:05+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@mzkora/video/7278505250380647726</id>
     <title>Replying to @its_paruuu this is literally the video that blew up my pages. I told my husband I wanted to make this video in 2018 in 2022, I finally made it and here we are. Looking back at this made me realize how much my kids have grown. #fyp #fypシ #momo</title>
@@ -51,5 +43,13 @@
     <content>#Ad Enjoy peaceful evenings with Raid Essentials Light Trap. Time to trap those uninvited guests! #RaidPartner #ProtectionforEveryone #raidessentialslighttrap </content>
     <link href="https://www.tiktok.com/@mzkora/video/7280247024463826222" rel="alternate"/>
     <published>2023-09-18T19:16:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@mzkora/video/7280330597418028330</id>
+    <title>Starting my day with a protein-packed breakfast thanks to @Banza🍕🍝🫘 waffles. 🧇💪 #banzapartner #momof9 #fyp #fypシ #breakfastideas #proteinpacked #largefamily </title>
+    <updated>2023-09-19T00:41:14+00:00</updated>
+    <content>Starting my day with a protein-packed breakfast thanks to @Banza🍕🍝🫘 waffles. 🧇💪 #banzapartner #momof9 #fyp #fypシ #breakfastideas #proteinpacked #largefamily </content>
+    <link href="https://www.tiktok.com/@mzkora/video/7280330597418028330" rel="alternate"/>
+    <published>2023-09-19T00:41:14+00:00</published>
   </entry>
 </feed>
