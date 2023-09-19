@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@circusfaery33</id>
   <title>@circusfaery33 | TikTok</title>
-  <updated>2023-09-17T17:05:27+00:00</updated>
+  <updated>2023-09-18T18:40:53+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @circusfaery33</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7279141656471883054</id>
-    <title>Replying to @Zacktacular There is no unbiased data about crime--it's almost like racism is baked into the fabric of the US. #asianamerican #modelminority #antiracism #solidarity</title>
-    <updated>2023-09-15T19:47:32+00:00</updated>
-    <content>Replying to @Zacktacular There is no unbiased data about crime--it's almost like racism is baked into the fabric of the US. #asianamerican #modelminority #antiracism #solidarity</content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7279141656471883054" rel="alternate"/>
-    <published>2023-09-15T19:47:32+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7279175496921861418</id>
-    <title>Replying to @way2 This is a classic straw man--you are refuting an argument different from the argument I am making. But I actually think it's because you fail to understand the argument, and not because you are being jntentionally obtuse. </title>
-    <updated>2023-09-15T21:58:48+00:00</updated>
-    <content>Replying to @way2 This is a classic straw man--you are refuting an argument different from the argument I am making. But I actually think it's because you fail to understand the argument, and not because you are being jntentionally obtuse. </content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7279175496921861418" rel="alternate"/>
-    <published>2023-09-15T21:58:48+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7279212074767568170</id>
-    <title>Replying to @way2 You're hoing to need to get a better play book. Or better yet, don't.</title>
-    <updated>2023-09-16T00:20:46+00:00</updated>
-    <content>Replying to @way2 You're hoing to need to get a better play book. Or better yet, don't.</content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7279212074767568170" rel="alternate"/>
-    <published>2023-09-16T00:20:46+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@circusfaery33/video/7279429707744152878</id>
     <title>Replying to @Bob Lowe #greenscreen Thank you for not looking this up first. #asianamerican #modelminority  #antiracism #solidarity </title>
@@ -51,5 +27,29 @@
     <content>Replying to @blazintre Sure thing! #dgaf #sound </content>
     <link href="https://www.tiktok.com/@circusfaery33/video/7279842076001324334" rel="alternate"/>
     <published>2023-09-17T17:05:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7280208511940906286</id>
+    <title>Replying to @Bob Lowe #greenscreen You raise a lot of misinformation and divide and conquer tactics. If that is the point you are trying to make, we have no disagreement. </title>
+    <updated>2023-09-18T16:47:33+00:00</updated>
+    <content>Replying to @Bob Lowe #greenscreen You raise a lot of misinformation and divide and conquer tactics. If that is the point you are trying to make, we have no disagreement. </content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7280208511940906286" rel="alternate"/>
+    <published>2023-09-18T16:47:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7280230317309414698</id>
+    <title>Replying to @blue #greenscreen Yes, this is very important--I feel it was by design to disrupt the growing support and awareness of loss of innocent Black lives that attention shifted to anti-Asian violence. </title>
+    <updated>2023-09-18T18:12:08+00:00</updated>
+    <content>Replying to @blue #greenscreen Yes, this is very important--I feel it was by design to disrupt the growing support and awareness of loss of innocent Black lives that attention shifted to anti-Asian violence. </content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7280230317309414698" rel="alternate"/>
+    <published>2023-09-18T18:12:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7280237748416433454</id>
+    <title>#duet with @Ballet World Connected #firstfirstsecondfirst Thanks for the tag @Heelflipco ! That was fun! #ballettok #retireddancer </title>
+    <updated>2023-09-18T18:40:53+00:00</updated>
+    <content>#duet with @Ballet World Connected #firstfirstsecondfirst Thanks for the tag @Heelflipco ! That was fun! #ballettok #retireddancer </content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7280237748416433454" rel="alternate"/>
+    <published>2023-09-18T18:40:53+00:00</published>
   </entry>
 </feed>
