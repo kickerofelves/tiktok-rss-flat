@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ladulcecitamami</id>
   <title>@ladulcecitamami | TikTok</title>
-  <updated>2023-09-16T15:20:51+00:00</updated>
+  <updated>2023-09-18T15:44:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ladulcecitamami</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@ladulcecitamami/video/7273870676585368874</id>
-    <title>[no title]</title>
-    <updated>2023-09-01T14:53:19+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@ladulcecitamami/video/7273870676585368874" rel="alternate"/>
-    <published>2023-09-01T14:53:19+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@ladulcecitamami/video/7274720708477963562</id>
     <title>[no title]</title>
@@ -51,5 +43,13 @@
     <content>[no description]</content>
     <link href="https://www.tiktok.com/@ladulcecitamami/video/7279444031036280106" rel="alternate"/>
     <published>2023-09-16T15:20:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ladulcecitamami/video/7280192197348035886</id>
+    <title>[no title]</title>
+    <updated>2023-09-18T15:44:10+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@ladulcecitamami/video/7280192197348035886" rel="alternate"/>
+    <published>2023-09-18T15:44:10+00:00</published>
   </entry>
 </feed>
