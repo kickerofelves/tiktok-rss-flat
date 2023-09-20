@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@onlyevesophiee</id>
   <title>@onlyevesophiee | TikTok</title>
-  <updated>2023-09-19T12:53:44+00:00</updated>
+  <updated>2023-09-20T00:23:38+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @onlyevesophiee</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@onlyevesophiee/video/7279951045701192992</id>
-    <title>Date night outfit what do you think?</title>
-    <updated>2023-09-18T00:08:48+00:00</updated>
-    <content>Date night outfit what do you think?</content>
-    <link href="https://www.tiktok.com/@onlyevesophiee/video/7279951045701192992" rel="alternate"/>
-    <published>2023-09-18T00:08:48+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@onlyevesophiee/video/7280291679217732897</id>
-    <title>I need a new bat</title>
-    <updated>2023-09-18T22:10:09+00:00</updated>
-    <content>I need a new bat</content>
-    <link href="https://www.tiktok.com/@onlyevesophiee/video/7280291679217732897" rel="alternate"/>
-    <published>2023-09-18T22:10:09+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@onlyevesophiee/video/7280323194265799968</id>
     <title>You know other women???</title>
@@ -51,5 +35,21 @@
     <content>F me up bby</content>
     <link href="https://www.tiktok.com/@onlyevesophiee/video/7280519397398170912" rel="alternate"/>
     <published>2023-09-19T12:53:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@onlyevesophiee/video/7280666223363329313</id>
+    <title>#onthisday lol not anymore you can have him xxx</title>
+    <updated>2023-09-19T22:23:34+00:00</updated>
+    <content>#onthisday lol not anymore you can have him xxx</content>
+    <link href="https://www.tiktok.com/@onlyevesophiee/video/7280666223363329313" rel="alternate"/>
+    <published>2023-09-19T22:23:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@onlyevesophiee/video/7280697148608367905</id>
+    <title>Fresh of the 💉👄</title>
+    <updated>2023-09-20T00:23:38+00:00</updated>
+    <content>Fresh of the 💉👄</content>
+    <link href="https://www.tiktok.com/@onlyevesophiee/video/7280697148608367905" rel="alternate"/>
+    <published>2023-09-20T00:23:38+00:00</published>
   </entry>
 </feed>
