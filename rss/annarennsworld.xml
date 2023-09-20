@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@annarennsworld</id>
   <title>@annarennsworld | TikTok</title>
-  <updated>2023-09-19T20:48:19+00:00</updated>
+  <updated>2023-09-20T19:02:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @annarennsworld</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@annarennsworld/video/7280267954606951722</id>
-    <title>HELP</title>
-    <updated>2023-09-18T20:38:08+00:00</updated>
-    <content>HELP</content>
-    <link href="https://www.tiktok.com/@annarennsworld/video/7280267954606951722" rel="alternate"/>
-    <published>2023-09-18T20:38:08+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@annarennsworld/video/7280615651100691758</id>
-    <title>Hopefully this isn’t too controversial 🙏🏾🙏🏾 Everything is linked in my bio💞</title>
-    <updated>2023-09-19T19:07:17+00:00</updated>
-    <content>Hopefully this isn’t too controversial 🙏🏾🙏🏾 Everything is linked in my bio💞</content>
-    <link href="https://www.tiktok.com/@annarennsworld/video/7280615651100691758" rel="alternate"/>
-    <published>2023-09-19T19:07:17+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@annarennsworld/video/7280615648164597035</id>
     <title>😂</title>
@@ -51,5 +35,21 @@
     <content>🙏🏾🙏🏾🙏🏾🙏🏾🙏🏾🙏🏾🙏🏾🙏🏾</content>
     <link href="https://www.tiktok.com/@annarennsworld/video/7280641689583226155" rel="alternate"/>
     <published>2023-09-19T20:48:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@annarennsworld/video/7280985579943136554</id>
+    <title>Will be doing this on my lazy class days or lazy errand runs FOR SURE</title>
+    <updated>2023-09-20T19:02:46+00:00</updated>
+    <content>Will be doing this on my lazy class days or lazy errand runs FOR SURE</content>
+    <link href="https://www.tiktok.com/@annarennsworld/video/7280985579943136554" rel="alternate"/>
+    <published>2023-09-20T19:02:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@annarennsworld/video/7280985575320997163</id>
+    <title>Ate </title>
+    <updated>2023-09-20T19:02:47+00:00</updated>
+    <content>Ate </content>
+    <link href="https://www.tiktok.com/@annarennsworld/video/7280985575320997163" rel="alternate"/>
+    <published>2023-09-20T19:02:47+00:00</published>
   </entry>
 </feed>

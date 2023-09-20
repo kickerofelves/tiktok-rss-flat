@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mzkora</id>
   <title>@mzkora | TikTok</title>
-  <updated>2023-09-19T18:25:23+00:00</updated>
+  <updated>2023-09-20T17:46:48+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @mzkora</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@mzkora/video/7279657476604054830</id>
-    <title>This NSYNC reunion concert needs to happen sooner than later. I have grown folks money now. 💰💰 #fyp #fypシ #momof9 #choreography #nsync #son #husband #dancer </title>
-    <updated>2023-09-17T05:09:10+00:00</updated>
-    <content>This NSYNC reunion concert needs to happen sooner than later. I have grown folks money now. 💰💰 #fyp #fypシ #momof9 #choreography #nsync #son #husband #dancer </content>
-    <link href="https://www.tiktok.com/@mzkora/video/7279657476604054830" rel="alternate"/>
-    <published>2023-09-17T05:09:10+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@mzkora/video/7280247024463826222</id>
     <title>#Ad Enjoy peaceful evenings with Raid Essentials Light Trap. Time to trap those uninvited guests! #RaidPartner #ProtectionforEveryone #raidessentialslighttrap </title>
@@ -51,5 +43,13 @@
     <content>#ad #belVitaPartner From 5 am alarms to the school drop-off shenanigans with my drama queen and gamer, mornings are a whirlwind. But no matter the chaos, we Rise &amp; Thrive with belVita. For me, it's my coffee's perfect companion, and for the kids? Their pre-class power-up. Here's to conquering each day! 🍪☕ @belVita #belVitaRiseAndThrive #BackToSchoolWithbelVita</content>
     <link href="https://www.tiktok.com/@mzkora/video/7280603061649771822" rel="alternate"/>
     <published>2023-09-19T18:25:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@mzkora/video/7280966001951395118</id>
+    <title>Leg Day Part One. Shout to @BrüMate for making sure I don’t embarrass myself again. 😅 #brumatepartner #fyp #fypシ #momof9 #tumbler #legday #workout #gymrat </title>
+    <updated>2023-09-20T17:46:48+00:00</updated>
+    <content>Leg Day Part One. Shout to @BrüMate for making sure I don’t embarrass myself again. 😅 #brumatepartner #fyp #fypシ #momof9 #tumbler #legday #workout #gymrat </content>
+    <link href="https://www.tiktok.com/@mzkora/video/7280966001951395118" rel="alternate"/>
+    <published>2023-09-20T17:46:48+00:00</published>
   </entry>
 </feed>
