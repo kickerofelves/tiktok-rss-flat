@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rahyndee</id>
   <title>@rahyndee | TikTok</title>
-  <updated>2023-09-19T19:48:51+00:00</updated>
+  <updated>2023-09-20T04:27:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @rahyndee</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@rahyndee/video/7279993715995807018</id>
-    <title>📍Template in San Deigo is one of the coolest coffee shops i’ve ever seen ✨ . #coffeetiktok #coffee #sandiego #📍 #fyp </title>
-    <updated>2023-09-18T02:53:55+00:00</updated>
-    <content>📍Template in San Deigo is one of the coolest coffee shops i’ve ever seen ✨ . #coffeetiktok #coffee #sandiego #📍 #fyp </content>
-    <link href="https://www.tiktok.com/@rahyndee/video/7279993715995807018" rel="alternate"/>
-    <published>2023-09-18T02:53:55+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@rahyndee/video/7280268546783923502</id>
     <title>My hair is officially 2inches long💅🏽🫠 . #fyp #hairgrowth #sandiego #foryou </title>
@@ -51,5 +43,13 @@
     <content>.. in my feelings 🫣🥹🫠 #foryou #wlw #fyp </content>
     <link href="https://www.tiktok.com/@rahyndee/video/7280626359028927790" rel="alternate"/>
     <published>2023-09-19T19:48:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@rahyndee/video/7280760041458699562</id>
+    <title>Blow ya minddd 😝 #fyp #2x #wlw #foryou #dancetrend </title>
+    <updated>2023-09-20T04:27:35+00:00</updated>
+    <content>Blow ya minddd 😝 #fyp #2x #wlw #foryou #dancetrend </content>
+    <link href="https://www.tiktok.com/@rahyndee/video/7280760041458699562" rel="alternate"/>
+    <published>2023-09-20T04:27:35+00:00</published>
   </entry>
 </feed>
