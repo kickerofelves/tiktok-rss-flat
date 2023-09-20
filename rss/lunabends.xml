@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@lunabends</id>
   <title>@lunabends | TikTok</title>
-  <updated>2023-09-19T18:41:04+00:00</updated>
+  <updated>2023-09-20T14:25:48+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @lunabends</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@lunabends/video/7279169018995477803</id>
-    <title>Headstand play ... feeling wobbly but thats okay  #yogi #yoga #flexible </title>
-    <updated>2023-09-15T21:33:37+00:00</updated>
-    <content>Headstand play ... feeling wobbly but thats okay  #yogi #yoga #flexible </content>
-    <link href="https://www.tiktok.com/@lunabends/video/7279169018995477803" rel="alternate"/>
-    <published>2023-09-15T21:33:37+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@lunabends/video/7279806339629452587</id>
-    <title>Night time flow  #dancer #poletok #spinpole </title>
-    <updated>2023-09-17T14:46:48+00:00</updated>
-    <content>Night time flow  #dancer #poletok #spinpole </content>
-    <link href="https://www.tiktok.com/@lunabends/video/7279806339629452587" rel="alternate"/>
-    <published>2023-09-17T14:46:48+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@lunabends/video/7279876640279153963</id>
     <title>Middle splits 🖤 #yogi #stretching #straddles </title>
@@ -51,5 +35,21 @@
     <content>Real bodies hit different  #fyp </content>
     <link href="https://www.tiktok.com/@lunabends/video/7280608883872238894" rel="alternate"/>
     <published>2023-09-19T18:41:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lunabends/video/7280866709827800362</id>
+    <title>My love for spin pole runs deep  #poletok #dancer #poletricks </title>
+    <updated>2023-09-20T11:21:34+00:00</updated>
+    <content>My love for spin pole runs deep  #poletok #dancer #poletricks </content>
+    <link href="https://www.tiktok.com/@lunabends/video/7280866709827800362" rel="alternate"/>
+    <published>2023-09-20T11:21:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lunabends/video/7280914178271989034</id>
+    <title>Had to 🤣 let my hair air dry so its a hot mess but oh well  #hair #longhair </title>
+    <updated>2023-09-20T14:25:48+00:00</updated>
+    <content>Had to 🤣 let my hair air dry so its a hot mess but oh well  #hair #longhair </content>
+    <link href="https://www.tiktok.com/@lunabends/video/7280914178271989034" rel="alternate"/>
+    <published>2023-09-20T14:25:48+00:00</published>
   </entry>
 </feed>
