@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@lunabends</id>
   <title>@lunabends | TikTok</title>
-  <updated>2023-09-20T14:25:48+00:00</updated>
+  <updated>2023-09-20T21:39:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @lunabends</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@lunabends/video/7279876640279153963</id>
-    <title>Middle splits 🖤 #yogi #stretching #straddles </title>
-    <updated>2023-09-17T19:19:35+00:00</updated>
-    <content>Middle splits 🖤 #yogi #stretching #straddles </content>
-    <link href="https://www.tiktok.com/@lunabends/video/7279876640279153963" rel="alternate"/>
-    <published>2023-09-17T19:19:35+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@lunabends/video/7280172529485040942</id>
     <title>Bendy poses  #yogi #yoga #flexible #stretching </title>
@@ -51,5 +43,13 @@
     <content>Had to 🤣 let my hair air dry so its a hot mess but oh well  #hair #longhair </content>
     <link href="https://www.tiktok.com/@lunabends/video/7280914178271989034" rel="alternate"/>
     <published>2023-09-20T14:25:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lunabends/video/7281025874848271662</id>
+    <title>Working on that perfect middle split  #yogi #yoga #flexible #straddles </title>
+    <updated>2023-09-20T21:39:08+00:00</updated>
+    <content>Working on that perfect middle split  #yogi #yoga #flexible #straddles </content>
+    <link href="https://www.tiktok.com/@lunabends/video/7281025874848271662" rel="alternate"/>
+    <published>2023-09-20T21:39:08+00:00</published>
   </entry>
 </feed>
