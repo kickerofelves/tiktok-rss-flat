@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@shibuya_kaho</id>
   <title>@shibuya_kaho | TikTok</title>
-  <updated>2023-09-14T11:18:50+00:00</updated>
+  <updated>2023-09-21T00:56:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @shibuya_kaho</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@shibuya_kaho/video/7275480746469428482</id>
-    <title>Another shoot with cute outfit #HelloKittyDress ❤️ Too cute to wear on a normal day... 普段使いしにくいキティドレス、撮影で着てみました ฅ^•ω•^ฅ</title>
-    <updated>2023-09-05T23:01:22+00:00</updated>
-    <content>Another shoot with cute outfit #HelloKittyDress ❤️ Too cute to wear on a normal day... 普段使いしにくいキティドレス、撮影で着てみました ฅ^•ω•^ฅ</content>
-    <link href="https://www.tiktok.com/@shibuya_kaho/video/7275480746469428482" rel="alternate"/>
-    <published>2023-09-05T23:01:22+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@shibuya_kaho/video/7275886075049020673</id>
     <title>Baking &amp; Cooking stream tonight with streamer senpai🍳 今夜はお菓子とお料理を習うTwitch配信します！</title>
@@ -51,5 +43,13 @@
     <content>My Anime Expo 2023 look for each day! #AX イベントの際は日によって髪や瞳の色を変えて、早く終わる最終日はウィッグ無しがマイルールです(っ ॑꒳ ॑c)</content>
     <link href="https://www.tiktok.com/@shibuya_kaho/video/7278639529005747457" rel="alternate"/>
     <published>2023-09-14T11:18:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@shibuya_kaho/video/7281076717416877313</id>
+    <title>Yakiniku (Japanese BBQ) after pre-TGS networking party! Futago is a franchise, but this one at Dogenzaka in Shibuya has a unique theme✨ お肉は良いですな‥ #焼肉 </title>
+    <updated>2023-09-21T00:56:24+00:00</updated>
+    <content>Yakiniku (Japanese BBQ) after pre-TGS networking party! Futago is a franchise, but this one at Dogenzaka in Shibuya has a unique theme✨ お肉は良いですな‥ #焼肉 </content>
+    <link href="https://www.tiktok.com/@shibuya_kaho/video/7281076717416877313" rel="alternate"/>
+    <published>2023-09-21T00:56:24+00:00</published>
   </entry>
 </feed>

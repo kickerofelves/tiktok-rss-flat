@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@circusfaery33</id>
   <title>@circusfaery33 | TikTok</title>
-  <updated>2023-09-18T18:40:53+00:00</updated>
+  <updated>2023-09-20T16:20:51+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @circusfaery33</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7279429707744152878</id>
-    <title>Replying to @Bob Lowe #greenscreen Thank you for not looking this up first. #asianamerican #modelminority  #antiracism #solidarity </title>
-    <updated>2023-09-16T14:25:25+00:00</updated>
-    <content>Replying to @Bob Lowe #greenscreen Thank you for not looking this up first. #asianamerican #modelminority  #antiracism #solidarity </content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7279429707744152878" rel="alternate"/>
-    <published>2023-09-16T14:25:25+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@circusfaery33/video/7279842076001324334</id>
     <title>Replying to @blazintre Sure thing! #dgaf #sound </title>
@@ -51,5 +43,13 @@
     <content>#duet with @Ballet World Connected #firstfirstsecondfirst Thanks for the tag @Heelflipco ! That was fun! #ballettok #retireddancer </content>
     <link href="https://www.tiktok.com/@circusfaery33/video/7280237748416433454" rel="alternate"/>
     <published>2023-09-18T18:40:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7280943851928456494</id>
+    <title>#stitch with @Victor Nieves  This guy probably is upset that he can't harass women in the workplace too. </title>
+    <updated>2023-09-20T16:20:51+00:00</updated>
+    <content>#stitch with @Victor Nieves  This guy probably is upset that he can't harass women in the workplace too. </content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7280943851928456494" rel="alternate"/>
+    <published>2023-09-20T16:20:51+00:00</published>
   </entry>
 </feed>
