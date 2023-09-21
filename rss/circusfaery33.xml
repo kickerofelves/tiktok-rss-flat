@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@circusfaery33</id>
   <title>@circusfaery33 | TikTok</title>
-  <updated>2023-09-20T16:20:51+00:00</updated>
+  <updated>2023-09-21T13:06:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @circusfaery33</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7279842076001324334</id>
-    <title>Replying to @blazintre Sure thing! #dgaf #sound </title>
-    <updated>2023-09-17T17:05:27+00:00</updated>
-    <content>Replying to @blazintre Sure thing! #dgaf #sound </content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7279842076001324334" rel="alternate"/>
-    <published>2023-09-17T17:05:27+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@circusfaery33/video/7280208511940906286</id>
     <title>Replying to @Bob Lowe #greenscreen You raise a lot of misinformation and divide and conquer tactics. If that is the point you are trying to make, we have no disagreement. </title>
@@ -51,5 +43,13 @@
     <content>#stitch with @Victor Nieves  This guy probably is upset that he can't harass women in the workplace too. </content>
     <link href="https://www.tiktok.com/@circusfaery33/video/7280943851928456494" rel="alternate"/>
     <published>2023-09-20T16:20:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7281264934384831790</id>
+    <title>#stitch with @FOB in VIETNAM 🇨🇦🇺🇸🇻🇳 It's not 'self-deprecating' if the derogatory term you are using was never used to refer to people like yourself. #asianamerican #modelminority #wordsmatter </title>
+    <updated>2023-09-21T13:06:50+00:00</updated>
+    <content>#stitch with @FOB in VIETNAM 🇨🇦🇺🇸🇻🇳 It's not 'self-deprecating' if the derogatory term you are using was never used to refer to people like yourself. #asianamerican #modelminority #wordsmatter </content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7281264934384831790" rel="alternate"/>
+    <published>2023-09-21T13:06:50+00:00</published>
   </entry>
 </feed>
