@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@juicy.bunz</id>
   <title>@juicy.bunz | TikTok</title>
-  <updated>2023-09-13T19:33:26+00:00</updated>
+  <updated>2023-09-20T22:21:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @juicy.bunz</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@juicy.bunz/video/7271008304111848747</id>
-    <title>Get ready with me for the gym 💪🥰  #dailyroutine #getreadywithme #fitness #gymtok </title>
-    <updated>2023-08-24T21:45:56+00:00</updated>
-    <content>Get ready with me for the gym 💪🥰  #dailyroutine #getreadywithme #fitness #gymtok </content>
-    <link href="https://www.tiktok.com/@juicy.bunz/video/7271008304111848747" rel="alternate"/>
-    <published>2023-08-24T21:45:56+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@juicy.bunz/video/7272804051987746091</id>
     <title>Oops im so clumsy 🤭 silly me #gym #gymhumor #rizz </title>
@@ -51,5 +43,13 @@
     <content>Quick and easy post workout meal 😋 turkey and egg scramble with toast on the side. 37 g protein, 372 calories  #postworkoutmeal #cooking #proteinmeals #breakfast #lunch </content>
     <link href="https://www.tiktok.com/@juicy.bunz/video/7278395858154949931" rel="alternate"/>
     <published>2023-09-13T19:33:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@juicy.bunz/video/7281036697029102890</id>
+    <title>I just wanna b your sweetheart </title>
+    <updated>2023-09-20T22:21:08+00:00</updated>
+    <content>I just wanna b your sweetheart </content>
+    <link href="https://www.tiktok.com/@juicy.bunz/video/7281036697029102890" rel="alternate"/>
+    <published>2023-09-20T22:21:08+00:00</published>
   </entry>
 </feed>
