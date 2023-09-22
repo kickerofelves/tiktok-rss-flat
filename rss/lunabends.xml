@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@lunabends</id>
   <title>@lunabends | TikTok</title>
-  <updated>2023-09-21T18:49:58+00:00</updated>
+  <updated>2023-09-22T14:10:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @lunabends</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@lunabends/video/7280866709827800362</id>
-    <title>My love for spin pole runs deep  #poletok #dancer #poletricks </title>
-    <updated>2023-09-20T11:21:34+00:00</updated>
-    <content>My love for spin pole runs deep  #poletok #dancer #poletricks </content>
-    <link href="https://www.tiktok.com/@lunabends/video/7280866709827800362" rel="alternate"/>
-    <published>2023-09-20T11:21:34+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@lunabends/video/7280914178271989034</id>
     <title>Had to 🤣 let my hair air dry so its a hot mess but oh well  #hair #longhair </title>
@@ -51,5 +43,13 @@
     <content>Some chair tricks 🤓 #chairtricks #acrochair #chairdance #dancer </content>
     <link href="https://www.tiktok.com/@lunabends/video/7281353351688703274" rel="alternate"/>
     <published>2023-09-21T18:49:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lunabends/video/7281652329462418731</id>
+    <title>Chair trick !  #dancer #chairdance #acrochair #chairtricks </title>
+    <updated>2023-09-22T14:10:10+00:00</updated>
+    <content>Chair trick !  #dancer #chairdance #acrochair #chairtricks </content>
+    <link href="https://www.tiktok.com/@lunabends/video/7281652329462418731" rel="alternate"/>
+    <published>2023-09-22T14:10:10+00:00</published>
   </entry>
 </feed>
