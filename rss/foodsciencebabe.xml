@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@foodsciencebabe</id>
   <title>@foodsciencebabe | TikTok</title>
-  <updated>2023-09-16T21:42:00+00:00</updated>
+  <updated>2023-09-22T01:48:06+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @foodsciencebabe</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@foodsciencebabe/video/7272826299377356078</id>
-    <title>Replying to @Carmen Nissan I know these comments are all in good fun but I don’t know why I say it like that 😆 #bag #beg #bayg #minnesota #minnesotan </title>
-    <updated>2023-08-29T19:20:46+00:00</updated>
-    <content>Replying to @Carmen Nissan I know these comments are all in good fun but I don’t know why I say it like that 😆 #bag #beg #bayg #minnesota #minnesotan </content>
-    <link href="https://www.tiktok.com/@foodsciencebabe/video/7272826299377356078" rel="alternate"/>
-    <published>2023-08-29T19:20:46+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@foodsciencebabe/video/7273979353107533098</id>
-    <title>Replying to @Dabney FDA Labeling regulations regarding statements of identity:  21CFR101.3 Identity labeling of food in packaged form. (a) The principal display panel of a food in package form shall bear as one of its principal features a statement of the</title>
-    <updated>2023-09-01T21:55:06+00:00</updated>
-    <content>Replying to @Dabney FDA Labeling regulations regarding statements of identity:  21CFR101.3 Identity labeling of food in packaged form. (a) The principal display panel of a food in package form shall bear as one of its principal features a statement of the identity of the commodity. (b) Such statement of identity shall be in terms of: (1) The name now or hereafter specified in or required by any applicable Federal law or regulation; or, in the absence thereof, (2) The common or usual name of the food; or, in the absence thereof, (3) An appropriately descriptive term, or when the nature of the food is obvious, a fanciful name commonly used by the public for such food. #picklegate #foodlabels #foodregulations #foodscience </content>
-    <link href="https://www.tiktok.com/@foodsciencebabe/video/7273979353107533098" rel="alternate"/>
-    <published>2023-09-01T21:55:06+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@foodsciencebabe/video/7277282247353388330</id>
     <title>[no title]</title>
@@ -51,5 +35,21 @@
     <content>#stitch with @Food Science Babe 👈🏼 See the original video here ☝🏼☝🏼 I was not paid to communicate this evidence based information regarding aspartame. Just because someone may get paid to communicate accurate, evidence based information doesn’t automatically mean the information is false. If a paid partnership is not disclosed properly, that is a valid issue, but that also doesn’t mean the information is incorrect. If you’re attempting to refute information stated in a paid partnership, simply saying or implying it’s wrong because it’s a paid partnership is not a valid refutation to the actual information. If you are of the opinion that someone shouldn’t be doing a specific paid post, you are entitled to that opinion, but that still is not a refutation to the actual information in that post. #factsnotfear #sciencecommunication #aspartame </content>
     <link href="https://www.tiktok.com/@foodsciencebabe/video/7279542250160360747" rel="alternate"/>
     <published>2023-09-16T21:42:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@foodsciencebabe/video/7281320559772749098</id>
+    <title>I cant do this anymore guys 🙃 If you’re coming here to comment something like, bUt iT doEsN’t MoLD!! Please check out my “water activity” playlist. Thank you 😊 #factsnotfear #foodscience #dehydration #foodtiktok </title>
+    <updated>2023-09-21T16:42:40+00:00</updated>
+    <content>I cant do this anymore guys 🙃 If you’re coming here to comment something like, bUt iT doEsN’t MoLD!! Please check out my “water activity” playlist. Thank you 😊 #factsnotfear #foodscience #dehydration #foodtiktok </content>
+    <link href="https://www.tiktok.com/@foodsciencebabe/video/7281320559772749098" rel="alternate"/>
+    <published>2023-09-21T16:42:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@foodsciencebabe/video/7281461109289209131</id>
+    <title>Watch out for these common scare tactics! #factsnotfear #foodscience #foodsafety #chilfila #foodbabe </title>
+    <updated>2023-09-22T01:48:06+00:00</updated>
+    <content>Watch out for these common scare tactics! #factsnotfear #foodscience #foodsafety #chilfila #foodbabe </content>
+    <link href="https://www.tiktok.com/@foodsciencebabe/video/7281461109289209131" rel="alternate"/>
+    <published>2023-09-22T01:48:06+00:00</published>
   </entry>
 </feed>
