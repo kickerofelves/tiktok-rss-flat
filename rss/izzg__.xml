@@ -13,6 +13,14 @@
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @izzg__</subtitle>
   <entry>
+    <id>https://www.tiktok.com/@izzg__/video/7280960919209823534</id>
+    <title>[no title]</title>
+    <updated>2023-09-20T17:27:04+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@izzg__/video/7280960919209823534" rel="alternate"/>
+    <published>2023-09-20T17:27:04+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.tiktok.com/@izzg__/video/7281318975441571114</id>
     <title>[no title]</title>
     <updated>2023-09-21T16:36:34+00:00</updated>
@@ -27,14 +35,6 @@
     <content>[no description]</content>
     <link href="https://www.tiktok.com/@izzg__/video/7281320794762857770" rel="alternate"/>
     <published>2023-09-21T16:43:37+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@izzg__/video/7281685998738705710</id>
-    <title>[no title]</title>
-    <updated>2023-09-22T16:20:45+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@izzg__/video/7281685998738705710" rel="alternate"/>
-    <published>2023-09-22T16:20:45+00:00</published>
   </entry>
   <entry>
     <id>https://www.tiktok.com/@izzg__/video/7281688930360167726</id>
