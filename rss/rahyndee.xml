@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rahyndee</id>
   <title>@rahyndee | TikTok</title>
-  <updated>2023-09-20T04:27:35+00:00</updated>
+  <updated>2023-09-23T00:04:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @rahyndee</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@rahyndee/video/7280268546783923502</id>
-    <title>My hair is officially 2inches long💅🏽🫠 . #fyp #hairgrowth #sandiego #foryou </title>
-    <updated>2023-09-18T20:40:25+00:00</updated>
-    <content>My hair is officially 2inches long💅🏽🫠 . #fyp #hairgrowth #sandiego #foryou </content>
-    <link href="https://www.tiktok.com/@rahyndee/video/7280268546783923502" rel="alternate"/>
-    <published>2023-09-18T20:40:25+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@rahyndee/video/7280332079815019818</id>
-    <title>This coffee shop was a whole adventure ✨📍 #fyp #coffeeshop #coffeetiktok #wlw </title>
-    <updated>2023-09-19T00:46:54+00:00</updated>
-    <content>This coffee shop was a whole adventure ✨📍 #fyp #coffeeshop #coffeetiktok #wlw </content>
-    <link href="https://www.tiktok.com/@rahyndee/video/7280332079815019818" rel="alternate"/>
-    <published>2023-09-19T00:46:54+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@rahyndee/video/7280339574734294318</id>
     <title>🙃 #fyp #wlw </title>
@@ -51,5 +35,21 @@
     <content>Blow ya minddd 😝 #fyp #2x #wlw #foryou #dancetrend </content>
     <link href="https://www.tiktok.com/@rahyndee/video/7280760041458699562" rel="alternate"/>
     <published>2023-09-20T04:27:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@rahyndee/video/7281726474833399082</id>
+    <title>..a draft ✨🫣🫠 #fyp #vibes #wlw </title>
+    <updated>2023-09-22T18:57:51+00:00</updated>
+    <content>..a draft ✨🫣🫠 #fyp #vibes #wlw </content>
+    <link href="https://www.tiktok.com/@rahyndee/video/7281726474833399082" rel="alternate"/>
+    <published>2023-09-22T18:57:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@rahyndee/video/7281805536000085291</id>
+    <title>3 days left with my foster baby🤤 #fyp #wlw #modelwalk #slowmotion </title>
+    <updated>2023-09-23T00:04:39+00:00</updated>
+    <content>3 days left with my foster baby🤤 #fyp #wlw #modelwalk #slowmotion </content>
+    <link href="https://www.tiktok.com/@rahyndee/video/7281805536000085291" rel="alternate"/>
+    <published>2023-09-23T00:04:39+00:00</published>
   </entry>
 </feed>
