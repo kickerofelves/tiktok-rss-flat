@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@softperlig</id>
   <title>@softperlig | TikTok</title>
-  <updated>2023-09-21T11:22:07+00:00</updated>
+  <updated>2023-09-23T19:19:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @softperlig</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@softperlig/video/7275008186116033824</id>
-    <title>Compression test failed</title>
-    <updated>2023-09-04T16:27:25+00:00</updated>
-    <content>Compression test failed</content>
-    <link href="https://www.tiktok.com/@softperlig/video/7275008186116033824" rel="alternate"/>
-    <published>2023-09-04T16:27:25+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@softperlig/video/7276098847846288673</id>
     <title>You rang?</title>
@@ -51,5 +43,13 @@
     <content>Don’t say I didn’t warn you</content>
     <link href="https://www.tiktok.com/@softperlig/video/7281237961759313185" rel="alternate"/>
     <published>2023-09-21T11:22:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@softperlig/video/7282103172154379553</id>
+    <title>Wrong i know I’ll regeet this 🤣</title>
+    <updated>2023-09-23T19:19:33+00:00</updated>
+    <content>Wrong i know I’ll regeet this 🤣</content>
+    <link href="https://www.tiktok.com/@softperlig/video/7282103172154379553" rel="alternate"/>
+    <published>2023-09-23T19:19:33+00:00</published>
   </entry>
 </feed>
