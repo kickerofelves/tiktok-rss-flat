@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@alvine_n</id>
   <title>@alvine_n | TikTok</title>
-  <updated>2023-09-21T19:17:36+00:00</updated>
+  <updated>2023-09-23T18:34:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @alvine_n</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@alvine_n/video/7280227913113406752</id>
-    <title>Replying to @Rimie🦋 </title>
-    <updated>2023-09-18T18:02:37+00:00</updated>
-    <content>Replying to @Rimie🦋 </content>
-    <link href="https://www.tiktok.com/@alvine_n/video/7280227913113406752" rel="alternate"/>
-    <published>2023-09-18T18:02:37+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@alvine_n/video/7280556400156101921</id>
     <title>These exercises are way harder than they look 🥵🔥🔥🔥</title>
@@ -51,5 +43,13 @@
     <content>Replying to @bernicemofokeng5 join body recomposition challenges first link in my bio for help ❤️ 💪 Transforming your body? Remember: 1️⃣ Spot reduction is a myth; target overall fat loss! 2️⃣ Mix cardio (🏃‍♀️) + strength training (🏋️‍♀️) for best results. 3️⃣ Fuel up right! 🥦🍗 Prioritize whole foods &amp; watch portion sizes. 4️⃣ Sleep &amp; hydration are unsung heroes. 💤🥤 Aim for 7-9 hrs and at least 8 cups of water daily!#</content>
     <link href="https://www.tiktok.com/@alvine_n/video/7281360497750953249" rel="alternate"/>
     <published>2023-09-21T19:17:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@alvine_n/video/7282091456553094432</id>
+    <title>Replying to @godschild for motivation join my fitness group chat for other you’ll achieve your goal don’t do it alone !  You have access to custom meal plan &amp; Nuttrition First link in my bio ❤️</title>
+    <updated>2023-09-23T18:34:05+00:00</updated>
+    <content>Replying to @godschild for motivation join my fitness group chat for other you’ll achieve your goal don’t do it alone !  You have access to custom meal plan &amp; Nuttrition First link in my bio ❤️</content>
+    <link href="https://www.tiktok.com/@alvine_n/video/7282091456553094432" rel="alternate"/>
+    <published>2023-09-23T18:34:05+00:00</published>
   </entry>
 </feed>
