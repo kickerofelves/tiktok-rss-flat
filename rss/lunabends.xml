@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@lunabends</id>
   <title>@lunabends | TikTok</title>
-  <updated>2023-09-22T23:11:45+00:00</updated>
+  <updated>2023-09-23T16:06:34+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @lunabends</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@lunabends/video/7281025874848271662</id>
-    <title>Working on that perfect middle split  #yogi #yoga #flexible #straddles </title>
-    <updated>2023-09-20T21:39:08+00:00</updated>
-    <content>Working on that perfect middle split  #yogi #yoga #flexible #straddles </content>
-    <link href="https://www.tiktok.com/@lunabends/video/7281025874848271662" rel="alternate"/>
-    <published>2023-09-20T21:39:08+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@lunabends/video/7281299014748998958</id>
     <title>Just doing my thing 😎 #poletok #poletricks #spinpole #dancer </title>
@@ -51,5 +43,13 @@
     <content>Night life things ✨ #nightlife #dancer #miami </content>
     <link href="https://www.tiktok.com/@lunabends/video/7281791917673745706" rel="alternate"/>
     <published>2023-09-22T23:11:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lunabends/video/7282053396322880811</id>
+    <title>Strange times 🤣 #dancer #nightlife #miami </title>
+    <updated>2023-09-23T16:06:34+00:00</updated>
+    <content>Strange times 🤣 #dancer #nightlife #miami </content>
+    <link href="https://www.tiktok.com/@lunabends/video/7282053396322880811" rel="alternate"/>
+    <published>2023-09-23T16:06:34+00:00</published>
   </entry>
 </feed>
