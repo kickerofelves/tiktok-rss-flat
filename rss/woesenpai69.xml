@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@woesenpai69</id>
   <title>@woesenpai69 | TikTok</title>
-  <updated>2023-09-20T20:41:45+00:00</updated>
+  <updated>2023-09-24T01:37:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @woesenpai69</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@woesenpai69/video/7280653109943110942</id>
-    <title>[no title]</title>
-    <updated>2023-09-19T21:32:36+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@woesenpai69/video/7280653109943110942" rel="alternate"/>
-    <published>2023-09-19T21:32:36+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@woesenpai69/video/7280676859749207326</id>
-    <title>Omg slayyyy </title>
-    <updated>2023-09-19T23:04:47+00:00</updated>
-    <content>Omg slayyyy </content>
-    <link href="https://www.tiktok.com/@woesenpai69/video/7280676859749207326" rel="alternate"/>
-    <published>2023-09-19T23:04:47+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@woesenpai69/video/7280734838104132894</id>
     <title>I need to get it together </title>
@@ -51,5 +35,21 @@
     <content>[no description]</content>
     <link href="https://www.tiktok.com/@woesenpai69/video/7281011079759580446" rel="alternate"/>
     <published>2023-09-20T20:41:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@woesenpai69/video/7282199405048909087</id>
+    <title>@jlorrainedesigns </title>
+    <updated>2023-09-24T01:33:04+00:00</updated>
+    <content>@jlorrainedesigns </content>
+    <link href="https://www.tiktok.com/@woesenpai69/video/7282199405048909087" rel="alternate"/>
+    <published>2023-09-24T01:33:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@woesenpai69/video/7282200461115968798</id>
+    <title>My favorite going out clothes @jlorrainedesigns </title>
+    <updated>2023-09-24T01:37:07+00:00</updated>
+    <content>My favorite going out clothes @jlorrainedesigns </content>
+    <link href="https://www.tiktok.com/@woesenpai69/video/7282200461115968798" rel="alternate"/>
+    <published>2023-09-24T01:37:07+00:00</published>
   </entry>
 </feed>
