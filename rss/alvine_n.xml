@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@alvine_n</id>
   <title>@alvine_n | TikTok</title>
-  <updated>2023-09-23T18:34:05+00:00</updated>
+  <updated>2023-09-24T12:42:02+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @alvine_n</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@alvine_n/video/7280556400156101921</id>
-    <title>These exercises are way harder than they look 🥵🔥🔥🔥</title>
-    <updated>2023-09-19T15:17:17+00:00</updated>
-    <content>These exercises are way harder than they look 🥵🔥🔥🔥</content>
-    <link href="https://www.tiktok.com/@alvine_n/video/7280556400156101921" rel="alternate"/>
-    <published>2023-09-19T15:17:17+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@alvine_n/video/7280958226391141664</id>
     <title>Replying to @connie.xx01 join my fitness group chat l will teach you 🔥🔥</title>
@@ -51,5 +43,13 @@
     <content>Replying to @godschild for motivation join my fitness group chat for other you’ll achieve your goal don’t do it alone !  You have access to custom meal plan &amp; Nuttrition First link in my bio ❤️</content>
     <link href="https://www.tiktok.com/@alvine_n/video/7282091456553094432" rel="alternate"/>
     <published>2023-09-23T18:34:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@alvine_n/video/7282371813093461281</id>
+    <title>Gym motivation 🔥</title>
+    <updated>2023-09-24T12:42:02+00:00</updated>
+    <content>Gym motivation 🔥</content>
+    <link href="https://www.tiktok.com/@alvine_n/video/7282371813093461281" rel="alternate"/>
+    <published>2023-09-24T12:42:02+00:00</published>
   </entry>
 </feed>
