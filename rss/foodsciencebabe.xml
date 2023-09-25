@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@foodsciencebabe</id>
   <title>@foodsciencebabe | TikTok</title>
-  <updated>2023-09-22T21:26:06+00:00</updated>
+  <updated>2023-09-25T15:35:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @foodsciencebabe</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@foodsciencebabe/video/7277652923650395438</id>
-    <title>Yes, I said “obviously” a lot…obviously 😆  #trisodiumphospate #factsnotfear #foodscience #chemistry #greenscreen </title>
-    <updated>2023-09-11T19:30:38+00:00</updated>
-    <content>Yes, I said “obviously” a lot…obviously 😆  #trisodiumphospate #factsnotfear #foodscience #chemistry #greenscreen </content>
-    <link href="https://www.tiktok.com/@foodsciencebabe/video/7277652923650395438" rel="alternate"/>
-    <published>2023-09-11T19:30:38+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@foodsciencebabe/video/7279542250160360747</id>
     <title>#stitch with @Food Science Babe 👈🏼 See the original video here ☝🏼☝🏼 I was not paid to communicate this evidence based information regarding aspartame. Just because someone may get paid to communicate accurate, evidence based information doesn’t automatica</title>
@@ -51,5 +43,13 @@
     <content>Love how they just completely left out the fact that the Joint FAO/WHO Expert Committee on Food Additives reaffirmed the safety of aspartame and this is exactly what these dietitians were communicating. Top tier reporting there 🤦🏼‍♀️ #factsnotfear #aspartame #washingtonpost #foodscience #greenscreen </content>
     <link href="https://www.tiktok.com/@foodsciencebabe/video/7281764689124527403" rel="alternate"/>
     <published>2023-09-22T21:26:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@foodsciencebabe/video/7282787506678992171</id>
+    <title>Children are not celery. Thank you for coming to my TED Talk 😅 #factsnotfear #scienceexperiments #scienceliteracy #foodscience #plantscience </title>
+    <updated>2023-09-25T15:35:26+00:00</updated>
+    <content>Children are not celery. Thank you for coming to my TED Talk 😅 #factsnotfear #scienceexperiments #scienceliteracy #foodscience #plantscience </content>
+    <link href="https://www.tiktok.com/@foodsciencebabe/video/7282787506678992171" rel="alternate"/>
+    <published>2023-09-25T15:35:26+00:00</published>
   </entry>
 </feed>
