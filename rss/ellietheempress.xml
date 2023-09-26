@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ellietheempress</id>
   <title>@ellietheempress | TikTok</title>
-  <updated>2023-09-25T20:07:49+00:00</updated>
+  <updated>2023-09-26T13:49:04+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ellietheempress</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@ellietheempress/video/7281984683104046379</id>
-    <title>Finally the truth #fyp #foryou #guatemala </title>
-    <updated>2023-09-23T11:40:19+00:00</updated>
-    <content>Finally the truth #fyp #foryou #guatemala </content>
-    <link href="https://www.tiktok.com/@ellietheempress/video/7281984683104046379" rel="alternate"/>
-    <published>2023-09-23T11:40:19+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@ellietheempress/video/7282362951993019690</id>
     <title>#foryou #viral </title>
@@ -51,5 +43,13 @@
     <content>Being the first makes it too complicated 😅 #foryou #viral #foryoupage </content>
     <link href="https://www.tiktok.com/@ellietheempress/video/7282857742048611630" rel="alternate"/>
     <published>2023-09-25T20:07:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ellietheempress/video/7283131233477954858</id>
+    <title>#foryou #viral #fyp </title>
+    <updated>2023-09-26T13:49:04+00:00</updated>
+    <content>#foryou #viral #fyp </content>
+    <link href="https://www.tiktok.com/@ellietheempress/video/7283131233477954858" rel="alternate"/>
+    <published>2023-09-26T13:49:04+00:00</published>
   </entry>
 </feed>
