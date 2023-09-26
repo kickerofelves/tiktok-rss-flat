@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mzkora</id>
   <title>@mzkora | TikTok</title>
-  <updated>2023-09-25T21:55:33+00:00</updated>
+  <updated>2023-09-26T19:29:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @mzkora</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@mzkora/video/7281438554348129579</id>
-    <title>Replying to @kittiekrush Hes not but there is a twist. 😅 #fyp #fypシ #momof9 #religion #mormon #largefamily #mylife </title>
-    <updated>2023-09-22T00:20:31+00:00</updated>
-    <content>Replying to @kittiekrush Hes not but there is a twist. 😅 #fyp #fypシ #momof9 #religion #mormon #largefamily #mylife </content>
-    <link href="https://www.tiktok.com/@mzkora/video/7281438554348129579" rel="alternate"/>
-    <published>2023-09-22T00:20:31+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@mzkora/video/7281490875430227246</id>
     <title>Replying to @westchesss I made sure there was nothing but LOVE under my roof. 🫶🏽 ♥️ #fyp #fypシ #momof9 #largefamily #interracialcouple #indianandblack #trini </title>
@@ -51,5 +43,13 @@
     <content>A simple and healthy recipe. Featuring @Primal Kitchen Buffalo Mayo. #primalkitchen #ad #momof9 #healthiswealth #recipe #cooking</content>
     <link href="https://www.tiktok.com/@mzkora/video/7282885522274454826" rel="alternate"/>
     <published>2023-09-25T21:55:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@mzkora/video/7283219055744404779</id>
+    <title>#ad 🎒👟 Gear up for school with the coolest kicks from Nike and Kids Foot Locker! #SwooshIsNowInSession #BackToSchool #KidsFootLocker #Nike @Kids Foot Locker </title>
+    <updated>2023-09-26T19:29:50+00:00</updated>
+    <content>#ad 🎒👟 Gear up for school with the coolest kicks from Nike and Kids Foot Locker! #SwooshIsNowInSession #BackToSchool #KidsFootLocker #Nike @Kids Foot Locker </content>
+    <link href="https://www.tiktok.com/@mzkora/video/7283219055744404779" rel="alternate"/>
+    <published>2023-09-26T19:29:50+00:00</published>
   </entry>
 </feed>
