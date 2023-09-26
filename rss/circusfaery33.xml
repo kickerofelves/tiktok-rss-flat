@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@circusfaery33</id>
   <title>@circusfaery33 | TikTok</title>
-  <updated>2023-09-25T00:02:23+00:00</updated>
+  <updated>2023-09-25T20:15:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @circusfaery33</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7281264934384831790</id>
-    <title>#stitch with @FOB in VIETNAM 🇨🇦🇺🇸🇻🇳 It's not 'self-deprecating' if the derogatory term you are using was never used to refer to people like yourself. #asianamerican #modelminority #wordsmatter </title>
-    <updated>2023-09-21T13:06:50+00:00</updated>
-    <content>#stitch with @FOB in VIETNAM 🇨🇦🇺🇸🇻🇳 It's not 'self-deprecating' if the derogatory term you are using was never used to refer to people like yourself. #asianamerican #modelminority #wordsmatter </content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7281264934384831790" rel="alternate"/>
-    <published>2023-09-21T13:06:50+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7281774749464775978</id>
-    <title>Replying to @fxlowe In the conversation you're still having, there was only one Asian talking about reparations--it was me talking about reparations for Black people, which you hikacked by saying 'what about Asian Americans.' Now you are speaking over and</title>
-    <updated>2023-09-22T22:05:09+00:00</updated>
-    <content>Replying to @fxlowe In the conversation you're still having, there was only one Asian talking about reparations--it was me talking about reparations for Black people, which you hikacked by saying 'what about Asian Americans.' Now you are speaking over and for us.  #asianamerican #modelminority #antiracism #solidarity </content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7281774749464775978" rel="alternate"/>
-    <published>2023-09-22T22:05:09+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@circusfaery33/video/7281810755513584939</id>
     <title>Replying to @fxlowe As a ✉️ person outside the US, your side of the argument regarding Asian American advocacy and reparations deserves zero consideration. Unlearn centering your opinions about other people and normalize listening. </title>
@@ -51,5 +35,21 @@
     <content>Replying to @fxlowe By which you mean, stop fact checking your lies.</content>
     <link href="https://www.tiktok.com/@circusfaery33/video/7282547110686493998" rel="alternate"/>
     <published>2023-09-25T00:02:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7282807439781793070</id>
+    <title>Replying to @michael28825 How is that related to thos video? </title>
+    <updated>2023-09-25T16:52:41+00:00</updated>
+    <content>Replying to @michael28825 How is that related to thos video? </content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7282807439781793070" rel="alternate"/>
+    <published>2023-09-25T16:52:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7282859625198701870</id>
+    <title>Replying to @Andres Ortiz This is an inappropriate question to ask on a video about racial triangulation of Asian Americams to harm Black people specficially. </title>
+    <updated>2023-09-25T20:15:05+00:00</updated>
+    <content>Replying to @Andres Ortiz This is an inappropriate question to ask on a video about racial triangulation of Asian Americams to harm Black people specficially. </content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7282859625198701870" rel="alternate"/>
+    <published>2023-09-25T20:15:05+00:00</published>
   </entry>
 </feed>
