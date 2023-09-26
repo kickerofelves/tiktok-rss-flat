@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mzkora</id>
   <title>@mzkora | TikTok</title>
-  <updated>2023-09-22T19:43:51+00:00</updated>
+  <updated>2023-09-25T21:55:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @mzkora</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@mzkora/video/7280966001951395118</id>
-    <title>Leg Day Part One. Shout to @BrüMate for making sure I don’t embarrass myself again. 😅 #brumatepartner #fyp #fypシ #momof9 #tumbler #legday #workout #gymrat </title>
-    <updated>2023-09-20T17:46:48+00:00</updated>
-    <content>Leg Day Part One. Shout to @BrüMate for making sure I don’t embarrass myself again. 😅 #brumatepartner #fyp #fypシ #momof9 #tumbler #legday #workout #gymrat </content>
-    <link href="https://www.tiktok.com/@mzkora/video/7280966001951395118" rel="alternate"/>
-    <published>2023-09-20T17:46:48+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@mzkora/video/7281438554348129579</id>
     <title>Replying to @kittiekrush Hes not but there is a twist. 😅 #fyp #fypシ #momof9 #religion #mormon #largefamily #mylife </title>
@@ -51,5 +43,13 @@
     <content>Fueling my day with protein-packed @Banza🍕🍝🫘 waffles, followed by flanken steak, Swiss chard, yogurt and cashews! 🥞🍖🥬💪 Join me on this nutrition-packed journey to see how I stay on top of my game! 😄🍽️ #WhatIEatInADay #Banzapartner #fyp #fypシ #momof9 #healthiswealth #nutrition #protein </content>
     <link href="https://www.tiktok.com/@mzkora/video/7281738336476400942" rel="alternate"/>
     <published>2023-09-22T19:43:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@mzkora/video/7282885522274454826</id>
+    <title>A simple and healthy recipe. Featuring @Primal Kitchen Buffalo Mayo. #primalkitchen #ad #momof9 #healthiswealth #recipe #cooking</title>
+    <updated>2023-09-25T21:55:33+00:00</updated>
+    <content>A simple and healthy recipe. Featuring @Primal Kitchen Buffalo Mayo. #primalkitchen #ad #momof9 #healthiswealth #recipe #cooking</content>
+    <link href="https://www.tiktok.com/@mzkora/video/7282885522274454826" rel="alternate"/>
+    <published>2023-09-25T21:55:33+00:00</published>
   </entry>
 </feed>
