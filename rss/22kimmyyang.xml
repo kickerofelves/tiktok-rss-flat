@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@22kimmyyang</id>
   <title>@22kimmyyang | TikTok</title>
-  <updated>2023-09-24T16:27:06+00:00</updated>
+  <updated>2023-09-27T01:25:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -13,43 +13,43 @@
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @22kimmyyang</subtitle>
   <entry>
-    <id>https://www.tiktok.com/@22kimmyyang/video/7281804455526354218</id>
-    <title>[no title]</title>
-    <updated>2023-09-23T00:00:25+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@22kimmyyang/video/7281804455526354218" rel="alternate"/>
-    <published>2023-09-23T00:00:25+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@22kimmyyang/video/7282085704111246634</id>
-    <title>[no title]</title>
-    <updated>2023-09-23T18:11:51+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@22kimmyyang/video/7282085704111246634" rel="alternate"/>
-    <published>2023-09-23T18:11:51+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@22kimmyyang/video/7282119418539265322</id>
-    <title>[no title]</title>
-    <updated>2023-09-23T20:22:46+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@22kimmyyang/video/7282119418539265322" rel="alternate"/>
-    <published>2023-09-23T20:22:46+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@22kimmyyang/video/7282196300760665386</id>
-    <title>[no title]</title>
-    <updated>2023-09-24T01:21:00+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@22kimmyyang/video/7282196300760665386" rel="alternate"/>
-    <published>2023-09-24T01:21:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.tiktok.com/@22kimmyyang/video/7282429787589676334</id>
     <title>[no title]</title>
     <updated>2023-09-24T16:27:06+00:00</updated>
     <content>[no description]</content>
     <link href="https://www.tiktok.com/@22kimmyyang/video/7282429787589676334" rel="alternate"/>
     <published>2023-09-24T16:27:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@22kimmyyang/video/7282909370575457582</id>
+    <title>[no title]</title>
+    <updated>2023-09-25T23:28:07+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@22kimmyyang/video/7282909370575457582" rel="alternate"/>
+    <published>2023-09-25T23:28:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@22kimmyyang/video/7283221674927869227</id>
+    <title>[no title]</title>
+    <updated>2023-09-26T19:40:01+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@22kimmyyang/video/7283221674927869227" rel="alternate"/>
+    <published>2023-09-26T19:40:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@22kimmyyang/video/7283275022167231790</id>
+    <title>Helping men everywhere across the internet since 2020</title>
+    <updated>2023-09-26T23:07:02+00:00</updated>
+    <content>Helping men everywhere across the internet since 2020</content>
+    <link href="https://www.tiktok.com/@22kimmyyang/video/7283275022167231790" rel="alternate"/>
+    <published>2023-09-26T23:07:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@22kimmyyang/video/7283310607754022190</id>
+    <title>[no title]</title>
+    <updated>2023-09-27T01:25:08+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@22kimmyyang/video/7283310607754022190" rel="alternate"/>
+    <published>2023-09-27T01:25:08+00:00</published>
   </entry>
 </feed>
