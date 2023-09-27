@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@shibuya_kaho</id>
   <title>@shibuya_kaho | TikTok</title>
-  <updated>2023-09-21T18:08:12+00:00</updated>
+  <updated>2023-09-27T12:42:17+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @shibuya_kaho</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@shibuya_kaho/video/7276158012375452929</id>
-    <title>Walking in DC on after Otakon... It's so pretty outisde! とても街並みが綺麗なワシントンD.C.♡ イベント最終日のディナー時に軽くお散歩できました₍ᐢ&gt; ̫&lt;ᐢ₎</title>
-    <updated>2023-09-07T18:49:21+00:00</updated>
-    <content>Walking in DC on after Otakon... It's so pretty outisde! とても街並みが綺麗なワシントンD.C.♡ イベント最終日のディナー時に軽くお散歩できました₍ᐢ&gt; ̫&lt;ᐢ₎</content>
-    <link href="https://www.tiktok.com/@shibuya_kaho/video/7276158012375452929" rel="alternate"/>
-    <published>2023-09-07T18:49:21+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@shibuya_kaho/video/7277345917793996033</id>
     <title>Tirtle watching in Hawaii🐢 日焼けは不可避でも、やっぱり水の中は気持ち良い✨</title>
@@ -51,5 +43,13 @@
     <content>TGS started! Twitch has a booth and I have a Meet &amp; Greet there on Sunday💜 #TokyoGameShow 東京ゲームショウ、初日はビジネスデーなのに凄い人でした‥ 日曜はTwitchブースにてサイン会なので是非来てください！</content>
     <link href="https://www.tiktok.com/@shibuya_kaho/video/7281342605361827074" rel="alternate"/>
     <published>2023-09-21T18:08:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@shibuya_kaho/video/7283485142373403905</id>
+    <title>Detective Conan (Case Closed) Cafe 2023! My oshi Ai-chan is got to shine a lot in the new movie💜 #コナンカフェ は毎年の行事( ´͈ ᵕ `͈ ๑) 今年の映画は推しの哀ちゃんだし、ストーリーも犯人にも大満足、遂に100億超えも叶って、本当に良かった〜</title>
+    <updated>2023-09-27T12:42:17+00:00</updated>
+    <content>Detective Conan (Case Closed) Cafe 2023! My oshi Ai-chan is got to shine a lot in the new movie💜 #コナンカフェ は毎年の行事( ´͈ ᵕ `͈ ๑) 今年の映画は推しの哀ちゃんだし、ストーリーも犯人にも大満足、遂に100億超えも叶って、本当に良かった〜</content>
+    <link href="https://www.tiktok.com/@shibuya_kaho/video/7283485142373403905" rel="alternate"/>
+    <published>2023-09-27T12:42:17+00:00</published>
   </entry>
 </feed>
