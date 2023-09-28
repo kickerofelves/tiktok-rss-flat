@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rahyndee</id>
   <title>@rahyndee | TikTok</title>
-  <updated>2023-09-24T01:19:49+00:00</updated>
+  <updated>2023-09-28T00:05:11+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @rahyndee</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@rahyndee/video/7281726474833399082</id>
-    <title>..a draft ✨🫣🫠 #fyp #vibes #wlw </title>
-    <updated>2023-09-22T18:57:51+00:00</updated>
-    <content>..a draft ✨🫣🫠 #fyp #vibes #wlw </content>
-    <link href="https://www.tiktok.com/@rahyndee/video/7281726474833399082" rel="alternate"/>
-    <published>2023-09-22T18:57:51+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@rahyndee/video/7281805536000085291</id>
     <title>3 days left with my foster baby🤤 #fyp #wlw #modelwalk #slowmotion </title>
@@ -51,5 +43,13 @@
     <content>..getting my feet wet 🤤💦 #fyp #wlw #Adventure #fakebodyy⚠️ </content>
     <link href="https://www.tiktok.com/@rahyndee/video/7282196004235939114" rel="alternate"/>
     <published>2023-09-24T01:19:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@rahyndee/video/7283661101173165343</id>
+    <title>✨🐩💅🏽  #fyp #followme #Adventure </title>
+    <updated>2023-09-28T00:05:11+00:00</updated>
+    <content>✨🐩💅🏽  #fyp #followme #Adventure </content>
+    <link href="https://www.tiktok.com/@rahyndee/video/7283661101173165343" rel="alternate"/>
+    <published>2023-09-28T00:05:11+00:00</published>
   </entry>
 </feed>
