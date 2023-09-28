@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@circusfaery33</id>
   <title>@circusfaery33 | TikTok</title>
-  <updated>2023-09-26T23:53:07+00:00</updated>
+  <updated>2023-09-27T17:56:02+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @circusfaery33</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7283178592324898090</id>
-    <title>Replying to @user8095735029758 Nobody is angry--you are being held accountable for asking a disingenuous question intended to gaslight and divide.</title>
-    <updated>2023-09-26T16:52:55+00:00</updated>
-    <content>Replying to @user8095735029758 Nobody is angry--you are being held accountable for asking a disingenuous question intended to gaslight and divide.</content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7283178592324898090" rel="alternate"/>
-    <published>2023-09-26T16:52:55+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7283200002162249002</id>
-    <title>Replying to @metal loving guy from pgh If nobody deserves to receive value for the labor their ancestors did, do you support 100% inheritance tax?</title>
-    <updated>2023-09-26T18:16:02+00:00</updated>
-    <content>Replying to @metal loving guy from pgh If nobody deserves to receive value for the labor their ancestors did, do you support 100% inheritance tax?</content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7283200002162249002" rel="alternate"/>
-    <published>2023-09-26T18:16:02+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@circusfaery33/video/7283216893056503086</id>
     <title>Replying to @Bestwokecomrade The absence of laws discriminatory on their face does not negate the existence of ongoing systems of oppression. </title>
@@ -51,5 +35,21 @@
     <content>Replying to @Bestwokecomrade We have HR 40, and petitions to Biden to form a committee modeled after HR 40 by executive order. Progress is happening. </content>
     <link href="https://www.tiktok.com/@circusfaery33/video/7283286896590081326" rel="alternate"/>
     <published>2023-09-26T23:53:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7283520144343665966</id>
+    <title>Replying to @Styzo #greenscreen Worst analogy for the dumbest comparison ever--apples and pears are closely related, both being pomes of the Rosaceae family. </title>
+    <updated>2023-09-27T14:58:11+00:00</updated>
+    <content>Replying to @Styzo #greenscreen Worst analogy for the dumbest comparison ever--apples and pears are closely related, both being pomes of the Rosaceae family. </content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7283520144343665966" rel="alternate"/>
+    <published>2023-09-27T14:58:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7283565975583100203</id>
+    <title>Replying to @Timtheearthisround Inheritance is money for nothing, taking advantage of your ancestors. ✉️ people who contributed to building the US had automomy, were compensated and had rights of citizenship--they got theirs.</title>
+    <updated>2023-09-27T17:56:02+00:00</updated>
+    <content>Replying to @Timtheearthisround Inheritance is money for nothing, taking advantage of your ancestors. ✉️ people who contributed to building the US had automomy, were compensated and had rights of citizenship--they got theirs.</content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7283565975583100203" rel="alternate"/>
+    <published>2023-09-27T17:56:02+00:00</published>
   </entry>
 </feed>
