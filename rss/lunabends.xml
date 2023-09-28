@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@lunabends</id>
   <title>@lunabends | TikTok</title>
-  <updated>2023-09-27T17:08:21+00:00</updated>
+  <updated>2023-09-28T13:59:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @lunabends</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@lunabends/video/7281652329462418731</id>
-    <title>Chair trick !  #dancer #chairdance #acrochair #chairtricks </title>
-    <updated>2023-09-22T14:10:10+00:00</updated>
-    <content>Chair trick !  #dancer #chairdance #acrochair #chairtricks </content>
-    <link href="https://www.tiktok.com/@lunabends/video/7281652329462418731" rel="alternate"/>
-    <published>2023-09-22T14:10:10+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@lunabends/video/7281791917673745706</id>
     <title>Night life things ✨ #nightlife #dancer #miami </title>
@@ -51,5 +43,13 @@
     <content>Been loving shoulder dismounts a lot lately  #poletok #spinpole #poletricks #pole #dancer #poledance #flexible </content>
     <link href="https://www.tiktok.com/@lunabends/video/7283553678521355563" rel="alternate"/>
     <published>2023-09-27T17:08:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lunabends/video/7283875991162916142</id>
+    <title>Daily affirmations 🧘🏽‍♀️ #poletok #pole #poledance #dancer #poletricks #spinpole #pleaserheels </title>
+    <updated>2023-09-28T13:59:07+00:00</updated>
+    <content>Daily affirmations 🧘🏽‍♀️ #poletok #pole #poledance #dancer #poletricks #spinpole #pleaserheels </content>
+    <link href="https://www.tiktok.com/@lunabends/video/7283875991162916142" rel="alternate"/>
+    <published>2023-09-28T13:59:07+00:00</published>
   </entry>
 </feed>
