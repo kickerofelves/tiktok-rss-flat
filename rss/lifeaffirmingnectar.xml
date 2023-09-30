@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@lifeaffirmingnectar</id>
   <title>@lifeaffirmingnectar | TikTok</title>
-  <updated>2023-07-25T21:11:40+00:00</updated>
+  <updated>2023-09-30T04:07:11+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @lifeaffirmingnectar</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@lifeaffirmingnectar/video/7252428993599720746</id>
-    <title>No I will not be attending your birthday party #RaceMatters #AffirmativeAction #RepresentationMatters </title>
-    <updated>2023-07-05T20:08:38+00:00</updated>
-    <content>No I will not be attending your birthday party #RaceMatters #AffirmativeAction #RepresentationMatters </content>
-    <link href="https://www.tiktok.com/@lifeaffirmingnectar/video/7252428993599720746" rel="alternate"/>
-    <published>2023-07-05T20:08:38+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@lifeaffirmingnectar/video/7252434222487571758</id>
     <title>Keeping our eyes on the real battle ##RaceMatters##AffirmativeAction##RepresentationMatters</title>
@@ -51,5 +43,13 @@
     <content>Spoken word performance “The Power of Langauge and the Language of Power,” part 1 #spokenpoetry #spokenword #poetry #poetrytok #language </content>
     <link href="https://www.tiktok.com/@lifeaffirmingnectar/video/7259866925944327470" rel="alternate"/>
     <published>2023-07-25T21:11:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lifeaffirmingnectar/video/7284465608211615006</id>
+    <title>A Letter to the Nonprofit Industrial Complex #socialjustice #oppression #nonprofit #nonprofitlife #nonprofitorganization</title>
+    <updated>2023-09-30T04:07:11+00:00</updated>
+    <content>A Letter to the Nonprofit Industrial Complex #socialjustice #oppression #nonprofit #nonprofitlife #nonprofitorganization</content>
+    <link href="https://www.tiktok.com/@lifeaffirmingnectar/video/7284465608211615006" rel="alternate"/>
+    <published>2023-09-30T04:07:11+00:00</published>
   </entry>
 </feed>
