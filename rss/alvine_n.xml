@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@alvine_n</id>
   <title>@alvine_n | TikTok</title>
-  <updated>2023-09-28T19:07:07+00:00</updated>
+  <updated>2023-09-30T18:43:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @alvine_n</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@alvine_n/video/7282371813093461281</id>
-    <title>Gym motivation 🔥</title>
-    <updated>2023-09-24T12:42:02+00:00</updated>
-    <content>Gym motivation 🔥</content>
-    <link href="https://www.tiktok.com/@alvine_n/video/7282371813093461281" rel="alternate"/>
-    <published>2023-09-24T12:42:02+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@alvine_n/video/7282824185238310177</id>
-    <title>This is your sign to join body recomposition challenge 🔥🔥🔥🔥</title>
-    <updated>2023-09-25T17:57:27+00:00</updated>
-    <content>This is your sign to join body recomposition challenge 🔥🔥🔥🔥</content>
-    <link href="https://www.tiktok.com/@alvine_n/video/7282824185238310177" rel="alternate"/>
-    <published>2023-09-25T17:57:27+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@alvine_n/video/7283203640372776225</id>
     <title>Replying to @Shakira join my fitness app workout plan + Nuttrition to help you achieve your weight goal first link in my bio ❤️</title>
@@ -51,5 +35,21 @@
     <content>[no description]</content>
     <link href="https://www.tiktok.com/@alvine_n/video/7283955395012365600" rel="alternate"/>
     <published>2023-09-28T19:07:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@alvine_n/video/7284685315871182113</id>
+    <title>[no title]</title>
+    <updated>2023-09-30T18:19:36+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@alvine_n/video/7284685315871182113" rel="alternate"/>
+    <published>2023-09-30T18:19:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@alvine_n/video/7284691572086541601</id>
+    <title>[no title]</title>
+    <updated>2023-09-30T18:43:52+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@alvine_n/video/7284691572086541601" rel="alternate"/>
+    <published>2023-09-30T18:43:52+00:00</published>
   </entry>
 </feed>
