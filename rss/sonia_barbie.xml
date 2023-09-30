@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@sonia_barbie</id>
   <title>@sonia_barbie | TikTok</title>
-  <updated>2023-09-27T18:48:17+00:00</updated>
+  <updated>2023-09-29T17:05:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @sonia_barbie</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@sonia_barbie/video/7281439860358008107</id>
-    <title>[no title]</title>
-    <updated>2023-09-22T00:25:36+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@sonia_barbie/video/7281439860358008107" rel="alternate"/>
-    <published>2023-09-22T00:25:36+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@sonia_barbie/video/7282366974913498410</id>
-    <title>Life of a city girl ❤️</title>
-    <updated>2023-09-24T12:23:36+00:00</updated>
-    <content>Life of a city girl ❤️</content>
-    <link href="https://www.tiktok.com/@sonia_barbie/video/7282366974913498410" rel="alternate"/>
-    <published>2023-09-24T12:23:36+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@sonia_barbie/video/7282434494047604011</id>
-    <title>Love my New Yorkers ❣️✨✨✨</title>
-    <updated>2023-09-24T16:45:25+00:00</updated>
-    <content>Love my New Yorkers ❣️✨✨✨</content>
-    <link href="https://www.tiktok.com/@sonia_barbie/video/7282434494047604011" rel="alternate"/>
-    <published>2023-09-24T16:45:25+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@sonia_barbie/video/7283576124620197163</id>
     <title>[no title]</title>
@@ -51,5 +27,29 @@
     <content>❤️❤️❤️</content>
     <link href="https://www.tiktok.com/@sonia_barbie/video/7283579435440295211" rel="alternate"/>
     <published>2023-09-27T18:48:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@sonia_barbie/video/7284260775785418026</id>
+    <title>[no title]</title>
+    <updated>2023-09-29T14:52:15+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@sonia_barbie/video/7284260775785418026" rel="alternate"/>
+    <published>2023-09-29T14:52:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@sonia_barbie/video/7284290709392297262</id>
+    <title>[no title]</title>
+    <updated>2023-09-29T16:48:37+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@sonia_barbie/video/7284290709392297262" rel="alternate"/>
+    <published>2023-09-29T16:48:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@sonia_barbie/video/7284295191362604330</id>
+    <title>I am toxigue </title>
+    <updated>2023-09-29T17:05:49+00:00</updated>
+    <content>I am toxigue </content>
+    <link href="https://www.tiktok.com/@sonia_barbie/video/7284295191362604330" rel="alternate"/>
+    <published>2023-09-29T17:05:49+00:00</published>
   </entry>
 </feed>

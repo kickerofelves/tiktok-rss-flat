@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@circusfaery33</id>
   <title>@circusfaery33 | TikTok</title>
-  <updated>2023-09-28T23:04:18+00:00</updated>
+  <updated>2023-09-29T19:32:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @circusfaery33</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7283520144343665966</id>
-    <title>Replying to @Styzo #greenscreen Worst analogy for the dumbest comparison ever--apples and pears are closely related, both being pomes of the Rosaceae family. </title>
-    <updated>2023-09-27T14:58:11+00:00</updated>
-    <content>Replying to @Styzo #greenscreen Worst analogy for the dumbest comparison ever--apples and pears are closely related, both being pomes of the Rosaceae family. </content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7283520144343665966" rel="alternate"/>
-    <published>2023-09-27T14:58:11+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7283565975583100203</id>
-    <title>Replying to @Timtheearthisround Inheritance is money for nothing, taking advantage of your ancestors. ✉️ people who contributed to building the US had automomy, were compensated and had rights of citizenship--they got theirs.</title>
-    <updated>2023-09-27T17:56:02+00:00</updated>
-    <content>Replying to @Timtheearthisround Inheritance is money for nothing, taking advantage of your ancestors. ✉️ people who contributed to building the US had automomy, were compensated and had rights of citizenship--they got theirs.</content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7283565975583100203" rel="alternate"/>
-    <published>2023-09-27T17:56:02+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7283942872985095470</id>
-    <title>#greenscreen </title>
-    <updated>2023-09-28T18:18:37+00:00</updated>
-    <content>#greenscreen </content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7283942872985095470" rel="alternate"/>
-    <published>2023-09-28T18:18:37+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@circusfaery33/video/7283950092816633131</id>
     <title>[no title]</title>
@@ -51,5 +27,29 @@
     <content>Replying to @metal loving guy from pgh Using Black excellence as an argument against reparations is like saying, if your wallet is stolen, but you still have more money than other people, you don't deserve to have anything returned.</content>
     <link href="https://www.tiktok.com/@circusfaery33/video/7284016506160057646" rel="alternate"/>
     <published>2023-09-28T23:04:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7284303675139394858</id>
+    <title>Replying to @Timtheearthisround Tit for tat racism doesn't work--things never were and never will be 'the other way around. Why do you feel that a type of college that has historically been open to all students, but centers Black students aren't needed? </title>
+    <updated>2023-09-29T17:38:57+00:00</updated>
+    <content>Replying to @Timtheearthisround Tit for tat racism doesn't work--things never were and never will be 'the other way around. Why do you feel that a type of college that has historically been open to all students, but centers Black students aren't needed? </content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7284303675139394858" rel="alternate"/>
+    <published>2023-09-29T17:38:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7284328077109267754</id>
+    <title>Replying to @HippyBigBlock427 First thing you 've gotten right--referencing all of my videos supporting reparations for Blaclk Americans doesn't support your claim that I said ✉️ people need to write the checks. </title>
+    <updated>2023-09-29T19:13:32+00:00</updated>
+    <content>Replying to @HippyBigBlock427 First thing you 've gotten right--referencing all of my videos supporting reparations for Blaclk Americans doesn't support your claim that I said ✉️ people need to write the checks. </content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7284328077109267754" rel="alternate"/>
+    <published>2023-09-29T19:13:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7284333003227139371</id>
+    <title>Replying to @Hal Drake Currently, the most effective way is to let your Comgress person know that you want them to support HR40, which is a bill that would form a committee to study and develop reparations proposals. </title>
+    <updated>2023-09-29T19:32:50+00:00</updated>
+    <content>Replying to @Hal Drake Currently, the most effective way is to let your Comgress person know that you want them to support HR40, which is a bill that would form a committee to study and develop reparations proposals. </content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7284333003227139371" rel="alternate"/>
+    <published>2023-09-29T19:32:50+00:00</published>
   </entry>
 </feed>
