@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@sonia_barbie</id>
   <title>@sonia_barbie | TikTok</title>
-  <updated>2023-09-29T17:05:49+00:00</updated>
+  <updated>2023-09-30T17:09:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @sonia_barbie</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@sonia_barbie/video/7283576124620197163</id>
-    <title>[no title]</title>
-    <updated>2023-09-27T18:35:24+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@sonia_barbie/video/7283576124620197163" rel="alternate"/>
-    <published>2023-09-27T18:35:24+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@sonia_barbie/video/7283579435440295211</id>
-    <title>❤️❤️❤️</title>
-    <updated>2023-09-27T18:48:17+00:00</updated>
-    <content>❤️❤️❤️</content>
-    <link href="https://www.tiktok.com/@sonia_barbie/video/7283579435440295211" rel="alternate"/>
-    <published>2023-09-27T18:48:17+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@sonia_barbie/video/7284260775785418026</id>
     <title>[no title]</title>
@@ -51,5 +35,21 @@
     <content>I am toxigue </content>
     <link href="https://www.tiktok.com/@sonia_barbie/video/7284295191362604330" rel="alternate"/>
     <published>2023-09-29T17:05:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@sonia_barbie/video/7284620254989471022</id>
+    <title>@wildnout  season 20 finale😂🥰🥰🥰 You can watch full video on my YouTube channel 🙌🏿</title>
+    <updated>2023-09-30T14:07:23+00:00</updated>
+    <content>@wildnout  season 20 finale😂🥰🥰🥰 You can watch full video on my YouTube channel 🙌🏿</content>
+    <link href="https://www.tiktok.com/@sonia_barbie/video/7284620254989471022" rel="alternate"/>
+    <published>2023-09-30T14:07:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@sonia_barbie/video/7284667168099274026</id>
+    <title>[no title]</title>
+    <updated>2023-09-30T17:09:24+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@sonia_barbie/video/7284667168099274026" rel="alternate"/>
+    <published>2023-09-30T17:09:24+00:00</published>
   </entry>
 </feed>

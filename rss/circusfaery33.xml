@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@circusfaery33</id>
   <title>@circusfaery33 | TikTok</title>
-  <updated>2023-09-29T19:32:50+00:00</updated>
+  <updated>2023-10-01T01:08:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @circusfaery33</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7283950092816633131</id>
-    <title>[no title]</title>
-    <updated>2023-09-28T18:46:36+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7283950092816633131" rel="alternate"/>
-    <published>2023-09-28T18:46:36+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7284016506160057646</id>
-    <title>Replying to @metal loving guy from pgh Using Black excellence as an argument against reparations is like saying, if your wallet is stolen, but you still have more money than other people, you don't deserve to have anything returned.</title>
-    <updated>2023-09-28T23:04:18+00:00</updated>
-    <content>Replying to @metal loving guy from pgh Using Black excellence as an argument against reparations is like saying, if your wallet is stolen, but you still have more money than other people, you don't deserve to have anything returned.</content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7284016506160057646" rel="alternate"/>
-    <published>2023-09-28T23:04:18+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7284303675139394858</id>
-    <title>Replying to @Timtheearthisround Tit for tat racism doesn't work--things never were and never will be 'the other way around. Why do you feel that a type of college that has historically been open to all students, but centers Black students aren't needed? </title>
-    <updated>2023-09-29T17:38:57+00:00</updated>
-    <content>Replying to @Timtheearthisround Tit for tat racism doesn't work--things never were and never will be 'the other way around. Why do you feel that a type of college that has historically been open to all students, but centers Black students aren't needed? </content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7284303675139394858" rel="alternate"/>
-    <published>2023-09-29T17:38:57+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@circusfaery33/video/7284328077109267754</id>
     <title>Replying to @HippyBigBlock427 First thing you 've gotten right--referencing all of my videos supporting reparations for Blaclk Americans doesn't support your claim that I said ✉️ people need to write the checks. </title>
@@ -51,5 +27,29 @@
     <content>Replying to @Hal Drake Currently, the most effective way is to let your Comgress person know that you want them to support HR40, which is a bill that would form a committee to study and develop reparations proposals. </content>
     <link href="https://www.tiktok.com/@circusfaery33/video/7284333003227139371" rel="alternate"/>
     <published>2023-09-29T19:32:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7284640152859856170</id>
+    <title>Replying to @Okimike You are not being invalidated for being ✉️. You feel oppressed because your sense of entitlement is not being coddled. </title>
+    <updated>2023-09-30T15:24:31+00:00</updated>
+    <content>Replying to @Okimike You are not being invalidated for being ✉️. You feel oppressed because your sense of entitlement is not being coddled. </content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7284640152859856170" rel="alternate"/>
+    <published>2023-09-30T15:24:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7284782172358184235</id>
+    <title>Replying to @CT Why don't you ask the 80% ✉️ student body at the HBCU, Bluefled State College. You might be more willing to listen to them.</title>
+    <updated>2023-10-01T00:35:38+00:00</updated>
+    <content>Replying to @CT Why don't you ask the 80% ✉️ student body at the HBCU, Bluefled State College. You might be more willing to listen to them.</content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7284782172358184235" rel="alternate"/>
+    <published>2023-10-01T00:35:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7284790553588321579</id>
+    <title>Replying to @CT HBCUs have always been inclusive because Black people don't need to prevent anybody from competing with them. </title>
+    <updated>2023-10-01T01:08:03+00:00</updated>
+    <content>Replying to @CT HBCUs have always been inclusive because Black people don't need to prevent anybody from competing with them. </content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7284790553588321579" rel="alternate"/>
+    <published>2023-10-01T01:08:03+00:00</published>
   </entry>
 </feed>
