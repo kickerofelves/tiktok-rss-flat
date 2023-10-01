@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@shibuya_kaho</id>
   <title>@shibuya_kaho | TikTok</title>
-  <updated>2023-09-27T12:42:17+00:00</updated>
+  <updated>2023-10-01T02:09:21+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @shibuya_kaho</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@shibuya_kaho/video/7277345917793996033</id>
-    <title>Tirtle watching in Hawaii🐢 日焼けは不可避でも、やっぱり水の中は気持ち良い✨</title>
-    <updated>2023-09-10T23:39:07+00:00</updated>
-    <content>Tirtle watching in Hawaii🐢 日焼けは不可避でも、やっぱり水の中は気持ち良い✨</content>
-    <link href="https://www.tiktok.com/@shibuya_kaho/video/7277345917793996033" rel="alternate"/>
-    <published>2023-09-10T23:39:07+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@shibuya_kaho/video/7278639529005747457</id>
     <title>My Anime Expo 2023 look for each day! #AX イベントの際は日によって髪や瞳の色を変えて、早く終わる最終日はウィッグ無しがマイルールです(っ ॑꒳ ॑c)</title>
@@ -51,5 +43,13 @@
     <content>Detective Conan (Case Closed) Cafe 2023! My oshi Ai-chan is got to shine a lot in the new movie💜 #コナンカフェ は毎年の行事( ´͈ ᵕ `͈ ๑) 今年の映画は推しの哀ちゃんだし、ストーリーも犯人にも大満足、遂に100億超えも叶って、本当に良かった〜</content>
     <link href="https://www.tiktok.com/@shibuya_kaho/video/7283485142373403905" rel="alternate"/>
     <published>2023-09-27T12:42:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@shibuya_kaho/video/7284806371021769985</id>
+    <title>My PR shoot for razer headphones🐰💕 The song is my newly made and soon to be released "Tapiokay"! 商品のプロモ動画、縦サイズも出来ました(^O^) CM用に曲また増えます〜</title>
+    <updated>2023-10-01T02:09:21+00:00</updated>
+    <content>My PR shoot for razer headphones🐰💕 The song is my newly made and soon to be released "Tapiokay"! 商品のプロモ動画、縦サイズも出来ました(^O^) CM用に曲また増えます〜</content>
+    <link href="https://www.tiktok.com/@shibuya_kaho/video/7284806371021769985" rel="alternate"/>
+    <published>2023-10-01T02:09:21+00:00</published>
   </entry>
 </feed>
