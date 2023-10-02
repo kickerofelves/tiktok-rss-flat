@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mzkora</id>
   <title>@mzkora | TikTok</title>
-  <updated>2023-09-28T00:08:58+00:00</updated>
+  <updated>2023-10-01T22:11:34+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @mzkora</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@mzkora/video/7281712467212815658</id>
-    <title>People just want you to be miserable. #fyp #fypシ #interracialcouple #couple #marriage #largefamily #momof9 #parents #indianandblack #trini </title>
-    <updated>2023-09-22T18:03:31+00:00</updated>
-    <content>People just want you to be miserable. #fyp #fypシ #interracialcouple #couple #marriage #largefamily #momof9 #parents #indianandblack #trini </content>
-    <link href="https://www.tiktok.com/@mzkora/video/7281712467212815658" rel="alternate"/>
-    <published>2023-09-22T18:03:31+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@mzkora/video/7281738336476400942</id>
     <title>Fueling my day with protein-packed @Banza🍕🍝🫘 waffles, followed by flanken steak, Swiss chard, yogurt and cashews! 🥞🍖🥬💪 Join me on this nutrition-packed journey to see how I stay on top of my game! 😄🍽️ #WhatIEatInADay #Banzapartner #fyp #fypシ #momof9 #heal</title>
@@ -51,5 +43,13 @@
     <content>One day we will be in sync, that day ia mot today! 🤣😂 #momof9 #fyp #fypシ #dancechallenge #family #rihanna #parentsof9 #healthiswealth #couple #teens @GQGEMINI </content>
     <link href="https://www.tiktok.com/@mzkora/video/7283662066404052267" rel="alternate"/>
     <published>2023-09-28T00:08:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@mzkora/video/7285116164546596139</id>
+    <title>I’ve never got Sheena to do a dance with me!!!! #momwin #fyp #fypシ #momof9 #family #dance #oldestdaughter #healthiswealth #sauna #dancechallenge </title>
+    <updated>2023-10-01T22:11:34+00:00</updated>
+    <content>I’ve never got Sheena to do a dance with me!!!! #momwin #fyp #fypシ #momof9 #family #dance #oldestdaughter #healthiswealth #sauna #dancechallenge </content>
+    <link href="https://www.tiktok.com/@mzkora/video/7285116164546596139" rel="alternate"/>
+    <published>2023-10-01T22:11:34+00:00</published>
   </entry>
 </feed>
