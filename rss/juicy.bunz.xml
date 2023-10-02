@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@juicy.bunz</id>
   <title>@juicy.bunz | TikTok</title>
-  <updated>2023-09-20T22:21:08+00:00</updated>
+  <updated>2023-10-01T22:35:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @juicy.bunz</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@juicy.bunz/video/7272804051987746091</id>
-    <title>Oops im so clumsy 🤭 silly me #gym #gymhumor #rizz </title>
-    <updated>2023-08-29T17:54:29+00:00</updated>
-    <content>Oops im so clumsy 🤭 silly me #gym #gymhumor #rizz </content>
-    <link href="https://www.tiktok.com/@juicy.bunz/video/7272804051987746091" rel="alternate"/>
-    <published>2023-08-29T17:54:29+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@juicy.bunz/video/7273946825277623594</id>
-    <title>chicken broccoli stir fry and rice. my favorite ❤️ #cooking #dinner #foodtok #fyp </title>
-    <updated>2023-09-01T19:48:49+00:00</updated>
-    <content>chicken broccoli stir fry and rice. my favorite ❤️ #cooking #dinner #foodtok #fyp </content>
-    <link href="https://www.tiktok.com/@juicy.bunz/video/7273946825277623594" rel="alternate"/>
-    <published>2023-09-01T19:48:49+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@juicy.bunz/video/7275429646169197870</id>
     <title>What i eat in a day 😋  #foodtok #foodie #minivlog </title>
@@ -51,5 +35,21 @@
     <content>I just wanna b your sweetheart </content>
     <link href="https://www.tiktok.com/@juicy.bunz/video/7281036697029102890" rel="alternate"/>
     <published>2023-09-20T22:21:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@juicy.bunz/video/7285090358252277035</id>
+    <title>Me bc its finally October!! 🎃👻 my favorite month #halloween #dance #ghostface </title>
+    <updated>2023-10-01T20:31:26+00:00</updated>
+    <content>Me bc its finally October!! 🎃👻 my favorite month #halloween #dance #ghostface </content>
+    <link href="https://www.tiktok.com/@juicy.bunz/video/7285090358252277035" rel="alternate"/>
+    <published>2023-10-01T20:31:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@juicy.bunz/video/7285122350725762350</id>
+    <title>Its the first of the month 😊 and also my birthday month 🎂 </title>
+    <updated>2023-10-01T22:35:41+00:00</updated>
+    <content>Its the first of the month 😊 and also my birthday month 🎂 </content>
+    <link href="https://www.tiktok.com/@juicy.bunz/video/7285122350725762350" rel="alternate"/>
+    <published>2023-10-01T22:35:41+00:00</published>
   </entry>
 </feed>
