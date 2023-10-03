@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@shibuya_kaho</id>
   <title>@shibuya_kaho | TikTok</title>
-  <updated>2023-10-01T02:09:21+00:00</updated>
+  <updated>2023-10-03T00:18:06+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @shibuya_kaho</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@shibuya_kaho/video/7278639529005747457</id>
-    <title>My Anime Expo 2023 look for each day! #AX イベントの際は日によって髪や瞳の色を変えて、早く終わる最終日はウィッグ無しがマイルールです(っ ॑꒳ ॑c)</title>
-    <updated>2023-09-14T11:18:50+00:00</updated>
-    <content>My Anime Expo 2023 look for each day! #AX イベントの際は日によって髪や瞳の色を変えて、早く終わる最終日はウィッグ無しがマイルールです(っ ॑꒳ ॑c)</content>
-    <link href="https://www.tiktok.com/@shibuya_kaho/video/7278639529005747457" rel="alternate"/>
-    <published>2023-09-14T11:18:50+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@shibuya_kaho/video/7281076717416877313</id>
-    <title>Yakiniku (Japanese BBQ) after pre-TGS networking party! Futago is a franchise, but this one at Dogenzaka in Shibuya has a unique theme✨ お肉は良いですな‥ #焼肉 </title>
-    <updated>2023-09-21T00:56:24+00:00</updated>
-    <content>Yakiniku (Japanese BBQ) after pre-TGS networking party! Futago is a franchise, but this one at Dogenzaka in Shibuya has a unique theme✨ お肉は良いですな‥ #焼肉 </content>
-    <link href="https://www.tiktok.com/@shibuya_kaho/video/7281076717416877313" rel="alternate"/>
-    <published>2023-09-21T00:56:24+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@shibuya_kaho/video/7281342605361827074</id>
     <title>TGS started! Twitch has a booth and I have a Meet &amp; Greet there on Sunday💜 #TokyoGameShow 東京ゲームショウ、初日はビジネスデーなのに凄い人でした‥ 日曜はTwitchブースにてサイン会なので是非来てください！</title>
@@ -51,5 +35,21 @@
     <content>My PR shoot for razer headphones🐰💕 The song is my newly made and soon to be released "Tapiokay"! 商品のプロモ動画、縦サイズも出来ました(^O^) CM用に曲また増えます〜</content>
     <link href="https://www.tiktok.com/@shibuya_kaho/video/7284806371021769985" rel="alternate"/>
     <published>2023-10-01T02:09:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@shibuya_kaho/video/7285208037776739586</id>
+    <title>[no title]</title>
+    <updated>2023-10-02T04:08:04+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@shibuya_kaho/video/7285208037776739586" rel="alternate"/>
+    <published>2023-10-02T04:08:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@shibuya_kaho/video/7285519838947118337</id>
+    <title>Fun time✨ #cosplay 見た目が違えば違う程、楽しい‥！</title>
+    <updated>2023-10-03T00:18:06+00:00</updated>
+    <content>Fun time✨ #cosplay 見た目が違えば違う程、楽しい‥！</content>
+    <link href="https://www.tiktok.com/@shibuya_kaho/video/7285519838947118337" rel="alternate"/>
+    <published>2023-10-03T00:18:06+00:00</published>
   </entry>
 </feed>
