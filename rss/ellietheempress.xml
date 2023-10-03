@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ellietheempress</id>
   <title>@ellietheempress | TikTok</title>
-  <updated>2023-10-02T19:35:59+00:00</updated>
+  <updated>2023-10-03T17:30:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ellietheempress</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@ellietheempress/video/7284985730047184170</id>
-    <title>#foryou #fyp #viral </title>
-    <updated>2023-10-01T13:45:34+00:00</updated>
-    <content>#foryou #fyp #viral </content>
-    <link href="https://www.tiktok.com/@ellietheempress/video/7284985730047184170" rel="alternate"/>
-    <published>2023-10-01T13:45:34+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@ellietheempress/video/7284988931471625518</id>
-    <title>I’m banned for a day but I’ll be back tomorrow guys 🥰🥰🥰 #foryou #fyp #viral #twitch </title>
-    <updated>2023-10-01T13:58:01+00:00</updated>
-    <content>I’m banned for a day but I’ll be back tomorrow guys 🥰🥰🥰 #foryou #fyp #viral #twitch </content>
-    <link href="https://www.tiktok.com/@ellietheempress/video/7284988931471625518" rel="alternate"/>
-    <published>2023-10-01T13:58:01+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@ellietheempress/video/7285045998307577130</id>
     <title>I was going to say bread 🥹 #foryou #viral </title>
@@ -51,5 +35,21 @@
     <content>#fyp #foryou #twitch </content>
     <link href="https://www.tiktok.com/@ellietheempress/video/7285447105433390378" rel="alternate"/>
     <published>2023-10-02T19:35:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ellietheempress/video/7285718647027273002</id>
+    <title>#foryou #fyp #viral </title>
+    <updated>2023-10-03T13:09:50+00:00</updated>
+    <content>#foryou #fyp #viral </content>
+    <link href="https://www.tiktok.com/@ellietheempress/video/7285718647027273002" rel="alternate"/>
+    <published>2023-10-03T13:09:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ellietheempress/video/7285785933465554222</id>
+    <title>#fyp #foryou </title>
+    <updated>2023-10-03T17:30:52+00:00</updated>
+    <content>#fyp #foryou </content>
+    <link href="https://www.tiktok.com/@ellietheempress/video/7285785933465554222" rel="alternate"/>
+    <published>2023-10-03T17:30:52+00:00</published>
   </entry>
 </feed>
