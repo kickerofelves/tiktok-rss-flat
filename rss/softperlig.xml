@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@softperlig</id>
   <title>@softperlig | TikTok</title>
-  <updated>2023-10-01T17:26:39+00:00</updated>
+  <updated>2023-10-03T05:47:04+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -45,11 +45,11 @@
     <published>2023-09-29T18:15:42+00:00</published>
   </entry>
   <entry>
-    <id>https://www.tiktok.com/@softperlig/video/7285042763748396321</id>
-    <title>Fingers crossed</title>
-    <updated>2023-10-01T17:26:39+00:00</updated>
-    <content>Fingers crossed</content>
-    <link href="https://www.tiktok.com/@softperlig/video/7285042763748396321" rel="alternate"/>
-    <published>2023-10-01T17:26:39+00:00</published>
+    <id>https://www.tiktok.com/@softperlig/video/7285604599329754400</id>
+    <title>Yes excluding the shoes</title>
+    <updated>2023-10-03T05:47:04+00:00</updated>
+    <content>Yes excluding the shoes</content>
+    <link href="https://www.tiktok.com/@softperlig/video/7285604599329754400" rel="alternate"/>
+    <published>2023-10-03T05:47:04+00:00</published>
   </entry>
 </feed>
