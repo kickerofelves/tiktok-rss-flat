@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rahyndee</id>
   <title>@rahyndee | TikTok</title>
-  <updated>2023-10-03T02:54:17+00:00</updated>
+  <updated>2023-10-03T23:18:36+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @rahyndee</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@rahyndee/video/7284818633937767710</id>
-    <title>What fit was your flavor?! 🫠 #tryonhaul #urbanoutfitters #lasvegas </title>
-    <updated>2023-10-01T02:57:04+00:00</updated>
-    <content>What fit was your flavor?! 🫠 #tryonhaul #urbanoutfitters #lasvegas </content>
-    <link href="https://www.tiktok.com/@rahyndee/video/7284818633937767710" rel="alternate"/>
-    <published>2023-10-01T02:57:04+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@rahyndee/video/7285494249297104158</id>
-    <title>Very spacious place I think it could work 🙅🏽‍♀️ #lasvegas #fyp #foryou #homesweethome #offgrid </title>
-    <updated>2023-10-02T22:38:52+00:00</updated>
-    <content>Very spacious place I think it could work 🙅🏽‍♀️ #lasvegas #fyp #foryou #homesweethome #offgrid </content>
-    <link href="https://www.tiktok.com/@rahyndee/video/7285494249297104158" rel="alternate"/>
-    <published>2023-10-02T22:38:52+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@rahyndee/video/7285495970354302239</id>
     <title>Does this answer any questions !? 🙃 #fyp #lasvegas #deathvalley #foryou </title>
@@ -51,5 +35,21 @@
     <content>Worry about mw if you want to 🤤🫠 #fyp #lasvegas #foryou </content>
     <link href="https://www.tiktok.com/@rahyndee/video/7285560083692391710" rel="alternate"/>
     <published>2023-10-03T02:54:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@rahyndee/video/7285858822265015582</id>
+    <title>I left him clueless 🙊😈 #lasvegas #fyp </title>
+    <updated>2023-10-03T22:13:32+00:00</updated>
+    <content>I left him clueless 🙊😈 #lasvegas #fyp </content>
+    <link href="https://www.tiktok.com/@rahyndee/video/7285858822265015582" rel="alternate"/>
+    <published>2023-10-03T22:13:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@rahyndee/video/7285875579696581918</id>
+    <title>Strawberry Banana 🍓🍌 #fyp #lasvegas #foryou </title>
+    <updated>2023-10-03T23:18:36+00:00</updated>
+    <content>Strawberry Banana 🍓🍌 #fyp #lasvegas #foryou </content>
+    <link href="https://www.tiktok.com/@rahyndee/video/7285875579696581918" rel="alternate"/>
+    <published>2023-10-03T23:18:36+00:00</published>
   </entry>
 </feed>
