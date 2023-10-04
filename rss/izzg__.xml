@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@izzg__</id>
   <title>@izzg__ | TikTok</title>
-  <updated>2023-10-03T17:17:30+00:00</updated>
+  <updated>2023-10-04T16:20:22+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -21,35 +21,35 @@
     <published>2023-10-02T18:32:52+00:00</published>
   </entry>
   <entry>
-    <id>https://www.tiktok.com/@izzg__/video/7285769753275239723</id>
-    <title>[no title]</title>
-    <updated>2023-10-03T16:28:04+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@izzg__/video/7285769753275239723" rel="alternate"/>
-    <published>2023-10-03T16:28:04+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@izzg__/video/7285776261094362411</id>
-    <title>[no title]</title>
-    <updated>2023-10-03T16:53:19+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@izzg__/video/7285776261094362411" rel="alternate"/>
-    <published>2023-10-03T16:53:19+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@izzg__/video/7285778663906299179</id>
-    <title>[no title]</title>
-    <updated>2023-10-03T17:02:43+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@izzg__/video/7285778663906299179" rel="alternate"/>
-    <published>2023-10-03T17:02:43+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.tiktok.com/@izzg__/video/7285782486250999082</id>
     <title>ya know</title>
     <updated>2023-10-03T17:17:30+00:00</updated>
     <content>ya know</content>
     <link href="https://www.tiktok.com/@izzg__/video/7285782486250999082" rel="alternate"/>
     <published>2023-10-03T17:17:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@izzg__/video/7286136420832529707</id>
+    <title>Replying to @Fenrir </title>
+    <updated>2023-10-04T16:11:05+00:00</updated>
+    <content>Replying to @Fenrir </content>
+    <link href="https://www.tiktok.com/@izzg__/video/7286136420832529707" rel="alternate"/>
+    <published>2023-10-04T16:11:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@izzg__/video/7286137378740178218</id>
+    <title>Replying to @Richard Adamski </title>
+    <updated>2023-10-04T16:14:43+00:00</updated>
+    <content>Replying to @Richard Adamski </content>
+    <link href="https://www.tiktok.com/@izzg__/video/7286137378740178218" rel="alternate"/>
+    <published>2023-10-04T16:14:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@izzg__/video/7286138838005648682</id>
+    <title>[no title]</title>
+    <updated>2023-10-04T16:20:22+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@izzg__/video/7286138838005648682" rel="alternate"/>
+    <published>2023-10-04T16:20:22+00:00</published>
   </entry>
 </feed>
