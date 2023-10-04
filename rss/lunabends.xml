@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@lunabends</id>
   <title>@lunabends | TikTok</title>
-  <updated>2023-10-01T16:36:36+00:00</updated>
+  <updated>2023-10-03T19:31:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @lunabends</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@lunabends/video/7283225707612769579</id>
-    <title>Splits are life 🖤 #poletok #poletricks #spinpole #flexible </title>
-    <updated>2023-09-26T19:55:43+00:00</updated>
-    <content>Splits are life 🖤 #poletok #poletricks #spinpole #flexible </content>
-    <link href="https://www.tiktok.com/@lunabends/video/7283225707612769579" rel="alternate"/>
-    <published>2023-09-26T19:55:43+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@lunabends/video/7283553678521355563</id>
     <title>Been loving shoulder dismounts a lot lately  #poletok #spinpole #poletricks #pole #dancer #poledance #flexible </title>
@@ -51,5 +43,13 @@
     <content>I'm ready for you October 🖤</content>
     <link href="https://www.tiktok.com/@lunabends/video/7285029824895225134" rel="alternate"/>
     <published>2023-10-01T16:36:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lunabends/video/7285817034263317802</id>
+    <title>Vibes 💃🏽  #poletok #dancer #spinpole #poletricks </title>
+    <updated>2023-10-03T19:31:26+00:00</updated>
+    <content>Vibes 💃🏽  #poletok #dancer #spinpole #poletricks </content>
+    <link href="https://www.tiktok.com/@lunabends/video/7285817034263317802" rel="alternate"/>
+    <published>2023-10-03T19:31:26+00:00</published>
   </entry>
 </feed>
