@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@onlyevesophiee</id>
   <title>@onlyevesophiee | TikTok</title>
-  <updated>2023-10-03T13:37:01+00:00</updated>
+  <updated>2023-10-04T00:07:15+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @onlyevesophiee</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@onlyevesophiee/video/7284781500195671328</id>
-    <title>Wake up for us… i mean me</title>
-    <updated>2023-10-01T00:33:03+00:00</updated>
-    <content>Wake up for us… i mean me</content>
-    <link href="https://www.tiktok.com/@onlyevesophiee/video/7284781500195671328" rel="alternate"/>
-    <published>2023-10-01T00:33:03+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@onlyevesophiee/video/7285115635959450913</id>
-    <title>Here you can have these </title>
-    <updated>2023-10-01T22:09:35+00:00</updated>
-    <content>Here you can have these </content>
-    <link href="https://www.tiktok.com/@onlyevesophiee/video/7285115635959450913" rel="alternate"/>
-    <published>2023-10-01T22:09:35+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@onlyevesophiee/video/7285175824586689825</id>
     <title>Im just gonna leave this here </title>
@@ -51,5 +35,21 @@
     <content>I wonder why hes so obsessed with me …</content>
     <link href="https://www.tiktok.com/@onlyevesophiee/video/7285725738001550625" rel="alternate"/>
     <published>2023-10-03T13:37:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@onlyevesophiee/video/7285859479155920161</id>
+    <title>Does my face match my body</title>
+    <updated>2023-10-03T22:16:03+00:00</updated>
+    <content>Does my face match my body</content>
+    <link href="https://www.tiktok.com/@onlyevesophiee/video/7285859479155920161" rel="alternate"/>
+    <published>2023-10-03T22:16:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@onlyevesophiee/video/7285888009185037600</id>
+    <title>I dont make the rules</title>
+    <updated>2023-10-04T00:07:15+00:00</updated>
+    <content>I dont make the rules</content>
+    <link href="https://www.tiktok.com/@onlyevesophiee/video/7285888009185037600" rel="alternate"/>
+    <published>2023-10-04T00:07:15+00:00</published>
   </entry>
 </feed>
