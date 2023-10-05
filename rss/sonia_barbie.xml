@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@sonia_barbie</id>
   <title>@sonia_barbie | TikTok</title>
-  <updated>2023-10-02T17:40:28+00:00</updated>
+  <updated>2023-10-04T13:32:48+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @sonia_barbie</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@sonia_barbie/video/7284295191362604330</id>
-    <title>I am toxigue </title>
-    <updated>2023-09-29T17:05:49+00:00</updated>
-    <content>I am toxigue </content>
-    <link href="https://www.tiktok.com/@sonia_barbie/video/7284295191362604330" rel="alternate"/>
-    <published>2023-09-29T17:05:49+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@sonia_barbie/video/7284620254989471022</id>
     <title>@wildnout  season 20 finale😂🥰🥰🥰 You can watch full video on my YouTube channel 🙌🏿</title>
@@ -51,5 +43,13 @@
     <content>I had so much fun at @LagosNYC thank you for having me 🇳🇬❤️❤️</content>
     <link href="https://www.tiktok.com/@sonia_barbie/video/7285417357109890347" rel="alternate"/>
     <published>2023-10-02T17:40:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@sonia_barbie/video/7286095630773079339</id>
+    <title>#onthisday </title>
+    <updated>2023-10-04T13:32:48+00:00</updated>
+    <content>#onthisday </content>
+    <link href="https://www.tiktok.com/@sonia_barbie/video/7286095630773079339" rel="alternate"/>
+    <published>2023-10-04T13:32:48+00:00</published>
   </entry>
 </feed>

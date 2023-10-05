@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@circusfaery33</id>
   <title>@circusfaery33 | TikTok</title>
-  <updated>2023-10-04T00:54:41+00:00</updated>
+  <updated>2023-10-05T00:47:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @circusfaery33</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7285126897283943722</id>
-    <title>Replying to @Judahrising He was, but I wish more immigrants were like him in terms of listening to marginalized people and not adopting the opinions of the oppressors, and his dedication to solidarity. #asianamerican #modelminority #solidarity</title>
-    <updated>2023-10-01T22:53:19+00:00</updated>
-    <content>Replying to @Judahrising He was, but I wish more immigrants were like him in terms of listening to marginalized people and not adopting the opinions of the oppressors, and his dedication to solidarity. #asianamerican #modelminority #solidarity</content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7285126897283943722" rel="alternate"/>
-    <published>2023-10-01T22:53:19+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7285412619576544555</id>
-    <title>Replying to @timtheearthisround #greenscreen Nah-what isn't needed is the HWCUs that did discriminate.</title>
-    <updated>2023-10-02T17:22:17+00:00</updated>
-    <content>Replying to @timtheearthisround #greenscreen Nah-what isn't needed is the HWCUs that did discriminate.</content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7285412619576544555" rel="alternate"/>
-    <published>2023-10-02T17:22:17+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@circusfaery33/video/7285432096556993834</id>
     <title>Replying to @Miranda Derechco Oppressors will never help you win unless it bemefits them first. If they were capable of accepting, helping and sharing, they wouldn't be oppressors. </title>
@@ -51,5 +35,21 @@
     <content>Replying to @paroxycus 🥰 Honestly, I'm very fortunate because it was assigned reading when I was in high school. It is so necessary for young people to be introduced to different perspectives and experiences through literature. #bannedbooksweek #bannedbookweek </content>
     <link href="https://www.tiktok.com/@circusfaery33/video/7285900349280488746" rel="alternate"/>
     <published>2023-10-04T00:54:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7286130112708250923</id>
+    <title>Replying to @Lee Foreman If you feel strongly, and it continues to cause you harm, rather than co-opting conversations about reparations for Black Americans, put in the labor and do your own advocacy work. But I bet you won't. #asianamerican #modelminorit</title>
+    <updated>2023-10-04T15:46:21+00:00</updated>
+    <content>Replying to @Lee Foreman If you feel strongly, and it continues to cause you harm, rather than co-opting conversations about reparations for Black Americans, put in the labor and do your own advocacy work. But I bet you won't. #asianamerican #modelminority #antiracism #solidarity</content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7286130112708250923" rel="alternate"/>
+    <published>2023-10-04T15:46:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7286269471746968878</id>
+    <title>Replying to @Halloweenglow Basically, the reason Black Kung Fu films are not appropriation is because there was mutual love and respect. #asianamerican #modelminority #solidarity</title>
+    <updated>2023-10-05T00:47:05+00:00</updated>
+    <content>Replying to @Halloweenglow Basically, the reason Black Kung Fu films are not appropriation is because there was mutual love and respect. #asianamerican #modelminority #solidarity</content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7286269471746968878" rel="alternate"/>
+    <published>2023-10-05T00:47:05+00:00</published>
   </entry>
 </feed>
