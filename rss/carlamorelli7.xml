@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@carlamorelli7</id>
   <title>@carlamorelli7 | TikTok</title>
-  <updated>2023-10-03T01:33:13+00:00</updated>
+  <updated>2023-10-04T16:42:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @carlamorelli7</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@carlamorelli7/video/7285215595312729350</id>
-    <title>#link #fypシ #sunday </title>
-    <updated>2023-10-02T04:37:20+00:00</updated>
-    <content>#link #fypシ #sunday </content>
-    <link href="https://www.tiktok.com/@carlamorelli7/video/7285215595312729350" rel="alternate"/>
-    <published>2023-10-02T04:37:20+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@carlamorelli7/video/7285460556096523526</id>
     <title>Digan lo que digan 😏 ya me sigues en X ? y si también hay XXX #GOOGLEAR #fypシ #link </title>
@@ -51,5 +43,13 @@
     <content>Welcome october #link #halloween #devil </content>
     <link href="https://www.tiktok.com/@carlamorelli7/video/7285539192333962501" rel="alternate"/>
     <published>2023-10-03T01:33:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@carlamorelli7/video/7286144730105154822</id>
+    <title>❤️‍🔥 #halloween #devil #fypシ #imcarlamorelli_of </title>
+    <updated>2023-10-04T16:42:50+00:00</updated>
+    <content>❤️‍🔥 #halloween #devil #fypシ #imcarlamorelli_of </content>
+    <link href="https://www.tiktok.com/@carlamorelli7/video/7286144730105154822" rel="alternate"/>
+    <published>2023-10-04T16:42:50+00:00</published>
   </entry>
 </feed>
