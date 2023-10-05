@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@onlyevesophiee</id>
   <title>@onlyevesophiee | TikTok</title>
-  <updated>2023-10-04T00:07:15+00:00</updated>
+  <updated>2023-10-05T00:47:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @onlyevesophiee</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@onlyevesophiee/video/7285175824586689825</id>
-    <title>Im just gonna leave this here </title>
-    <updated>2023-10-02T02:04:01+00:00</updated>
-    <content>Im just gonna leave this here </content>
-    <link href="https://www.tiktok.com/@onlyevesophiee/video/7285175824586689825" rel="alternate"/>
-    <published>2023-10-02T02:04:01+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@onlyevesophiee/video/7285518028383472928</id>
     <title>In love 🤭🥰</title>
@@ -51,5 +43,13 @@
     <content>I dont make the rules</content>
     <link href="https://www.tiktok.com/@onlyevesophiee/video/7285888009185037600" rel="alternate"/>
     <published>2023-10-04T00:07:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@onlyevesophiee/video/7286269293669485857</id>
+    <title>Yes or no slow mo action?</title>
+    <updated>2023-10-05T00:47:03+00:00</updated>
+    <content>Yes or no slow mo action?</content>
+    <link href="https://www.tiktok.com/@onlyevesophiee/video/7286269293669485857" rel="alternate"/>
+    <published>2023-10-05T00:47:03+00:00</published>
   </entry>
 </feed>

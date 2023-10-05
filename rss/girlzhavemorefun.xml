@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@girlzhavemorefun</id>
   <title>@girlzhavemorefun | TikTok</title>
-  <updated>2023-08-19T22:25:05+00:00</updated>
+  <updated>2023-10-05T00:04:58+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @girlzhavemorefun</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@girlzhavemorefun/video/7267686839602007339</id>
-    <title>Fav song rn #fyp #viral #acegirlsonly #travisscott </title>
-    <updated>2023-08-15T22:56:57+00:00</updated>
-    <content>Fav song rn #fyp #viral #acegirlsonly #travisscott </content>
-    <link href="https://www.tiktok.com/@girlzhavemorefun/video/7267686839602007339" rel="alternate"/>
-    <published>2023-08-15T22:56:57+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@girlzhavemorefun/video/7267973716087278891</id>
-    <title>Ughhh #fyp #acegirlsonly #viral #men </title>
-    <updated>2023-08-16T17:30:12+00:00</updated>
-    <content>Ughhh #fyp #acegirlsonly #viral #men </content>
-    <link href="https://www.tiktok.com/@girlzhavemorefun/video/7267973716087278891" rel="alternate"/>
-    <published>2023-08-16T17:30:12+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@girlzhavemorefun/video/7268823634091822379</id>
     <title>Feelin like a gma in these pjs lol #fyp #acegirlsonly #viral #trending </title>
@@ -51,5 +35,21 @@
     <content>#fyp #acegirlsonly #viral #trending </content>
     <link href="https://www.tiktok.com/@girlzhavemorefun/video/7269162957743934762" rel="alternate"/>
     <published>2023-08-19T22:25:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@girlzhavemorefun/video/7286258251925163310</id>
+    <title>🏴 #acegirlsonly #fyp #bodypositivity #girl </title>
+    <updated>2023-10-05T00:03:32+00:00</updated>
+    <content>🏴 #acegirlsonly #fyp #bodypositivity #girl </content>
+    <link href="https://www.tiktok.com/@girlzhavemorefun/video/7286258251925163310" rel="alternate"/>
+    <published>2023-10-05T00:03:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@girlzhavemorefun/video/7286258626807762219</id>
+    <title>🏴 #acegirlsonly #fyp #bodypositivity #girl </title>
+    <updated>2023-10-05T00:04:58+00:00</updated>
+    <content>🏴 #acegirlsonly #fyp #bodypositivity #girl </content>
+    <link href="https://www.tiktok.com/@girlzhavemorefun/video/7286258626807762219" rel="alternate"/>
+    <published>2023-10-05T00:04:58+00:00</published>
   </entry>
 </feed>
