@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@lisettrey</id>
   <title>@lisettrey | TikTok</title>
-  <updated>2023-10-04T03:35:48+00:00</updated>
+  <updated>2023-10-03T17:03:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @lisettrey</subtitle>
+  <entry>
+    <id>https://www.tiktok.com/@lisettrey/video/7285099485716286725</id>
+    <title>Your fav✨</title>
+    <updated>2023-10-01T21:06:45+00:00</updated>
+    <content>Your fav✨</content>
+    <link href="https://www.tiktok.com/@lisettrey/video/7285099485716286725" rel="alternate"/>
+    <published>2023-10-01T21:06:45+00:00</published>
+  </entry>
   <entry>
     <id>https://www.tiktok.com/@lisettrey/video/7285101247902780677</id>
     <title>😘😘😘</title>
@@ -43,13 +51,5 @@
     <content>Toma 👊🏽</content>
     <link href="https://www.tiktok.com/@lisettrey/video/7285779039078386949" rel="alternate"/>
     <published>2023-10-03T17:03:47+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@lisettrey/video/7285941905014213893</id>
-    <title>😽</title>
-    <updated>2023-10-04T03:35:48+00:00</updated>
-    <content>😽</content>
-    <link href="https://www.tiktok.com/@lisettrey/video/7285941905014213893" rel="alternate"/>
-    <published>2023-10-04T03:35:48+00:00</published>
   </entry>
 </feed>
