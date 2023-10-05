@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@_mommymewtwo</id>
   <title>@_mommymewtwo | TikTok</title>
-  <updated>2023-10-04T14:40:10+00:00</updated>
+  <updated>2023-10-05T15:03:18+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @_mommymewtwo</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@_mommymewtwo/video/7283888329488125217</id>
-    <title>Monster quads #musclemommy #fyp #mewtwo </title>
-    <updated>2023-09-28T14:46:54+00:00</updated>
-    <content>Monster quads #musclemommy #fyp #mewtwo </content>
-    <link href="https://www.tiktok.com/@_mommymewtwo/video/7283888329488125217" rel="alternate"/>
-    <published>2023-09-28T14:46:54+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@_mommymewtwo/video/7284265047499476257</id>
     <title>You lookin? #musclemommy #fyp #mewtwo #gymtok </title>
@@ -51,5 +43,13 @@
     <content>😘🫶🏻 #musclemommy #mewtwo #fyp #glutepump </content>
     <link href="https://www.tiktok.com/@_mommymewtwo/video/7286113100888132897" rel="alternate"/>
     <published>2023-10-04T14:40:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@_mommymewtwo/video/7286490144293604640</id>
+    <title>What a bop💕 #mewtwo #fyp #glutepump #gymtok </title>
+    <updated>2023-10-05T15:03:18+00:00</updated>
+    <content>What a bop💕 #mewtwo #fyp #glutepump #gymtok </content>
+    <link href="https://www.tiktok.com/@_mommymewtwo/video/7286490144293604640" rel="alternate"/>
+    <published>2023-10-05T15:03:18+00:00</published>
   </entry>
 </feed>
