@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@juicy.bunz</id>
   <title>@juicy.bunz | TikTok</title>
-  <updated>2023-10-01T22:35:41+00:00</updated>
+  <updated>2023-10-05T21:00:17+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @juicy.bunz</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@juicy.bunz/video/7275429646169197870</id>
-    <title>What i eat in a day 😋  #foodtok #foodie #minivlog </title>
-    <updated>2023-09-05T19:42:59+00:00</updated>
-    <content>What i eat in a day 😋  #foodtok #foodie #minivlog </content>
-    <link href="https://www.tiktok.com/@juicy.bunz/video/7275429646169197870" rel="alternate"/>
-    <published>2023-09-05T19:42:59+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@juicy.bunz/video/7278395858154949931</id>
     <title>Quick and easy post workout meal 😋 turkey and egg scramble with toast on the side. 37 g protein, 372 calories  #postworkoutmeal #cooking #proteinmeals #breakfast #lunch </title>
@@ -51,5 +43,13 @@
     <content>Its the first of the month 😊 and also my birthday month 🎂 </content>
     <link href="https://www.tiktok.com/@juicy.bunz/video/7285122350725762350" rel="alternate"/>
     <published>2023-10-01T22:35:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@juicy.bunz/video/7286582080551554350</id>
+    <title>He’s so Lana coded ❤️  #aesthetic #lanadelrey </title>
+    <updated>2023-10-05T21:00:17+00:00</updated>
+    <content>He’s so Lana coded ❤️  #aesthetic #lanadelrey </content>
+    <link href="https://www.tiktok.com/@juicy.bunz/video/7286582080551554350" rel="alternate"/>
+    <published>2023-10-05T21:00:17+00:00</published>
   </entry>
 </feed>
