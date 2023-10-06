@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@circusfaery33</id>
   <title>@circusfaery33 | TikTok</title>
-  <updated>2023-10-05T00:47:05+00:00</updated>
+  <updated>2023-10-05T19:24:58+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @circusfaery33</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7285432096556993834</id>
-    <title>Replying to @Miranda Derechco Oppressors will never help you win unless it bemefits them first. If they were capable of accepting, helping and sharing, they wouldn't be oppressors. </title>
-    <updated>2023-10-02T18:37:52+00:00</updated>
-    <content>Replying to @Miranda Derechco Oppressors will never help you win unless it bemefits them first. If they were capable of accepting, helping and sharing, they wouldn't be oppressors. </content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7285432096556993834" rel="alternate"/>
-    <published>2023-10-02T18:37:52+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7285453675458301227</id>
-    <title>Replying to @reggie.jackson0 He was born in the US, raised in Homg Kong, and came back to the US when he was 18 to claim US citizenship. </title>
-    <updated>2023-10-02T20:01:26+00:00</updated>
-    <content>Replying to @reggie.jackson0 He was born in the US, raised in Homg Kong, and came back to the US when he was 18 to claim US citizenship. </content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7285453675458301227" rel="alternate"/>
-    <published>2023-10-02T20:01:26+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@circusfaery33/video/7285900349280488746</id>
     <title>Replying to @paroxycus 🥰 Honestly, I'm very fortunate because it was assigned reading when I was in high school. It is so necessary for young people to be introduced to different perspectives and experiences through literature. #bannedbooksweek #bannedboo</title>
@@ -51,5 +35,21 @@
     <content>Replying to @Halloweenglow Basically, the reason Black Kung Fu films are not appropriation is because there was mutual love and respect. #asianamerican #modelminority #solidarity</content>
     <link href="https://www.tiktok.com/@circusfaery33/video/7286269471746968878" rel="alternate"/>
     <published>2023-10-05T00:47:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7286506466427555115</id>
+    <title>Replying to @crouchingdragon76 We agree that there are no mysterious systems of oppression. ✉️ 🍲remacist capitalist patriarchy is obvious and tangible. </title>
+    <updated>2023-10-05T16:06:57+00:00</updated>
+    <content>Replying to @crouchingdragon76 We agree that there are no mysterious systems of oppression. ✉️ 🍲remacist capitalist patriarchy is obvious and tangible. </content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7286506466427555115" rel="alternate"/>
+    <published>2023-10-05T16:06:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7286557530019466542</id>
+    <title>Replying to @Huntertn02 Oh look. The culture of me has invaded the chat.</title>
+    <updated>2023-10-05T19:24:58+00:00</updated>
+    <content>Replying to @Huntertn02 Oh look. The culture of me has invaded the chat.</content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7286557530019466542" rel="alternate"/>
+    <published>2023-10-05T19:24:58+00:00</published>
   </entry>
 </feed>
