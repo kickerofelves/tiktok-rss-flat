@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@lunabends</id>
   <title>@lunabends | TikTok</title>
-  <updated>2023-10-06T16:27:45+00:00</updated>
+  <updated>2023-10-07T02:07:53+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @lunabends</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@lunabends/video/7284668927735500074</id>
-    <title>Just another night 🤷🏽‍♀️  #miami #dancer #nightlife </title>
-    <updated>2023-09-30T17:16:07+00:00</updated>
-    <content>Just another night 🤷🏽‍♀️  #miami #dancer #nightlife </content>
-    <link href="https://www.tiktok.com/@lunabends/video/7284668927735500074" rel="alternate"/>
-    <published>2023-09-30T17:16:07+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@lunabends/video/7285029824895225134</id>
     <title>I'm ready for you October 🖤</title>
@@ -51,5 +43,13 @@
     <content>I love chair can you tell 🤭 #chair #acrochair #chairdance #dancer #flexible </content>
     <link href="https://www.tiktok.com/@lunabends/video/7286882919392578859" rel="alternate"/>
     <published>2023-10-06T16:27:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lunabends/video/7287032473844829482</id>
+    <title>It's the bounce for me 🤭 #dancer #dance #floorwork </title>
+    <updated>2023-10-07T02:07:53+00:00</updated>
+    <content>It's the bounce for me 🤭 #dancer #dance #floorwork </content>
+    <link href="https://www.tiktok.com/@lunabends/video/7287032473844829482" rel="alternate"/>
+    <published>2023-10-07T02:07:53+00:00</published>
   </entry>
 </feed>
