@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@alvine_n</id>
   <title>@alvine_n | TikTok</title>
-  <updated>2023-10-06T20:31:14+00:00</updated>
+  <updated>2023-10-07T11:24:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @alvine_n</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@alvine_n/video/7285477691401243937</id>
-    <title>Replying to @michel albert join my My fitness app includes workouts, nutrition guidance, and access to a private community chat where you can connect with others on a similar journey. You can cancel anytime. Let's take the first step together towards a he</title>
-    <updated>2023-10-02T21:34:29+00:00</updated>
-    <content>Replying to @michel albert join my My fitness app includes workouts, nutrition guidance, and access to a private community chat where you can connect with others on a similar journey. You can cancel anytime. Let's take the first step together towards a healthier you!</content>
-    <link href="https://www.tiktok.com/@alvine_n/video/7285477691401243937" rel="alternate"/>
-    <published>2023-10-02T21:34:29+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@alvine_n/video/7285765337742675232</id>
     <title>Replying to @j_reynolds86 so proud of you hun you’re killing it 🔥🔥🔥💪</title>
@@ -51,5 +43,13 @@
     <content>Replying to @cosmic you need a full workout program &amp; Nuttrition join body recomposition challenge first link in my bio &amp; once you have. The app join my private community chat through your settings let’s chat there ❤️</content>
     <link href="https://www.tiktok.com/@alvine_n/video/7286945751886728481" rel="alternate"/>
     <published>2023-10-06T20:31:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@alvine_n/video/7287175942382964001</id>
+    <title>😱 An 8-week transformation! 🔥🔥 This is how good you'll look if you commit for 8 weeks. Consistency is key 🔑. Glute growth ✅, slim arms ✅, reduced belly fat ✅, and a toned, tight body ✅. First link in my bio to join allso join my private community chat for</title>
+    <updated>2023-10-07T11:24:33+00:00</updated>
+    <content>😱 An 8-week transformation! 🔥🔥 This is how good you'll look if you commit for 8 weeks. Consistency is key 🔑. Glute growth ✅, slim arms ✅, reduced belly fat ✅, and a toned, tight body ✅. First link in my bio to join allso join my private community chat for daily support &amp; motivation ❤️</content>
+    <link href="https://www.tiktok.com/@alvine_n/video/7287175942382964001" rel="alternate"/>
+    <published>2023-10-07T11:24:33+00:00</published>
   </entry>
 </feed>
