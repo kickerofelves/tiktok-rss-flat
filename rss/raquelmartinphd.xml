@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@raquelmartinphd</id>
   <title>@raquelmartinphd | TikTok</title>
-  <updated>2023-10-06T16:48:22+00:00</updated>
+  <updated>2023-10-07T18:23:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @raquelmartinphd</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@raquelmartinphd/video/7286193484577688878</id>
-    <title>#mood #college </title>
-    <updated>2023-10-04T19:52:19+00:00</updated>
-    <content>#mood #college </content>
-    <link href="https://www.tiktok.com/@raquelmartinphd/video/7286193484577688878" rel="alternate"/>
-    <published>2023-10-04T19:52:19+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@raquelmartinphd/video/7286273354271771950</id>
     <title>#marriage #relationship </title>
@@ -51,5 +43,13 @@
     <content>I find that envy and jealousy often get confused.  Envy deals with wanting something that someone else has.  While jealousy has a distinct feeling of resentment regarding what someone else has. It's always incredibly helpful to investigate the feelings that arise.  Do not assume that this somehow makes you a "bad" person.  It doesn't.  Think about why you want that item, and let it drive you forward.  How can you work towards obtaining something similar.  Also, ask yourself, do you want the item, what it represents, or how that item makes the person feel?</content>
     <link href="https://www.tiktok.com/@raquelmartinphd/video/7286888256074091822" rel="alternate"/>
     <published>2023-10-06T16:48:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@raquelmartinphd/video/7287283742610181419</id>
+    <title>#greenscreenvideo </title>
+    <updated>2023-10-07T18:23:03+00:00</updated>
+    <content>#greenscreenvideo </content>
+    <link href="https://www.tiktok.com/@raquelmartinphd/video/7287283742610181419" rel="alternate"/>
+    <published>2023-10-07T18:23:03+00:00</published>
   </entry>
 </feed>
