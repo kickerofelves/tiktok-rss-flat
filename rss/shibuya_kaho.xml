@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@shibuya_kaho</id>
   <title>@shibuya_kaho | TikTok</title>
-  <updated>2023-10-07T04:54:44+00:00</updated>
+  <updated>2023-10-07T06:27:57+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @shibuya_kaho</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@shibuya_kaho/video/7286290773669055746</id>
-    <title>[no title]</title>
-    <updated>2023-10-05T02:09:36+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@shibuya_kaho/video/7286290773669055746" rel="alternate"/>
-    <published>2023-10-05T02:09:36+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@shibuya_kaho/video/7286474309529275650</id>
     <title>[no title]</title>
@@ -51,5 +43,13 @@
     <content>This is my living room👍 Studio apartment is fancier, but this feels cozy☺️ こちらがリビング(*´ｰ`*) つい物が多くなってもう‥ スタジオの方はもっとプロフェッショナル感を出したいです！</content>
     <link href="https://www.tiktok.com/@shibuya_kaho/video/7287075497878506754" rel="alternate"/>
     <published>2023-10-07T04:54:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@shibuya_kaho/video/7287099519882300674</id>
+    <title>[no title]</title>
+    <updated>2023-10-07T06:27:57+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@shibuya_kaho/video/7287099519882300674" rel="alternate"/>
+    <published>2023-10-07T06:27:57+00:00</published>
   </entry>
 </feed>
