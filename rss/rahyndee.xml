@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rahyndee</id>
   <title>@rahyndee | TikTok</title>
-  <updated>2023-10-07T01:45:19+00:00</updated>
+  <updated>2023-10-08T00:36:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @rahyndee</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@rahyndee/video/7285875579696581918</id>
-    <title>Strawberry Banana 🍓🍌 #fyp #lasvegas #foryou </title>
-    <updated>2023-10-03T23:18:36+00:00</updated>
-    <content>Strawberry Banana 🍓🍌 #fyp #lasvegas #foryou </content>
-    <link href="https://www.tiktok.com/@rahyndee/video/7285875579696581918" rel="alternate"/>
-    <published>2023-10-03T23:18:36+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@rahyndee/video/7286603620190080287</id>
     <title>Coffee talk ☕️ #fyp #foryou #lasvegas #coffeetiktok </title>
@@ -51,5 +43,13 @@
     <content>Hung out with a Tarantula today 👀🕷️🕸️ #tarantulaspider #spookyseason #lasvegas #fyp #foryou </content>
     <link href="https://www.tiktok.com/@rahyndee/video/7287026663349554463" rel="alternate"/>
     <published>2023-10-07T01:45:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@rahyndee/video/7287379987571789086</id>
+    <title>I can’t resist double peanut butter chip 🤦🏽‍♀️  #fyp #temptation #foryou #funny #lasvegas </title>
+    <updated>2023-10-08T00:36:24+00:00</updated>
+    <content>I can’t resist double peanut butter chip 🤦🏽‍♀️  #fyp #temptation #foryou #funny #lasvegas </content>
+    <link href="https://www.tiktok.com/@rahyndee/video/7287379987571789086" rel="alternate"/>
+    <published>2023-10-08T00:36:24+00:00</published>
   </entry>
 </feed>
