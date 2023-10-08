@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@woesenpai69</id>
   <title>@woesenpai69 | TikTok</title>
-  <updated>2023-10-04T19:07:48+00:00</updated>
+  <updated>2023-10-08T01:55:31+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @woesenpai69</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@woesenpai69/video/7286134684684274987</id>
-    <title>Lmfaooo</title>
-    <updated>2023-10-04T16:04:21+00:00</updated>
-    <content>Lmfaooo</content>
-    <link href="https://www.tiktok.com/@woesenpai69/video/7286134684684274987" rel="alternate"/>
-    <published>2023-10-04T16:04:21+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@woesenpai69/video/7286135594848242987</id>
-    <title>[no title]</title>
-    <updated>2023-10-04T16:07:45+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@woesenpai69/video/7286135594848242987" rel="alternate"/>
-    <published>2023-10-04T16:07:45+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@woesenpai69/video/7286136368638577966</id>
-    <title>Its PLANT BASED </title>
-    <updated>2023-10-04T16:10:46+00:00</updated>
-    <content>Its PLANT BASED </content>
-    <link href="https://www.tiktok.com/@woesenpai69/video/7286136368638577966" rel="alternate"/>
-    <published>2023-10-04T16:10:46+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@woesenpai69/video/7286138177604029742</id>
     <title>Why skims did me dirty like that smh </title>
@@ -51,5 +27,29 @@
     <content>[no description]</content>
     <link href="https://www.tiktok.com/@woesenpai69/video/7286182004259949870" rel="alternate"/>
     <published>2023-10-04T19:07:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@woesenpai69/video/7287250045617900842</id>
+    <title>Tretinoin UPDATE!!! GET IT </title>
+    <updated>2023-10-07T16:12:11+00:00</updated>
+    <content>Tretinoin UPDATE!!! GET IT </content>
+    <link href="https://www.tiktok.com/@woesenpai69/video/7287250045617900842" rel="alternate"/>
+    <published>2023-10-07T16:12:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@woesenpai69/video/7287389653588659499</id>
+    <title>OOTN</title>
+    <updated>2023-10-08T01:14:00+00:00</updated>
+    <content>OOTN</content>
+    <link href="https://www.tiktok.com/@woesenpai69/video/7287389653588659499" rel="alternate"/>
+    <published>2023-10-08T01:14:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@woesenpai69/video/7287400368206564651</id>
+    <title>OOTD </title>
+    <updated>2023-10-08T01:55:31+00:00</updated>
+    <content>OOTD </content>
+    <link href="https://www.tiktok.com/@woesenpai69/video/7287400368206564651" rel="alternate"/>
+    <published>2023-10-08T01:55:31+00:00</published>
   </entry>
 </feed>
