@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@shibuya_kaho</id>
   <title>@shibuya_kaho | TikTok</title>
-  <updated>2023-10-07T06:27:57+00:00</updated>
+  <updated>2023-10-08T03:56:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @shibuya_kaho</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@shibuya_kaho/video/7286474309529275650</id>
-    <title>[no title]</title>
-    <updated>2023-10-05T14:01:49+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@shibuya_kaho/video/7286474309529275650" rel="alternate"/>
-    <published>2023-10-05T14:01:49+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@shibuya_kaho/video/7286481375484595458</id>
-    <title>Home after ①massage ②location hunting for next shoot ③meeting up w/ Markman for dinner meeting and crane game (I'll upload the result later!)👍  I miss you when I'm not streaming, chat~ See you next time🫶 明日は出演するアニメのオーディオコメンタリー収録と告知動画撮り٩( ᐛ )و 声のお仕事は新人なので緊</title>
-    <updated>2023-10-05T14:29:14+00:00</updated>
-    <content>Home after ①massage ②location hunting for next shoot ③meeting up w/ Markman for dinner meeting and crane game (I'll upload the result later!)👍  I miss you when I'm not streaming, chat~ See you next time🫶 明日は出演するアニメのオーディオコメンタリー収録と告知動画撮り٩( ᐛ )و 声のお仕事は新人なので緊張する為、ちゃんと寝ます！お休みなさい💤　次のTwitch配信でまたお喋りしましょう🎵</content>
-    <link href="https://www.tiktok.com/@shibuya_kaho/video/7286481375484595458" rel="alternate"/>
-    <published>2023-10-05T14:29:14+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@shibuya_kaho/video/7286713720460315906</id>
     <title>Crane game w/ Markman🎮 We only got small plushies, but they're so adorable! EVOのマークマンと恒例のクレーンゲーム (乂 ټ ) 小さいのしか取れなかったけど、きゃわいい〜</title>
@@ -51,5 +35,21 @@
     <content>[no description]</content>
     <link href="https://www.tiktok.com/@shibuya_kaho/video/7287099519882300674" rel="alternate"/>
     <published>2023-10-07T06:27:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@shibuya_kaho/video/7287183539093785858</id>
+    <title>[no title]</title>
+    <updated>2023-10-07T11:54:00+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@shibuya_kaho/video/7287183539093785858" rel="alternate"/>
+    <published>2023-10-07T11:54:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@shibuya_kaho/video/7287431495709412610</id>
+    <title>[no title]</title>
+    <updated>2023-10-08T03:56:12+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@shibuya_kaho/video/7287431495709412610" rel="alternate"/>
+    <published>2023-10-08T03:56:12+00:00</published>
   </entry>
 </feed>
