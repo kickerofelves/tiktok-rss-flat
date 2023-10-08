@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@girlzhavemorefun</id>
   <title>@girlzhavemorefun | TikTok</title>
-  <updated>2023-10-08T01:25:28+00:00</updated>
+  <updated>2023-10-08T16:16:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @girlzhavemorefun</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@girlzhavemorefun/video/7287074651136609578</id>
-    <title>#fypシ #fakebody #beach </title>
-    <updated>2023-10-07T04:51:44+00:00</updated>
-    <content>#fypシ #fakebody #beach </content>
-    <link href="https://www.tiktok.com/@girlzhavemorefun/video/7287074651136609578" rel="alternate"/>
-    <published>2023-10-07T04:51:44+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@girlzhavemorefun/video/7287287293524577578</id>
     <title>#fakebody #fypシ #beach </title>
@@ -51,5 +43,13 @@
     <content>#fypシ #fakebody #natural </content>
     <link href="https://www.tiktok.com/@girlzhavemorefun/video/7287392621159468334" rel="alternate"/>
     <published>2023-10-08T01:25:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@girlzhavemorefun/video/7287622304140365099</id>
+    <title>#fypシ #bodypositivity #natural #girl </title>
+    <updated>2023-10-08T16:16:47+00:00</updated>
+    <content>#fypシ #bodypositivity #natural #girl </content>
+    <link href="https://www.tiktok.com/@girlzhavemorefun/video/7287622304140365099" rel="alternate"/>
+    <published>2023-10-08T16:16:47+00:00</published>
   </entry>
 </feed>
