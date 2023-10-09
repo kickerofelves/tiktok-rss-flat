@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@raquelmartinphd</id>
   <title>@raquelmartinphd | TikTok</title>
-  <updated>2023-10-08T00:32:23+00:00</updated>
+  <updated>2023-10-09T00:26:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @raquelmartinphd</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@raquelmartinphd/video/7286539783046827307</id>
-    <title>[no title]</title>
-    <updated>2023-10-05T18:16:11+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@raquelmartinphd/video/7286539783046827307" rel="alternate"/>
-    <published>2023-10-05T18:16:11+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@raquelmartinphd/video/7286623726097927466</id>
     <title>#parenting #fear #gentleparenting #consciousparenting </title>
@@ -51,5 +43,13 @@
     <content>You should be talking to your children about sex AND sexuality. They’re not the same thing. There’s a difference between the physical acitivity involved in intercourse and sexuality.  Sexuality is a much broader topic and it involves sexual orientation, preferences, and experiences. Sexuality also deals with how an individual perceives and expresses their sexual self via aspects of their identity, orientation, roles, and activities. Talking about sex and sexuality does NOT mean your child will go out and smang everyone in sight. It DOES mean that they’re more likely to advocate for themselves, communicate effectively, and feel empowered in their choices.</content>
     <link href="https://www.tiktok.com/@raquelmartinphd/video/7287378942036856110" rel="alternate"/>
     <published>2023-10-08T00:32:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@raquelmartinphd/video/7287748625055239467</id>
+    <title>#hbcu #tnstate #tsu #homecoming </title>
+    <updated>2023-10-09T00:26:59+00:00</updated>
+    <content>#hbcu #tnstate #tsu #homecoming </content>
+    <link href="https://www.tiktok.com/@raquelmartinphd/video/7287748625055239467" rel="alternate"/>
+    <published>2023-10-09T00:26:59+00:00</published>
   </entry>
 </feed>
