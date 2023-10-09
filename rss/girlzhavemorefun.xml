@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@girlzhavemorefun</id>
   <title>@girlzhavemorefun | TikTok</title>
-  <updated>2023-10-08T16:16:47+00:00</updated>
+  <updated>2023-10-09T05:34:29+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @girlzhavemorefun</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@girlzhavemorefun/video/7287287293524577578</id>
-    <title>#fakebody #fypシ #beach </title>
-    <updated>2023-10-07T18:36:43+00:00</updated>
-    <content>#fakebody #fypシ #beach </content>
-    <link href="https://www.tiktok.com/@girlzhavemorefun/video/7287287293524577578" rel="alternate"/>
-    <published>2023-10-07T18:36:43+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@girlzhavemorefun/video/7287325924440362286</id>
-    <title>#fypシ #fakebody #bodypositivity </title>
-    <updated>2023-10-07T21:06:40+00:00</updated>
-    <content>#fypシ #fakebody #bodypositivity </content>
-    <link href="https://www.tiktok.com/@girlzhavemorefun/video/7287325924440362286" rel="alternate"/>
-    <published>2023-10-07T21:06:40+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@girlzhavemorefun/video/7287353125025991982</id>
-    <title>#fyp #fypシ #fakebody </title>
-    <updated>2023-10-07T22:52:10+00:00</updated>
-    <content>#fyp #fypシ #fakebody </content>
-    <link href="https://www.tiktok.com/@girlzhavemorefun/video/7287353125025991982" rel="alternate"/>
-    <published>2023-10-07T22:52:10+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@girlzhavemorefun/video/7287392621159468334</id>
     <title>#fypシ #fakebody #natural </title>
@@ -51,5 +27,29 @@
     <content>#fypシ #bodypositivity #natural #girl </content>
     <link href="https://www.tiktok.com/@girlzhavemorefun/video/7287622304140365099" rel="alternate"/>
     <published>2023-10-08T16:16:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@girlzhavemorefun/video/7287711875108850986</id>
+    <title>#fypシ #bodypositivity #fakebody </title>
+    <updated>2023-10-08T22:04:21+00:00</updated>
+    <content>#fypシ #bodypositivity #fakebody </content>
+    <link href="https://www.tiktok.com/@girlzhavemorefun/video/7287711875108850986" rel="alternate"/>
+    <published>2023-10-08T22:04:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@girlzhavemorefun/video/7287739632148565291</id>
+    <title>#fypシ #bodypositivity #fakebody #natural </title>
+    <updated>2023-10-08T23:52:05+00:00</updated>
+    <content>#fypシ #bodypositivity #fakebody #natural </content>
+    <link href="https://www.tiktok.com/@girlzhavemorefun/video/7287739632148565291" rel="alternate"/>
+    <published>2023-10-08T23:52:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@girlzhavemorefun/video/7287827894334786862</id>
+    <title>😋 #fypシ #bodypositivity #fakebody </title>
+    <updated>2023-10-09T05:34:29+00:00</updated>
+    <content>😋 #fypシ #bodypositivity #fakebody </content>
+    <link href="https://www.tiktok.com/@girlzhavemorefun/video/7287827894334786862" rel="alternate"/>
+    <published>2023-10-09T05:34:29+00:00</published>
   </entry>
 </feed>
