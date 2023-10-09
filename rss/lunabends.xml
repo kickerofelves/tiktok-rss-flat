@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@lunabends</id>
   <title>@lunabends | TikTok</title>
-  <updated>2023-10-08T15:07:19+00:00</updated>
+  <updated>2023-10-09T16:08:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @lunabends</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@lunabends/video/7285817034263317802</id>
-    <title>Vibes 💃🏽  #poletok #dancer #spinpole #poletricks </title>
-    <updated>2023-10-03T19:31:26+00:00</updated>
-    <content>Vibes 💃🏽  #poletok #dancer #spinpole #poletricks </content>
-    <link href="https://www.tiktok.com/@lunabends/video/7285817034263317802" rel="alternate"/>
-    <published>2023-10-03T19:31:26+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@lunabends/video/7286575152878374186</id>
-    <title>Chair ishhh  #acrochair #chairdance #chairtricks </title>
-    <updated>2023-10-05T20:33:18+00:00</updated>
-    <content>Chair ishhh  #acrochair #chairdance #chairtricks </content>
-    <link href="https://www.tiktok.com/@lunabends/video/7286575152878374186" rel="alternate"/>
-    <published>2023-10-05T20:33:18+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@lunabends/video/7286882919392578859</id>
     <title>I love chair can you tell 🤭 #chair #acrochair #chairdance #dancer #flexible </title>
@@ -51,5 +35,21 @@
     <content>Deff my fave split drop 🤭 #dance #dancer #flexible #floorwork </content>
     <link href="https://www.tiktok.com/@lunabends/video/7287604412556512555" rel="alternate"/>
     <published>2023-10-08T15:07:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lunabends/video/7287944200790756651</id>
+    <title>Dark vibes are 4ever  #dance #dancer #chairdance #chairtricks #flexible </title>
+    <updated>2023-10-09T13:05:49+00:00</updated>
+    <content>Dark vibes are 4ever  #dance #dancer #chairdance #chairtricks #flexible </content>
+    <link href="https://www.tiktok.com/@lunabends/video/7287944200790756651" rel="alternate"/>
+    <published>2023-10-09T13:05:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lunabends/video/7287991331614608686</id>
+    <title>I'm on my 36th book for the year 🤓  #beachlife #beach #saltlife #books #reader </title>
+    <updated>2023-10-09T16:08:42+00:00</updated>
+    <content>I'm on my 36th book for the year 🤓  #beachlife #beach #saltlife #books #reader </content>
+    <link href="https://www.tiktok.com/@lunabends/video/7287991331614608686" rel="alternate"/>
+    <published>2023-10-09T16:08:42+00:00</published>
   </entry>
 </feed>
