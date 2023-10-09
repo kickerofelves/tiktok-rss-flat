@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@raquelmartinphd</id>
   <title>@raquelmartinphd | TikTok</title>
-  <updated>2023-10-09T00:26:59+00:00</updated>
+  <updated>2023-10-09T17:09:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @raquelmartinphd</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@raquelmartinphd/video/7286623726097927466</id>
-    <title>#parenting #fear #gentleparenting #consciousparenting </title>
-    <updated>2023-10-05T23:41:45+00:00</updated>
-    <content>#parenting #fear #gentleparenting #consciousparenting </content>
-    <link href="https://www.tiktok.com/@raquelmartinphd/video/7286623726097927466" rel="alternate"/>
-    <published>2023-10-05T23:41:45+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@raquelmartinphd/video/7286888256074091822</id>
     <title>I find that envy and jealousy often get confused.  Envy deals with wanting something that someone else has.  While jealousy has a distinct feeling of resentment regarding what someone else has. It's always incredibly helpful to investigate the feelings th</title>
@@ -51,5 +43,13 @@
     <content>#hbcu #tnstate #tsu #homecoming </content>
     <link href="https://www.tiktok.com/@raquelmartinphd/video/7287748625055239467" rel="alternate"/>
     <published>2023-10-09T00:26:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@raquelmartinphd/video/7288007071939710250</id>
+    <title>My mood for the entire day, week, year, lifetime. #indigenous #indigenouspeoplesday </title>
+    <updated>2023-10-09T17:09:47+00:00</updated>
+    <content>My mood for the entire day, week, year, lifetime. #indigenous #indigenouspeoplesday </content>
+    <link href="https://www.tiktok.com/@raquelmartinphd/video/7288007071939710250" rel="alternate"/>
+    <published>2023-10-09T17:09:47+00:00</published>
   </entry>
 </feed>
