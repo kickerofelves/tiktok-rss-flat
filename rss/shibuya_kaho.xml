@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@shibuya_kaho</id>
   <title>@shibuya_kaho | TikTok</title>
-  <updated>2023-10-08T03:56:12+00:00</updated>
+  <updated>2023-10-08T18:03:38+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -13,28 +13,12 @@
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @shibuya_kaho</subtitle>
   <entry>
-    <id>https://www.tiktok.com/@shibuya_kaho/video/7286713720460315906</id>
-    <title>Crane game w/ Markman🎮 We only got small plushies, but they're so adorable! EVOのマークマンと恒例のクレーンゲーム (乂 ټ ) 小さいのしか取れなかったけど、きゃわいい〜</title>
-    <updated>2023-10-06T05:30:53+00:00</updated>
-    <content>Crane game w/ Markman🎮 We only got small plushies, but they're so adorable! EVOのマークマンと恒例のクレーンゲーム (乂 ټ ) 小さいのしか取れなかったけど、きゃわいい〜</content>
-    <link href="https://www.tiktok.com/@shibuya_kaho/video/7286713720460315906" rel="alternate"/>
-    <published>2023-10-06T05:30:53+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.tiktok.com/@shibuya_kaho/video/7287075497878506754</id>
     <title>This is my living room👍 Studio apartment is fancier, but this feels cozy☺️ こちらがリビング(*´ｰ`*) つい物が多くなってもう‥ スタジオの方はもっとプロフェッショナル感を出したいです！</title>
     <updated>2023-10-07T04:54:44+00:00</updated>
     <content>This is my living room👍 Studio apartment is fancier, but this feels cozy☺️ こちらがリビング(*´ｰ`*) つい物が多くなってもう‥ スタジオの方はもっとプロフェッショナル感を出したいです！</content>
     <link href="https://www.tiktok.com/@shibuya_kaho/video/7287075497878506754" rel="alternate"/>
     <published>2023-10-07T04:54:44+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@shibuya_kaho/video/7287099519882300674</id>
-    <title>[no title]</title>
-    <updated>2023-10-07T06:27:57+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@shibuya_kaho/video/7287099519882300674" rel="alternate"/>
-    <published>2023-10-07T06:27:57+00:00</published>
   </entry>
   <entry>
     <id>https://www.tiktok.com/@shibuya_kaho/video/7287183539093785858</id>
@@ -51,5 +35,21 @@
     <content>[no description]</content>
     <link href="https://www.tiktok.com/@shibuya_kaho/video/7287431495709412610" rel="alternate"/>
     <published>2023-10-08T03:56:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@shibuya_kaho/video/7287567238020812034</id>
+    <title>豆家genge (Mameya genge)</title>
+    <updated>2023-10-08T12:42:55+00:00</updated>
+    <content>豆家genge (Mameya genge)</content>
+    <link href="https://www.tiktok.com/@shibuya_kaho/video/7287567238020812034" rel="alternate"/>
+    <published>2023-10-08T12:42:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@shibuya_kaho/video/7287649881303338242</id>
+    <title>Hot pot time🔥 新宿の海底撈火鍋は朝6時まで開いてる！</title>
+    <updated>2023-10-08T18:03:38+00:00</updated>
+    <content>Hot pot time🔥 新宿の海底撈火鍋は朝6時まで開いてる！</content>
+    <link href="https://www.tiktok.com/@shibuya_kaho/video/7287649881303338242" rel="alternate"/>
+    <published>2023-10-08T18:03:38+00:00</published>
   </entry>
 </feed>
