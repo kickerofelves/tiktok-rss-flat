@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rahyndee</id>
   <title>@rahyndee | TikTok</title>
-  <updated>2023-10-08T00:36:24+00:00</updated>
+  <updated>2023-10-10T00:36:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @rahyndee</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@rahyndee/video/7286603620190080287</id>
-    <title>Coffee talk ☕️ #fyp #foryou #lasvegas #coffeetiktok </title>
-    <updated>2023-10-05T22:23:46+00:00</updated>
-    <content>Coffee talk ☕️ #fyp #foryou #lasvegas #coffeetiktok </content>
-    <link href="https://www.tiktok.com/@rahyndee/video/7286603620190080287" rel="alternate"/>
-    <published>2023-10-05T22:23:46+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@rahyndee/video/7286957616587132191</id>
-    <title>Momma needs to be fed 😋🤪 #fyp #foryou #lasvegas </title>
-    <updated>2023-10-06T21:17:27+00:00</updated>
-    <content>Momma needs to be fed 😋🤪 #fyp #foryou #lasvegas </content>
-    <link href="https://www.tiktok.com/@rahyndee/video/7286957616587132191" rel="alternate"/>
-    <published>2023-10-06T21:17:27+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@rahyndee/video/7287021084791164191</id>
     <title>..am I the only one?? 😂🤦🏽‍♀️ #fyp #lasvegas </title>
@@ -51,5 +35,21 @@
     <content>I can’t resist double peanut butter chip 🤦🏽‍♀️  #fyp #temptation #foryou #funny #lasvegas </content>
     <link href="https://www.tiktok.com/@rahyndee/video/7287379987571789086" rel="alternate"/>
     <published>2023-10-08T00:36:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@rahyndee/video/7288074461448883486</id>
+    <title>Got Milk? 🥛 #fyp #milky #lasvegas</title>
+    <updated>2023-10-09T21:31:21+00:00</updated>
+    <content>Got Milk? 🥛 #fyp #milky #lasvegas</content>
+    <link href="https://www.tiktok.com/@rahyndee/video/7288074461448883486" rel="alternate"/>
+    <published>2023-10-09T21:31:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@rahyndee/video/7288122090505407774</id>
+    <title>🍏 #fyp #lasvegas </title>
+    <updated>2023-10-10T00:36:08+00:00</updated>
+    <content>🍏 #fyp #lasvegas </content>
+    <link href="https://www.tiktok.com/@rahyndee/video/7288122090505407774" rel="alternate"/>
+    <published>2023-10-10T00:36:08+00:00</published>
   </entry>
 </feed>
