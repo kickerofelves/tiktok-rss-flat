@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@lunabends</id>
   <title>@lunabends | TikTok</title>
-  <updated>2023-10-09T16:08:42+00:00</updated>
+  <updated>2023-10-10T15:10:04+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @lunabends</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@lunabends/video/7286882919392578859</id>
-    <title>I love chair can you tell 🤭 #chair #acrochair #chairdance #dancer #flexible </title>
-    <updated>2023-10-06T16:27:45+00:00</updated>
-    <content>I love chair can you tell 🤭 #chair #acrochair #chairdance #dancer #flexible </content>
-    <link href="https://www.tiktok.com/@lunabends/video/7286882919392578859" rel="alternate"/>
-    <published>2023-10-06T16:27:45+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@lunabends/video/7287032473844829482</id>
     <title>It's the bounce for me 🤭 #dancer #dance #floorwork </title>
@@ -51,5 +43,13 @@
     <content>I'm on my 36th book for the year 🤓  #beachlife #beach #saltlife #books #reader </content>
     <link href="https://www.tiktok.com/@lunabends/video/7287991331614608686" rel="alternate"/>
     <published>2023-10-09T16:08:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lunabends/video/7288347296411012398</id>
+    <title>Getting flexy at the beach 😊 #beach #saltlife #downdog #stretching #flexible </title>
+    <updated>2023-10-10T15:10:04+00:00</updated>
+    <content>Getting flexy at the beach 😊 #beach #saltlife #downdog #stretching #flexible </content>
+    <link href="https://www.tiktok.com/@lunabends/video/7288347296411012398" rel="alternate"/>
+    <published>2023-10-10T15:10:04+00:00</published>
   </entry>
 </feed>
