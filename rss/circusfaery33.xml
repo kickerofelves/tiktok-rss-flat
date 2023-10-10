@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@circusfaery33</id>
   <title>@circusfaery33 | TikTok</title>
-  <updated>2023-10-08T23:03:04+00:00</updated>
+  <updated>2023-10-09T18:11:37+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @circusfaery33</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7287030564580822314</id>
-    <title>Replying to @joe79767 IAs the majority, if European Americans know what the root cause is and how to fix it, they would have been able to dismantle the systems exploiting them a long time ago.  Maybe they haven't been able to because they are wrong. </title>
-    <updated>2023-10-07T02:00:27+00:00</updated>
-    <content>Replying to @joe79767 IAs the majority, if European Americans know what the root cause is and how to fix it, they would have been able to dismantle the systems exploiting them a long time ago.  Maybe they haven't been able to because they are wrong. </content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7287030564580822314" rel="alternate"/>
-    <published>2023-10-07T02:00:27+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7287237724552187179</id>
-    <title>Replying to @TheSmilingDM Taking, claiming and appropriating requires autonomy that forced assimilation removes. But you tried. </title>
-    <updated>2023-10-07T15:24:28+00:00</updated>
-    <content>Replying to @TheSmilingDM Taking, claiming and appropriating requires autonomy that forced assimilation removes. But you tried. </content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7287237724552187179" rel="alternate"/>
-    <published>2023-10-07T15:24:28+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@circusfaery33/video/7287630566130830634</id>
     <title>Replying to @joe79767 There is no such thing as 'racially harmonius capitalism''--that's what you are failing to understand. </title>
@@ -51,5 +35,21 @@
     <content>Replying to @Elkjin Since K-pop's origin is in Black culture, rap and hip hop--I say, enjoy it as cultural exchange and appreciation come full cycle like I enjoy Ghost Dog and The Last Dragon. </content>
     <link href="https://www.tiktok.com/@circusfaery33/video/7287727000238935342" rel="alternate"/>
     <published>2023-10-08T23:03:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7288002835973770542</id>
+    <title>#greenscreen We need to talk about how conservative members of the US Commission on Civil Rights called Diane Yap as a witness to testify at the hearing on anti-Asian violence, upholding her as 'representative' of the community as a whole. #asianamerican </title>
+    <updated>2023-10-09T16:53:22+00:00</updated>
+    <content>#greenscreen We need to talk about how conservative members of the US Commission on Civil Rights called Diane Yap as a witness to testify at the hearing on anti-Asian violence, upholding her as 'representative' of the community as a whole. #asianamerican #modelminority #antiracism #solidarity #stopaapihatedisinformation </content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7288002835973770542" rel="alternate"/>
+    <published>2023-10-09T16:53:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7288022998743862570</id>
+    <title>Replying to @kaynjay93 Definitely cultural appreciation for me. 🥰 #asianamerican #modelminority #solidarity </title>
+    <updated>2023-10-09T18:11:37+00:00</updated>
+    <content>Replying to @kaynjay93 Definitely cultural appreciation for me. 🥰 #asianamerican #modelminority #solidarity </content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7288022998743862570" rel="alternate"/>
+    <published>2023-10-09T18:11:37+00:00</published>
   </entry>
 </feed>
