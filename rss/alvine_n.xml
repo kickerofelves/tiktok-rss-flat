@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@alvine_n</id>
   <title>@alvine_n | TikTok</title>
-  <updated>2023-10-09T18:32:26+00:00</updated>
+  <updated>2023-10-10T18:24:40+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @alvine_n</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@alvine_n/video/7287584643296005408</id>
-    <title>[no title]</title>
-    <updated>2023-10-08T13:50:27+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@alvine_n/video/7287584643296005408" rel="alternate"/>
-    <published>2023-10-08T13:50:27+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@alvine_n/video/7287983617786105120</id>
     <title>#CapCut #bellyfatloss #losebellyfat #bellyfatworkout #bellyfat #reducebellyfat  How I got rid of my stubborn belly fat: I ate in a calorie deficit and upped my protein intake. I strength train 3-5 times a week and focus on compound exercises. I eat more v</title>
@@ -51,5 +43,13 @@
     <content>Replying to @Foi vee wambui hey you need a custom workout plan aand nutrition! Join my private chat l will help you❤️ first link in my bio #weightloss #workoutmotivation </content>
     <link href="https://www.tiktok.com/@alvine_n/video/7288028390836178209" rel="alternate"/>
     <published>2023-10-09T18:32:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@alvine_n/video/7288397472131517729</id>
+    <title>Achieve yoir dream body &amp; win $3500 cash prize 🏆🏆🏆 entry first link in my bio &amp; join my private chat submit your before photos 🔥🔥🔥</title>
+    <updated>2023-10-10T18:24:40+00:00</updated>
+    <content>Achieve yoir dream body &amp; win $3500 cash prize 🏆🏆🏆 entry first link in my bio &amp; join my private chat submit your before photos 🔥🔥🔥</content>
+    <link href="https://www.tiktok.com/@alvine_n/video/7288397472131517729" rel="alternate"/>
+    <published>2023-10-10T18:24:40+00:00</published>
   </entry>
 </feed>
