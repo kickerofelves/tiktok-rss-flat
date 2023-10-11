@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@woesenpai69</id>
   <title>@woesenpai69 | TikTok</title>
-  <updated>2023-10-08T01:55:31+00:00</updated>
+  <updated>2023-10-10T21:56:40+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @woesenpai69</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@woesenpai69/video/7286138177604029742</id>
-    <title>Why skims did me dirty like that smh </title>
-    <updated>2023-10-04T16:17:47+00:00</updated>
-    <content>Why skims did me dirty like that smh </content>
-    <link href="https://www.tiktok.com/@woesenpai69/video/7286138177604029742" rel="alternate"/>
-    <published>2023-10-04T16:17:47+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@woesenpai69/video/7286182004259949870</id>
     <title>[no title]</title>
@@ -51,5 +43,13 @@
     <content>OOTD </content>
     <link href="https://www.tiktok.com/@woesenpai69/video/7287400368206564651" rel="alternate"/>
     <published>2023-10-08T01:55:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@woesenpai69/video/7288452050617224491</id>
+    <title>Fresh lips im feeling this song way more </title>
+    <updated>2023-10-10T21:56:40+00:00</updated>
+    <content>Fresh lips im feeling this song way more </content>
+    <link href="https://www.tiktok.com/@woesenpai69/video/7288452050617224491" rel="alternate"/>
+    <published>2023-10-10T21:56:40+00:00</published>
   </entry>
 </feed>
