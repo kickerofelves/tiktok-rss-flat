@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@jasminenei11</id>
   <title>@jasminenei11 | TikTok</title>
-  <updated>2023-10-07T01:47:09+00:00</updated>
+  <updated>2023-10-09T20:14:29+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @jasminenei11</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@jasminenei11/video/7280272149573553451</id>
-    <title>[no title]</title>
-    <updated>2023-09-18T20:54:19+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@jasminenei11/video/7280272149573553451" rel="alternate"/>
-    <published>2023-09-18T20:54:19+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@jasminenei11/video/7280413336364191019</id>
     <title>[no title]</title>
@@ -51,5 +43,13 @@
     <content>#fyp </content>
     <link href="https://www.tiktok.com/@jasminenei11/video/7287027152623504686" rel="alternate"/>
     <published>2023-10-07T01:47:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@jasminenei11/video/7288054637561646378</id>
+    <title>#fyp </title>
+    <updated>2023-10-09T20:14:29+00:00</updated>
+    <content>#fyp </content>
+    <link href="https://www.tiktok.com/@jasminenei11/video/7288054637561646378" rel="alternate"/>
+    <published>2023-10-09T20:14:29+00:00</published>
   </entry>
 </feed>
