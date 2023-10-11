@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@lunabends</id>
   <title>@lunabends | TikTok</title>
-  <updated>2023-10-10T15:10:04+00:00</updated>
+  <updated>2023-10-11T12:25:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -13,28 +13,20 @@
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @lunabends</subtitle>
   <entry>
-    <id>https://www.tiktok.com/@lunabends/video/7286882919392578859</id>
-    <title>I love chair can you tell 🤭 #chair #acrochair #chairdance #dancer #flexible </title>
-    <updated>2023-10-06T16:27:45+00:00</updated>
-    <content>I love chair can you tell 🤭 #chair #acrochair #chairdance #dancer #flexible </content>
-    <link href="https://www.tiktok.com/@lunabends/video/7286882919392578859" rel="alternate"/>
-    <published>2023-10-06T16:27:45+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@lunabends/video/7287032473844829482</id>
-    <title>It's the bounce for me 🤭 #dancer #dance #floorwork </title>
-    <updated>2023-10-07T02:07:53+00:00</updated>
-    <content>It's the bounce for me 🤭 #dancer #dance #floorwork </content>
-    <link href="https://www.tiktok.com/@lunabends/video/7287032473844829482" rel="alternate"/>
-    <published>2023-10-07T02:07:53+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.tiktok.com/@lunabends/video/7287604412556512555</id>
     <title>Deff my fave split drop 🤭 #dance #dancer #flexible #floorwork </title>
     <updated>2023-10-08T15:07:19+00:00</updated>
     <content>Deff my fave split drop 🤭 #dance #dancer #flexible #floorwork </content>
     <link href="https://www.tiktok.com/@lunabends/video/7287604412556512555" rel="alternate"/>
     <published>2023-10-08T15:07:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lunabends/video/7287944200790756651</id>
+    <title>Dark vibes are 4ever  #dance #dancer #chairdance #chairtricks #flexible </title>
+    <updated>2023-10-09T13:05:49+00:00</updated>
+    <content>Dark vibes are 4ever  #dance #dancer #chairdance #chairtricks #flexible </content>
+    <link href="https://www.tiktok.com/@lunabends/video/7287944200790756651" rel="alternate"/>
+    <published>2023-10-09T13:05:49+00:00</published>
   </entry>
   <entry>
     <id>https://www.tiktok.com/@lunabends/video/7287991331614608686</id>
@@ -51,5 +43,13 @@
     <content>Getting flexy at the beach 😊 #beach #saltlife #downdog #stretching #flexible </content>
     <link href="https://www.tiktok.com/@lunabends/video/7288347296411012398" rel="alternate"/>
     <published>2023-10-10T15:10:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lunabends/video/7288675906845969710</id>
+    <title>Fall Florida weather 🤭 #beach #saltlife #beachlife </title>
+    <updated>2023-10-11T12:25:32+00:00</updated>
+    <content>Fall Florida weather 🤭 #beach #saltlife #beachlife </content>
+    <link href="https://www.tiktok.com/@lunabends/video/7288675906845969710" rel="alternate"/>
+    <published>2023-10-11T12:25:32+00:00</published>
   </entry>
 </feed>
