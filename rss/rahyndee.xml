@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rahyndee</id>
   <title>@rahyndee | TikTok</title>
-  <updated>2023-10-10T00:36:08+00:00</updated>
+  <updated>2023-10-12T00:18:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @rahyndee</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@rahyndee/video/7287021084791164191</id>
-    <title>..am I the only one?? 😂🤦🏽‍♀️ #fyp #lasvegas </title>
-    <updated>2023-10-07T01:23:43+00:00</updated>
-    <content>..am I the only one?? 😂🤦🏽‍♀️ #fyp #lasvegas </content>
-    <link href="https://www.tiktok.com/@rahyndee/video/7287021084791164191" rel="alternate"/>
-    <published>2023-10-07T01:23:43+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@rahyndee/video/7287026663349554463</id>
     <title>Hung out with a Tarantula today 👀🕷️🕸️ #tarantulaspider #spookyseason #lasvegas #fyp #foryou </title>
@@ -51,5 +43,13 @@
     <content>🍏 #fyp #lasvegas </content>
     <link href="https://www.tiktok.com/@rahyndee/video/7288122090505407774" rel="alternate"/>
     <published>2023-10-10T00:36:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@rahyndee/video/7288859726924827934</id>
+    <title>..the beginning to some kind of movie 🙃 #fyp #foryou #lasvegas </title>
+    <updated>2023-10-12T00:18:32+00:00</updated>
+    <content>..the beginning to some kind of movie 🙃 #fyp #foryou #lasvegas </content>
+    <link href="https://www.tiktok.com/@rahyndee/video/7288859726924827934" rel="alternate"/>
+    <published>2023-10-12T00:18:32+00:00</published>
   </entry>
 </feed>
