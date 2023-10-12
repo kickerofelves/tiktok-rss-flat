@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@lunabends</id>
   <title>@lunabends | TikTok</title>
-  <updated>2023-10-11T12:25:32+00:00</updated>
+  <updated>2023-10-11T14:52:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @lunabends</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@lunabends/video/7287604412556512555</id>
-    <title>Deff my fave split drop 🤭 #dance #dancer #flexible #floorwork </title>
-    <updated>2023-10-08T15:07:19+00:00</updated>
-    <content>Deff my fave split drop 🤭 #dance #dancer #flexible #floorwork </content>
-    <link href="https://www.tiktok.com/@lunabends/video/7287604412556512555" rel="alternate"/>
-    <published>2023-10-08T15:07:19+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@lunabends/video/7287944200790756651</id>
     <title>Dark vibes are 4ever  #dance #dancer #chairdance #chairtricks #flexible </title>
@@ -51,5 +43,13 @@
     <content>Fall Florida weather 🤭 #beach #saltlife #beachlife </content>
     <link href="https://www.tiktok.com/@lunabends/video/7288675906845969710" rel="alternate"/>
     <published>2023-10-11T12:25:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lunabends/video/7288713782245821739</id>
+    <title>👿  #halloween2023 </title>
+    <updated>2023-10-11T14:52:27+00:00</updated>
+    <content>👿  #halloween2023 </content>
+    <link href="https://www.tiktok.com/@lunabends/video/7288713782245821739" rel="alternate"/>
+    <published>2023-10-11T14:52:27+00:00</published>
   </entry>
 </feed>
