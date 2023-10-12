@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@sonia_barbie</id>
   <title>@sonia_barbie | TikTok</title>
-  <updated>2023-10-09T12:43:28+00:00</updated>
+  <updated>2023-10-11T21:48:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @sonia_barbie</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@sonia_barbie/video/7286330162499636522</id>
-    <title>How guys talk to your girl after y'all break up @Ini_cash </title>
-    <updated>2023-10-05T04:42:42+00:00</updated>
-    <content>How guys talk to your girl after y'all break up @Ini_cash </content>
-    <link href="https://www.tiktok.com/@sonia_barbie/video/7286330162499636522" rel="alternate"/>
-    <published>2023-10-05T04:42:42+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@sonia_barbie/video/7286473876383747374</id>
-    <title>Dress @Troy Massa </title>
-    <updated>2023-10-05T14:00:38+00:00</updated>
-    <content>Dress @Troy Massa </content>
-    <link href="https://www.tiktok.com/@sonia_barbie/video/7286473876383747374" rel="alternate"/>
-    <published>2023-10-05T14:00:38+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@sonia_barbie/video/7287617559837281578</id>
     <title>🎥🎥🔥🔥</title>
@@ -51,5 +35,21 @@
     <content>[no description]</content>
     <link href="https://www.tiktok.com/@sonia_barbie/video/7287938429004909867" rel="alternate"/>
     <published>2023-10-09T12:43:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@sonia_barbie/video/7288721939030641966</id>
+    <title>Loving these @CUCCOO boots </title>
+    <updated>2023-10-11T15:24:15+00:00</updated>
+    <content>Loving these @CUCCOO boots </content>
+    <link href="https://www.tiktok.com/@sonia_barbie/video/7288721939030641966" rel="alternate"/>
+    <published>2023-10-11T15:24:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@sonia_barbie/video/7288820944733228331</id>
+    <title>Loving my @Don Morphy suit 💚✅</title>
+    <updated>2023-10-11T21:48:03+00:00</updated>
+    <content>Loving my @Don Morphy suit 💚✅</content>
+    <link href="https://www.tiktok.com/@sonia_barbie/video/7288820944733228331" rel="alternate"/>
+    <published>2023-10-11T21:48:03+00:00</published>
   </entry>
 </feed>
