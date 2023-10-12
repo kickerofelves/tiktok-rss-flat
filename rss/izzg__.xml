@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@izzg__</id>
   <title>@izzg__ | TikTok</title>
-  <updated>2023-10-11T17:41:13+00:00</updated>
+  <updated>2023-10-11T22:52:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -19,14 +19,6 @@
     <content>bc he wants grapes :(</content>
     <link href="https://www.tiktok.com/@izzg__/video/7288741706277637418" rel="alternate"/>
     <published>2023-10-11T16:40:44+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@izzg__/video/7288744579094957354</id>
-    <title>[no title]</title>
-    <updated>2023-10-11T16:51:57+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@izzg__/video/7288744579094957354" rel="alternate"/>
-    <published>2023-10-11T16:51:57+00:00</published>
   </entry>
   <entry>
     <id>https://www.tiktok.com/@izzg__/video/7288745393448406318</id>
@@ -51,5 +43,13 @@
     <content>[no description]</content>
     <link href="https://www.tiktok.com/@izzg__/video/7288757290964995370" rel="alternate"/>
     <published>2023-10-11T17:41:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@izzg__/video/7288837525500742955</id>
+    <title>#stitch with @izg__ oops </title>
+    <updated>2023-10-11T22:52:23+00:00</updated>
+    <content>#stitch with @izg__ oops </content>
+    <link href="https://www.tiktok.com/@izzg__/video/7288837525500742955" rel="alternate"/>
+    <published>2023-10-11T22:52:23+00:00</published>
   </entry>
 </feed>
