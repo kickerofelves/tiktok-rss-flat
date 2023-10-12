@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mzkora</id>
   <title>@mzkora | TikTok</title>
-  <updated>2023-10-12T03:43:00+00:00</updated>
+  <updated>2023-10-12T20:39:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @mzkora</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@mzkora/video/7283219055744404779</id>
-    <title>#ad 🎒👟 Gear up for school with the coolest kicks from Nike and Kids Foot Locker! #SwooshIsNowInSession #BackToSchool #KidsFootLocker #Nike @Kids Foot Locker </title>
-    <updated>2023-09-26T19:29:50+00:00</updated>
-    <content>#ad 🎒👟 Gear up for school with the coolest kicks from Nike and Kids Foot Locker! #SwooshIsNowInSession #BackToSchool #KidsFootLocker #Nike @Kids Foot Locker </content>
-    <link href="https://www.tiktok.com/@mzkora/video/7283219055744404779" rel="alternate"/>
-    <published>2023-09-26T19:29:50+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@mzkora/video/7283662066404052267</id>
     <title>One day we will be in sync, that day ia mot today! 🤣😂 #momof9 #fyp #fypシ #dancechallenge #family #rihanna #parentsof9 #healthiswealth #couple #teens @GQGEMINI </title>
@@ -51,5 +43,13 @@
     <content>Replying to @ams ♡ My handle has always and forever been mzkora across all platforms. Wish @TikTok would verify me already. Sorry for anyone that interacted with this account. #fyp #fypシ #momof9 #imposter #fakeaccount #mzkora </content>
     <link href="https://www.tiktok.com/@mzkora/video/7288912369315581226" rel="alternate"/>
     <published>2023-10-12T03:43:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@mzkora/video/7289174284554046763</id>
+    <title>Doing this after leg day, not my best idea. 😅😂 #fyp #fypシ #momof9 #family #largefamily #dancechallenge #macarena #absofsteel </title>
+    <updated>2023-10-12T20:39:20+00:00</updated>
+    <content>Doing this after leg day, not my best idea. 😅😂 #fyp #fypシ #momof9 #family #largefamily #dancechallenge #macarena #absofsteel </content>
+    <link href="https://www.tiktok.com/@mzkora/video/7289174284554046763" rel="alternate"/>
+    <published>2023-10-12T20:39:20+00:00</published>
   </entry>
 </feed>
