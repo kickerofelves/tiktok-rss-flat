@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@kristline__</id>
   <title>@kristline__ | TikTok</title>
-  <updated>2023-10-11T17:18:53+00:00</updated>
+  <updated>2023-10-12T17:56:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @kristline__</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@kristline__/video/7285761790368091434</id>
-    <title>It’s date night but first lets pick up some home decor and stock up on my @Bloom Nutrition </title>
-    <updated>2023-10-03T15:57:12+00:00</updated>
-    <content>It’s date night but first lets pick up some home decor and stock up on my @Bloom Nutrition </content>
-    <link href="https://www.tiktok.com/@kristline__/video/7285761790368091434" rel="alternate"/>
-    <published>2023-10-03T15:57:12+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@kristline__/video/7286520814071991594</id>
     <title>Stretch with us </title>
@@ -51,5 +43,13 @@
     <content>Welcome shot for two, making sure our immune system is ready for the flu season. Ingredients  Lime Ginger  Turmeric  Pineapple </content>
     <link href="https://www.tiktok.com/@kristline__/video/7288751489936297259" rel="alternate"/>
     <published>2023-10-11T17:18:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@kristline__/video/7289132375345351978</id>
+    <title>date night  #grwmroutine</title>
+    <updated>2023-10-12T17:56:32+00:00</updated>
+    <content>date night  #grwmroutine</content>
+    <link href="https://www.tiktok.com/@kristline__/video/7289132375345351978" rel="alternate"/>
+    <published>2023-10-12T17:56:32+00:00</published>
   </entry>
 </feed>
