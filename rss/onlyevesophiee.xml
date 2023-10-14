@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@onlyevesophiee</id>
   <title>@onlyevesophiee | TikTok</title>
-  <updated>2023-10-11T00:05:36+00:00</updated>
+  <updated>2023-10-10T12:17:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @onlyevesophiee</subtitle>
+  <entry>
+    <id>https://www.tiktok.com/@onlyevesophiee/video/7286772316946582816</id>
+    <title>I wanna “love” you</title>
+    <updated>2023-10-06T09:18:22+00:00</updated>
+    <content>I wanna “love” you</content>
+    <link href="https://www.tiktok.com/@onlyevesophiee/video/7286772316946582816" rel="alternate"/>
+    <published>2023-10-06T09:18:22+00:00</published>
+  </entry>
   <entry>
     <id>https://www.tiktok.com/@onlyevesophiee/video/7286888148548750624</id>
     <title>Excited to see me baby?</title>
@@ -43,13 +51,5 @@
     <content>#onthisday </content>
     <link href="https://www.tiktok.com/@onlyevesophiee/video/7288302943416241440" rel="alternate"/>
     <published>2023-10-10T12:17:52+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@onlyevesophiee/video/7288485209442389280</id>
-    <title>I got the timing wrong hahahah enjoy my blooper</title>
-    <updated>2023-10-11T00:05:36+00:00</updated>
-    <content>I got the timing wrong hahahah enjoy my blooper</content>
-    <link href="https://www.tiktok.com/@onlyevesophiee/video/7288485209442389280" rel="alternate"/>
-    <published>2023-10-11T00:05:36+00:00</published>
   </entry>
 </feed>
