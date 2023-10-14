@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@circusfaery33</id>
   <title>@circusfaery33 | TikTok</title>
-  <updated>2023-10-14T00:09:49+00:00</updated>
+  <updated>2023-10-13T23:52:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @circusfaery33</subtitle>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7288880211922390314</id>
+    <title>#greenscreen I thought I needed to sit back, listen and learn--I need to sit up and lean in. </title>
+    <updated>2023-10-12T01:38:04+00:00</updated>
+    <content>#greenscreen I thought I needed to sit back, listen and learn--I need to sit up and lean in. </content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7288880211922390314" rel="alternate"/>
+    <published>2023-10-12T01:38:04+00:00</published>
+  </entry>
   <entry>
     <id>https://www.tiktok.com/@circusfaery33/video/7289131874188823851</id>
     <title>Replying to @matthewhuszarik4 Unfortunately, you are proving why conservative media is doing what it's doing. If you choose to no longer be an ally because of their headlines, they will have succeeded with you. This should at least give you pause.</title>
@@ -43,13 +51,5 @@
     <content>If your moral compass is pointing towards the oppressors, maybe realign it.</content>
     <link href="https://www.tiktok.com/@circusfaery33/video/7289595068917239086" rel="alternate"/>
     <published>2023-10-13T23:52:05+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7289599640075341102</id>
-    <title>#greenscreen https://www.jewishvoiceforpeace.org/resource/urgent-tell-congress-to-stop-fueling-violence/</title>
-    <updated>2023-10-14T00:09:49+00:00</updated>
-    <content>#greenscreen https://www.jewishvoiceforpeace.org/resource/urgent-tell-congress-to-stop-fueling-violence/</content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7289599640075341102" rel="alternate"/>
-    <published>2023-10-14T00:09:49+00:00</published>
   </entry>
 </feed>
