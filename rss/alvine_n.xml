@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@alvine_n</id>
   <title>@alvine_n | TikTok</title>
-  <updated>2023-10-13T14:00:35+00:00</updated>
+  <updated>2023-10-14T09:59:46+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @alvine_n</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@alvine_n/video/7288397472131517729</id>
-    <title>Achieve yoir dream body &amp; win $3500 cash prize 🏆🏆🏆 entry first link in my bio &amp; join my private chat submit your before photos 🔥🔥🔥</title>
-    <updated>2023-10-10T18:24:40+00:00</updated>
-    <content>Achieve yoir dream body &amp; win $3500 cash prize 🏆🏆🏆 entry first link in my bio &amp; join my private chat submit your before photos 🔥🔥🔥</content>
-    <link href="https://www.tiktok.com/@alvine_n/video/7288397472131517729" rel="alternate"/>
-    <published>2023-10-10T18:24:40+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@alvine_n/video/7288761264149384480</id>
     <title>Achieve your dream body &amp; win $3500 cash prize first link in bio to join the challenge Each exercise 3x20reps#lowerabsworkout #abs #bellyfat </title>
@@ -51,5 +43,13 @@
     <content>🚨achieve your dream body &amp; win 🏆 $3500 💃💃 BODY RECOMP&amp;TONED challenge home &amp; gym friendly OCTOBER 20th are you ready ? Remember, you can’t spot-reduce fat, but you can strengthen and tone your tummy muscles for a firmer appearance!💪💪 combine these with strength training &amp; healthy balance diet for result. Join my private community group chat &amp; send your before photos privately to me we are on this together 💪💪#bellyfat #lowerabsworkout #abs </content>
     <link href="https://www.tiktok.com/@alvine_n/video/7289442675323833633" rel="alternate"/>
     <published>2023-10-13T14:00:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@alvine_n/video/7289751701593066785</id>
+    <title>We don’t skip cardio 💪💪#cardio #cardioworkout #12330workout </title>
+    <updated>2023-10-14T09:59:46+00:00</updated>
+    <content>We don’t skip cardio 💪💪#cardio #cardioworkout #12330workout </content>
+    <link href="https://www.tiktok.com/@alvine_n/video/7289751701593066785" rel="alternate"/>
+    <published>2023-10-14T09:59:46+00:00</published>
   </entry>
 </feed>
