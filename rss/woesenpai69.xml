@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@woesenpai69</id>
   <title>@woesenpai69 | TikTok</title>
-  <updated>2023-10-12T20:45:34+00:00</updated>
+  <updated>2023-10-13T15:21:34+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @woesenpai69</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@woesenpai69/video/7287250045617900842</id>
-    <title>Tretinoin UPDATE!!! GET IT </title>
-    <updated>2023-10-07T16:12:11+00:00</updated>
-    <content>Tretinoin UPDATE!!! GET IT </content>
-    <link href="https://www.tiktok.com/@woesenpai69/video/7287250045617900842" rel="alternate"/>
-    <published>2023-10-07T16:12:11+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@woesenpai69/video/7287389653588659499</id>
     <title>OOTN</title>
@@ -51,5 +43,13 @@
     <content>#ootd @Naked Wardrobe </content>
     <link href="https://www.tiktok.com/@woesenpai69/video/7289175901449784618" rel="alternate"/>
     <published>2023-10-12T20:45:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@woesenpai69/video/7289463500915756331</id>
+    <title>Idk where the volume went but damn look at the difference. </title>
+    <updated>2023-10-13T15:21:34+00:00</updated>
+    <content>Idk where the volume went but damn look at the difference. </content>
+    <link href="https://www.tiktok.com/@woesenpai69/video/7289463500915756331" rel="alternate"/>
+    <published>2023-10-13T15:21:34+00:00</published>
   </entry>
 </feed>
