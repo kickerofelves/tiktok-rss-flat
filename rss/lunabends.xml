@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@lunabends</id>
   <title>@lunabends | TikTok</title>
-  <updated>2023-10-13T13:19:04+00:00</updated>
+  <updated>2023-10-13T22:25:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @lunabends</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@lunabends/video/7288347296411012398</id>
-    <title>Getting flexy at the beach 😊 #beach #saltlife #downdog #stretching #flexible </title>
-    <updated>2023-10-10T15:10:04+00:00</updated>
-    <content>Getting flexy at the beach 😊 #beach #saltlife #downdog #stretching #flexible </content>
-    <link href="https://www.tiktok.com/@lunabends/video/7288347296411012398" rel="alternate"/>
-    <published>2023-10-10T15:10:04+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@lunabends/video/7288675906845969710</id>
     <title>Fall Florida weather 🤭 #beach #saltlife #beachlife </title>
@@ -51,5 +43,13 @@
     <content>Some of my chair class fun from last night  #chairclass #chairdance #dancer #danceclass #pole #pleasersheels </content>
     <link href="https://www.tiktok.com/@lunabends/video/7289431947774905642" rel="alternate"/>
     <published>2023-10-13T13:19:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lunabends/video/7289572778989260078</id>
+    <title>Back at it again with @Tdohfit 🤭 #beach #beachlife #baddies </title>
+    <updated>2023-10-13T22:25:39+00:00</updated>
+    <content>Back at it again with @Tdohfit 🤭 #beach #beachlife #baddies </content>
+    <link href="https://www.tiktok.com/@lunabends/video/7289572778989260078" rel="alternate"/>
+    <published>2023-10-13T22:25:39+00:00</published>
   </entry>
 </feed>
