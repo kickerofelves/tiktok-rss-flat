@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@alvine_n</id>
   <title>@alvine_n | TikTok</title>
-  <updated>2023-10-14T09:59:46+00:00</updated>
+  <updated>2023-10-15T15:39:53+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @alvine_n</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@alvine_n/video/7288761264149384480</id>
-    <title>Achieve your dream body &amp; win $3500 cash prize first link in bio to join the challenge Each exercise 3x20reps#lowerabsworkout #abs #bellyfat </title>
-    <updated>2023-10-11T17:56:21+00:00</updated>
-    <content>Achieve your dream body &amp; win $3500 cash prize first link in bio to join the challenge Each exercise 3x20reps#lowerabsworkout #abs #bellyfat </content>
-    <link href="https://www.tiktok.com/@alvine_n/video/7288761264149384480" rel="alternate"/>
-    <published>2023-10-11T17:56:21+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@alvine_n/video/7288768307388239136</id>
     <title>Replying to @shushu940 Hey, hun! To lose belly fat, you need to be in a calorie deficit, combined with strength training, cardio, and HIIT workouts. Not sure where to start? Join my fitness app and private community chat through the first link in my bio. </title>
@@ -51,5 +43,13 @@
     <content>We don’t skip cardio 💪💪#cardio #cardioworkout #12330workout </content>
     <link href="https://www.tiktok.com/@alvine_n/video/7289751701593066785" rel="alternate"/>
     <published>2023-10-14T09:59:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@alvine_n/video/7290210434676772129</id>
+    <title>🚨achieve your dream body &amp; win 🏆 $3500 💃💃 BODY RECOMP&amp;TONED challenge home &amp; gym friendly OCTOBER 20th are you ready ? Join my private community &amp; submit your before photos 💪💪💪</title>
+    <updated>2023-10-15T15:39:53+00:00</updated>
+    <content>🚨achieve your dream body &amp; win 🏆 $3500 💃💃 BODY RECOMP&amp;TONED challenge home &amp; gym friendly OCTOBER 20th are you ready ? Join my private community &amp; submit your before photos 💪💪💪</content>
+    <link href="https://www.tiktok.com/@alvine_n/video/7290210434676772129" rel="alternate"/>
+    <published>2023-10-15T15:39:53+00:00</published>
   </entry>
 </feed>
