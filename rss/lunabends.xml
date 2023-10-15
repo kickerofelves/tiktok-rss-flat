@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@lunabends</id>
   <title>@lunabends | TikTok</title>
-  <updated>2023-10-13T22:25:39+00:00</updated>
+  <updated>2023-10-15T14:07:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @lunabends</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@lunabends/video/7288675906845969710</id>
-    <title>Fall Florida weather 🤭 #beach #saltlife #beachlife </title>
-    <updated>2023-10-11T12:25:32+00:00</updated>
-    <content>Fall Florida weather 🤭 #beach #saltlife #beachlife </content>
-    <link href="https://www.tiktok.com/@lunabends/video/7288675906845969710" rel="alternate"/>
-    <published>2023-10-11T12:25:32+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@lunabends/video/7288713782245821739</id>
-    <title>👿  #halloween2023 </title>
-    <updated>2023-10-11T14:52:27+00:00</updated>
-    <content>👿  #halloween2023 </content>
-    <link href="https://www.tiktok.com/@lunabends/video/7288713782245821739" rel="alternate"/>
-    <published>2023-10-11T14:52:27+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@lunabends/video/7289108773568826670</id>
-    <title>Period 🤣 #fypシ </title>
-    <updated>2023-10-12T16:24:55+00:00</updated>
-    <content>Period 🤣 #fypシ </content>
-    <link href="https://www.tiktok.com/@lunabends/video/7289108773568826670" rel="alternate"/>
-    <published>2023-10-12T16:24:55+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@lunabends/video/7289431947774905642</id>
     <title>Some of my chair class fun from last night  #chairclass #chairdance #dancer #danceclass #pole #pleasersheels </title>
@@ -51,5 +27,29 @@
     <content>Back at it again with @Tdohfit 🤭 #beach #beachlife #baddies </content>
     <link href="https://www.tiktok.com/@lunabends/video/7289572778989260078" rel="alternate"/>
     <published>2023-10-13T22:25:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lunabends/video/7289885932008803627</id>
+    <title>Flexy skills 🤣 #neon #fishnets #flexible #stretching #splits </title>
+    <updated>2023-10-14T18:40:48+00:00</updated>
+    <content>Flexy skills 🤣 #neon #fishnets #flexible #stretching #splits </content>
+    <link href="https://www.tiktok.com/@lunabends/video/7289885932008803627" rel="alternate"/>
+    <published>2023-10-14T18:40:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lunabends/video/7289995068180532522</id>
+    <title>Chair fun I was playing around with 🤭 #chair #dance #dancer #chairdance #chairtricks #pleaserheels </title>
+    <updated>2023-10-15T01:44:15+00:00</updated>
+    <content>Chair fun I was playing around with 🤭 #chair #dance #dancer #chairdance #chairtricks #pleaserheels </content>
+    <link href="https://www.tiktok.com/@lunabends/video/7289995068180532522" rel="alternate"/>
+    <published>2023-10-15T01:44:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lunabends/video/7290186566650055979</id>
+    <title>Can't wait to work on my pegasus again &amp; hold it longer 😅 #poletok #dancer #poledancer #poletricks #spinpole </title>
+    <updated>2023-10-15T14:07:23+00:00</updated>
+    <content>Can't wait to work on my pegasus again &amp; hold it longer 😅 #poletok #dancer #poledancer #poletricks #spinpole </content>
+    <link href="https://www.tiktok.com/@lunabends/video/7290186566650055979" rel="alternate"/>
+    <published>2023-10-15T14:07:23+00:00</published>
   </entry>
 </feed>
