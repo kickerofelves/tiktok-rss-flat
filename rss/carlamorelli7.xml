@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@carlamorelli7</id>
   <title>@carlamorelli7 | TikTok</title>
-  <updated>2023-10-16T03:16:20+00:00</updated>
+  <updated>2023-10-16T03:56:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @carlamorelli7</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@carlamorelli7/video/7285532165968809221</id>
-    <title>🔥😏</title>
-    <updated>2023-10-03T01:05:48+00:00</updated>
-    <content>🔥😏</content>
-    <link href="https://www.tiktok.com/@carlamorelli7/video/7285532165968809221" rel="alternate"/>
-    <published>2023-10-03T01:05:48+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@carlamorelli7/video/7285539192333962501</id>
     <title>Welcome october #link #halloween #devil </title>
@@ -51,5 +43,13 @@
     <content>Un tbt de pepe 😜😅 @nikollmonroy8 @Lavega_ @Stefany Piett @CAMILA COLOMBIA @🧡Steffy Moreno🧡 </content>
     <link href="https://www.tiktok.com/@carlamorelli7/video/7290389914422709510" rel="alternate"/>
     <published>2023-10-16T03:16:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@carlamorelli7/video/7290400377642519813</id>
+    <title>#lolipop </title>
+    <updated>2023-10-16T03:56:56+00:00</updated>
+    <content>#lolipop </content>
+    <link href="https://www.tiktok.com/@carlamorelli7/video/7290400377642519813" rel="alternate"/>
+    <published>2023-10-16T03:56:56+00:00</published>
   </entry>
 </feed>
