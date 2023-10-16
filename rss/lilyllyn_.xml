@@ -13,14 +13,6 @@
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @lilyllyn_</subtitle>
   <entry>
-    <id>https://www.tiktok.com/@lilyllyn_/video/7286939324573125893</id>
-    <title>[no title]</title>
-    <updated>2023-10-06T20:06:18+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@lilyllyn_/video/7286939324573125893" rel="alternate"/>
-    <published>2023-10-06T20:06:18+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.tiktok.com/@lilyllyn_/video/7286940212117163269</id>
     <title>[no title]</title>
     <updated>2023-10-06T20:09:44+00:00</updated>
@@ -43,6 +35,14 @@
     <content>[no description]</content>
     <link href="https://www.tiktok.com/@lilyllyn_/video/7287691538597973254" rel="alternate"/>
     <published>2023-10-08T20:45:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lilyllyn_/video/7288060566789180678</id>
+    <title>[no title]</title>
+    <updated>2023-10-09T20:37:16+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@lilyllyn_/video/7288060566789180678" rel="alternate"/>
+    <published>2023-10-09T20:37:16+00:00</published>
   </entry>
   <entry>
     <id>https://www.tiktok.com/@lilyllyn_/video/7288805767262555397</id>
