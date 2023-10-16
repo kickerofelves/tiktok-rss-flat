@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@onlyevesophiee</id>
   <title>@onlyevesophiee | TikTok</title>
-  <updated>2023-10-14T10:59:52+00:00</updated>
+  <updated>2023-10-15T23:27:46+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @onlyevesophiee</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@onlyevesophiee/video/7286888148548750624</id>
-    <title>Excited to see me baby?</title>
-    <updated>2023-10-06T16:47:43+00:00</updated>
-    <content>Excited to see me baby?</content>
-    <link href="https://www.tiktok.com/@onlyevesophiee/video/7286888148548750624" rel="alternate"/>
-    <published>2023-10-06T16:47:43+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@onlyevesophiee/video/7287745556380749088</id>
     <title>Easy</title>
@@ -51,5 +43,13 @@
     <content>#onthisday </content>
     <link href="https://www.tiktok.com/@onlyevesophiee/video/7289767187189927201" rel="alternate"/>
     <published>2023-10-14T10:59:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@onlyevesophiee/video/7290330972040580384</id>
+    <title>[no title]</title>
+    <updated>2023-10-15T23:27:46+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@onlyevesophiee/video/7290330972040580384" rel="alternate"/>
+    <published>2023-10-15T23:27:46+00:00</published>
   </entry>
 </feed>
