@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@juicy.bunz</id>
   <title>@juicy.bunz | TikTok</title>
-  <updated>2023-10-05T21:00:17+00:00</updated>
+  <updated>2023-10-16T21:36:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @juicy.bunz</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@juicy.bunz/video/7278395858154949931</id>
-    <title>Quick and easy post workout meal 😋 turkey and egg scramble with toast on the side. 37 g protein, 372 calories  #postworkoutmeal #cooking #proteinmeals #breakfast #lunch </title>
-    <updated>2023-09-13T19:33:26+00:00</updated>
-    <content>Quick and easy post workout meal 😋 turkey and egg scramble with toast on the side. 37 g protein, 372 calories  #postworkoutmeal #cooking #proteinmeals #breakfast #lunch </content>
-    <link href="https://www.tiktok.com/@juicy.bunz/video/7278395858154949931" rel="alternate"/>
-    <published>2023-09-13T19:33:26+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@juicy.bunz/video/7281036697029102890</id>
     <title>I just wanna b your sweetheart </title>
@@ -51,5 +43,13 @@
     <content>He’s so Lana coded ❤️  #aesthetic #lanadelrey </content>
     <link href="https://www.tiktok.com/@juicy.bunz/video/7286582080551554350" rel="alternate"/>
     <published>2023-10-05T21:00:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@juicy.bunz/video/7290673367143714094</id>
+    <title>October = comfort food 🍂❤️ bbq baked chicken, sweet potato and brown sugar baked beans ❤️ so delicious and cozy :) #cooking #dinner </title>
+    <updated>2023-10-16T21:36:28+00:00</updated>
+    <content>October = comfort food 🍂❤️ bbq baked chicken, sweet potato and brown sugar baked beans ❤️ so delicious and cozy :) #cooking #dinner </content>
+    <link href="https://www.tiktok.com/@juicy.bunz/video/7290673367143714094" rel="alternate"/>
+    <published>2023-10-16T21:36:28+00:00</published>
   </entry>
 </feed>
