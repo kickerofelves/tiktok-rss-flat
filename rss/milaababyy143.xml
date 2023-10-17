@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@milaababyy143</id>
   <title>@milaababyy143 | TikTok</title>
-  <updated>2023-10-16T20:12:17+00:00</updated>
+  <updated>2023-10-16T20:38:22+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @milaababyy143</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@milaababyy143/video/7286994983503121707</id>
-    <title>[no title]</title>
-    <updated>2023-10-06T23:42:26+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@milaababyy143/video/7286994983503121707" rel="alternate"/>
-    <published>2023-10-06T23:42:26+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@milaababyy143/video/7288059573565492523</id>
     <title>Love this sound </title>
@@ -51,5 +43,13 @@
     <content>#AFairShotWithBlock </content>
     <link href="https://www.tiktok.com/@milaababyy143/video/7290651674471894314" rel="alternate"/>
     <published>2023-10-16T20:12:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@milaababyy143/video/7290658403632876843</id>
+    <title>#AFairShotWithBlock </title>
+    <updated>2023-10-16T20:38:22+00:00</updated>
+    <content>#AFairShotWithBlock </content>
+    <link href="https://www.tiktok.com/@milaababyy143/video/7290658403632876843" rel="alternate"/>
+    <published>2023-10-16T20:38:22+00:00</published>
   </entry>
 </feed>
