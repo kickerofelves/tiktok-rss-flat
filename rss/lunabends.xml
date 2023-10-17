@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@lunabends</id>
   <title>@lunabends | TikTok</title>
-  <updated>2023-10-15T14:07:23+00:00</updated>
+  <updated>2023-10-17T03:43:57+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @lunabends</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@lunabends/video/7289431947774905642</id>
-    <title>Some of my chair class fun from last night  #chairclass #chairdance #dancer #danceclass #pole #pleasersheels </title>
-    <updated>2023-10-13T13:19:04+00:00</updated>
-    <content>Some of my chair class fun from last night  #chairclass #chairdance #dancer #danceclass #pole #pleasersheels </content>
-    <link href="https://www.tiktok.com/@lunabends/video/7289431947774905642" rel="alternate"/>
-    <published>2023-10-13T13:19:04+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@lunabends/video/7289572778989260078</id>
     <title>Back at it again with @Tdohfit 🤭 #beach #beachlife #baddies </title>
@@ -51,5 +43,13 @@
     <content>Can't wait to work on my pegasus again &amp; hold it longer 😅 #poletok #dancer #poledancer #poletricks #spinpole </content>
     <link href="https://www.tiktok.com/@lunabends/video/7290186566650055979" rel="alternate"/>
     <published>2023-10-15T14:07:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lunabends/video/7290768069847223598</id>
+    <title>Happy moments ✨  #poletok #poledancer #dancer #poletricks </title>
+    <updated>2023-10-17T03:43:57+00:00</updated>
+    <content>Happy moments ✨  #poletok #poledancer #dancer #poletricks </content>
+    <link href="https://www.tiktok.com/@lunabends/video/7290768069847223598" rel="alternate"/>
+    <published>2023-10-17T03:43:57+00:00</published>
   </entry>
 </feed>
