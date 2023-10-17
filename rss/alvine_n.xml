@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@alvine_n</id>
   <title>@alvine_n | TikTok</title>
-  <updated>2023-10-15T15:39:53+00:00</updated>
+  <updated>2023-10-16T17:41:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @alvine_n</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@alvine_n/video/7288768307388239136</id>
-    <title>Replying to @shushu940 Hey, hun! To lose belly fat, you need to be in a calorie deficit, combined with strength training, cardio, and HIIT workouts. Not sure where to start? Join my fitness app and private community chat through the first link in my bio. </title>
-    <updated>2023-10-11T18:23:39+00:00</updated>
-    <content>Replying to @shushu940 Hey, hun! To lose belly fat, you need to be in a calorie deficit, combined with strength training, cardio, and HIIT workouts. Not sure where to start? Join my fitness app and private community chat through the first link in my bio. Let's train together! 💪💪💪.#bellyfat #weightloss #workoutmotivation </content>
-    <link href="https://www.tiktok.com/@alvine_n/video/7288768307388239136" rel="alternate"/>
-    <published>2023-10-11T18:23:39+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@alvine_n/video/7289442022644010273</id>
-    <title>Replying to @Goonette ❤️🌈❤️ ❤️❤️❤️❤️</title>
-    <updated>2023-10-13T13:58:02+00:00</updated>
-    <content>Replying to @Goonette ❤️🌈❤️ ❤️❤️❤️❤️</content>
-    <link href="https://www.tiktok.com/@alvine_n/video/7289442022644010273" rel="alternate"/>
-    <published>2023-10-13T13:58:02+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@alvine_n/video/7289442675323833633</id>
     <title>🚨achieve your dream body &amp; win 🏆 $3500 💃💃 BODY RECOMP&amp;TONED challenge home &amp; gym friendly OCTOBER 20th are you ready ? Remember, you can’t spot-reduce fat, but you can strengthen and tone your tummy muscles for a firmer appearance!💪💪 combine these with st</title>
@@ -51,5 +35,21 @@
     <content>🚨achieve your dream body &amp; win 🏆 $3500 💃💃 BODY RECOMP&amp;TONED challenge home &amp; gym friendly OCTOBER 20th are you ready ? Join my private community &amp; submit your before photos 💪💪💪</content>
     <link href="https://www.tiktok.com/@alvine_n/video/7290210434676772129" rel="alternate"/>
     <published>2023-10-15T15:39:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@alvine_n/video/7290597435880082720</id>
+    <title>You don’t know where to start join my private community chat l will teach you first link in bio ❤️❤️❤️ download my fitness app #coreworkout #abs #bellyfat #fat </title>
+    <updated>2023-10-16T16:41:41+00:00</updated>
+    <content>You don’t know where to start join my private community chat l will teach you first link in bio ❤️❤️❤️ download my fitness app #coreworkout #abs #bellyfat #fat </content>
+    <link href="https://www.tiktok.com/@alvine_n/video/7290597435880082720" rel="alternate"/>
+    <published>2023-10-16T16:41:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@alvine_n/video/7290612763938934049</id>
+    <title>Replying to @Elsie | Tech | Foodie bey hun you to fix your Diet: Focus on whole foods; avoid processed foods. Strength Training: Build muscle to boost metabolism. Cardio: Helps burn extra calories. Consistency: Keep up with regular workouts. Sleep: Aim fo</title>
+    <updated>2023-10-16T17:41:08+00:00</updated>
+    <content>Replying to @Elsie | Tech | Foodie bey hun you to fix your Diet: Focus on whole foods; avoid processed foods. Strength Training: Build muscle to boost metabolism. Cardio: Helps burn extra calories. Consistency: Keep up with regular workouts. Sleep: Aim for 7-9 hours nightly. Stress: Manage it, as high levels can hinder weight loss. Hydration: Drink lots of water. Measure Progress: Use photos, clothes fit, and not just the scale. Stay Positive: Results can take time; stay patient. Body recomposition challenge is live first link in bio</content>
+    <link href="https://www.tiktok.com/@alvine_n/video/7290612763938934049" rel="alternate"/>
+    <published>2023-10-16T17:41:08+00:00</published>
   </entry>
 </feed>
