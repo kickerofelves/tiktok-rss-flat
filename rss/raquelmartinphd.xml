@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@raquelmartinphd</id>
   <title>@raquelmartinphd | TikTok</title>
-  <updated>2023-10-17T21:24:23+00:00</updated>
+  <updated>2023-10-18T19:09:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @raquelmartinphd</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@raquelmartinphd/video/7290286339583429931</id>
-    <title>[no title]</title>
-    <updated>2023-10-15T20:34:36+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@raquelmartinphd/video/7290286339583429931" rel="alternate"/>
-    <published>2023-10-15T20:34:36+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@raquelmartinphd/video/7290363179308174634</id>
-    <title>[no title]</title>
-    <updated>2023-10-16T01:32:44+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@raquelmartinphd/video/7290363179308174634" rel="alternate"/>
-    <published>2023-10-16T01:32:44+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@raquelmartinphd/video/7290682844152728875</id>
     <title>[no title]</title>
@@ -51,5 +35,21 @@
     <content>[no description]</content>
     <link href="https://www.tiktok.com/@raquelmartinphd/video/7291041362521197866" rel="alternate"/>
     <published>2023-10-17T21:24:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@raquelmartinphd/video/7291325916809039150</id>
+    <title>#drmartinhere </title>
+    <updated>2023-10-18T15:48:37+00:00</updated>
+    <content>#drmartinhere </content>
+    <link href="https://www.tiktok.com/@raquelmartinphd/video/7291325916809039150" rel="alternate"/>
+    <published>2023-10-18T15:48:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@raquelmartinphd/video/7291377677989137706</id>
+    <title>Replying to @JoGjkjk #drmartinhere </title>
+    <updated>2023-10-18T19:09:27+00:00</updated>
+    <content>Replying to @JoGjkjk #drmartinhere </content>
+    <link href="https://www.tiktok.com/@raquelmartinphd/video/7291377677989137706" rel="alternate"/>
+    <published>2023-10-18T19:09:27+00:00</published>
   </entry>
 </feed>

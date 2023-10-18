@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@annarennsworld</id>
   <title>@annarennsworld | TikTok</title>
-  <updated>2023-10-17T19:24:36+00:00</updated>
+  <updated>2023-10-18T19:12:25+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @annarennsworld</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@annarennsworld/video/7290678503488408875</id>
-    <title>THIS DELETED IM SO SICK ABOUT IT 😭 but send this to your bestie, we got our suits from playboy.com but you can also find it on fashion nova we’re both wearing size xs #halloween #halloweencostume #bestiecostumeideas #halloweencostumeideas </title>
-    <updated>2023-10-16T21:56:23+00:00</updated>
-    <content>THIS DELETED IM SO SICK ABOUT IT 😭 but send this to your bestie, we got our suits from playboy.com but you can also find it on fashion nova we’re both wearing size xs #halloween #halloweencostume #bestiecostumeideas #halloweencostumeideas </content>
-    <link href="https://www.tiktok.com/@annarennsworld/video/7290678503488408875" rel="alternate"/>
-    <published>2023-10-16T21:56:23+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@annarennsworld/video/7291006484958350638</id>
-    <title>Replying to @savannahvache1  i volunteer as tribute</title>
-    <updated>2023-10-17T19:09:04+00:00</updated>
-    <content>Replying to @savannahvache1  i volunteer as tribute</content>
-    <link href="https://www.tiktok.com/@annarennsworld/video/7291006484958350638" rel="alternate"/>
-    <published>2023-10-17T19:09:04+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@annarennsworld/video/7291006496845122862</id>
-    <title>What can i sayyyy😩😩😩 (the lint on my shirt is bothering me too girl) </title>
-    <updated>2023-10-17T19:09:08+00:00</updated>
-    <content>What can i sayyyy😩😩😩 (the lint on my shirt is bothering me too girl) </content>
-    <link href="https://www.tiktok.com/@annarennsworld/video/7291006496845122862" rel="alternate"/>
-    <published>2023-10-17T19:09:08+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@annarennsworld/video/7291006539219995946</id>
     <title>I lowkey purposely make my camera bigger so it covers his face and i can focus on myself more 🤞🏾🦦</title>
@@ -51,5 +27,29 @@
     <content>I’m mr take yo b*tchh take her for a trippp</content>
     <link href="https://www.tiktok.com/@annarennsworld/video/7291010499691433258" rel="alternate"/>
     <published>2023-10-17T19:24:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@annarennsworld/video/7291378331813940526</id>
+    <title>Anna visa 😘</title>
+    <updated>2023-10-18T19:11:59+00:00</updated>
+    <content>Anna visa 😘</content>
+    <link href="https://www.tiktok.com/@annarennsworld/video/7291378331813940526" rel="alternate"/>
+    <published>2023-10-18T19:11:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@annarennsworld/video/7291378356715556142</id>
+    <title>Replying to @1218/ just posted on IG too after going ghost, idk how the people post everyday ig stressful when it comes to pics</title>
+    <updated>2023-10-18T19:12:05+00:00</updated>
+    <content>Replying to @1218/ just posted on IG too after going ghost, idk how the people post everyday ig stressful when it comes to pics</content>
+    <link href="https://www.tiktok.com/@annarennsworld/video/7291378356715556142" rel="alternate"/>
+    <published>2023-10-18T19:12:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@annarennsworld/video/7291378444154178858</id>
+    <title>First time posting on IG with no face makeup thats how confident i feel rn</title>
+    <updated>2023-10-18T19:12:25+00:00</updated>
+    <content>First time posting on IG with no face makeup thats how confident i feel rn</content>
+    <link href="https://www.tiktok.com/@annarennsworld/video/7291378444154178858" rel="alternate"/>
+    <published>2023-10-18T19:12:25+00:00</published>
   </entry>
 </feed>
