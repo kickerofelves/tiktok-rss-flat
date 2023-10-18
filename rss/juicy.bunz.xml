@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@juicy.bunz</id>
   <title>@juicy.bunz | TikTok</title>
-  <updated>2023-10-16T21:36:28+00:00</updated>
+  <updated>2023-10-18T00:13:02+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @juicy.bunz</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@juicy.bunz/video/7281036697029102890</id>
-    <title>I just wanna b your sweetheart </title>
-    <updated>2023-09-20T22:21:08+00:00</updated>
-    <content>I just wanna b your sweetheart </content>
-    <link href="https://www.tiktok.com/@juicy.bunz/video/7281036697029102890" rel="alternate"/>
-    <published>2023-09-20T22:21:08+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@juicy.bunz/video/7285090358252277035</id>
     <title>Me bc its finally October!! 🎃👻 my favorite month #halloween #dance #ghostface </title>
@@ -51,5 +43,13 @@
     <content>October = comfort food 🍂❤️ bbq baked chicken, sweet potato and brown sugar baked beans ❤️ so delicious and cozy :) #cooking #dinner </content>
     <link href="https://www.tiktok.com/@juicy.bunz/video/7290673367143714094" rel="alternate"/>
     <published>2023-10-16T21:36:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@juicy.bunz/video/7291084834271759658</id>
+    <title>New dress ❤️ #capcut #capcut_edit #capcutvelocity #สปีดสโลว์ #สโลว์สมูท </title>
+    <updated>2023-10-18T00:13:02+00:00</updated>
+    <content>New dress ❤️ #capcut #capcut_edit #capcutvelocity #สปีดสโลว์ #สโลว์สมูท </content>
+    <link href="https://www.tiktok.com/@juicy.bunz/video/7291084834271759658" rel="alternate"/>
+    <published>2023-10-18T00:13:02+00:00</published>
   </entry>
 </feed>
