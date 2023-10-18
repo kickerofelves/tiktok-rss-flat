@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@lunabends</id>
   <title>@lunabends | TikTok</title>
-  <updated>2023-10-17T23:17:22+00:00</updated>
+  <updated>2023-10-18T16:34:48+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @lunabends</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@lunabends/video/7289995068180532522</id>
-    <title>Chair fun I was playing around with 🤭 #chair #dance #dancer #chairdance #chairtricks #pleaserheels </title>
-    <updated>2023-10-15T01:44:15+00:00</updated>
-    <content>Chair fun I was playing around with 🤭 #chair #dance #dancer #chairdance #chairtricks #pleaserheels </content>
-    <link href="https://www.tiktok.com/@lunabends/video/7289995068180532522" rel="alternate"/>
-    <published>2023-10-15T01:44:15+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@lunabends/video/7290186566650055979</id>
-    <title>Can't wait to work on my pegasus again &amp; hold it longer 😅 #poletok #dancer #poledancer #poletricks #spinpole </title>
-    <updated>2023-10-15T14:07:23+00:00</updated>
-    <content>Can't wait to work on my pegasus again &amp; hold it longer 😅 #poletok #dancer #poledancer #poletricks #spinpole </content>
-    <link href="https://www.tiktok.com/@lunabends/video/7290186566650055979" rel="alternate"/>
-    <published>2023-10-15T14:07:23+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@lunabends/video/7290768069847223598</id>
     <title>Happy moments ✨  #poletok #poledancer #dancer #poletricks </title>
@@ -51,5 +35,21 @@
     <content>Worked on some backbends today ☺️ #flexible #stretching #lunges #splits #flexy </content>
     <link href="https://www.tiktok.com/@lunabends/video/7291070482139434283" rel="alternate"/>
     <published>2023-10-17T23:17:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lunabends/video/7291269701622123818</id>
+    <title>Oversplits ☺️  #stretching #flexible #yogi #yoga #splits </title>
+    <updated>2023-10-18T12:10:29+00:00</updated>
+    <content>Oversplits ☺️  #stretching #flexible #yogi #yoga #splits </content>
+    <link href="https://www.tiktok.com/@lunabends/video/7291269701622123818" rel="alternate"/>
+    <published>2023-10-18T12:10:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lunabends/video/7291337827378335019</id>
+    <title>Getting into those hips ☺️ #flexible #stretching #yogi #yoga #splits #middlesplits #straddles </title>
+    <updated>2023-10-18T16:34:48+00:00</updated>
+    <content>Getting into those hips ☺️ #flexible #stretching #yogi #yoga #splits #middlesplits #straddles </content>
+    <link href="https://www.tiktok.com/@lunabends/video/7291337827378335019" rel="alternate"/>
+    <published>2023-10-18T16:34:48+00:00</published>
   </entry>
 </feed>
