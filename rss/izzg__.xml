@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@izzg__</id>
   <title>@izzg__ | TikTok</title>
-  <updated>2023-10-18T17:17:03+00:00</updated>
+  <updated>2023-10-19T17:36:13+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -13,43 +13,43 @@
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @izzg__</subtitle>
   <entry>
-    <id>https://www.tiktok.com/@izzg__/video/7290967082374565163</id>
-    <title>[no title]</title>
-    <updated>2023-10-17T16:36:23+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@izzg__/video/7290967082374565163" rel="alternate"/>
-    <published>2023-10-17T16:36:23+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@izzg__/video/7291342999781379370</id>
-    <title>[no title]</title>
-    <updated>2023-10-18T16:54:53+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@izzg__/video/7291342999781379370" rel="alternate"/>
-    <published>2023-10-18T16:54:53+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@izzg__/video/7291344349798026542</id>
-    <title>who is fanum and why is he taxing me</title>
-    <updated>2023-10-18T17:00:07+00:00</updated>
-    <content>who is fanum and why is he taxing me</content>
-    <link href="https://www.tiktok.com/@izzg__/video/7291344349798026542" rel="alternate"/>
-    <published>2023-10-18T17:00:07+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@izzg__/video/7291346614256438574</id>
-    <title>pls i will only slow u down</title>
-    <updated>2023-10-18T17:08:53+00:00</updated>
-    <content>pls i will only slow u down</content>
-    <link href="https://www.tiktok.com/@izzg__/video/7291346614256438574" rel="alternate"/>
-    <published>2023-10-18T17:08:53+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.tiktok.com/@izzg__/video/7291348701950381358</id>
     <title>[no title]</title>
     <updated>2023-10-18T17:17:03+00:00</updated>
     <content>[no description]</content>
     <link href="https://www.tiktok.com/@izzg__/video/7291348701950381358" rel="alternate"/>
     <published>2023-10-18T17:17:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@izzg__/video/7291718061759974698</id>
+    <title>[no title]</title>
+    <updated>2023-10-19T17:10:26+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@izzg__/video/7291718061759974698" rel="alternate"/>
+    <published>2023-10-19T17:10:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@izzg__/video/7291720965703126314</id>
+    <title>[no title]</title>
+    <updated>2023-10-19T17:21:43+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@izzg__/video/7291720965703126314" rel="alternate"/>
+    <published>2023-10-19T17:21:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@izzg__/video/7291723753325727019</id>
+    <title>[no title]</title>
+    <updated>2023-10-19T17:32:44+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@izzg__/video/7291723753325727019" rel="alternate"/>
+    <published>2023-10-19T17:32:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@izzg__/video/7291724686377962794</id>
+    <title>[no title]</title>
+    <updated>2023-10-19T17:36:13+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@izzg__/video/7291724686377962794" rel="alternate"/>
+    <published>2023-10-19T17:36:13+00:00</published>
   </entry>
 </feed>
