@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@circusfaery33</id>
   <title>@circusfaery33 | TikTok</title>
-  <updated>2023-10-18T23:24:17+00:00</updated>
+  <updated>2023-10-19T02:43:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @circusfaery33</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7290978464495177003</id>
-    <title>Replying to @Frank Wrestle My actual education, or the assumptions you made about my education because I'm a teaching artist? </title>
-    <updated>2023-10-17T17:20:33+00:00</updated>
-    <content>Replying to @Frank Wrestle My actual education, or the assumptions you made about my education because I'm a teaching artist? </content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7290978464495177003" rel="alternate"/>
-    <published>2023-10-17T17:20:33+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@circusfaery33/video/7291066052195126574</id>
     <title>#stitch with @Mika Nobody remembers that happening because it never did. If you are a law student, do better.  </title>
@@ -51,5 +43,13 @@
     <content>Our government officials are not only condoning war crimes, they have been actively calling for them. </content>
     <link href="https://www.tiktok.com/@circusfaery33/video/7291443353550458155" rel="alternate"/>
     <published>2023-10-18T23:24:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7291494566434213162</id>
+    <title>[no title]</title>
+    <updated>2023-10-19T02:43:00+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7291494566434213162" rel="alternate"/>
+    <published>2023-10-19T02:43:00+00:00</published>
   </entry>
 </feed>
