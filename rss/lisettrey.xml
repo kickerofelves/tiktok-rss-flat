@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@lisettrey</id>
   <title>@lisettrey | TikTok</title>
-  <updated>2023-10-16T20:56:25+00:00</updated>
+  <updated>2023-10-20T01:31:58+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @lisettrey</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@lisettrey/video/7290617327916305669</id>
-    <title>Happy birthday to me 🥳🎂</title>
-    <updated>2023-10-16T17:58:49+00:00</updated>
-    <content>Happy birthday to me 🥳🎂</content>
-    <link href="https://www.tiktok.com/@lisettrey/video/7290617327916305669" rel="alternate"/>
-    <published>2023-10-16T17:58:49+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@lisettrey/video/7290662333410528518</id>
-    <title>Ta linda ma!</title>
-    <updated>2023-10-16T20:53:27+00:00</updated>
-    <content>Ta linda ma!</content>
-    <link href="https://www.tiktok.com/@lisettrey/video/7290662333410528518" rel="alternate"/>
-    <published>2023-10-16T20:53:27+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@lisettrey/video/7290662408308165894</id>
     <title>🎂</title>
@@ -51,5 +35,21 @@
     <content>Coffee in the morning 🥰</content>
     <link href="https://www.tiktok.com/@lisettrey/video/7290663096601890053" rel="alternate"/>
     <published>2023-10-16T20:56:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lisettrey/video/7291840136210402566</id>
+    <title>😋</title>
+    <updated>2023-10-20T01:03:56+00:00</updated>
+    <content>😋</content>
+    <link href="https://www.tiktok.com/@lisettrey/video/7291840136210402566" rel="alternate"/>
+    <published>2023-10-20T01:03:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lisettrey/video/7291847359640685830</id>
+    <title>😂</title>
+    <updated>2023-10-20T01:31:58+00:00</updated>
+    <content>😂</content>
+    <link href="https://www.tiktok.com/@lisettrey/video/7291847359640685830" rel="alternate"/>
+    <published>2023-10-20T01:31:58+00:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@lunabends</id>
   <title>@lunabends | TikTok</title>
-  <updated>2023-10-19T14:43:47+00:00</updated>
+  <updated>2023-10-19T21:14:57+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @lunabends</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@lunabends/video/7291070482139434283</id>
-    <title>Worked on some backbends today ☺️ #flexible #stretching #lunges #splits #flexy </title>
-    <updated>2023-10-17T23:17:22+00:00</updated>
-    <content>Worked on some backbends today ☺️ #flexible #stretching #lunges #splits #flexy </content>
-    <link href="https://www.tiktok.com/@lunabends/video/7291070482139434283" rel="alternate"/>
-    <published>2023-10-17T23:17:22+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@lunabends/video/7291269701622123818</id>
     <title>Oversplits ☺️  #stretching #flexible #yogi #yoga #splits </title>
@@ -51,5 +43,13 @@
     <content>😈🖤 #splits #flexible #stretching #straddles </content>
     <link href="https://www.tiktok.com/@lunabends/video/7291680263816367403" rel="alternate"/>
     <published>2023-10-19T14:43:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lunabends/video/7291781065327381803</id>
+    <title>Work fit ! 😎  #miami #nightlife #dancer </title>
+    <updated>2023-10-19T21:14:57+00:00</updated>
+    <content>Work fit ! 😎  #miami #nightlife #dancer </content>
+    <link href="https://www.tiktok.com/@lunabends/video/7291781065327381803" rel="alternate"/>
+    <published>2023-10-19T21:14:57+00:00</published>
   </entry>
 </feed>
