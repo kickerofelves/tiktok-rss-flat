@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@annarennsworld</id>
   <title>@annarennsworld | TikTok</title>
-  <updated>2023-10-19T19:02:35+00:00</updated>
+  <updated>2023-10-20T19:28:57+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @annarennsworld</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@annarennsworld/video/7291378356715556142</id>
-    <title>Replying to @1218/ just posted on IG too after going ghost, idk how the people post everyday ig stressful when it comes to pics</title>
-    <updated>2023-10-18T19:12:05+00:00</updated>
-    <content>Replying to @1218/ just posted on IG too after going ghost, idk how the people post everyday ig stressful when it comes to pics</content>
-    <link href="https://www.tiktok.com/@annarennsworld/video/7291378356715556142" rel="alternate"/>
-    <published>2023-10-18T19:12:05+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@annarennsworld/video/7291378444154178858</id>
-    <title>First time posting on IG with no face makeup thats how confident i feel rn</title>
-    <updated>2023-10-18T19:12:25+00:00</updated>
-    <content>First time posting on IG with no face makeup thats how confident i feel rn</content>
-    <link href="https://www.tiktok.com/@annarennsworld/video/7291378444154178858" rel="alternate"/>
-    <published>2023-10-18T19:12:25+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@annarennsworld/video/7291746888913521963</id>
-    <title>If you ever join my lives where i do my full morning routine you already know this is my go to method now</title>
-    <updated>2023-10-19T19:02:19+00:00</updated>
-    <content>If you ever join my lives where i do my full morning routine you already know this is my go to method now</content>
-    <link href="https://www.tiktok.com/@annarennsworld/video/7291746888913521963" rel="alternate"/>
-    <published>2023-10-19T19:02:19+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@annarennsworld/video/7291746928692317486</id>
     <title>Now why would i pay 40$ when i could get the same thing for 12$ 😂😂😂😂 baddie on a budget FOR LIFE #baddieonnabudget </title>
@@ -51,5 +27,29 @@
     <content>Real</content>
     <link href="https://www.tiktok.com/@annarennsworld/video/7291746950414667051" rel="alternate"/>
     <published>2023-10-19T19:02:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@annarennsworld/video/7292119163730988331</id>
+    <title>I’m my worst enemy fr and opp its crazy</title>
+    <updated>2023-10-20T19:06:52+00:00</updated>
+    <content>I’m my worst enemy fr and opp its crazy</content>
+    <link href="https://www.tiktok.com/@annarennsworld/video/7292119163730988331" rel="alternate"/>
+    <published>2023-10-20T19:06:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@annarennsworld/video/7292119202394295598</id>
+    <title>😂</title>
+    <updated>2023-10-20T19:07:08+00:00</updated>
+    <content>😂</content>
+    <link href="https://www.tiktok.com/@annarennsworld/video/7292119202394295598" rel="alternate"/>
+    <published>2023-10-20T19:07:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@annarennsworld/video/7292124712480541994</id>
+    <title>Replying to @sjdt_02   All from amazon😘skims dupe fr  Linked in bio💞💞</title>
+    <updated>2023-10-20T19:28:57+00:00</updated>
+    <content>Replying to @sjdt_02   All from amazon😘skims dupe fr  Linked in bio💞💞</content>
+    <link href="https://www.tiktok.com/@annarennsworld/video/7292124712480541994" rel="alternate"/>
+    <published>2023-10-20T19:28:57+00:00</published>
   </entry>
 </feed>
