@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@alvine_n</id>
   <title>@alvine_n | TikTok</title>
-  <updated>2023-10-17T19:37:20+00:00</updated>
+  <updated>2023-10-20T14:54:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @alvine_n</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@alvine_n/video/7289751701593066785</id>
-    <title>We don’t skip cardio 💪💪#cardio #cardioworkout #12330workout </title>
-    <updated>2023-10-14T09:59:46+00:00</updated>
-    <content>We don’t skip cardio 💪💪#cardio #cardioworkout #12330workout </content>
-    <link href="https://www.tiktok.com/@alvine_n/video/7289751701593066785" rel="alternate"/>
-    <published>2023-10-14T09:59:46+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@alvine_n/video/7290210434676772129</id>
-    <title>🚨achieve your dream body &amp; win 🏆 $3500 💃💃 BODY RECOMP&amp;TONED challenge home &amp; gym friendly OCTOBER 20th are you ready ? Join my private community &amp; submit your before photos 💪💪💪</title>
-    <updated>2023-10-15T15:39:53+00:00</updated>
-    <content>🚨achieve your dream body &amp; win 🏆 $3500 💃💃 BODY RECOMP&amp;TONED challenge home &amp; gym friendly OCTOBER 20th are you ready ? Join my private community &amp; submit your before photos 💪💪💪</content>
-    <link href="https://www.tiktok.com/@alvine_n/video/7290210434676772129" rel="alternate"/>
-    <published>2023-10-15T15:39:53+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@alvine_n/video/7290597435880082720</id>
     <title>You don’t know where to start join my private community chat l will teach you first link in bio ❤️❤️❤️ download my fitness app #coreworkout #abs #bellyfat #fat </title>
@@ -51,5 +35,21 @@
     <content>Hate cardio but it’s a must 🔥join the challenge link in bio ❤️</content>
     <link href="https://www.tiktok.com/@alvine_n/video/7291013800105348385" rel="alternate"/>
     <published>2023-10-17T19:37:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@alvine_n/video/7292043698437655840</id>
+    <title>The challenge is now live link in bio to join 💪💪💪💪</title>
+    <updated>2023-10-20T14:13:54+00:00</updated>
+    <content>The challenge is now live link in bio to join 💪💪💪💪</content>
+    <link href="https://www.tiktok.com/@alvine_n/video/7292043698437655840" rel="alternate"/>
+    <published>2023-10-20T14:13:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@alvine_n/video/7292054278993153313</id>
+    <title>The challenge is live 🔥</title>
+    <updated>2023-10-20T14:54:56+00:00</updated>
+    <content>The challenge is live 🔥</content>
+    <link href="https://www.tiktok.com/@alvine_n/video/7292054278993153313" rel="alternate"/>
+    <published>2023-10-20T14:54:56+00:00</published>
   </entry>
 </feed>
