@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rahyndee</id>
   <title>@rahyndee | TikTok</title>
-  <updated>2023-10-19T23:45:42+00:00</updated>
+  <updated>2023-10-21T03:41:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @rahyndee</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@rahyndee/video/7289644989515123999</id>
-    <title>Little attitude problem 😈</title>
-    <updated>2023-10-14T03:05:48+00:00</updated>
-    <content>Little attitude problem 😈</content>
-    <link href="https://www.tiktok.com/@rahyndee/video/7289644989515123999" rel="alternate"/>
-    <published>2023-10-14T03:05:48+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@rahyndee/video/7290359638099266846</id>
-    <title>Apocalyptic short film coming soon 🎯🙅🏽‍♀️  #fyp #foryou #lasvegas </title>
-    <updated>2023-10-16T01:18:56+00:00</updated>
-    <content>Apocalyptic short film coming soon 🎯🙅🏽‍♀️  #fyp #foryou #lasvegas </content>
-    <link href="https://www.tiktok.com/@rahyndee/video/7290359638099266846" rel="alternate"/>
-    <published>2023-10-16T01:18:56+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@rahyndee/video/7291485472021433631</id>
     <title>AI yearbook trend had me weak 😂😂😂 #fyp #aiyearbooktrend </title>
@@ -51,5 +35,21 @@
     <content>Danger ⚠️ #fyp #lasvegas #caution⚠️ </content>
     <link href="https://www.tiktok.com/@rahyndee/video/7291819941047717151" rel="alternate"/>
     <published>2023-10-19T23:45:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@rahyndee/video/7292209543675710751</id>
+    <title>..I was ☠️ serious too 🤦🏽‍♀️🙅🏽‍♀️💁🏽‍♀️ #fyp #foryou #funny #jokes</title>
+    <updated>2023-10-21T00:57:34+00:00</updated>
+    <content>..I was ☠️ serious too 🤦🏽‍♀️🙅🏽‍♀️💁🏽‍♀️ #fyp #foryou #funny #jokes</content>
+    <link href="https://www.tiktok.com/@rahyndee/video/7292209543675710751" rel="alternate"/>
+    <published>2023-10-21T00:57:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@rahyndee/video/7292251865507450142</id>
+    <title>I’s the crunch &amp; dripping sounds for me 🤤🥒💦 #fyp #asmr #juicing </title>
+    <updated>2023-10-21T03:41:50+00:00</updated>
+    <content>I’s the crunch &amp; dripping sounds for me 🤤🥒💦 #fyp #asmr #juicing </content>
+    <link href="https://www.tiktok.com/@rahyndee/video/7292251865507450142" rel="alternate"/>
+    <published>2023-10-21T03:41:50+00:00</published>
   </entry>
 </feed>
