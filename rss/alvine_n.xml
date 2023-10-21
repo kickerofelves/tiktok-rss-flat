@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@alvine_n</id>
   <title>@alvine_n | TikTok</title>
-  <updated>2023-10-20T14:54:56+00:00</updated>
+  <updated>2023-10-21T09:32:04+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @alvine_n</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@alvine_n/video/7290597435880082720</id>
-    <title>You don’t know where to start join my private community chat l will teach you first link in bio ❤️❤️❤️ download my fitness app #coreworkout #abs #bellyfat #fat </title>
-    <updated>2023-10-16T16:41:41+00:00</updated>
-    <content>You don’t know where to start join my private community chat l will teach you first link in bio ❤️❤️❤️ download my fitness app #coreworkout #abs #bellyfat #fat </content>
-    <link href="https://www.tiktok.com/@alvine_n/video/7290597435880082720" rel="alternate"/>
-    <published>2023-10-16T16:41:41+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@alvine_n/video/7290612763938934049</id>
     <title>Replying to @Elsie | Tech | Foodie bey hun you to fix your Diet: Focus on whole foods; avoid processed foods. Strength Training: Build muscle to boost metabolism. Cardio: Helps burn extra calories. Consistency: Keep up with regular workouts. Sleep: Aim fo</title>
@@ -51,5 +43,13 @@
     <content>The challenge is live 🔥</content>
     <link href="https://www.tiktok.com/@alvine_n/video/7292054278993153313" rel="alternate"/>
     <published>2023-10-20T14:54:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@alvine_n/video/7292342158638501152</id>
+    <title>The challenge is live give the gym a second chance sis 🔥</title>
+    <updated>2023-10-21T09:32:04+00:00</updated>
+    <content>The challenge is live give the gym a second chance sis 🔥</content>
+    <link href="https://www.tiktok.com/@alvine_n/video/7292342158638501152" rel="alternate"/>
+    <published>2023-10-21T09:32:04+00:00</published>
   </entry>
 </feed>
