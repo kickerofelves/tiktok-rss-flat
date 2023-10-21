@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@annarennsworld</id>
   <title>@annarennsworld | TikTok</title>
-  <updated>2023-10-20T19:28:57+00:00</updated>
+  <updated>2023-10-21T19:14:17+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @annarennsworld</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@annarennsworld/video/7291746928692317486</id>
-    <title>Now why would i pay 40$ when i could get the same thing for 12$ 😂😂😂😂 baddie on a budget FOR LIFE #baddieonnabudget </title>
-    <updated>2023-10-19T19:02:24+00:00</updated>
-    <content>Now why would i pay 40$ when i could get the same thing for 12$ 😂😂😂😂 baddie on a budget FOR LIFE #baddieonnabudget </content>
-    <link href="https://www.tiktok.com/@annarennsworld/video/7291746928692317486" rel="alternate"/>
-    <published>2023-10-19T19:02:24+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@annarennsworld/video/7291746950414667051</id>
-    <title>Real</title>
-    <updated>2023-10-19T19:02:35+00:00</updated>
-    <content>Real</content>
-    <link href="https://www.tiktok.com/@annarennsworld/video/7291746950414667051" rel="alternate"/>
-    <published>2023-10-19T19:02:35+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@annarennsworld/video/7292119163730988331</id>
-    <title>I’m my worst enemy fr and opp its crazy</title>
-    <updated>2023-10-20T19:06:52+00:00</updated>
-    <content>I’m my worst enemy fr and opp its crazy</content>
-    <link href="https://www.tiktok.com/@annarennsworld/video/7292119163730988331" rel="alternate"/>
-    <published>2023-10-20T19:06:52+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@annarennsworld/video/7292119202394295598</id>
     <title>😂</title>
@@ -51,5 +27,29 @@
     <content>Replying to @sjdt_02   All from amazon😘skims dupe fr  Linked in bio💞💞</content>
     <link href="https://www.tiktok.com/@annarennsworld/video/7292124712480541994" rel="alternate"/>
     <published>2023-10-20T19:28:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@annarennsworld/video/7292492075457695018</id>
+    <title>Lip syncing fast w big lips is hard tbh (dont come for me ik it sounds pick me) </title>
+    <updated>2023-10-21T19:13:55+00:00</updated>
+    <content>Lip syncing fast w big lips is hard tbh (dont come for me ik it sounds pick me) </content>
+    <link href="https://www.tiktok.com/@annarennsworld/video/7292492075457695018" rel="alternate"/>
+    <published>2023-10-21T19:13:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@annarennsworld/video/7292492139806723370</id>
+    <title>Me</title>
+    <updated>2023-10-21T19:14:08+00:00</updated>
+    <content>Me</content>
+    <link href="https://www.tiktok.com/@annarennsworld/video/7292492139806723370" rel="alternate"/>
+    <published>2023-10-21T19:14:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@annarennsworld/video/7292492169619737902</id>
+    <title>@sagal  for the post idea, but using this before primer omg my base is so smooth especially under my eyes Can get it at sephora and amazon linked in bio 💞</title>
+    <updated>2023-10-21T19:14:17+00:00</updated>
+    <content>@sagal  for the post idea, but using this before primer omg my base is so smooth especially under my eyes Can get it at sephora and amazon linked in bio 💞</content>
+    <link href="https://www.tiktok.com/@annarennsworld/video/7292492169619737902" rel="alternate"/>
+    <published>2023-10-21T19:14:17+00:00</published>
   </entry>
 </feed>
