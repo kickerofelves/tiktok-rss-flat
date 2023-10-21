@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@shibuya_kaho</id>
   <title>@shibuya_kaho | TikTok</title>
-  <updated>2023-10-18T19:23:45+00:00</updated>
+  <updated>2023-10-21T00:13:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @shibuya_kaho</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@shibuya_kaho/video/7288073520251227394</id>
-    <title>All you can eat...🍣 歌舞伎町のお寿司屋さん！マグロ食べ放題という売りとは逆に、内装に高級感が漂っていて素敵でした(っ‎‎´‎‎༥`⊂)ŧ‹"ŧ‹"</title>
-    <updated>2023-10-09T21:27:47+00:00</updated>
-    <content>All you can eat...🍣 歌舞伎町のお寿司屋さん！マグロ食べ放題という売りとは逆に、内装に高級感が漂っていて素敵でした(っ‎‎´‎‎༥`⊂)ŧ‹"ŧ‹"</content>
-    <link href="https://www.tiktok.com/@shibuya_kaho/video/7288073520251227394" rel="alternate"/>
-    <published>2023-10-09T21:27:47+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@shibuya_kaho/video/7288313355293543682</id>
     <title>Cat bread🐈🍞 So nyammy~ 可愛くて美味しいニャン！</title>
@@ -51,5 +43,13 @@
     <content>Omurice Cooking POV🍳 デミグラスよりケチャップ派ですが、卵はふわふわも割る系も好きです！</content>
     <link href="https://www.tiktok.com/@shibuya_kaho/video/7291381363150720257" rel="alternate"/>
     <published>2023-10-18T19:23:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@shibuya_kaho/video/7292198221256903937</id>
+    <title>Orchastrated version of Idol✨ 吹奏楽アニソン‥良い！ #名古屋コスプレサミット2023 </title>
+    <updated>2023-10-21T00:13:42+00:00</updated>
+    <content>Orchastrated version of Idol✨ 吹奏楽アニソン‥良い！ #名古屋コスプレサミット2023 </content>
+    <link href="https://www.tiktok.com/@shibuya_kaho/video/7292198221256903937" rel="alternate"/>
+    <published>2023-10-21T00:13:42+00:00</published>
   </entry>
 </feed>
