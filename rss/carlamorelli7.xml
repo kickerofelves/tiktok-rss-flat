@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@carlamorelli7</id>
   <title>@carlamorelli7 | TikTok</title>
-  <updated>2023-10-16T16:20:51+00:00</updated>
+  <updated>2023-10-21T22:01:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @carlamorelli7</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@carlamorelli7/video/7285539192333962501</id>
-    <title>Welcome october #link #halloween #devil </title>
-    <updated>2023-10-03T01:33:13+00:00</updated>
-    <content>Welcome october #link #halloween #devil </content>
-    <link href="https://www.tiktok.com/@carlamorelli7/video/7285539192333962501" rel="alternate"/>
-    <published>2023-10-03T01:33:13+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@carlamorelli7/video/7286144730105154822</id>
-    <title>❤️‍🔥 #halloween #devil #fypシ #imcarlamorelli_of </title>
-    <updated>2023-10-04T16:42:50+00:00</updated>
-    <content>❤️‍🔥 #halloween #devil #fypシ #imcarlamorelli_of </content>
-    <link href="https://www.tiktok.com/@carlamorelli7/video/7286144730105154822" rel="alternate"/>
-    <published>2023-10-04T16:42:50+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@carlamorelli7/video/7290389914422709510</id>
     <title>Un tbt de pepe 😜😅 @nikollmonroy8 @Lavega_ @Stefany Piett @CAMILA COLOMBIA @🧡Steffy Moreno🧡 </title>
@@ -51,5 +35,21 @@
     <content>Usame #imcarlamorelli_of </content>
     <link href="https://www.tiktok.com/@carlamorelli7/video/7290592085063765254" rel="alternate"/>
     <published>2023-10-16T16:20:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@carlamorelli7/video/7292432568438476037</id>
+    <title>#halloween #fypシ #link #imcarlamorelli_of </title>
+    <updated>2023-10-21T15:22:51+00:00</updated>
+    <content>#halloween #fypシ #link #imcarlamorelli_of </content>
+    <link href="https://www.tiktok.com/@carlamorelli7/video/7292432568438476037" rel="alternate"/>
+    <published>2023-10-21T15:22:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@carlamorelli7/video/7292535368627391750</id>
+    <title>#humortiktok #latina </title>
+    <updated>2023-10-21T22:01:49+00:00</updated>
+    <content>#humortiktok #latina </content>
+    <link href="https://www.tiktok.com/@carlamorelli7/video/7292535368627391750" rel="alternate"/>
+    <published>2023-10-21T22:01:49+00:00</published>
   </entry>
 </feed>
