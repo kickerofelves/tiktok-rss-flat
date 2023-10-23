@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@sonia_barbie</id>
   <title>@sonia_barbie | TikTok</title>
-  <updated>2023-10-21T22:07:13+00:00</updated>
+  <updated>2023-10-23T06:46:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @sonia_barbie</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@sonia_barbie/video/7290534592354782510</id>
-    <title>It’s only Day 1 in Lagos and me self I’m ready to move 😂Nothing beats drinking authentic palm wine and eating African food with friends. 🥰🥰🥰🥰 . . Jumpsuit @kois.kloset @Koiskloset </title>
-    <updated>2023-10-16T12:38:00+00:00</updated>
-    <content>It’s only Day 1 in Lagos and me self I’m ready to move 😂Nothing beats drinking authentic palm wine and eating African food with friends. 🥰🥰🥰🥰 . . Jumpsuit @kois.kloset @Koiskloset </content>
-    <link href="https://www.tiktok.com/@sonia_barbie/video/7290534592354782510" rel="alternate"/>
-    <published>2023-10-16T12:38:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@sonia_barbie/video/7290611442552835374</id>
     <title>Jumpsuit @Koiskloset </title>
@@ -51,5 +43,13 @@
     <content>Glaming through life❤️👸🏾💄</content>
     <link href="https://www.tiktok.com/@sonia_barbie/video/7292536747924131115" rel="alternate"/>
     <published>2023-10-21T22:07:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@sonia_barbie/video/7293041426383031598</id>
+    <title>Notice how the waist disappeared at the last second 😆 Finally jumped on this trend with @VEEKEE JAMES  Makeup @ariyike_mua  Hair @adefunkeee @hairbyadefunkeee</title>
+    <updated>2023-10-23T06:46:09+00:00</updated>
+    <content>Notice how the waist disappeared at the last second 😆 Finally jumped on this trend with @VEEKEE JAMES  Makeup @ariyike_mua  Hair @adefunkeee @hairbyadefunkeee</content>
+    <link href="https://www.tiktok.com/@sonia_barbie/video/7293041426383031598" rel="alternate"/>
+    <published>2023-10-23T06:46:09+00:00</published>
   </entry>
 </feed>
