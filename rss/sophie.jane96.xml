@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@sophie.jane96</id>
   <title>@sophie.jane96 | TikTok</title>
-  <updated>2023-10-21T20:09:27+00:00</updated>
+  <updated>2023-10-22T20:37:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @sophie.jane96</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@sophie.jane96/video/7286819526811913504</id>
-    <title>Omg 🇪🇸 </title>
-    <updated>2023-10-06T12:21:27+00:00</updated>
-    <content>Omg 🇪🇸 </content>
-    <link href="https://www.tiktok.com/@sophie.jane96/video/7286819526811913504" rel="alternate"/>
-    <published>2023-10-06T12:21:27+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@sophie.jane96/video/7287297581347081504</id>
     <title>BABE!</title>
@@ -51,5 +43,13 @@
     <content>Replying to @user5945590903830 im 27! </content>
     <link href="https://www.tiktok.com/@sophie.jane96/video/7292506419415239969" rel="alternate"/>
     <published>2023-10-21T20:09:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@sophie.jane96/video/7292884735603264800</id>
+    <title>Hey! 😳🤣</title>
+    <updated>2023-10-22T20:37:32+00:00</updated>
+    <content>Hey! 😳🤣</content>
+    <link href="https://www.tiktok.com/@sophie.jane96/video/7292884735603264800" rel="alternate"/>
+    <published>2023-10-22T20:37:32+00:00</published>
   </entry>
 </feed>
