@@ -13,22 +13,6 @@
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @lisettrey</subtitle>
   <entry>
-    <id>https://www.tiktok.com/@lisettrey/video/7290662408308165894</id>
-    <title>🎂</title>
-    <updated>2023-10-16T20:53:44+00:00</updated>
-    <content>🎂</content>
-    <link href="https://www.tiktok.com/@lisettrey/video/7290662408308165894" rel="alternate"/>
-    <published>2023-10-16T20:53:44+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@lisettrey/video/7290662832788622598</id>
-    <title>🥳</title>
-    <updated>2023-10-16T20:55:24+00:00</updated>
-    <content>🥳</content>
-    <link href="https://www.tiktok.com/@lisettrey/video/7290662832788622598" rel="alternate"/>
-    <published>2023-10-16T20:55:24+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.tiktok.com/@lisettrey/video/7290663096601890053</id>
     <title>Coffee in the morning 🥰</title>
     <updated>2023-10-16T20:56:25+00:00</updated>
@@ -51,5 +35,21 @@
     <content>Una domi🇩🇴 en Cartagena 😘</content>
     <link href="https://www.tiktok.com/@lisettrey/video/7292572433222044934" rel="alternate"/>
     <published>2023-10-22T00:25:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lisettrey/video/7099099482150685957</id>
+    <title>Sígueme en Instagram lisettrey 💚💚 #fyp #natural #viral #challenge #dominicana #elalfa #parrasindoncon</title>
+    <updated>2022-05-18T15:31:43+00:00</updated>
+    <content>Sígueme en Instagram lisettrey 💚💚 #fyp #natural #viral #challenge #dominicana #elalfa #parrasindoncon</content>
+    <link href="https://www.tiktok.com/@lisettrey/video/7099099482150685957" rel="alternate"/>
+    <published>2022-05-18T15:31:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lisettrey/video/7082008328494255365</id>
+    <title>#challenge #parati</title>
+    <updated>2022-04-02T14:09:19+00:00</updated>
+    <content>#challenge #parati</content>
+    <link href="https://www.tiktok.com/@lisettrey/video/7082008328494255365" rel="alternate"/>
+    <published>2022-04-02T14:09:19+00:00</published>
   </entry>
 </feed>
