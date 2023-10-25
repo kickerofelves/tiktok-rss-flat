@@ -13,22 +13,6 @@
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @sonia_barbie</subtitle>
   <entry>
-    <id>https://www.tiktok.com/@sonia_barbie/video/7290611442552835374</id>
-    <title>Jumpsuit @Koiskloset </title>
-    <updated>2023-10-16T17:36:15+00:00</updated>
-    <content>Jumpsuit @Koiskloset </content>
-    <link href="https://www.tiktok.com/@sonia_barbie/video/7290611442552835374" rel="alternate"/>
-    <published>2023-10-16T17:36:15+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@sonia_barbie/video/7292147748747496747</id>
-    <title>Friday night ❤️❤️</title>
-    <updated>2023-10-20T20:57:50+00:00</updated>
-    <content>Friday night ❤️❤️</content>
-    <link href="https://www.tiktok.com/@sonia_barbie/video/7292147748747496747" rel="alternate"/>
-    <published>2023-10-20T20:57:50+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.tiktok.com/@sonia_barbie/video/7292354606246481195</id>
     <title>A star in any room I stand in ✨🔥  Dress @VEEKEE JAMES </title>
     <updated>2023-10-21T10:21:19+00:00</updated>
@@ -51,5 +35,21 @@
     <content>Notice how the waist disappeared at the last second 😆 Finally jumped on this trend with @VEEKEE JAMES  Makeup @ariyike_mua  Hair @adefunkeee @hairbyadefunkeee</content>
     <link href="https://www.tiktok.com/@sonia_barbie/video/7293041426383031598" rel="alternate"/>
     <published>2023-10-23T06:46:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@sonia_barbie/video/7100990138091703595</id>
+    <title>[no title]</title>
+    <updated>2022-05-23T17:48:26+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@sonia_barbie/video/7100990138091703595" rel="alternate"/>
+    <published>2022-05-23T17:48:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@sonia_barbie/video/7200145241389944110</id>
+    <title>Had a blessed Valentine, how was yours? ❤️</title>
+    <updated>2023-02-14T22:41:06+00:00</updated>
+    <content>Had a blessed Valentine, how was yours? ❤️</content>
+    <link href="https://www.tiktok.com/@sonia_barbie/video/7200145241389944110" rel="alternate"/>
+    <published>2023-02-14T22:41:06+00:00</published>
   </entry>
 </feed>
