@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@lunabends</id>
   <title>@lunabends | TikTok</title>
-  <updated>2023-10-24T15:39:00+00:00</updated>
+  <updated>2023-10-25T17:11:13+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @lunabends</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@lunabends/video/7292825117833334059</id>
-    <title>Hip hold to jade split , my fave ☺️ #poletok #poledancer #dancer #poletricks #spinpole #pleasersheels </title>
-    <updated>2023-10-22T16:46:18+00:00</updated>
-    <content>Hip hold to jade split , my fave ☺️ #poletok #poledancer #dancer #poletricks #spinpole #pleasersheels </content>
-    <link href="https://www.tiktok.com/@lunabends/video/7292825117833334059" rel="alternate"/>
-    <published>2023-10-22T16:46:18+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@lunabends/video/7292996085575028014</id>
     <title>😈✨ #fypシ </title>
@@ -35,6 +27,14 @@
     <content>Show me the way to class please ? 🥺 #halloween #dressup </content>
     <link href="https://www.tiktok.com/@lunabends/video/7293549940373245230" rel="alternate"/>
     <published>2023-10-24T15:39:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lunabends/video/7293944725684473134</id>
+    <title>Some light stretching ☺️ #yogi #yoga #splits #flexible #flexibility #middlesplits #straddles #frogpose </title>
+    <updated>2023-10-25T17:11:13+00:00</updated>
+    <content>Some light stretching ☺️ #yogi #yoga #splits #flexible #flexibility #middlesplits #straddles #frogpose </content>
+    <link href="https://www.tiktok.com/@lunabends/video/7293944725684473134" rel="alternate"/>
+    <published>2023-10-25T17:11:13+00:00</published>
   </entry>
   <entry>
     <id>https://www.tiktok.com/@lunabends/video/7219307826949131562</id>
