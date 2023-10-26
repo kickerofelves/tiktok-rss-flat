@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@miss_sawadodo</id>
   <title>@miss_sawadodo | TikTok</title>
-  <updated>2023-10-20T21:07:21+00:00</updated>
+  <updated>2023-10-26T08:10:51+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @miss_sawadodo</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@miss_sawadodo/video/7289358930579442950</id>
-    <title>[no title]</title>
-    <updated>2023-10-13T08:35:36+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@miss_sawadodo/video/7289358930579442950" rel="alternate"/>
-    <published>2023-10-13T08:35:36+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@miss_sawadodo/video/7290331079788088581</id>
-    <title>[no title]</title>
-    <updated>2023-10-15T23:28:03+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@miss_sawadodo/video/7290331079788088581" rel="alternate"/>
-    <published>2023-10-15T23:28:03+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@miss_sawadodo/video/7292149889071598853</id>
     <title>😏</title>
@@ -45,11 +29,27 @@
     <published>2023-10-20T21:07:21+00:00</published>
   </entry>
   <entry>
-    <id>https://www.tiktok.com/@miss_sawadodo/video/7218559398350818566</id>
+    <id>https://www.tiktok.com/@miss_sawadodo/video/7294171346655841541</id>
     <title>[no title]</title>
-    <updated>2023-04-05T13:37:15+00:00</updated>
+    <updated>2023-10-26T07:50:12+00:00</updated>
     <content>[no description]</content>
-    <link href="https://www.tiktok.com/@miss_sawadodo/video/7218559398350818566" rel="alternate"/>
-    <published>2023-04-05T13:37:15+00:00</published>
+    <link href="https://www.tiktok.com/@miss_sawadodo/video/7294171346655841541" rel="alternate"/>
+    <published>2023-10-26T07:50:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@miss_sawadodo/video/7294173433435376901</id>
+    <title>[no title]</title>
+    <updated>2023-10-26T07:58:19+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@miss_sawadodo/video/7294173433435376901" rel="alternate"/>
+    <published>2023-10-26T07:58:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@miss_sawadodo/video/7294176659131960582</id>
+    <title>[no title]</title>
+    <updated>2023-10-26T08:10:51+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@miss_sawadodo/video/7294176659131960582" rel="alternate"/>
+    <published>2023-10-26T08:10:51+00:00</published>
   </entry>
 </feed>
