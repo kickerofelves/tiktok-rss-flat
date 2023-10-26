@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@shibuya_kaho</id>
   <title>@shibuya_kaho | TikTok</title>
-  <updated>2023-10-21T00:13:42+00:00</updated>
+  <updated>2023-10-26T02:26:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @shibuya_kaho</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@shibuya_kaho/video/7288313355293543682</id>
-    <title>Cat bread🐈🍞 So nyammy~ 可愛くて美味しいニャン！</title>
-    <updated>2023-10-10T12:58:15+00:00</updated>
-    <content>Cat bread🐈🍞 So nyammy~ 可愛くて美味しいニャン！</content>
-    <link href="https://www.tiktok.com/@shibuya_kaho/video/7288313355293543682" rel="alternate"/>
-    <published>2023-10-10T12:58:15+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@shibuya_kaho/video/7289047285315489026</id>
     <title>[no title]</title>
@@ -51,5 +43,13 @@
     <content>Orchastrated version of Idol✨ 吹奏楽アニソン‥良い！ #名古屋コスプレサミット2023 </content>
     <link href="https://www.tiktok.com/@shibuya_kaho/video/7292198221256903937" rel="alternate"/>
     <published>2023-10-21T00:13:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@shibuya_kaho/video/7294087883554655489</id>
+    <title>I was on billboards in Shibuya, promoting Twitch🩷 去年は新宿、今年は渋谷のビジョンで配信の紹介ができました〜╰(*´︶`*)╯</title>
+    <updated>2023-10-26T02:26:23+00:00</updated>
+    <content>I was on billboards in Shibuya, promoting Twitch🩷 去年は新宿、今年は渋谷のビジョンで配信の紹介ができました〜╰(*´︶`*)╯</content>
+    <link href="https://www.tiktok.com/@shibuya_kaho/video/7294087883554655489" rel="alternate"/>
+    <published>2023-10-26T02:26:23+00:00</published>
   </entry>
 </feed>
