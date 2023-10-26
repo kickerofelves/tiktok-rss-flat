@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@alejandracriscuolo</id>
   <title>@alejandracriscuolo | TikTok</title>
-  <updated>2023-10-24T06:35:16+00:00</updated>
+  <updated>2023-10-24T06:34:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @alejandracriscuolo</subtitle>
+  <entry>
+    <id>https://www.tiktok.com/@alejandracriscuolo/video/7293409055542988037</id>
+    <title>#alejandracriscuolo #alejandracriscuolo22 @Bad Bunny </title>
+    <updated>2023-10-24T06:32:09+00:00</updated>
+    <content>#alejandracriscuolo #alejandracriscuolo22 @Bad Bunny </content>
+    <link href="https://www.tiktok.com/@alejandracriscuolo/video/7293409055542988037" rel="alternate"/>
+    <published>2023-10-24T06:32:09+00:00</published>
+  </entry>
   <entry>
     <id>https://www.tiktok.com/@alejandracriscuolo/video/7293409245909863686</id>
     <title>#alejandracriscuolo #alejandracriscuolo22 </title>
@@ -43,13 +51,5 @@
     <content>#alejandracriscuolo #alejandracriscuolo22 </content>
     <link href="https://www.tiktok.com/@alejandracriscuolo/video/7293409761108692230" rel="alternate"/>
     <published>2023-10-24T06:34:52+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@alejandracriscuolo/video/7293409863118441733</id>
-    <title>#alejandracriscuolo #alejandracriscuolo22 </title>
-    <updated>2023-10-24T06:35:16+00:00</updated>
-    <content>#alejandracriscuolo #alejandracriscuolo22 </content>
-    <link href="https://www.tiktok.com/@alejandracriscuolo/video/7293409863118441733" rel="alternate"/>
-    <published>2023-10-24T06:35:16+00:00</published>
   </entry>
 </feed>
