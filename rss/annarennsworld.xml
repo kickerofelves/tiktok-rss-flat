@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@annarennsworld</id>
   <title>@annarennsworld | TikTok</title>
-  <updated>2023-10-26T20:23:16+00:00</updated>
+  <updated>2023-10-28T19:02:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @annarennsworld</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@annarennsworld/video/7293973330976099626</id>
-    <title>😽😽😽😽</title>
-    <updated>2023-10-25T19:02:02+00:00</updated>
-    <content>😽😽😽😽</content>
-    <link href="https://www.tiktok.com/@annarennsworld/video/7293973330976099626" rel="alternate"/>
-    <published>2023-10-25T19:02:02+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@annarennsworld/video/7293974242754907435</id>
-    <title>LMAOAOAOAOAO</title>
-    <updated>2023-10-25T19:05:34+00:00</updated>
-    <content>LMAOAOAOAOAO</content>
-    <link href="https://www.tiktok.com/@annarennsworld/video/7293974242754907435" rel="alternate"/>
-    <published>2023-10-25T19:05:34+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@annarennsworld/video/7293985207068249387</id>
     <title>😋</title>
@@ -51,5 +35,21 @@
     <content>Denim&gt;&gt;&gt;</content>
     <link href="https://www.tiktok.com/@annarennsworld/video/7294365381010017578" rel="alternate"/>
     <published>2023-10-26T20:23:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@annarennsworld/video/7295086798408060202</id>
+    <title>The wings tho😭😭😭</title>
+    <updated>2023-10-28T19:02:47+00:00</updated>
+    <content>The wings tho😭😭😭</content>
+    <link href="https://www.tiktok.com/@annarennsworld/video/7295086798408060202" rel="alternate"/>
+    <published>2023-10-28T19:02:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@annarennsworld/video/7295086803931909419</id>
+    <title>One thing about me, I’m gonna splurge </title>
+    <updated>2023-10-28T19:02:47+00:00</updated>
+    <content>One thing about me, I’m gonna splurge </content>
+    <link href="https://www.tiktok.com/@annarennsworld/video/7295086803931909419" rel="alternate"/>
+    <published>2023-10-28T19:02:47+00:00</published>
   </entry>
 </feed>
