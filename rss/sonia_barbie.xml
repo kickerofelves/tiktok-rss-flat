@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@sonia_barbie</id>
   <title>@sonia_barbie | TikTok</title>
-  <updated>2023-10-27T19:22:08+00:00</updated>
+  <updated>2023-10-28T11:00:36+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @sonia_barbie</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@sonia_barbie/video/7293041426383031598</id>
-    <title>Notice how the waist disappeared at the last second 😆 Finally jumped on this trend with @VEEKEE JAMES  Makeup @ariyike_mua  Hair @adefunkeee @hairbyadefunkeee</title>
-    <updated>2023-10-23T06:46:09+00:00</updated>
-    <content>Notice how the waist disappeared at the last second 😆 Finally jumped on this trend with @VEEKEE JAMES  Makeup @ariyike_mua  Hair @adefunkeee @hairbyadefunkeee</content>
-    <link href="https://www.tiktok.com/@sonia_barbie/video/7293041426383031598" rel="alternate"/>
-    <published>2023-10-23T06:46:09+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@sonia_barbie/video/7294022598113905966</id>
     <title>All eyes on me in my @andreaiyamah ILO cover up and Pants. This look had me feeling classy and sexy at the same time a I love how her pieces fit in all the right places =) The POLA Slippers are also so comfortable and stylish </title>
@@ -51,5 +43,13 @@
     <content>Walking the @ATAFO SS’24 show was definitely a dream🤍. The collection is stunning and this look right here had me feeling like a bride for real 🥰.  Thank you @maitafo for having me ✨. #atafo #barbieslaystherunway #lagosfashionweek </content>
     <link href="https://www.tiktok.com/@sonia_barbie/video/7294720718934150446" rel="alternate"/>
     <published>2023-10-27T19:22:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@sonia_barbie/video/7294962402020330795</id>
+    <title>Legos fashion week 🤍🤍@ATAFO </title>
+    <updated>2023-10-28T11:00:36+00:00</updated>
+    <content>Legos fashion week 🤍🤍@ATAFO </content>
+    <link href="https://www.tiktok.com/@sonia_barbie/video/7294962402020330795" rel="alternate"/>
+    <published>2023-10-28T11:00:36+00:00</published>
   </entry>
 </feed>
