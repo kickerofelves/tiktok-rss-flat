@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@alvine_n</id>
   <title>@alvine_n | TikTok</title>
-  <updated>2023-10-27T11:35:31+00:00</updated>
+  <updated>2023-10-28T06:55:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @alvine_n</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@alvine_n/video/7294313075694488864</id>
-    <title>124lbs down 🔥🔥 you don’t know where to start let me help you 🥹❤️❤️</title>
-    <updated>2023-10-26T17:00:13+00:00</updated>
-    <content>124lbs down 🔥🔥 you don’t know where to start let me help you 🥹❤️❤️</content>
-    <link href="https://www.tiktok.com/@alvine_n/video/7294313075694488864" rel="alternate"/>
-    <published>2023-10-26T17:00:13+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@alvine_n/video/7294594896063696161</id>
     <title>Replying to @☘️Rocio🌻 so proud of you 🥹🥹❤️❤️❤️❤️❤️</title>
@@ -35,6 +27,14 @@
     <content>Replying to @user @Jared hope# workout plan &amp; Nuttrition on my fitness app in bio join my private community for daily support &amp; motivation then send your before photos privately to me 💪#bodyrecomposition #weightloss #bellyfat #backfat </content>
     <link href="https://www.tiktok.com/@alvine_n/video/7294600459845668129" rel="alternate"/>
     <published>2023-10-27T11:35:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@alvine_n/video/7294899427485961505</id>
+    <title>[no title]</title>
+    <updated>2023-10-28T06:55:39+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@alvine_n/video/7294899427485961505" rel="alternate"/>
+    <published>2023-10-28T06:55:39+00:00</published>
   </entry>
   <entry>
     <id>https://www.tiktok.com/@alvine_n/video/7228289188574121243</id>
