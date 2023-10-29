@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@circusfaery33</id>
   <title>@circusfaery33 | TikTok</title>
-  <updated>2023-10-28T21:45:01+00:00</updated>
+  <updated>2023-10-29T01:52:11+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @circusfaery33</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@circusfaery33/video/7295015802196053294</id>
-    <title>Replying to @Amaru Based on voter statistics and polls, this is not correct. </title>
-    <updated>2023-10-28T14:27:21+00:00</updated>
-    <content>Replying to @Amaru Based on voter statistics and polls, this is not correct. </content>
-    <link href="https://www.tiktok.com/@circusfaery33/video/7295015802196053294" rel="alternate"/>
-    <published>2023-10-28T14:27:21+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@circusfaery33/video/7295030256941993258</id>
     <title>Here's my question about Project2025.</title>
@@ -51,5 +43,13 @@
     <content>Replying to @Ironic Maturity This is a great question--same fear-mongering, divide and conquer, misinformation, empty promises of a seat at the table as any other politicians, with a heavy dose of weaponizing the modell minority myth.</content>
     <link href="https://www.tiktok.com/@circusfaery33/video/7295128618999500078" rel="alternate"/>
     <published>2023-10-28T21:45:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@circusfaery33/video/7295192311477062954</id>
+    <title>Replying to @Jim Fannin Stop conflating Hamas and Palestinians and stop using Hamas as a proxy for what you want to do to marginalized people who dare to disagree with you. </title>
+    <updated>2023-10-29T01:52:11+00:00</updated>
+    <content>Replying to @Jim Fannin Stop conflating Hamas and Palestinians and stop using Hamas as a proxy for what you want to do to marginalized people who dare to disagree with you. </content>
+    <link href="https://www.tiktok.com/@circusfaery33/video/7295192311477062954" rel="alternate"/>
+    <published>2023-10-29T01:52:11+00:00</published>
   </entry>
 </feed>
