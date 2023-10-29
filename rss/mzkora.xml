@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mzkora</id>
   <title>@mzkora | TikTok</title>
-  <updated>2023-10-27T16:22:50+00:00</updated>
+  <updated>2023-10-29T01:00:55+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @mzkora</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@mzkora/video/7293551047690308907</id>
-    <title>Embracing my gluten-free journey one delicious slice at a time! @Banza🍕🍝🫘 #BanzaPartner #EatBanza #fyp #fypシ #momof9 #glutenfree #healthiswealth</title>
-    <updated>2023-10-24T15:43:17+00:00</updated>
-    <content>Embracing my gluten-free journey one delicious slice at a time! @Banza🍕🍝🫘 #BanzaPartner #EatBanza #fyp #fypシ #momof9 #glutenfree #healthiswealth</content>
-    <link href="https://www.tiktok.com/@mzkora/video/7293551047690308907" rel="alternate"/>
-    <published>2023-10-24T15:43:17+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@mzkora/video/7293578499183398187</id>
     <title>Stage Fright Sucks! 🥲 Ever since I was 4 I had this irrational fear of dancing in-front of people. I had a Bharatanatyam (If I remember correctly) dance recital at 4 and ran off the stage crying in fear. Never danced again. 😭 My husband didn’t see me danc</title>
@@ -51,5 +43,13 @@
     <content>New House Tour!! #fyp #fypシ #newhouse #momof9 #moving #largefamily #adulting #lasvegashomes #lasvegasliving </content>
     <link href="https://www.tiktok.com/@mzkora/video/7294674520953097503" rel="alternate"/>
     <published>2023-10-27T16:22:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@mzkora/video/7295179110702140703</id>
+    <title>He can have the garage. 😂 #fyp #fypシ #newhouse #moving #momof9 #target #spiderman #decoratingtips </title>
+    <updated>2023-10-29T01:00:55+00:00</updated>
+    <content>He can have the garage. 😂 #fyp #fypシ #newhouse #moving #momof9 #target #spiderman #decoratingtips </content>
+    <link href="https://www.tiktok.com/@mzkora/video/7295179110702140703" rel="alternate"/>
+    <published>2023-10-29T01:00:55+00:00</published>
   </entry>
 </feed>
