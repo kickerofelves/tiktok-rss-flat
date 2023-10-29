@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@softperlig</id>
   <title>@softperlig | TikTok</title>
-  <updated>2023-10-25T19:15:54+00:00</updated>
+  <updated>2023-10-29T18:39:34+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @softperlig</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@softperlig/video/7288768108473388320</id>
-    <title>I have no idea what i was thinking with this outfit </title>
-    <updated>2023-10-11T18:22:55+00:00</updated>
-    <content>I have no idea what i was thinking with this outfit </content>
-    <link href="https://www.tiktok.com/@softperlig/video/7288768108473388320" rel="alternate"/>
-    <published>2023-10-11T18:22:55+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@softperlig/video/7289511191674686752</id>
-    <title>WWYD?</title>
-    <updated>2023-10-13T18:26:27+00:00</updated>
-    <content>WWYD?</content>
-    <link href="https://www.tiktok.com/@softperlig/video/7289511191674686752" rel="alternate"/>
-    <published>2023-10-13T18:26:27+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@softperlig/video/7290259434201173281</id>
     <title>Bringing back this sound </title>
@@ -51,5 +35,21 @@
     <content>My close friends list knowsss 😂</content>
     <link href="https://www.tiktok.com/@softperlig/video/7293976952938040609" rel="alternate"/>
     <published>2023-10-25T19:15:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@softperlig/video/7294704335412317473</id>
+    <title>I really dont know why i kept adjusting the top for so long ugh</title>
+    <updated>2023-10-27T18:18:29+00:00</updated>
+    <content>I really dont know why i kept adjusting the top for so long ugh</content>
+    <link href="https://www.tiktok.com/@softperlig/video/7294704335412317473" rel="alternate"/>
+    <published>2023-10-27T18:18:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@softperlig/video/7295451934616489248</id>
+    <title>Aw shucks 🥹</title>
+    <updated>2023-10-29T18:39:34+00:00</updated>
+    <content>Aw shucks 🥹</content>
+    <link href="https://www.tiktok.com/@softperlig/video/7295451934616489248" rel="alternate"/>
+    <published>2023-10-29T18:39:34+00:00</published>
   </entry>
 </feed>
