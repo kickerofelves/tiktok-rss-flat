@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@carlamorelli7</id>
   <title>@carlamorelli7 | TikTok</title>
-  <updated>2023-10-21T22:01:49+00:00</updated>
+  <updated>2023-10-30T01:16:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @carlamorelli7</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@carlamorelli7/video/7286144730105154822</id>
-    <title>❤️‍🔥 #halloween #devil #fypシ #imcarlamorelli_of </title>
-    <updated>2023-10-04T16:42:50+00:00</updated>
-    <content>❤️‍🔥 #halloween #devil #fypシ #imcarlamorelli_of </content>
-    <link href="https://www.tiktok.com/@carlamorelli7/video/7286144730105154822" rel="alternate"/>
-    <published>2023-10-04T16:42:50+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@carlamorelli7/video/7290389914422709510</id>
-    <title>Un tbt de pepe 😜😅 @nikollmonroy8 @Lavega_ @Stefany Piett @CAMILA COLOMBIA @🧡Steffy Moreno🧡 </title>
-    <updated>2023-10-16T03:16:20+00:00</updated>
-    <content>Un tbt de pepe 😜😅 @nikollmonroy8 @Lavega_ @Stefany Piett @CAMILA COLOMBIA @🧡Steffy Moreno🧡 </content>
-    <link href="https://www.tiktok.com/@carlamorelli7/video/7290389914422709510" rel="alternate"/>
-    <published>2023-10-16T03:16:20+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@carlamorelli7/video/7290400377642519813</id>
     <title>#lolipop </title>
@@ -51,5 +35,21 @@
     <content>#humortiktok #latina </content>
     <link href="https://www.tiktok.com/@carlamorelli7/video/7292535368627391750" rel="alternate"/>
     <published>2023-10-21T22:01:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@carlamorelli7/video/7295554124022664454</id>
+    <title>Y que te arda 😌 #humortiktok #latina #ricamorelli </title>
+    <updated>2023-10-30T01:16:07+00:00</updated>
+    <content>Y que te arda 😌 #humortiktok #latina #ricamorelli </content>
+    <link href="https://www.tiktok.com/@carlamorelli7/video/7295554124022664454" rel="alternate"/>
+    <published>2023-10-30T01:16:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@carlamorelli7/video/7088791598414318854</id>
+    <title>Pa donde es que vamos este fin de semana ? 😏@Steffy Moreno @Karol Rosado #LiveForTheChallenge #fypシ #amigas</title>
+    <updated>2022-04-20T20:51:52+00:00</updated>
+    <content>Pa donde es que vamos este fin de semana ? 😏@Steffy Moreno @Karol Rosado #LiveForTheChallenge #fypシ #amigas</content>
+    <link href="https://www.tiktok.com/@carlamorelli7/video/7088791598414318854" rel="alternate"/>
+    <published>2022-04-20T20:51:52+00:00</published>
   </entry>
 </feed>
