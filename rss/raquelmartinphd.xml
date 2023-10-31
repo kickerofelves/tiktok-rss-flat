@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@raquelmartinphd</id>
   <title>@raquelmartinphd | TikTok</title>
-  <updated>2023-10-31T00:23:51+00:00</updated>
+  <updated>2023-10-31T19:39:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @raquelmartinphd</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@raquelmartinphd/video/7293994633120599338</id>
-    <title>#books </title>
-    <updated>2023-10-25T20:24:43+00:00</updated>
-    <content>#books </content>
-    <link href="https://www.tiktok.com/@raquelmartinphd/video/7293994633120599338" rel="alternate"/>
-    <published>2023-10-25T20:24:43+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@raquelmartinphd/video/7294082380199988522</id>
     <title>#worthy </title>
@@ -51,5 +43,13 @@
     <content>[no description]</content>
     <link href="https://www.tiktok.com/@raquelmartinphd/video/7295911735796600110" rel="alternate"/>
     <published>2023-10-31T00:23:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@raquelmartinphd/video/7296209578990112043</id>
+    <title>#drmartinhere </title>
+    <updated>2023-10-31T19:39:47+00:00</updated>
+    <content>#drmartinhere </content>
+    <link href="https://www.tiktok.com/@raquelmartinphd/video/7296209578990112043" rel="alternate"/>
+    <published>2023-10-31T19:39:47+00:00</published>
   </entry>
 </feed>
