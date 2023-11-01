@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@foodsciencebabe</id>
   <title>@foodsciencebabe | TikTok</title>
-  <updated>2023-10-23T22:59:02+00:00</updated>
+  <updated>2023-11-01T14:32:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @foodsciencebabe</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@foodsciencebabe/video/7286883941141810475</id>
-    <title>These videos spread SO MUCH misinformation and disinformation especially regarding more accessible foods.  #foodmyths #foodmisinformation #bannedingredients #fearmongering </title>
-    <updated>2023-10-06T16:31:39+00:00</updated>
-    <content>These videos spread SO MUCH misinformation and disinformation especially regarding more accessible foods.  #foodmyths #foodmisinformation #bannedingredients #fearmongering </content>
-    <link href="https://www.tiktok.com/@foodsciencebabe/video/7286883941141810475" rel="alternate"/>
-    <published>2023-10-06T16:31:39+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@foodsciencebabe/video/7289127005855960362</id>
     <title>I hope you find this as interesting as I did 😊 #cakemix #foodscience #foodsafety #agriculture #foodtiktok #greenscreen </title>
@@ -51,5 +43,13 @@
     <content>#stitch with  @The Basement Yard Podcast and  @Chem Thug Yes, Joey! #iron #foodscience #nutrition #chemistry #scicomm </content>
     <link href="https://www.tiktok.com/@foodsciencebabe/video/7293292264636468526" rel="alternate"/>
     <published>2023-10-23T22:59:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@foodsciencebabe/video/7296501453093604654</id>
+    <title>Fun and easy Halloween candy experiment! #halloweencandy #scienceexperiments #foodscience #scienceexperimentsforkids #sciencefair #science </title>
+    <updated>2023-11-01T14:32:20+00:00</updated>
+    <content>Fun and easy Halloween candy experiment! #halloweencandy #scienceexperiments #foodscience #scienceexperimentsforkids #sciencefair #science </content>
+    <link href="https://www.tiktok.com/@foodsciencebabe/video/7296501453093604654" rel="alternate"/>
+    <published>2023-11-01T14:32:20+00:00</published>
   </entry>
 </feed>
