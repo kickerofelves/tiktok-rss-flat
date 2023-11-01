@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@melaninqueen833</id>
   <title>@melaninqueen833 | TikTok</title>
-  <updated>2023-10-31T19:35:55+00:00</updated>
+  <updated>2023-10-31T22:38:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @melaninqueen833</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@melaninqueen833/video/7295845227204545834</id>
-    <title>[no title]</title>
-    <updated>2023-10-30T20:05:54+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@melaninqueen833/video/7295845227204545834" rel="alternate"/>
-    <published>2023-10-30T20:05:54+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@melaninqueen833/video/7295881204069371178</id>
-    <title>[no title]</title>
-    <updated>2023-10-30T22:25:24+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@melaninqueen833/video/7295881204069371178" rel="alternate"/>
-    <published>2023-10-30T22:25:24+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@melaninqueen833/video/7296137655287385387</id>
     <title>[no title]</title>
@@ -51,5 +35,21 @@
     <content>Halloween days</content>
     <link href="https://www.tiktok.com/@melaninqueen833/video/7296208386645953835" rel="alternate"/>
     <published>2023-10-31T19:35:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@melaninqueen833/video/7296226574658047275</id>
+    <title>[no title]</title>
+    <updated>2023-10-31T20:45:43+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@melaninqueen833/video/7296226574658047275" rel="alternate"/>
+    <published>2023-10-31T20:45:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@melaninqueen833/video/7296255657206992171</id>
+    <title>[no title]</title>
+    <updated>2023-10-31T22:38:33+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@melaninqueen833/video/7296255657206992171" rel="alternate"/>
+    <published>2023-10-31T22:38:33+00:00</published>
   </entry>
 </feed>
