@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@alvine_n</id>
   <title>@alvine_n | TikTok</title>
-  <updated>2023-10-31T19:42:21+00:00</updated>
+  <updated>2023-11-01T16:56:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @alvine_n</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@alvine_n/video/7294899427485961505</id>
-    <title>[no title]</title>
-    <updated>2023-10-28T06:55:39+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@alvine_n/video/7294899427485961505" rel="alternate"/>
-    <published>2023-10-28T06:55:39+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@alvine_n/video/7295368415504583968</id>
     <title>Replying to @Kimberly A Babe join my fitness app and private chat workout &amp; Nuttrition included once you have the app join via the link in your settings will help you ❤️❤️❤️</title>
@@ -51,5 +43,13 @@
     <content>From my first shaky steps to losing 128 pounds, I’ve transformed not just in body, but in spirit. When I embarked on this journey, little did I know that one day, my story would be an open book to the world. I was camera-shy and unsure, which is why early pictures are rare, but my early followers on TikTok have witnessed the real, unfiltered evolution. The path wasn’t straight; I stumbled, made mistakes, and learned as I shed 117 pounds in the first 11 months, and continued to evolve over the next two years. Here's the truth: the journey is as personal as it is universal. If you're standing at the starting line, unsure and overwhelmed, remember that I was once there, too. I am the evidence that it's possible, and I'm here to share every tip and trick that made a difference in my weight loss. Let's embark on this path together because your transformation is waiting, and I'm here to help you embrace it.#weightloss #weightlosstransformation #weightlosscheck </content>
     <link href="https://www.tiktok.com/@alvine_n/video/7296210280911080736" rel="alternate"/>
     <published>2023-10-31T19:42:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@alvine_n/video/7296538611653152032</id>
+    <title>#CapCut </title>
+    <updated>2023-11-01T16:56:27+00:00</updated>
+    <content>#CapCut </content>
+    <link href="https://www.tiktok.com/@alvine_n/video/7296538611653152032" rel="alternate"/>
+    <published>2023-11-01T16:56:27+00:00</published>
   </entry>
 </feed>
