@@ -13,22 +13,6 @@
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @lisettrey</subtitle>
   <entry>
-    <id>https://www.tiktok.com/@lisettrey/video/7292572433222044934</id>
-    <title>Una domi🇩🇴 en Cartagena 😘</title>
-    <updated>2023-10-22T00:25:38+00:00</updated>
-    <content>Una domi🇩🇴 en Cartagena 😘</content>
-    <link href="https://www.tiktok.com/@lisettrey/video/7292572433222044934" rel="alternate"/>
-    <published>2023-10-22T00:25:38+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@lisettrey/video/7295409434312838406</id>
-    <title>En mi pais todavia no a nacido una fea, todas somos bellas 🇩🇴😻 #dominicana #tegocalderon </title>
-    <updated>2023-10-29T15:54:37+00:00</updated>
-    <content>En mi pais todavia no a nacido una fea, todas somos bellas 🇩🇴😻 #dominicana #tegocalderon </content>
-    <link href="https://www.tiktok.com/@lisettrey/video/7295409434312838406" rel="alternate"/>
-    <published>2023-10-29T15:54:37+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.tiktok.com/@lisettrey/video/7295409852606729477</id>
     <title>Instagram: lisettrey 🤣🤣😂</title>
     <updated>2023-10-29T15:56:15+00:00</updated>
@@ -51,5 +35,21 @@
     <content>Un besito 😘</content>
     <link href="https://www.tiktok.com/@lisettrey/video/7295493352156335365" rel="alternate"/>
     <published>2023-10-29T21:20:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lisettrey/video/7099099482150685957</id>
+    <title>Sígueme en Instagram lisettrey 💚💚 #fyp #natural #viral #challenge #dominicana #elalfa #parrasindoncon</title>
+    <updated>2022-05-18T15:31:43+00:00</updated>
+    <content>Sígueme en Instagram lisettrey 💚💚 #fyp #natural #viral #challenge #dominicana #elalfa #parrasindoncon</content>
+    <link href="https://www.tiktok.com/@lisettrey/video/7099099482150685957" rel="alternate"/>
+    <published>2022-05-18T15:31:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lisettrey/video/7082008328494255365</id>
+    <title>#challenge #parati</title>
+    <updated>2022-04-02T14:09:19+00:00</updated>
+    <content>#challenge #parati</content>
+    <link href="https://www.tiktok.com/@lisettrey/video/7082008328494255365" rel="alternate"/>
+    <published>2022-04-02T14:09:19+00:00</published>
   </entry>
 </feed>
