@@ -13,14 +13,6 @@
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @girlzhavemorefun</subtitle>
   <entry>
-    <id>https://www.tiktok.com/@girlzhavemorefun/video/7296375326123248927</id>
-    <title>#fyp #fypシ #bodypositivity #natural </title>
-    <updated>2023-11-01T06:23:00+00:00</updated>
-    <content>#fyp #fypシ #bodypositivity #natural </content>
-    <link href="https://www.tiktok.com/@girlzhavemorefun/video/7296375326123248927" rel="alternate"/>
-    <published>2023-11-01T06:23:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.tiktok.com/@girlzhavemorefun/video/7296730390994193707</id>
     <title>🪽 #fyp #goviral #bodypositivity #fakebody #girl </title>
     <updated>2023-11-02T05:20:45+00:00</updated>
@@ -51,5 +43,13 @@
     <content>🪽 #fyp #goviral #bodypositivity #fakebody #girl </content>
     <link href="https://www.tiktok.com/@girlzhavemorefun/video/7296732869270031646" rel="alternate"/>
     <published>2023-11-02T05:30:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@girlzhavemorefun/video/7199674345789213994</id>
+    <title>Fun in the sun #sun #fyp #fypシ </title>
+    <updated>2023-02-13T16:14:02+00:00</updated>
+    <content>Fun in the sun #sun #fyp #fypシ </content>
+    <link href="https://www.tiktok.com/@girlzhavemorefun/video/7199674345789213994" rel="alternate"/>
+    <published>2023-02-13T16:14:02+00:00</published>
   </entry>
 </feed>
