@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mzkora</id>
   <title>@mzkora | TikTok</title>
-  <updated>2023-10-31T19:31:15+00:00</updated>
+  <updated>2023-11-02T17:25:17+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @mzkora</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@mzkora/video/7293752621674810666</id>
-    <title>I’ve lost so many Day Dream houses on Zillow to people who had the audacity to actually have the money to afford it. 😂 #fyp #fypシ #newhouse #parenting #adulting #home #parentsof9 #family #moving </title>
-    <updated>2023-10-25T04:45:33+00:00</updated>
-    <content>I’ve lost so many Day Dream houses on Zillow to people who had the audacity to actually have the money to afford it. 😂 #fyp #fypシ #newhouse #parenting #adulting #home #parentsof9 #family #moving </content>
-    <link href="https://www.tiktok.com/@mzkora/video/7293752621674810666" rel="alternate"/>
-    <published>2023-10-25T04:45:33+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@mzkora/video/7294674520953097503</id>
     <title>New House Tour!! #fyp #fypシ #newhouse #momof9 #moving #largefamily #adulting #lasvegashomes #lasvegasliving </title>
@@ -43,6 +35,14 @@
     <content>How to bewitch trick-or-treaters with guilt-free treats: when the candy cauldron runs dry, summon the @Shameless Snacks gummies! 🧙‍♀️✨ #shamelesspartner #LowSugarMagic #HalloweenHack #momof9 #fyp #fypシ #Halloween </content>
     <link href="https://www.tiktok.com/@mzkora/video/7296207379522211102" rel="alternate"/>
     <published>2023-10-31T19:31:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@mzkora/video/7296917072292941087</id>
+    <title>What my husband and I do to support our family of 10! #fyp #fypシ #familyof10 #momof9 #parenting #adulting #largefamily #budgeting </title>
+    <updated>2023-11-02T17:25:17+00:00</updated>
+    <content>What my husband and I do to support our family of 10! #fyp #fypシ #familyof10 #momof9 #parenting #adulting #largefamily #budgeting </content>
+    <link href="https://www.tiktok.com/@mzkora/video/7296917072292941087" rel="alternate"/>
+    <published>2023-11-02T17:25:17+00:00</published>
   </entry>
   <entry>
     <id>https://www.tiktok.com/@mzkora/video/7288912369315581226</id>
