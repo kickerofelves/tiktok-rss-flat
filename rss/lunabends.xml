@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@lunabends</id>
   <title>@lunabends | TikTok</title>
-  <updated>2023-11-01T22:56:17+00:00</updated>
+  <updated>2023-11-02T16:30:48+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,22 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @lunabends</subtitle>
+  <entry>
+    <id>https://www.tiktok.com/@lunabends/video/7295444047668333867</id>
+    <title>🖤🧟‍♀️ #fyp </title>
+    <updated>2023-10-29T18:09:08+00:00</updated>
+    <content>🖤🧟‍♀️ #fyp </content>
+    <link href="https://www.tiktok.com/@lunabends/video/7295444047668333867" rel="alternate"/>
+    <published>2023-10-29T18:09:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lunabends/video/7296136561077374254</id>
+    <title>Chair class throughout spooky season has been extra fun 🤩  #chairclass #chairdance #chairtricks #acrochair #polestudio #poletok #dance #dancer #pleasersheels </title>
+    <updated>2023-10-31T14:56:38+00:00</updated>
+    <content>Chair class throughout spooky season has been extra fun 🤩  #chairclass #chairdance #chairtricks #acrochair #polestudio #poletok #dance #dancer #pleasersheels </content>
+    <link href="https://www.tiktok.com/@lunabends/video/7296136561077374254" rel="alternate"/>
+    <published>2023-10-31T14:56:38+00:00</published>
+  </entry>
   <entry>
     <id>https://www.tiktok.com/@lunabends/video/7296197378422345003</id>
     <title>She was a nightmare 🖤 #flexible #yogi #yoga #stretching #splits #middlesplits #straddles #frogpose </title>
@@ -29,27 +45,11 @@
     <published>2023-11-01T16:16:41+00:00</published>
   </entry>
   <entry>
-    <id>https://www.tiktok.com/@lunabends/video/7296631328814927150</id>
-    <title>Thinking of what can fill the void 🙃 #fyp </title>
-    <updated>2023-11-01T22:56:17+00:00</updated>
-    <content>Thinking of what can fill the void 🙃 #fyp </content>
-    <link href="https://www.tiktok.com/@lunabends/video/7296631328814927150" rel="alternate"/>
-    <published>2023-11-01T22:56:17+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@lunabends/video/7219307826949131562</id>
-    <title>Extreme puppy pose ☺️ #trending #yogi #yoga #flexible #puppypose </title>
-    <updated>2023-04-07T14:01:37+00:00</updated>
-    <content>Extreme puppy pose ☺️ #trending #yogi #yoga #flexible #puppypose </content>
-    <link href="https://www.tiktok.com/@lunabends/video/7219307826949131562" rel="alternate"/>
-    <published>2023-04-07T14:01:37+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@lunabends/video/7230896135244680494</id>
-    <title>Human pretzel  #trending #yogi #yoga #flexible </title>
-    <updated>2023-05-08T19:30:11+00:00</updated>
-    <content>Human pretzel  #trending #yogi #yoga #flexible </content>
-    <link href="https://www.tiktok.com/@lunabends/video/7230896135244680494" rel="alternate"/>
-    <published>2023-05-08T19:30:11+00:00</published>
+    <id>https://www.tiktok.com/@lunabends/video/7296903048918469930</id>
+    <title>Putting work into my straddles  #yogi #yoga #flexible #stretching #splits #middlesplits #starddles #flexy </title>
+    <updated>2023-11-02T16:30:48+00:00</updated>
+    <content>Putting work into my straddles  #yogi #yoga #flexible #stretching #splits #middlesplits #starddles #flexy </content>
+    <link href="https://www.tiktok.com/@lunabends/video/7296903048918469930" rel="alternate"/>
+    <published>2023-11-02T16:30:48+00:00</published>
   </entry>
 </feed>
