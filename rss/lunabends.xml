@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@lunabends</id>
   <title>@lunabends | TikTok</title>
-  <updated>2023-11-02T16:30:48+00:00</updated>
+  <updated>2023-11-03T14:16:13+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @lunabends</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@lunabends/video/7295444047668333867</id>
-    <title>🖤🧟‍♀️ #fyp </title>
-    <updated>2023-10-29T18:09:08+00:00</updated>
-    <content>🖤🧟‍♀️ #fyp </content>
-    <link href="https://www.tiktok.com/@lunabends/video/7295444047668333867" rel="alternate"/>
-    <published>2023-10-29T18:09:08+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@lunabends/video/7296136561077374254</id>
     <title>Chair class throughout spooky season has been extra fun 🤩  #chairclass #chairdance #chairtricks #acrochair #polestudio #poletok #dance #dancer #pleasersheels </title>
@@ -51,5 +43,13 @@
     <content>Putting work into my straddles  #yogi #yoga #flexible #stretching #splits #middlesplits #starddles #flexy </content>
     <link href="https://www.tiktok.com/@lunabends/video/7296903048918469930" rel="alternate"/>
     <published>2023-11-02T16:30:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lunabends/video/7297239455985945898</id>
+    <title>My one true love - pole 🖤 #poletok #poledance #dancer #dance #poletricks #pleaserheels </title>
+    <updated>2023-11-03T14:16:13+00:00</updated>
+    <content>My one true love - pole 🖤 #poletok #poledance #dancer #dance #poletricks #pleaserheels </content>
+    <link href="https://www.tiktok.com/@lunabends/video/7297239455985945898" rel="alternate"/>
+    <published>2023-11-03T14:16:13+00:00</published>
   </entry>
 </feed>
