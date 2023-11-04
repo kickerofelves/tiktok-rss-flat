@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rahyndee</id>
   <title>@rahyndee | TikTok</title>
-  <updated>2023-11-03T02:09:53+00:00</updated>
+  <updated>2023-11-04T02:10:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @rahyndee</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@rahyndee/video/7294009157139647774</id>
-    <title>.. as long as the slide is smooth I’ll be okay 💦🫣🤣 #fyp #scary #waterslides #funny </title>
-    <updated>2023-10-25T21:20:59+00:00</updated>
-    <content>.. as long as the slide is smooth I’ll be okay 💦🫣🤣 #fyp #scary #waterslides #funny </content>
-    <link href="https://www.tiktok.com/@rahyndee/video/7294009157139647774" rel="alternate"/>
-    <published>2023-10-25T21:20:59+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@rahyndee/video/7294131106352336159</id>
     <title>Doubled my 20$ 😛💁🏽‍♀️🎰 . #fyp #lasvegas </title>
@@ -51,5 +43,13 @@
     <content>He almost got me 😱… 😏  #fyp #halloween2023 #truestory #lasvegas </content>
     <link href="https://www.tiktok.com/@rahyndee/video/7297052311703129387" rel="alternate"/>
     <published>2023-11-03T02:09:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@rahyndee/video/7297423517107227935</id>
+    <title>#fyp #lasvegas #spooky </title>
+    <updated>2023-11-04T02:10:28+00:00</updated>
+    <content>#fyp #lasvegas #spooky </content>
+    <link href="https://www.tiktok.com/@rahyndee/video/7297423517107227935" rel="alternate"/>
+    <published>2023-11-04T02:10:28+00:00</published>
   </entry>
 </feed>

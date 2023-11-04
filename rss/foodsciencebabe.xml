@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@foodsciencebabe</id>
   <title>@foodsciencebabe | TikTok</title>
-  <updated>2023-11-01T14:32:20+00:00</updated>
+  <updated>2023-11-03T21:13:19+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @foodsciencebabe</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@foodsciencebabe/video/7289127005855960362</id>
-    <title>I hope you find this as interesting as I did 😊 #cakemix #foodscience #foodsafety #agriculture #foodtiktok #greenscreen </title>
-    <updated>2023-10-12T17:35:41+00:00</updated>
-    <content>I hope you find this as interesting as I did 😊 #cakemix #foodscience #foodsafety #agriculture #foodtiktok #greenscreen </content>
-    <link href="https://www.tiktok.com/@foodsciencebabe/video/7289127005855960362" rel="alternate"/>
-    <published>2023-10-12T17:35:41+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@foodsciencebabe/video/7290574328809377070</id>
     <title>This information is specifically regarding date labels in the US. Other countries may have different regulations regarding food date labels. #foodsafety #foodscience #datelabels #foodtok </title>
@@ -51,5 +43,13 @@
     <content>Fun and easy Halloween candy experiment! #halloweencandy #scienceexperiments #foodscience #scienceexperimentsforkids #sciencefair #science </content>
     <link href="https://www.tiktok.com/@foodsciencebabe/video/7296501453093604654" rel="alternate"/>
     <published>2023-11-01T14:32:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@foodsciencebabe/video/7297346939463404842</id>
+    <title>Unnecessary food fears are not too good for you. #factsnotfear #foodmyths #babycarrots #foodsafety #foodscience </title>
+    <updated>2023-11-03T21:13:19+00:00</updated>
+    <content>Unnecessary food fears are not too good for you. #factsnotfear #foodmyths #babycarrots #foodsafety #foodscience </content>
+    <link href="https://www.tiktok.com/@foodsciencebabe/video/7297346939463404842" rel="alternate"/>
+    <published>2023-11-03T21:13:19+00:00</published>
   </entry>
 </feed>
