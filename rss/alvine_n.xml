@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@alvine_n</id>
   <title>@alvine_n | TikTok</title>
-  <updated>2023-11-01T16:56:27+00:00</updated>
+  <updated>2023-11-04T22:54:46+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @alvine_n</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@alvine_n/video/7296196211671944481</id>
-    <title>You don’t know where to start join my fitness app amd private community chat l will help you ❤️ #HomeFitness #WeightLossJourney #HealthyLiving</title>
-    <updated>2023-10-31T18:47:45+00:00</updated>
-    <content>You don’t know where to start join my fitness app amd private community chat l will help you ❤️ #HomeFitness #WeightLossJourney #HealthyLiving</content>
-    <link href="https://www.tiktok.com/@alvine_n/video/7296196211671944481" rel="alternate"/>
-    <published>2023-10-31T18:47:45+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@alvine_n/video/7296210280911080736</id>
     <title>From my first shaky steps to losing 128 pounds, I’ve transformed not just in body, but in spirit. When I embarked on this journey, little did I know that one day, my story would be an open book to the world. I was camera-shy and unsure, which is why early</title>
@@ -35,6 +27,14 @@
     <content>#CapCut </content>
     <link href="https://www.tiktok.com/@alvine_n/video/7296538611653152032" rel="alternate"/>
     <published>2023-11-01T16:56:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@alvine_n/video/7297744191701011745</id>
+    <title>She is doing home BODY RECOMP challenge first link in my bio to join ❤️❤️❤️</title>
+    <updated>2023-11-04T22:54:46+00:00</updated>
+    <content>She is doing home BODY RECOMP challenge first link in my bio to join ❤️❤️❤️</content>
+    <link href="https://www.tiktok.com/@alvine_n/video/7297744191701011745" rel="alternate"/>
+    <published>2023-11-04T22:54:46+00:00</published>
   </entry>
   <entry>
     <id>https://www.tiktok.com/@alvine_n/video/7228289188574121243</id>
