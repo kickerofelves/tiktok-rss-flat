@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@izzg__</id>
   <title>@izzg__ | TikTok</title>
-  <updated>2023-11-04T16:38:23+00:00</updated>
+  <updated>2023-11-05T17:23:45+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @izzg__</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@izzg__/video/7297277037843156255</id>
-    <title>#nnn </title>
-    <updated>2023-11-03T16:42:10+00:00</updated>
-    <content>#nnn </content>
-    <link href="https://www.tiktok.com/@izzg__/video/7297277037843156255" rel="alternate"/>
-    <published>2023-11-03T16:42:10+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@izzg__/video/7297278951452364062</id>
-    <title>Replying to @Eddy </title>
-    <updated>2023-11-03T16:49:34+00:00</updated>
-    <content>Replying to @Eddy </content>
-    <link href="https://www.tiktok.com/@izzg__/video/7297278951452364062" rel="alternate"/>
-    <published>2023-11-03T16:49:34+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@izzg__/video/7297640649195654430</id>
     <title>Replying to @Señor woofers </title>
@@ -51,5 +35,21 @@
     <content>Replying to @obi </content>
     <link href="https://www.tiktok.com/@izzg__/video/7297647186634870046" rel="alternate"/>
     <published>2023-11-04T16:38:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@izzg__/video/7298029317378854174</id>
+    <title>Replying to @infiniteZstars </title>
+    <updated>2023-11-05T17:21:15+00:00</updated>
+    <content>Replying to @infiniteZstars </content>
+    <link href="https://www.tiktok.com/@izzg__/video/7298029317378854174" rel="alternate"/>
+    <published>2023-11-05T17:21:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@izzg__/video/7298029852463025439</id>
+    <title>Replying to @ggsoftt </title>
+    <updated>2023-11-05T17:23:45+00:00</updated>
+    <content>Replying to @ggsoftt </content>
+    <link href="https://www.tiktok.com/@izzg__/video/7298029852463025439" rel="alternate"/>
+    <published>2023-11-05T17:23:45+00:00</published>
   </entry>
 </feed>
