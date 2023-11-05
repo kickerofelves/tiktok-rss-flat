@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@shibuya_kaho</id>
   <title>@shibuya_kaho | TikTok</title>
-  <updated>2023-10-26T02:26:23+00:00</updated>
+  <updated>2023-11-04T23:50:44+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @shibuya_kaho</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@shibuya_kaho/video/7289047285315489026</id>
-    <title>[no title]</title>
-    <updated>2023-10-12T12:26:16+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@shibuya_kaho/video/7289047285315489026" rel="alternate"/>
-    <published>2023-10-12T12:26:16+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@shibuya_kaho/video/7290193895995018497</id>
-    <title>[no title]</title>
-    <updated>2023-10-15T14:35:43+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@shibuya_kaho/video/7290193895995018497" rel="alternate"/>
-    <published>2023-10-15T14:35:43+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@shibuya_kaho/video/7291381363150720257</id>
     <title>Omurice Cooking POV🍳 デミグラスよりケチャップ派ですが、卵はふわふわも割る系も好きです！</title>
@@ -51,5 +35,21 @@
     <content>I was on billboards in Shibuya, promoting Twitch🩷 去年は新宿、今年は渋谷のビジョンで配信の紹介ができました〜╰(*´︶`*)╯</content>
     <link href="https://www.tiktok.com/@shibuya_kaho/video/7294087883554655489" rel="alternate"/>
     <published>2023-10-26T02:26:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@shibuya_kaho/video/7297600714656828673</id>
+    <title>Are you a #gamer ❓I absolutely am🎮✨ コラボ商品のプロモ撮影より‥ 大人になったら余計にゲームやり過ぎてしまうので、せめて皆さんとコミュニケーションできるよう配信をば(っ ॑꒳ ॑c)</title>
+    <updated>2023-11-04T13:37:55+00:00</updated>
+    <content>Are you a #gamer ❓I absolutely am🎮✨ コラボ商品のプロモ撮影より‥ 大人になったら余計にゲームやり過ぎてしまうので、せめて皆さんとコミュニケーションできるよう配信をば(っ ॑꒳ ॑c)</content>
+    <link href="https://www.tiktok.com/@shibuya_kaho/video/7297600714656828673" rel="alternate"/>
+    <published>2023-11-04T13:37:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@shibuya_kaho/video/7297758620366736641</id>
+    <title>Family Mart, the most ubiquitous convinient store in Tokyo, can be also found in Taipei💚 台湾のファミマは、入った瞬間の調理品の匂いと、お茶セレクションの豊富さに圧倒されました‥！</title>
+    <updated>2023-11-04T23:50:44+00:00</updated>
+    <content>Family Mart, the most ubiquitous convinient store in Tokyo, can be also found in Taipei💚 台湾のファミマは、入った瞬間の調理品の匂いと、お茶セレクションの豊富さに圧倒されました‥！</content>
+    <link href="https://www.tiktok.com/@shibuya_kaho/video/7297758620366736641" rel="alternate"/>
+    <published>2023-11-04T23:50:44+00:00</published>
   </entry>
 </feed>
