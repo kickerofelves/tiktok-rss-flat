@@ -13,6 +13,14 @@
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @miss_sawadodo</subtitle>
   <entry>
+    <id>https://www.tiktok.com/@miss_sawadodo/video/7296638848556223749</id>
+    <title>[no title]</title>
+    <updated>2023-11-01T23:25:24+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@miss_sawadodo/video/7296638848556223749" rel="alternate"/>
+    <published>2023-11-01T23:25:24+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.tiktok.com/@miss_sawadodo/video/7296892834429373701</id>
     <title>[no title]</title>
     <updated>2023-11-02T15:50:58+00:00</updated>
@@ -43,13 +51,5 @@
     <content>[no description]</content>
     <link href="https://www.tiktok.com/@miss_sawadodo/video/7297756055658859782" rel="alternate"/>
     <published>2023-11-04T23:40:45+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@miss_sawadodo/video/7218559398350818566</id>
-    <title>[no title]</title>
-    <updated>2023-04-05T13:37:15+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@miss_sawadodo/video/7218559398350818566" rel="alternate"/>
-    <published>2023-04-05T13:37:15+00:00</published>
   </entry>
 </feed>
