@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@carlamorelli7</id>
   <title>@carlamorelli7 | TikTok</title>
-  <updated>2023-10-30T22:05:33+00:00</updated>
+  <updated>2023-11-04T18:23:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @carlamorelli7</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@carlamorelli7/video/7292535368627391750</id>
-    <title>#humortiktok #latina </title>
-    <updated>2023-10-21T22:01:49+00:00</updated>
-    <content>#humortiktok #latina </content>
-    <link href="https://www.tiktok.com/@carlamorelli7/video/7292535368627391750" rel="alternate"/>
-    <published>2023-10-21T22:01:49+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@carlamorelli7/video/7295554124022664454</id>
     <title>Y que te arda 😌 #humortiktok #latina #ricamorelli </title>
@@ -51,5 +43,13 @@
     <content>Yo le doy un chance bebé 😏🤤 #ricamorelli #imcarlamorelli_of </content>
     <link href="https://www.tiktok.com/@carlamorelli7/video/7295876104655604998" rel="alternate"/>
     <published>2023-10-30T22:05:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@carlamorelli7/video/7297674282065333509</id>
+    <title>😜 #ricamorelli #imcarlamorelli_of </title>
+    <updated>2023-11-04T18:23:24+00:00</updated>
+    <content>😜 #ricamorelli #imcarlamorelli_of </content>
+    <link href="https://www.tiktok.com/@carlamorelli7/video/7297674282065333509" rel="alternate"/>
+    <published>2023-11-04T18:23:24+00:00</published>
   </entry>
 </feed>
