@@ -13,14 +13,6 @@
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @carlamorelli7</subtitle>
   <entry>
-    <id>https://www.tiktok.com/@carlamorelli7/video/7295554124022664454</id>
-    <title>Y que te arda 😌 #humortiktok #latina #ricamorelli </title>
-    <updated>2023-10-30T01:16:07+00:00</updated>
-    <content>Y que te arda 😌 #humortiktok #latina #ricamorelli </content>
-    <link href="https://www.tiktok.com/@carlamorelli7/video/7295554124022664454" rel="alternate"/>
-    <published>2023-10-30T01:16:07+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.tiktok.com/@carlamorelli7/video/7295871774422584582</id>
     <title>[no title]</title>
     <updated>2023-10-30T21:48:46+00:00</updated>
@@ -51,5 +43,13 @@
     <content>😜 #ricamorelli #imcarlamorelli_of </content>
     <link href="https://www.tiktok.com/@carlamorelli7/video/7297674282065333509" rel="alternate"/>
     <published>2023-11-04T18:23:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@carlamorelli7/video/7088791598414318854</id>
+    <title>Pa donde es que vamos este fin de semana ? 😏@Steffy Moreno @Karol Rosado #LiveForTheChallenge #fypシ #amigas</title>
+    <updated>2022-04-20T20:51:52+00:00</updated>
+    <content>Pa donde es que vamos este fin de semana ? 😏@Steffy Moreno @Karol Rosado #LiveForTheChallenge #fypシ #amigas</content>
+    <link href="https://www.tiktok.com/@carlamorelli7/video/7088791598414318854" rel="alternate"/>
+    <published>2022-04-20T20:51:52+00:00</published>
   </entry>
 </feed>
