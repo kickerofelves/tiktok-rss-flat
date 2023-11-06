@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@foodsciencebabe</id>
   <title>@foodsciencebabe | TikTok</title>
-  <updated>2023-11-03T21:13:19+00:00</updated>
+  <updated>2023-11-05T23:35:48+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @foodsciencebabe</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@foodsciencebabe/video/7290574328809377070</id>
-    <title>This information is specifically regarding date labels in the US. Other countries may have different regulations regarding food date labels. #foodsafety #foodscience #datelabels #foodtok </title>
-    <updated>2023-10-16T15:12:21+00:00</updated>
-    <content>This information is specifically regarding date labels in the US. Other countries may have different regulations regarding food date labels. #foodsafety #foodscience #datelabels #foodtok </content>
-    <link href="https://www.tiktok.com/@foodsciencebabe/video/7290574328809377070" rel="alternate"/>
-    <published>2023-10-16T15:12:21+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@foodsciencebabe/video/7290984195399257390</id>
     <title>More info about water activity in my water activity playlist. #foodsafety #foodscience #foodpreservation #logicalfallacies #greenscreen </title>
@@ -51,5 +43,13 @@
     <content>Unnecessary food fears are not too good for you. #factsnotfear #foodmyths #babycarrots #foodsafety #foodscience </content>
     <link href="https://www.tiktok.com/@foodsciencebabe/video/7297346939463404842" rel="alternate"/>
     <published>2023-11-03T21:13:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@foodsciencebabe/video/7298125831522503982</id>
+    <title>Didn’t quite think this one through did we…🤦🏼‍♀️ #fearmongering #foodtok #foodscience #basicmath #nutrition #greenscreen </title>
+    <updated>2023-11-05T23:35:48+00:00</updated>
+    <content>Didn’t quite think this one through did we…🤦🏼‍♀️ #fearmongering #foodtok #foodscience #basicmath #nutrition #greenscreen </content>
+    <link href="https://www.tiktok.com/@foodsciencebabe/video/7298125831522503982" rel="alternate"/>
+    <published>2023-11-05T23:35:48+00:00</published>
   </entry>
 </feed>

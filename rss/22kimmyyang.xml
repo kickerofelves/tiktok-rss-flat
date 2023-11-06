@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@22kimmyyang</id>
   <title>@22kimmyyang | TikTok</title>
-  <updated>2023-11-05T00:17:40+00:00</updated>
+  <updated>2023-11-05T20:34:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @22kimmyyang</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@22kimmyyang/video/7295798055780060462</id>
-    <title>Go to my new account @Goddess </title>
-    <updated>2023-10-30T17:02:54+00:00</updated>
-    <content>Go to my new account @Goddess </content>
-    <link href="https://www.tiktok.com/@22kimmyyang/video/7295798055780060462" rel="alternate"/>
-    <published>2023-10-30T17:02:54+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@22kimmyyang/video/7295857220963568938</id>
     <title>@Goddess ⬅️ Click this</title>
@@ -51,5 +43,13 @@
     <content>[no description]</content>
     <link href="https://www.tiktok.com/@22kimmyyang/video/7297765530805587242" rel="alternate"/>
     <published>2023-11-05T00:17:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@22kimmyyang/video/7298079004068744491</id>
+    <title>Tis the season 🎄 @Goddess </title>
+    <updated>2023-11-05T20:34:08+00:00</updated>
+    <content>Tis the season 🎄 @Goddess </content>
+    <link href="https://www.tiktok.com/@22kimmyyang/video/7298079004068744491" rel="alternate"/>
+    <published>2023-11-05T20:34:08+00:00</published>
   </entry>
 </feed>
