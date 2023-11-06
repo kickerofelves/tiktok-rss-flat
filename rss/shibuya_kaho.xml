@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@shibuya_kaho</id>
   <title>@shibuya_kaho | TikTok</title>
-  <updated>2023-11-05T12:27:00+00:00</updated>
+  <updated>2023-11-05T20:27:51+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @shibuya_kaho</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@shibuya_kaho/video/7294087883554655489</id>
-    <title>I was on billboards in Shibuya, promoting Twitch🩷 去年は新宿、今年は渋谷のビジョンで配信の紹介ができました〜╰(*´︶`*)╯</title>
-    <updated>2023-10-26T02:26:23+00:00</updated>
-    <content>I was on billboards in Shibuya, promoting Twitch🩷 去年は新宿、今年は渋谷のビジョンで配信の紹介ができました〜╰(*´︶`*)╯</content>
-    <link href="https://www.tiktok.com/@shibuya_kaho/video/7294087883554655489" rel="alternate"/>
-    <published>2023-10-26T02:26:23+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@shibuya_kaho/video/7297600714656828673</id>
     <title>Are you a #gamer ❓I absolutely am🎮✨ コラボ商品のプロモ撮影より‥ 大人になったら余計にゲームやり過ぎてしまうので、せめて皆さんとコミュニケーションできるよう配信をば(っ ॑꒳ ॑c)</title>
@@ -51,5 +43,13 @@
     <content>My POV for feeding a cat🐈‍⬛ スタジオとイベント会場でも猫さんがฅ^•ω•^ฅ Chuちゅちゅチュールタイム！</content>
     <link href="https://www.tiktok.com/@shibuya_kaho/video/7297953520429321473" rel="alternate"/>
     <published>2023-11-05T12:27:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@shibuya_kaho/video/7298077380982148353</id>
+    <title>My feet were musical instrument...🦶 気ぃ持ち良かったぁぁー</title>
+    <updated>2023-11-05T20:27:51+00:00</updated>
+    <content>My feet were musical instrument...🦶 気ぃ持ち良かったぁぁー</content>
+    <link href="https://www.tiktok.com/@shibuya_kaho/video/7298077380982148353" rel="alternate"/>
+    <published>2023-11-05T20:27:51+00:00</published>
   </entry>
 </feed>
