@@ -13,22 +13,6 @@
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @sonia_barbie</subtitle>
   <entry>
-    <id>https://www.tiktok.com/@sonia_barbie/video/7295060054892449067</id>
-    <title>Walking for @ATAFO was a Dream </title>
-    <updated>2023-10-28T17:19:04+00:00</updated>
-    <content>Walking for @ATAFO was a Dream </content>
-    <link href="https://www.tiktok.com/@sonia_barbie/video/7295060054892449067" rel="alternate"/>
-    <published>2023-10-28T17:19:04+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@sonia_barbie/video/7295152969857715498</id>
-    <title>[no title]</title>
-    <updated>2023-10-28T23:19:35+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@sonia_barbie/video/7295152969857715498" rel="alternate"/>
-    <published>2023-10-28T23:19:35+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.tiktok.com/@sonia_barbie/video/7295370112075304238</id>
     <title>Turning heads in Lagos 🇳🇬</title>
     <updated>2023-10-29T13:22:15+00:00</updated>
@@ -51,5 +35,21 @@
     <content>@La Mode Magazine ❤️❤️❤️</content>
     <link href="https://www.tiktok.com/@sonia_barbie/video/7298444021859421483" rel="alternate"/>
     <published>2023-11-06T20:10:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@sonia_barbie/video/7100990138091703595</id>
+    <title>[no title]</title>
+    <updated>2022-05-23T17:48:26+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@sonia_barbie/video/7100990138091703595" rel="alternate"/>
+    <published>2022-05-23T17:48:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@sonia_barbie/video/7200145241389944110</id>
+    <title>Had a blessed Valentine, how was yours? ❤️</title>
+    <updated>2023-02-14T22:41:06+00:00</updated>
+    <content>Had a blessed Valentine, how was yours? ❤️</content>
+    <link href="https://www.tiktok.com/@sonia_barbie/video/7200145241389944110" rel="alternate"/>
+    <published>2023-02-14T22:41:06+00:00</published>
   </entry>
 </feed>
