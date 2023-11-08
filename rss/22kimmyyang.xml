@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@22kimmyyang</id>
   <title>@22kimmyyang | TikTok</title>
-  <updated>2023-11-06T18:31:45+00:00</updated>
+  <updated>2023-11-07T19:05:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @22kimmyyang</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@22kimmyyang/video/7296956060231798058</id>
-    <title>[no title]</title>
-    <updated>2023-11-02T19:56:31+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@22kimmyyang/video/7296956060231798058" rel="alternate"/>
-    <published>2023-11-02T19:56:31+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@22kimmyyang/video/7297699470433848622</id>
     <title>#fyp #foryourpage #fypシ </title>
@@ -51,5 +43,13 @@
     <content>@Goddess </content>
     <link href="https://www.tiktok.com/@22kimmyyang/video/7298418517169360174" rel="alternate"/>
     <published>2023-11-06T18:31:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@22kimmyyang/video/7298798380291984683</id>
+    <title>That feeling when you follow my new account 👉🏻 @Goddess </title>
+    <updated>2023-11-07T19:05:32+00:00</updated>
+    <content>That feeling when you follow my new account 👉🏻 @Goddess </content>
+    <link href="https://www.tiktok.com/@22kimmyyang/video/7298798380291984683" rel="alternate"/>
+    <published>2023-11-07T19:05:32+00:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@foodsciencebabe</id>
   <title>@foodsciencebabe | TikTok</title>
-  <updated>2023-11-05T23:35:48+00:00</updated>
+  <updated>2023-11-08T02:06:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @foodsciencebabe</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@foodsciencebabe/video/7290984195399257390</id>
-    <title>More info about water activity in my water activity playlist. #foodsafety #foodscience #foodpreservation #logicalfallacies #greenscreen </title>
-    <updated>2023-10-17T17:42:46+00:00</updated>
-    <content>More info about water activity in my water activity playlist. #foodsafety #foodscience #foodpreservation #logicalfallacies #greenscreen </content>
-    <link href="https://www.tiktok.com/@foodsciencebabe/video/7290984195399257390" rel="alternate"/>
-    <published>2023-10-17T17:42:46+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@foodsciencebabe/video/7293292264636468526</id>
     <title>#stitch with  @The Basement Yard Podcast and  @Chem Thug Yes, Joey! #iron #foodscience #nutrition #chemistry #scicomm </title>
@@ -51,5 +43,13 @@
     <content>Didn’t quite think this one through did we…🤦🏼‍♀️ #fearmongering #foodtok #foodscience #basicmath #nutrition #greenscreen </content>
     <link href="https://www.tiktok.com/@foodsciencebabe/video/7298125831522503982" rel="alternate"/>
     <published>2023-11-05T23:35:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@foodsciencebabe/video/7298906881337298222</id>
+    <title>#shrinkflation </title>
+    <updated>2023-11-08T02:06:41+00:00</updated>
+    <content>#shrinkflation </content>
+    <link href="https://www.tiktok.com/@foodsciencebabe/video/7298906881337298222" rel="alternate"/>
+    <published>2023-11-08T02:06:41+00:00</published>
   </entry>
 </feed>

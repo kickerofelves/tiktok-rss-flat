@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@rahyndee</id>
   <title>@rahyndee | TikTok</title>
-  <updated>2023-11-06T21:37:15+00:00</updated>
+  <updated>2023-11-07T17:02:58+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @rahyndee</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@rahyndee/video/7296953072486599966</id>
-    <title>..lets tour an old jail from the 1920’s ( I’m guessing) 😳 #spookyseason #lol #fyp #lasvegas </title>
-    <updated>2023-11-02T19:45:25+00:00</updated>
-    <content>..lets tour an old jail from the 1920’s ( I’m guessing) 😳 #spookyseason #lol #fyp #lasvegas </content>
-    <link href="https://www.tiktok.com/@rahyndee/video/7296953072486599966" rel="alternate"/>
-    <published>2023-11-02T19:45:25+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@rahyndee/video/7297052311703129387</id>
     <title>He almost got me 😱… 😏  #fyp #halloween2023 #truestory #lasvegas </title>
@@ -51,5 +43,13 @@
     <content>Couldn’t help my self 💜🤤 #fyp #dogmom </content>
     <link href="https://www.tiktok.com/@rahyndee/video/7298466352195472671" rel="alternate"/>
     <published>2023-11-06T21:37:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@rahyndee/video/7298766788735585566</id>
+    <title>..cowboy take me away 🤠🫠 #fyp #lasvegas #cowgirlup #yeehaw #cowboys </title>
+    <updated>2023-11-07T17:02:58+00:00</updated>
+    <content>..cowboy take me away 🤠🫠 #fyp #lasvegas #cowgirlup #yeehaw #cowboys </content>
+    <link href="https://www.tiktok.com/@rahyndee/video/7298766788735585566" rel="alternate"/>
+    <published>2023-11-07T17:02:58+00:00</published>
   </entry>
 </feed>
