@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@lunabends</id>
   <title>@lunabends | TikTok</title>
-  <updated>2023-11-05T14:59:56+00:00</updated>
+  <updated>2023-11-07T20:37:02+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @lunabends</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@lunabends/video/7296197378422345003</id>
-    <title>She was a nightmare 🖤 #flexible #yogi #yoga #stretching #splits #middlesplits #straddles #frogpose </title>
-    <updated>2023-10-31T18:52:29+00:00</updated>
-    <content>She was a nightmare 🖤 #flexible #yogi #yoga #stretching #splits #middlesplits #straddles #frogpose </content>
-    <link href="https://www.tiktok.com/@lunabends/video/7296197378422345003" rel="alternate"/>
-    <published>2023-10-31T18:52:29+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@lunabends/video/7296528321242729771</id>
     <title>November , be good to me 🥺🖤 #fypシ </title>
@@ -51,5 +43,13 @@
     <content>Sunday spins  #poletok #poledance #dancer #spinpole #poletricks #pleaserheels </content>
     <link href="https://www.tiktok.com/@lunabends/video/7297992894172974382" rel="alternate"/>
     <published>2023-11-05T14:59:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lunabends/video/7298821948275019051</id>
+    <title>When one trick goes wrong ... act natural  #poletok #poletricks #spinpole #pleaserheels </title>
+    <updated>2023-11-07T20:37:02+00:00</updated>
+    <content>When one trick goes wrong ... act natural  #poletok #poletricks #spinpole #pleaserheels </content>
+    <link href="https://www.tiktok.com/@lunabends/video/7298821948275019051" rel="alternate"/>
+    <published>2023-11-07T20:37:02+00:00</published>
   </entry>
 </feed>
