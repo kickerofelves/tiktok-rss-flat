@@ -13,6 +13,14 @@
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @alessandraof7</subtitle>
   <entry>
+    <id>https://www.tiktok.com/@alessandraof7/video/7152572083824839942</id>
+    <title>#viral #usa #parati </title>
+    <updated>2022-10-09T17:52:46+00:00</updated>
+    <content>#viral #usa #parati </content>
+    <link href="https://www.tiktok.com/@alessandraof7/video/7152572083824839942" rel="alternate"/>
+    <published>2022-10-09T17:52:46+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.tiktok.com/@alessandraof7/video/7154176364713626886</id>
     <title>#viral #usa #parati </title>
     <updated>2022-10-14T01:38:13+00:00</updated>
@@ -43,13 +51,5 @@
     <content>siganme en mi nueva cuenta de tiktok @Alessandra.of7  #viral #usa #parati </content>
     <link href="https://www.tiktok.com/@alessandraof7/video/7171235195717192965" rel="alternate"/>
     <published>2022-11-29T00:55:11+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@alessandraof7/video/7103675912645922053</id>
-    <title>#viral #usa #parati #foryou</title>
-    <updated>2022-05-30T23:30:37+00:00</updated>
-    <content>#viral #usa #parati #foryou</content>
-    <link href="https://www.tiktok.com/@alessandraof7/video/7103675912645922053" rel="alternate"/>
-    <published>2022-05-30T23:30:37+00:00</published>
   </entry>
 </feed>
