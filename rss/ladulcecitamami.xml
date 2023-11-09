@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ladulcecitamami</id>
   <title>@ladulcecitamami | TikTok</title>
-  <updated>2023-10-30T16:19:00+00:00</updated>
+  <updated>2023-11-08T22:47:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -19,5 +19,13 @@
     <content>[no description]</content>
     <link href="https://www.tiktok.com/@ladulcecitamami/video/7295786736272117034" rel="alternate"/>
     <published>2023-10-30T16:19:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ladulcecitamami/video/7299226648849812779</id>
+    <title>[no title]</title>
+    <updated>2023-11-08T22:47:33+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@ladulcecitamami/video/7299226648849812779" rel="alternate"/>
+    <published>2023-11-08T22:47:33+00:00</published>
   </entry>
 </feed>
