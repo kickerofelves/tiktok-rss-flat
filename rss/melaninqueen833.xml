@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@melaninqueen833</id>
   <title>@melaninqueen833 | TikTok</title>
-  <updated>2023-11-08T20:24:35+00:00</updated>
+  <updated>2023-11-09T18:12:36+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,22 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @melaninqueen833</subtitle>
+  <entry>
+    <id>https://www.tiktok.com/@melaninqueen833/video/7298759465279442218</id>
+    <title>[no title]</title>
+    <updated>2023-11-07T16:34:36+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@melaninqueen833/video/7298759465279442218" rel="alternate"/>
+    <published>2023-11-07T16:34:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@melaninqueen833/video/7298819969553337643</id>
+    <title>[no title]</title>
+    <updated>2023-11-07T20:29:21+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@melaninqueen833/video/7298819969553337643" rel="alternate"/>
+    <published>2023-11-07T20:29:21+00:00</published>
+  </entry>
   <entry>
     <id>https://www.tiktok.com/@melaninqueen833/video/7298994228397346091</id>
     <title>[no title]</title>
@@ -29,27 +45,11 @@
     <published>2023-11-08T20:24:35+00:00</published>
   </entry>
   <entry>
-    <id>https://www.tiktok.com/@melaninqueen833/video/7195131335046909230</id>
-    <title>i hate to see her go but i love to see her come #fypシ #fashionblogger #fyp #lifestyleblogger #foryoupage </title>
-    <updated>2023-02-01T10:24:36+00:00</updated>
-    <content>i hate to see her go but i love to see her come #fypシ #fashionblogger #fyp #lifestyleblogger #foryoupage </content>
-    <link href="https://www.tiktok.com/@melaninqueen833/video/7195131335046909230" rel="alternate"/>
-    <published>2023-02-01T10:24:36+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@melaninqueen833/video/7201074110447963438</id>
+    <id>https://www.tiktok.com/@melaninqueen833/video/7299526825275886890</id>
     <title>[no title]</title>
-    <updated>2023-02-17T10:47:01+00:00</updated>
+    <updated>2023-11-09T18:12:36+00:00</updated>
     <content>[no description]</content>
-    <link href="https://www.tiktok.com/@melaninqueen833/video/7201074110447963438" rel="alternate"/>
-    <published>2023-02-17T10:47:01+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@melaninqueen833/video/7251982227699977514</id>
-    <title>[no title]</title>
-    <updated>2023-07-04T15:15:10+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@melaninqueen833/video/7251982227699977514" rel="alternate"/>
-    <published>2023-07-04T15:15:10+00:00</published>
+    <link href="https://www.tiktok.com/@melaninqueen833/video/7299526825275886890" rel="alternate"/>
+    <published>2023-11-09T18:12:36+00:00</published>
   </entry>
 </feed>
