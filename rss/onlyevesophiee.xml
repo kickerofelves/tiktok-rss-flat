@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@onlyevesophiee</id>
   <title>@onlyevesophiee | TikTok</title>
-  <updated>2023-11-09T01:03:56+00:00</updated>
+  <updated>2023-11-09T16:40:13+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @onlyevesophiee</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@onlyevesophiee/video/7290330972040580384</id>
-    <title>[no title]</title>
-    <updated>2023-10-15T23:27:46+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@onlyevesophiee/video/7290330972040580384" rel="alternate"/>
-    <published>2023-10-15T23:27:46+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@onlyevesophiee/video/7294023531115892000</id>
     <title>[no title]</title>
@@ -51,5 +43,13 @@
     <content>[no description]</content>
     <link href="https://www.tiktok.com/@onlyevesophiee/video/7299261797230480673" rel="alternate"/>
     <published>2023-11-09T01:03:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@onlyevesophiee/video/7299503103311744289</id>
+    <title>Good morning</title>
+    <updated>2023-11-09T16:40:13+00:00</updated>
+    <content>Good morning</content>
+    <link href="https://www.tiktok.com/@onlyevesophiee/video/7299503103311744289" rel="alternate"/>
+    <published>2023-11-09T16:40:13+00:00</published>
   </entry>
 </feed>
