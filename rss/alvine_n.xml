@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@alvine_n</id>
   <title>@alvine_n | TikTok</title>
-  <updated>2023-11-08T18:29:54+00:00</updated>
+  <updated>2023-11-09T19:18:21+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @alvine_n</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@alvine_n/video/7298447342263471392</id>
-    <title>Replying to @Q.Neikk hey hun you have to follow a workout program &amp; Nuttrition based on your body hit the link in my bio &amp; join my private chat l willl help you ❤️❤️#fitnesstips #fitnessmotivation </title>
-    <updated>2023-11-06T20:23:18+00:00</updated>
-    <content>Replying to @Q.Neikk hey hun you have to follow a workout program &amp; Nuttrition based on your body hit the link in my bio &amp; join my private chat l willl help you ❤️❤️#fitnesstips #fitnessmotivation </content>
-    <link href="https://www.tiktok.com/@alvine_n/video/7298447342263471392" rel="alternate"/>
-    <published>2023-11-06T20:23:18+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@alvine_n/video/7298784056400039201</id>
-    <title>Side glutes home workout &gt;&gt;🔥🔥🔥</title>
-    <updated>2023-11-07T18:09:55+00:00</updated>
-    <content>Side glutes home workout &gt;&gt;🔥🔥🔥</content>
-    <link href="https://www.tiktok.com/@alvine_n/video/7298784056400039201" rel="alternate"/>
-    <published>2023-11-07T18:09:55+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@alvine_n/video/7298794742895201568</id>
     <title>Hey ladies Join me on @Lemon8 and let’s show some support for each other as we become part of this fun new community! Simply comment on my ‘🍋🍸‘ on my most recent post, then we can follow and support each other on there🥰#lemon8 </title>
@@ -51,5 +35,21 @@
     <content>Say goodbye to bland, boring diets and hello to the hourglass figure you deserve! Link in bio #cookbook #healthyrecipes #healthyeating </content>
     <link href="https://www.tiktok.com/@alvine_n/video/7299160286659956000" rel="alternate"/>
     <published>2023-11-08T18:29:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@alvine_n/video/7299527335340969248</id>
+    <title>Replying to @P✨🤍 more smothies recipes on my cookbook in bio  Ingredients: 1/2 cup (about 120g) of 0% fat Greek yogurt: ~60 calories, 10g protein 1 scoop (around 30g depending on brand) of protein powder: ~120 calories, 24g protein 1/4 cup (about 21g) of </title>
+    <updated>2023-11-09T18:14:14+00:00</updated>
+    <content>Replying to @P✨🤍 more smothies recipes on my cookbook in bio  Ingredients: 1/2 cup (about 120g) of 0% fat Greek yogurt: ~60 calories, 10g protein 1 scoop (around 30g depending on brand) of protein powder: ~120 calories, 24g protein 1/4 cup (about 21g) of oats: ~77 calories, 2.5g protein 1 tablespoon (about 10g) of chia seeds: ~50 calories, 2g protein 1/4 cup (about 25g) of blueberries: ~21 calories, 0.3g protein 1 teaspoon (about 5g) of greens powder: variable, but typically low in calories and protein #proteinshake #protein #glutesgains </content>
+    <link href="https://www.tiktok.com/@alvine_n/video/7299527335340969248" rel="alternate"/>
+    <published>2023-11-09T18:14:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@alvine_n/video/7299543854586416417</id>
+    <title>[no title]</title>
+    <updated>2023-11-09T19:18:21+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@alvine_n/video/7299543854586416417" rel="alternate"/>
+    <published>2023-11-09T19:18:21+00:00</published>
   </entry>
 </feed>
