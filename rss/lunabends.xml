@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@lunabends</id>
   <title>@lunabends | TikTok</title>
-  <updated>2023-11-08T15:17:27+00:00</updated>
+  <updated>2023-11-08T18:41:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @lunabends</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@lunabends/video/7296903048918469930</id>
-    <title>Putting work into my straddles  #yogi #yoga #flexible #stretching #splits #middlesplits #starddles #flexy </title>
-    <updated>2023-11-02T16:30:48+00:00</updated>
-    <content>Putting work into my straddles  #yogi #yoga #flexible #stretching #splits #middlesplits #starddles #flexy </content>
-    <link href="https://www.tiktok.com/@lunabends/video/7296903048918469930" rel="alternate"/>
-    <published>2023-11-02T16:30:48+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@lunabends/video/7297239455985945898</id>
     <title>My one true love - pole 🖤 #poletok #poledance #dancer #dance #poletricks #pleaserheels </title>
@@ -51,5 +43,13 @@
     <content>Split variation  #poletok #dancer #dance #poledancing #poletricks #spinpole #pleasersheels </content>
     <link href="https://www.tiktok.com/@lunabends/video/7299110629179198763" rel="alternate"/>
     <published>2023-11-08T15:17:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lunabends/video/7299163311235714350</id>
+    <title>Giving myself a hug  #yogi #yoga #flexible #flexy #hamstrings #stretch </title>
+    <updated>2023-11-08T18:41:59+00:00</updated>
+    <content>Giving myself a hug  #yogi #yoga #flexible #flexy #hamstrings #stretch </content>
+    <link href="https://www.tiktok.com/@lunabends/video/7299163311235714350" rel="alternate"/>
+    <published>2023-11-08T18:41:59+00:00</published>
   </entry>
 </feed>
