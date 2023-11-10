@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@shibuya_kaho</id>
   <title>@shibuya_kaho | TikTok</title>
-  <updated>2023-11-09T13:17:48+00:00</updated>
+  <updated>2023-11-09T14:35:43+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @shibuya_kaho</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@shibuya_kaho/video/7297758620366736641</id>
-    <title>Family Mart, the most ubiquitous convinient store in Tokyo, can be also found in Taipei💚 台湾のファミマは、入った瞬間の調理品の匂いと、お茶セレクションの豊富さに圧倒されました‥！</title>
-    <updated>2023-11-04T23:50:44+00:00</updated>
-    <content>Family Mart, the most ubiquitous convinient store in Tokyo, can be also found in Taipei💚 台湾のファミマは、入った瞬間の調理品の匂いと、お茶セレクションの豊富さに圧倒されました‥！</content>
-    <link href="https://www.tiktok.com/@shibuya_kaho/video/7297758620366736641" rel="alternate"/>
-    <published>2023-11-04T23:50:44+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@shibuya_kaho/video/7297920347465207041</id>
     <title>Fitting for cosplay! Thus is the day I arrived in Taiwan🛩️ 台湾到着すぐに衣装合わせ∧( •̀д•́ ;  ) ノ</title>
@@ -51,5 +43,13 @@
     <content>Promo shoot for the clothing I produced! Wait for more info about the heart shirt and heart cow skirt~ プロデュースしたお洋服のPR撮影！</content>
     <link href="https://www.tiktok.com/@shibuya_kaho/video/7299450948764699905" rel="alternate"/>
     <published>2023-11-09T13:17:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@shibuya_kaho/video/7299471036079148289</id>
+    <title>Okonomiyaki🤎 is what Uchan in Ranma 1/2 is cooks al the time! 恒例の飯テロ、今夜は #お好み焼き です。</title>
+    <updated>2023-11-09T14:35:43+00:00</updated>
+    <content>Okonomiyaki🤎 is what Uchan in Ranma 1/2 is cooks al the time! 恒例の飯テロ、今夜は #お好み焼き です。</content>
+    <link href="https://www.tiktok.com/@shibuya_kaho/video/7299471036079148289" rel="alternate"/>
+    <published>2023-11-09T14:35:43+00:00</published>
   </entry>
 </feed>
