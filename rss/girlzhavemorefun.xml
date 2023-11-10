@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@girlzhavemorefun</id>
   <title>@girlzhavemorefun | TikTok</title>
-  <updated>2023-11-09T19:09:23+00:00</updated>
+  <updated>2023-11-10T06:49:13+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @girlzhavemorefun</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@girlzhavemorefun/video/7298902658134330655</id>
-    <title>♡ #fyp #goviral #bodypositivity #fakebody #girl </title>
-    <updated>2023-11-08T01:50:14+00:00</updated>
-    <content>♡ #fyp #goviral #bodypositivity #fakebody #girl </content>
-    <link href="https://www.tiktok.com/@girlzhavemorefun/video/7298902658134330655" rel="alternate"/>
-    <published>2023-11-08T01:50:14+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@girlzhavemorefun/video/7298902845301083422</id>
     <title>♡ #fyp #goviral #bodypositivity #fakebody #girl </title>
@@ -45,11 +37,19 @@
     <published>2023-11-09T19:09:23+00:00</published>
   </entry>
   <entry>
-    <id>https://www.tiktok.com/@girlzhavemorefun/video/7199674345789213994</id>
-    <title>Fun in the sun #sun #fyp #fypシ </title>
-    <updated>2023-02-13T16:14:02+00:00</updated>
-    <content>Fun in the sun #sun #fyp #fypシ </content>
-    <link href="https://www.tiktok.com/@girlzhavemorefun/video/7199674345789213994" rel="alternate"/>
-    <published>2023-02-13T16:14:02+00:00</published>
+    <id>https://www.tiktok.com/@girlzhavemorefun/video/7299721645055331614</id>
+    <title>♡ #fyp #goviral #bodypositivity #fakebody #girl </title>
+    <updated>2023-11-10T06:48:22+00:00</updated>
+    <content>♡ #fyp #goviral #bodypositivity #fakebody #girl </content>
+    <link href="https://www.tiktok.com/@girlzhavemorefun/video/7299721645055331614" rel="alternate"/>
+    <published>2023-11-10T06:48:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@girlzhavemorefun/video/7299721850463079710</id>
+    <title>♡ #fyp #goviral #bodypositivity #fakebody #girl </title>
+    <updated>2023-11-10T06:49:13+00:00</updated>
+    <content>♡ #fyp #goviral #bodypositivity #fakebody #girl </content>
+    <link href="https://www.tiktok.com/@girlzhavemorefun/video/7299721850463079710" rel="alternate"/>
+    <published>2023-11-10T06:49:13+00:00</published>
   </entry>
 </feed>
