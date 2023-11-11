@@ -13,22 +13,6 @@
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @sonia_barbie</subtitle>
   <entry>
-    <id>https://www.tiktok.com/@sonia_barbie/video/7299180487644400942</id>
-    <title>Outfit @zikorahafrica ❤️ . Photographer @osbaltstudios</title>
-    <updated>2023-11-08T19:48:31+00:00</updated>
-    <content>Outfit @zikorahafrica ❤️ . Photographer @osbaltstudios</content>
-    <link href="https://www.tiktok.com/@sonia_barbie/video/7299180487644400942" rel="alternate"/>
-    <published>2023-11-08T19:48:31+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@sonia_barbie/video/7299455072113642795</id>
-    <title>[no title]</title>
-    <updated>2023-11-09T13:33:54+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@sonia_barbie/video/7299455072113642795" rel="alternate"/>
-    <published>2023-11-09T13:33:54+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.tiktok.com/@sonia_barbie/video/7299456883482447147</id>
     <title>[no title]</title>
     <updated>2023-11-09T13:40:55+00:00</updated>
@@ -51,5 +35,21 @@
     <content>On set for @Obiageri | content creator </content>
     <link href="https://www.tiktok.com/@sonia_barbie/video/7299494814314188074" rel="alternate"/>
     <published>2023-11-09T16:08:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@sonia_barbie/video/7100990138091703595</id>
+    <title>[no title]</title>
+    <updated>2022-05-23T17:48:26+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@sonia_barbie/video/7100990138091703595" rel="alternate"/>
+    <published>2022-05-23T17:48:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@sonia_barbie/video/7200145241389944110</id>
+    <title>Had a blessed Valentine, how was yours? ❤️</title>
+    <updated>2023-02-14T22:41:06+00:00</updated>
+    <content>Had a blessed Valentine, how was yours? ❤️</content>
+    <link href="https://www.tiktok.com/@sonia_barbie/video/7200145241389944110" rel="alternate"/>
+    <published>2023-02-14T22:41:06+00:00</published>
   </entry>
 </feed>
