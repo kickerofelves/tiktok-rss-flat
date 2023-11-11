@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@lunabends</id>
   <title>@lunabends | TikTok</title>
-  <updated>2023-11-08T18:41:59+00:00</updated>
+  <updated>2023-11-10T19:18:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @lunabends</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@lunabends/video/7297239455985945898</id>
-    <title>My one true love - pole 🖤 #poletok #poledance #dancer #dance #poletricks #pleaserheels </title>
-    <updated>2023-11-03T14:16:13+00:00</updated>
-    <content>My one true love - pole 🖤 #poletok #poledance #dancer #dance #poletricks #pleaserheels </content>
-    <link href="https://www.tiktok.com/@lunabends/video/7297239455985945898" rel="alternate"/>
-    <published>2023-11-03T14:16:13+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@lunabends/video/7297992894172974382</id>
-    <title>Sunday spins  #poletok #poledance #dancer #spinpole #poletricks #pleaserheels </title>
-    <updated>2023-11-05T14:59:56+00:00</updated>
-    <content>Sunday spins  #poletok #poledance #dancer #spinpole #poletricks #pleaserheels </content>
-    <link href="https://www.tiktok.com/@lunabends/video/7297992894172974382" rel="alternate"/>
-    <published>2023-11-05T14:59:56+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@lunabends/video/7298821948275019051</id>
-    <title>When one trick goes wrong ... act natural  #poletok #poletricks #spinpole #pleaserheels </title>
-    <updated>2023-11-07T20:37:02+00:00</updated>
-    <content>When one trick goes wrong ... act natural  #poletok #poletricks #spinpole #pleaserheels </content>
-    <link href="https://www.tiktok.com/@lunabends/video/7298821948275019051" rel="alternate"/>
-    <published>2023-11-07T20:37:02+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@lunabends/video/7299110629179198763</id>
     <title>Split variation  #poletok #dancer #dance #poledancing #poletricks #spinpole #pleasersheels </title>
@@ -51,5 +27,29 @@
     <content>Giving myself a hug  #yogi #yoga #flexible #flexy #hamstrings #stretch </content>
     <link href="https://www.tiktok.com/@lunabends/video/7299163311235714350" rel="alternate"/>
     <published>2023-11-08T18:41:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lunabends/video/7299915015396625710</id>
+    <title>Heel bangs ftw  #poletok #dancer #poledance #dancing #floorwork #staticpole #pleaserheels </title>
+    <updated>2023-11-10T19:18:39+00:00</updated>
+    <content>Heel bangs ftw  #poletok #dancer #poledance #dancing #floorwork #staticpole #pleaserheels </content>
+    <link href="https://www.tiktok.com/@lunabends/video/7299915015396625710" rel="alternate"/>
+    <published>2023-11-10T19:18:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lunabends/video/7219307826949131562</id>
+    <title>Extreme puppy pose ☺️ #trending #yogi #yoga #flexible #puppypose </title>
+    <updated>2023-04-07T14:01:37+00:00</updated>
+    <content>Extreme puppy pose ☺️ #trending #yogi #yoga #flexible #puppypose </content>
+    <link href="https://www.tiktok.com/@lunabends/video/7219307826949131562" rel="alternate"/>
+    <published>2023-04-07T14:01:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lunabends/video/7230896135244680494</id>
+    <title>Human pretzel  #trending #yogi #yoga #flexible </title>
+    <updated>2023-05-08T19:30:11+00:00</updated>
+    <content>Human pretzel  #trending #yogi #yoga #flexible </content>
+    <link href="https://www.tiktok.com/@lunabends/video/7230896135244680494" rel="alternate"/>
+    <published>2023-05-08T19:30:11+00:00</published>
   </entry>
 </feed>
