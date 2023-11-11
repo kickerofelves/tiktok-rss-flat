@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@_mommymewtwo</id>
   <title>@_mommymewtwo | TikTok</title>
-  <updated>2023-11-06T16:12:08+00:00</updated>
+  <updated>2023-11-11T16:11:30+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -13,20 +13,20 @@
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @_mommymewtwo</subtitle>
   <entry>
-    <id>https://www.tiktok.com/@_mommymewtwo/video/7296524429369150752</id>
-    <title>🤓 #musclemommy #mewtwo #fyp #gymtok </title>
-    <updated>2023-11-01T16:01:26+00:00</updated>
-    <content>🤓 #musclemommy #mewtwo #fyp #gymtok </content>
-    <link href="https://www.tiktok.com/@_mommymewtwo/video/7296524429369150752" rel="alternate"/>
-    <published>2023-11-01T16:01:26+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.tiktok.com/@_mommymewtwo/video/7298382611683036449</id>
     <title>Legs legs legs #musclemommy #fyp #mewtwo #gymtok </title>
     <updated>2023-11-06T16:12:08+00:00</updated>
     <content>Legs legs legs #musclemommy #fyp #mewtwo #gymtok </content>
     <link href="https://www.tiktok.com/@_mommymewtwo/video/7298382611683036449" rel="alternate"/>
     <published>2023-11-06T16:12:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@_mommymewtwo/video/7300237878590836000</id>
+    <title>Pre gym fit check🫶🏻 #mewtwo #fyp #musclemommy </title>
+    <updated>2023-11-11T16:11:30+00:00</updated>
+    <content>Pre gym fit check🫶🏻 #mewtwo #fyp #musclemommy </content>
+    <link href="https://www.tiktok.com/@_mommymewtwo/video/7300237878590836000" rel="alternate"/>
+    <published>2023-11-11T16:11:30+00:00</published>
   </entry>
   <entry>
     <id>https://www.tiktok.com/@_mommymewtwo/video/7237135255575072027</id>
