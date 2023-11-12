@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mzkora</id>
   <title>@mzkora | TikTok</title>
-  <updated>2023-11-09T18:15:49+00:00</updated>
+  <updated>2023-11-12T00:33:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @mzkora</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@mzkora/video/7297734200902372639</id>
-    <title>But he always has fun when he is there. 🤷🏽‍♀️ Make it make sense. 😭 #fyp #fypシ #parenting #family #couple #marriage #introvert #extrovert </title>
-    <updated>2023-11-04T22:16:05+00:00</updated>
-    <content>But he always has fun when he is there. 🤷🏽‍♀️ Make it make sense. 😭 #fyp #fypシ #parenting #family #couple #marriage #introvert #extrovert </content>
-    <link href="https://www.tiktok.com/@mzkora/video/7297734200902372639" rel="alternate"/>
-    <published>2023-11-04T22:16:05+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@mzkora/video/7298925016102587679</id>
     <title>Replying to @alo_ese2 #greenscreen Feels so long ago! We were babies! #fyp #fypシ #highschoolsweethearts #highschool #couple #family #houston #throwback </title>
@@ -43,6 +35,14 @@
     <content>Get Ready with me! My face routine is super simple. I have sensitive skin and applying too much of anything can cause my skin to go crazy!  Products used:  Cerave Hydrating Face Wash Keihl’s Facial Essense Mabeline Fit-Me Matte Primer NYX Matte Fini Spray Ilia Mascara Elf Eyebrow Pencil Burts Bees Lip Balm #fyp #fypシ #skincare #grwm #grwmroutine #grwmmakeup #simplemakeup #simplehairstyle </content>
     <link href="https://www.tiktok.com/@mzkora/video/7299527676962868511" rel="alternate"/>
     <published>2023-11-09T18:15:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@mzkora/video/7300367113175223582</id>
+    <title>Replying to @JemMu503 This is a pretty good compromise. 😁 #fyp #fypシ #largefamily #loveofmylife #adulting #homedecor #compromise #familyof10 </title>
+    <updated>2023-11-12T00:33:05+00:00</updated>
+    <content>Replying to @JemMu503 This is a pretty good compromise. 😁 #fyp #fypシ #largefamily #loveofmylife #adulting #homedecor #compromise #familyof10 </content>
+    <link href="https://www.tiktok.com/@mzkora/video/7300367113175223582" rel="alternate"/>
+    <published>2023-11-12T00:33:05+00:00</published>
   </entry>
   <entry>
     <id>https://www.tiktok.com/@mzkora/video/7288912369315581226</id>
