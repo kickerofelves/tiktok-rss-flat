@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@harunahana1108</id>
   <title>@harunahana1108 | TikTok</title>
-  <updated>2023-11-05T11:31:39+00:00</updated>
+  <updated>2023-11-12T00:55:53+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @harunahana1108</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@harunahana1108/video/7294817908021136647</id>
-    <title>春菜はな #春菜はな #春菜はなのできるかなできるかな #ユニクロ #爆買い</title>
-    <updated>2023-10-28T01:39:14+00:00</updated>
-    <content>春菜はな #春菜はな #春菜はなのできるかなできるかな #ユニクロ #爆買い</content>
-    <link href="https://www.tiktok.com/@harunahana1108/video/7294817908021136647" rel="alternate"/>
-    <published>2023-10-28T01:39:14+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@harunahana1108/video/7295395007312284936</id>
     <title>#春菜はなのできるかなできるかな #春菜はな</title>
@@ -51,5 +43,13 @@
     <content>#春菜はな #春菜はなのできるかなできるかな</content>
     <link href="https://www.tiktok.com/@harunahana1108/video/7297939264560516360" rel="alternate"/>
     <published>2023-11-05T11:31:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@harunahana1108/video/7300372999939673351</id>
+    <title>#春菜はなのできるかなできるかな  #春菜はな https://www.youtube.com/watch?v=GwtsibT09CA</title>
+    <updated>2023-11-12T00:55:53+00:00</updated>
+    <content>#春菜はなのできるかなできるかな  #春菜はな https://www.youtube.com/watch?v=GwtsibT09CA</content>
+    <link href="https://www.tiktok.com/@harunahana1108/video/7300372999939673351" rel="alternate"/>
+    <published>2023-11-12T00:55:53+00:00</published>
   </entry>
 </feed>

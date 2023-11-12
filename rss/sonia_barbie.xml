@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@sonia_barbie</id>
   <title>@sonia_barbie | TikTok</title>
-  <updated>2023-11-09T16:08:16+00:00</updated>
+  <updated>2023-11-11T15:44:02+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @sonia_barbie</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@sonia_barbie/video/7299456883482447147</id>
-    <title>[no title]</title>
-    <updated>2023-11-09T13:40:55+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@sonia_barbie/video/7299456883482447147" rel="alternate"/>
-    <published>2023-11-09T13:40:55+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@sonia_barbie/video/7299458112908447018</id>
     <title>[no title]</title>
@@ -35,6 +27,14 @@
     <content>On set for @Obiageri | content creator </content>
     <link href="https://www.tiktok.com/@sonia_barbie/video/7299494814314188074" rel="alternate"/>
     <published>2023-11-09T16:08:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@sonia_barbie/video/7300230736404155690</id>
+    <title>Outfit @Chéri </title>
+    <updated>2023-11-11T15:44:02+00:00</updated>
+    <content>Outfit @Chéri </content>
+    <link href="https://www.tiktok.com/@sonia_barbie/video/7300230736404155690" rel="alternate"/>
+    <published>2023-11-11T15:44:02+00:00</published>
   </entry>
   <entry>
     <id>https://www.tiktok.com/@sonia_barbie/video/7100990138091703595</id>
