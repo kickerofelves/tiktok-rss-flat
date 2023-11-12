@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@lunabends</id>
   <title>@lunabends | TikTok</title>
-  <updated>2023-11-12T01:08:58+00:00</updated>
+  <updated>2023-11-12T17:03:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @lunabends</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@lunabends/video/7299915015396625710</id>
-    <title>Heel bangs ftw  #poletok #dancer #poledance #dancing #floorwork #staticpole #pleaserheels </title>
-    <updated>2023-11-10T19:18:39+00:00</updated>
-    <content>Heel bangs ftw  #poletok #dancer #poledance #dancing #floorwork #staticpole #pleaserheels </content>
-    <link href="https://www.tiktok.com/@lunabends/video/7299915015396625710" rel="alternate"/>
-    <published>2023-11-10T19:18:39+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@lunabends/video/7300284817122315563</id>
     <title>Can i just step on stage with my crocs ? 🤣 #dancerlife </title>
@@ -35,6 +27,14 @@
     <content>Chair class 🔥  #dancetok #dancer #chairtricks #chairdance #pleaserheels </content>
     <link href="https://www.tiktok.com/@lunabends/video/7300376348013497642" rel="alternate"/>
     <published>2023-11-12T01:08:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lunabends/video/7300622233389796654</id>
+    <title>Subdayyyyy  #fypシ </title>
+    <updated>2023-11-12T17:03:12+00:00</updated>
+    <content>Subdayyyyy  #fypシ </content>
+    <link href="https://www.tiktok.com/@lunabends/video/7300622233389796654" rel="alternate"/>
+    <published>2023-11-12T17:03:12+00:00</published>
   </entry>
   <entry>
     <id>https://www.tiktok.com/@lunabends/video/7219307826949131562</id>
