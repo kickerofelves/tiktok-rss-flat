@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@izzg__</id>
   <title>@izzg__ | TikTok</title>
-  <updated>2023-11-11T17:47:08+00:00</updated>
+  <updated>2023-11-11T19:10:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @izzg__</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@izzg__/video/7299896325829578014</id>
-    <title>[no title]</title>
-    <updated>2023-11-10T18:06:09+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@izzg__/video/7299896325829578014" rel="alternate"/>
-    <published>2023-11-10T18:06:09+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@izzg__/video/7299898831947287839</id>
-    <title>this is stuck in my head</title>
-    <updated>2023-11-10T18:15:55+00:00</updated>
-    <content>this is stuck in my head</content>
-    <link href="https://www.tiktok.com/@izzg__/video/7299898831947287839" rel="alternate"/>
-    <published>2023-11-10T18:15:55+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@izzg__/video/7299901610963012894</id>
     <title>Replying to @blotboy14 </title>
@@ -51,5 +35,21 @@
     <content>[no description]</content>
     <link href="https://www.tiktok.com/@izzg__/video/7300262488078093599" rel="alternate"/>
     <published>2023-11-11T17:47:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@izzg__/video/7300280481260522782</id>
+    <title>[no title]</title>
+    <updated>2023-11-11T18:56:57+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@izzg__/video/7300280481260522782" rel="alternate"/>
+    <published>2023-11-11T18:56:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@izzg__/video/7300284015859322143</id>
+    <title>Replying to @Brandon Balala </title>
+    <updated>2023-11-11T19:10:39+00:00</updated>
+    <content>Replying to @Brandon Balala </content>
+    <link href="https://www.tiktok.com/@izzg__/video/7300284015859322143" rel="alternate"/>
+    <published>2023-11-11T19:10:39+00:00</published>
   </entry>
 </feed>
