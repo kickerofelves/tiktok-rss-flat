@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@foodsciencebabe</id>
   <title>@foodsciencebabe | TikTok</title>
-  <updated>2023-11-12T01:56:07+00:00</updated>
+  <updated>2023-11-12T23:20:29+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @foodsciencebabe</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@foodsciencebabe/video/7298125831522503982</id>
-    <title>Didn’t quite think this one through did we…🤦🏼‍♀️ #fearmongering #foodtok #foodscience #basicmath #nutrition #greenscreen </title>
-    <updated>2023-11-05T23:35:48+00:00</updated>
-    <content>Didn’t quite think this one through did we…🤦🏼‍♀️ #fearmongering #foodtok #foodscience #basicmath #nutrition #greenscreen </content>
-    <link href="https://www.tiktok.com/@foodsciencebabe/video/7298125831522503982" rel="alternate"/>
-    <published>2023-11-05T23:35:48+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@foodsciencebabe/video/7298906881337298222</id>
     <title>#shrinkflation </title>
@@ -51,5 +43,13 @@
     <content>I’m certainly not getting the same results as the viral experiment, which I explained more in this video: @Food Science Babe </content>
     <link href="https://www.tiktok.com/@foodsciencebabe/video/7300388515773156650" rel="alternate"/>
     <published>2023-11-12T01:56:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@foodsciencebabe/video/7300719473571548458</id>
+    <title>@Rob Lapham I had the same hypothesis! But I didn’t get the same result 🤔</title>
+    <updated>2023-11-12T23:20:29+00:00</updated>
+    <content>@Rob Lapham I had the same hypothesis! But I didn’t get the same result 🤔</content>
+    <link href="https://www.tiktok.com/@foodsciencebabe/video/7300719473571548458" rel="alternate"/>
+    <published>2023-11-12T23:20:29+00:00</published>
   </entry>
 </feed>
