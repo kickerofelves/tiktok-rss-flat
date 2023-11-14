@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@foodsciencebabe</id>
   <title>@foodsciencebabe | TikTok</title>
-  <updated>2023-11-12T23:20:29+00:00</updated>
+  <updated>2023-11-14T00:11:53+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @foodsciencebabe</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@foodsciencebabe/video/7298906881337298222</id>
-    <title>#shrinkflation </title>
-    <updated>2023-11-08T02:06:41+00:00</updated>
-    <content>#shrinkflation </content>
-    <link href="https://www.tiktok.com/@foodsciencebabe/video/7298906881337298222" rel="alternate"/>
-    <published>2023-11-08T02:06:41+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@foodsciencebabe/video/7299246274623081771</id>
     <title>There could be other ingredients in the Hawaiian punch contributing to what happens to that one as well. I’ll be doing a comparison with a few different concentrations of citric acid along with Hawaiian Punch and I’ll share the results after they soak for</title>
@@ -45,11 +37,19 @@
     <published>2023-11-12T01:56:07+00:00</published>
   </entry>
   <entry>
-    <id>https://www.tiktok.com/@foodsciencebabe/video/7300719473571548458</id>
-    <title>@Rob Lapham I had the same hypothesis! But I didn’t get the same result 🤔</title>
-    <updated>2023-11-12T23:20:29+00:00</updated>
-    <content>@Rob Lapham I had the same hypothesis! But I didn’t get the same result 🤔</content>
-    <link href="https://www.tiktok.com/@foodsciencebabe/video/7300719473571548458" rel="alternate"/>
-    <published>2023-11-12T23:20:29+00:00</published>
+    <id>https://www.tiktok.com/@foodsciencebabe/video/7301010234456427822</id>
+    <title>Fact or 🧢?</title>
+    <updated>2023-11-13T18:08:56+00:00</updated>
+    <content>Fact or 🧢?</content>
+    <link href="https://www.tiktok.com/@foodsciencebabe/video/7301010234456427822" rel="alternate"/>
+    <published>2023-11-13T18:08:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@foodsciencebabe/video/7301103812394192171</id>
+    <title>And no, unrefined salts with “trace minerals” are not healthier. I have videos explaining the math and how you’d have to eat a harmful amount of salt to obtain any meaningful amount of any “trace mineral.” </title>
+    <updated>2023-11-14T00:11:53+00:00</updated>
+    <content>And no, unrefined salts with “trace minerals” are not healthier. I have videos explaining the math and how you’d have to eat a harmful amount of salt to obtain any meaningful amount of any “trace mineral.” </content>
+    <link href="https://www.tiktok.com/@foodsciencebabe/video/7301103812394192171" rel="alternate"/>
+    <published>2023-11-14T00:11:53+00:00</published>
   </entry>
 </feed>
