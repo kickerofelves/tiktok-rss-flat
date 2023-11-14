@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mzkora</id>
   <title>@mzkora | TikTok</title>
-  <updated>2023-11-12T00:33:05+00:00</updated>
+  <updated>2023-11-13T23:19:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @mzkora</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@mzkora/video/7298925016102587679</id>
-    <title>Replying to @alo_ese2 #greenscreen Feels so long ago! We were babies! #fyp #fypシ #highschoolsweethearts #highschool #couple #family #houston #throwback </title>
-    <updated>2023-11-08T03:17:04+00:00</updated>
-    <content>Replying to @alo_ese2 #greenscreen Feels so long ago! We were babies! #fyp #fypシ #highschoolsweethearts #highschool #couple #family #houston #throwback </content>
-    <link href="https://www.tiktok.com/@mzkora/video/7298925016102587679" rel="alternate"/>
-    <published>2023-11-08T03:17:04+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@mzkora/video/7299227019202612510</id>
     <title>Replying to @MysteriousJules It has been a chaotic 22 years. I wouldnt change it for the world. #fyp #fypシ #family #familyof10 #largefamily #kidsnames #adultchildren #teenagers #tween </title>
@@ -43,6 +35,14 @@
     <content>Replying to @JemMu503 This is a pretty good compromise. 😁 #fyp #fypシ #largefamily #loveofmylife #adulting #homedecor #compromise #familyof10 </content>
     <link href="https://www.tiktok.com/@mzkora/video/7300367113175223582" rel="alternate"/>
     <published>2023-11-12T00:33:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@mzkora/video/7301090328491150622</id>
+    <title>Replying to @vivianbosibori This filter isnt horrible but not how I envision me aging. #fyp #fypシ #momof9 #aging #skincare #adults </title>
+    <updated>2023-11-13T23:19:35+00:00</updated>
+    <content>Replying to @vivianbosibori This filter isnt horrible but not how I envision me aging. #fyp #fypシ #momof9 #aging #skincare #adults </content>
+    <link href="https://www.tiktok.com/@mzkora/video/7301090328491150622" rel="alternate"/>
+    <published>2023-11-13T23:19:35+00:00</published>
   </entry>
   <entry>
     <id>https://www.tiktok.com/@mzkora/video/7288912369315581226</id>
