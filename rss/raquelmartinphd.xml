@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@raquelmartinphd</id>
   <title>@raquelmartinphd | TikTok</title>
-  <updated>2023-11-15T21:40:25+00:00</updated>
+  <updated>2023-11-16T23:47:29+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @raquelmartinphd</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@raquelmartinphd/video/7299609035068820782</id>
-    <title>Dear Black women, It is not all in your head. And it did not happen overnight. The history of this country and the way that it has consistently denigrated, policed, and destroyed the Black body are the reasons why Black Superman syndrome continues to thri</title>
-    <updated>2023-11-09T23:31:22+00:00</updated>
-    <content>Dear Black women, It is not all in your head. And it did not happen overnight. The history of this country and the way that it has consistently denigrated, policed, and destroyed the Black body are the reasons why Black Superman syndrome continues to thrive.  However, we reveal what the issues are. We are on the first steps to giving ourselves the lives we deserve.  Build community with others.  Identify your needs, wants, and desires work on fulfilling them NOT as act of indulgence, but an act of preservation Understand that you were never meant to do it alone  It is time to burn the cape of Black Superwoman syndrome. And NOTICE, I said BURN and NOT take it off. I want that cape in embers, so if there’s no possible way for you to pick it back up again. #healing #joy #burnthecape #Blackwomen #Support #relationships </content>
-    <link href="https://www.tiktok.com/@raquelmartinphd/video/7299609035068820782" rel="alternate"/>
-    <published>2023-11-09T23:31:22+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@raquelmartinphd/video/7300000889845075242</id>
     <title>#college #parents #university </title>
@@ -51,5 +43,13 @@
     <content>[no description]</content>
     <link href="https://www.tiktok.com/@raquelmartinphd/video/7301806921806466350" rel="alternate"/>
     <published>2023-11-15T21:40:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@raquelmartinphd/video/7302210788289318190</id>
+    <title>[no title]</title>
+    <updated>2023-11-16T23:47:29+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@raquelmartinphd/video/7302210788289318190" rel="alternate"/>
+    <published>2023-11-16T23:47:29+00:00</published>
   </entry>
 </feed>
