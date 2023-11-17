@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@izzg__</id>
   <title>@izzg__ | TikTok</title>
-  <updated>2023-11-16T18:11:41+00:00</updated>
+  <updated>2023-11-16T18:08:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @izzg__</subtitle>
+  <entry>
+    <id>https://www.tiktok.com/@izzg__/video/7301771411104861471</id>
+    <title>[no title]</title>
+    <updated>2023-11-15T19:22:57+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@izzg__/video/7301771411104861471" rel="alternate"/>
+    <published>2023-11-15T19:22:57+00:00</published>
+  </entry>
   <entry>
     <id>https://www.tiktok.com/@izzg__/video/7302105240935959838</id>
     <title>[no title]</title>
@@ -43,13 +51,5 @@
     <content>[no description]</content>
     <link href="https://www.tiktok.com/@izzg__/video/7302123337092844830" rel="alternate"/>
     <published>2023-11-16T18:08:09+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@izzg__/video/7302124260930112799</id>
-    <title>[no title]</title>
-    <updated>2023-11-16T18:11:41+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@izzg__/video/7302124260930112799" rel="alternate"/>
-    <published>2023-11-16T18:11:41+00:00</published>
   </entry>
 </feed>
