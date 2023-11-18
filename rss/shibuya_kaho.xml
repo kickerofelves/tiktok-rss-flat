@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@shibuya_kaho</id>
   <title>@shibuya_kaho | TikTok</title>
-  <updated>2023-11-09T14:35:43+00:00</updated>
+  <updated>2023-11-18T04:24:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @shibuya_kaho</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@shibuya_kaho/video/7297920347465207041</id>
-    <title>Fitting for cosplay! Thus is the day I arrived in Taiwan🛩️ 台湾到着すぐに衣装合わせ∧( •̀д•́ ;  ) ノ</title>
-    <updated>2023-11-05T10:18:16+00:00</updated>
-    <content>Fitting for cosplay! Thus is the day I arrived in Taiwan🛩️ 台湾到着すぐに衣装合わせ∧( •̀д•́ ;  ) ノ</content>
-    <link href="https://www.tiktok.com/@shibuya_kaho/video/7297920347465207041" rel="alternate"/>
-    <published>2023-11-05T10:18:16+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@shibuya_kaho/video/7297953520429321473</id>
     <title>My POV for feeding a cat🐈‍⬛ スタジオとイベント会場でも猫さんがฅ^•ω•^ฅ Chuちゅちゅチュールタイム！</title>
@@ -51,5 +43,13 @@
     <content>Okonomiyaki🤎 is what Uchan in Ranma 1/2 is cooks al the time! 恒例の飯テロ、今夜は #お好み焼き です。</content>
     <link href="https://www.tiktok.com/@shibuya_kaho/video/7299471036079148289" rel="alternate"/>
     <published>2023-11-09T14:35:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@shibuya_kaho/video/7302653151344184578</id>
+    <title>You can enjoy the cafe menu without reservstion, and the cakes looks great and different from regular Starbucks too... wanna go back!! 銀座スタバで予約限定のディナーブッフェ、遂に行きました！通常のカフェも予約無しで営業中なので、おひとり様でも過ごしやすいの嬉しい٩꒰◍･ᗜ･◍꒱۶</title>
+    <updated>2023-11-18T04:24:03+00:00</updated>
+    <content>You can enjoy the cafe menu without reservstion, and the cakes looks great and different from regular Starbucks too... wanna go back!! 銀座スタバで予約限定のディナーブッフェ、遂に行きました！通常のカフェも予約無しで営業中なので、おひとり様でも過ごしやすいの嬉しい٩꒰◍･ᗜ･◍꒱۶</content>
+    <link href="https://www.tiktok.com/@shibuya_kaho/video/7302653151344184578" rel="alternate"/>
+    <published>2023-11-18T04:24:03+00:00</published>
   </entry>
 </feed>
