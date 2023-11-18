@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@carlamorelli7</id>
   <title>@carlamorelli7 | TikTok</title>
-  <updated>2023-11-17T00:05:24+00:00</updated>
+  <updated>2023-11-17T23:40:15+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -13,14 +13,6 @@
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @carlamorelli7</subtitle>
   <entry>
-    <id>https://www.tiktok.com/@carlamorelli7/video/7301879851244326149</id>
-    <title>❤️‍🔥</title>
-    <updated>2023-11-16T02:23:09+00:00</updated>
-    <content>❤️‍🔥</content>
-    <link href="https://www.tiktok.com/@carlamorelli7/video/7301879851244326149" rel="alternate"/>
-    <published>2023-11-16T02:23:09+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.tiktok.com/@carlamorelli7/video/7301882841648991494</id>
     <title>[no title]</title>
     <updated>2023-11-16T02:34:46+00:00</updated>
@@ -29,20 +21,28 @@
     <published>2023-11-16T02:34:46+00:00</published>
   </entry>
   <entry>
-    <id>https://www.tiktok.com/@carlamorelli7/video/7302209666594000133</id>
+    <id>https://www.tiktok.com/@carlamorelli7/video/7302570164443434245</id>
     <title>[no title]</title>
-    <updated>2023-11-16T23:43:01+00:00</updated>
+    <updated>2023-11-17T23:01:57+00:00</updated>
     <content>[no description]</content>
-    <link href="https://www.tiktok.com/@carlamorelli7/video/7302209666594000133" rel="alternate"/>
-    <published>2023-11-16T23:43:01+00:00</published>
+    <link href="https://www.tiktok.com/@carlamorelli7/video/7302570164443434245" rel="alternate"/>
+    <published>2023-11-17T23:01:57+00:00</published>
   </entry>
   <entry>
-    <id>https://www.tiktok.com/@carlamorelli7/video/7302215429760601349</id>
-    <title>🔥</title>
-    <updated>2023-11-17T00:05:24+00:00</updated>
-    <content>🔥</content>
-    <link href="https://www.tiktok.com/@carlamorelli7/video/7302215429760601349" rel="alternate"/>
-    <published>2023-11-17T00:05:24+00:00</published>
+    <id>https://www.tiktok.com/@carlamorelli7/video/7302575453619932421</id>
+    <title>[no title]</title>
+    <updated>2023-11-17T23:22:26+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@carlamorelli7/video/7302575453619932421" rel="alternate"/>
+    <published>2023-11-17T23:22:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@carlamorelli7/video/7302580036807265542</id>
+    <title>[no title]</title>
+    <updated>2023-11-17T23:40:15+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@carlamorelli7/video/7302580036807265542" rel="alternate"/>
+    <published>2023-11-17T23:40:15+00:00</published>
   </entry>
   <entry>
     <id>https://www.tiktok.com/@carlamorelli7/video/7088791598414318854</id>
