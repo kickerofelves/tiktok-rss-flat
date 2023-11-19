@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ellietheempress</id>
   <title>@ellietheempress | TikTok</title>
-  <updated>2023-11-16T13:17:37+00:00</updated>
+  <updated>2023-11-18T21:06:31+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -13,20 +13,20 @@
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ellietheempress</subtitle>
   <entry>
-    <id>https://www.tiktok.com/@ellietheempress/video/7301682614220426539</id>
-    <title>#foryou #viral #fyp </title>
-    <updated>2023-11-15T13:37:56+00:00</updated>
-    <content>#foryou #viral #fyp </content>
-    <link href="https://www.tiktok.com/@ellietheempress/video/7301682614220426539" rel="alternate"/>
-    <published>2023-11-15T13:37:56+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.tiktok.com/@ellietheempress/video/7302048465331293483</id>
     <title>#fory #fyp </title>
     <updated>2023-11-16T13:17:37+00:00</updated>
     <content>#fory #fyp </content>
     <link href="https://www.tiktok.com/@ellietheempress/video/7302048465331293483" rel="alternate"/>
     <published>2023-11-16T13:17:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ellietheempress/video/7302911461389602090</id>
+    <title>#fyp #foryou #viral </title>
+    <updated>2023-11-18T21:06:31+00:00</updated>
+    <content>#fyp #foryou #viral </content>
+    <link href="https://www.tiktok.com/@ellietheempress/video/7302911461389602090" rel="alternate"/>
+    <published>2023-11-18T21:06:31+00:00</published>
   </entry>
   <entry>
     <id>https://www.tiktok.com/@ellietheempress/video/7043947524117384495</id>
