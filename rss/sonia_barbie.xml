@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@sonia_barbie</id>
   <title>@sonia_barbie | TikTok</title>
-  <updated>2023-11-17T16:05:24+00:00</updated>
+  <updated>2023-11-18T15:28:04+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @sonia_barbie</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@sonia_barbie/video/7301722131572755754</id>
-    <title>[no title]</title>
-    <updated>2023-11-15T16:11:27+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@sonia_barbie/video/7301722131572755754" rel="alternate"/>
-    <published>2023-11-15T16:11:27+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@sonia_barbie/video/7302181241703714094</id>
     <title>Me &amp; you  Shoot with @Mascko </title>
@@ -35,6 +27,14 @@
     <content>African Barbie </content>
     <link href="https://www.tiktok.com/@sonia_barbie/video/7302462797407849770" rel="alternate"/>
     <published>2023-11-17T16:05:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@sonia_barbie/video/7302824208055291178</id>
+    <title>Outfit from @Koiskloset 🤍🤍</title>
+    <updated>2023-11-18T15:28:04+00:00</updated>
+    <content>Outfit from @Koiskloset 🤍🤍</content>
+    <link href="https://www.tiktok.com/@sonia_barbie/video/7302824208055291178" rel="alternate"/>
+    <published>2023-11-18T15:28:04+00:00</published>
   </entry>
   <entry>
     <id>https://www.tiktok.com/@sonia_barbie/video/7100990138091703595</id>
