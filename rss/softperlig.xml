@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@softperlig</id>
   <title>@softperlig | TikTok</title>
-  <updated>2023-11-17T20:21:48+00:00</updated>
+  <updated>2023-11-19T20:43:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @softperlig</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@softperlig/video/7296235285455654177</id>
-    <title>Hm seems about right 🤓</title>
-    <updated>2023-10-31T21:19:23+00:00</updated>
-    <content>Hm seems about right 🤓</content>
-    <link href="https://www.tiktok.com/@softperlig/video/7296235285455654177" rel="alternate"/>
-    <published>2023-10-31T21:19:23+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@softperlig/video/7298433100181294368</id>
     <title>Side or front?</title>
@@ -51,5 +43,13 @@
     <content>Tell me 😋</content>
     <link href="https://www.tiktok.com/@softperlig/video/7302528895822089505" rel="alternate"/>
     <published>2023-11-17T20:21:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@softperlig/video/7303276571844971808</id>
+    <title>Le toxique 💫</title>
+    <updated>2023-11-19T20:43:09+00:00</updated>
+    <content>Le toxique 💫</content>
+    <link href="https://www.tiktok.com/@softperlig/video/7303276571844971808" rel="alternate"/>
+    <published>2023-11-19T20:43:09+00:00</published>
   </entry>
 </feed>
