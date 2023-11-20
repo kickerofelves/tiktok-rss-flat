@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mzkora</id>
   <title>@mzkora | TikTok</title>
-  <updated>2023-11-13T23:19:35+00:00</updated>
+  <updated>2023-11-20T20:08:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @mzkora</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@mzkora/video/7298925016102587679</id>
-    <title>Replying to @alo_ese2 #greenscreen Feels so long ago! We were babies! #fyp #fypシ #highschoolsweethearts #highschool #couple #family #houston #throwback </title>
-    <updated>2023-11-08T03:17:04+00:00</updated>
-    <content>Replying to @alo_ese2 #greenscreen Feels so long ago! We were babies! #fyp #fypシ #highschoolsweethearts #highschool #couple #family #houston #throwback </content>
-    <link href="https://www.tiktok.com/@mzkora/video/7298925016102587679" rel="alternate"/>
-    <published>2023-11-08T03:17:04+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@mzkora/video/7299527676962868511</id>
     <title>Get Ready with me! My face routine is super simple. I have sensitive skin and applying too much of anything can cause my skin to go crazy!  Products used:  Cerave Hydrating Face Wash Keihl’s Facial Essense Mabeline Fit-Me Matte Primer NYX Matte Fini Spray</title>
@@ -43,6 +35,14 @@
     <content>Replying to @vivianbosibori This filter isnt horrible but not how I envision me aging. #fyp #fypシ #momof9 #aging #skincare #adults </content>
     <link href="https://www.tiktok.com/@mzkora/video/7301090328491150622" rel="alternate"/>
     <published>2023-11-13T23:19:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@mzkora/video/7303638662657363230</id>
+    <title>This was definitely harder than it looks! #fyp #fypシ #titanicchallenge #fails #bloopers #outtakes #couples #parents </title>
+    <updated>2023-11-20T20:08:23+00:00</updated>
+    <content>This was definitely harder than it looks! #fyp #fypシ #titanicchallenge #fails #bloopers #outtakes #couples #parents </content>
+    <link href="https://www.tiktok.com/@mzkora/video/7303638662657363230" rel="alternate"/>
+    <published>2023-11-20T20:08:23+00:00</published>
   </entry>
   <entry>
     <id>https://www.tiktok.com/@mzkora/video/7299227019202612510</id>
