@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@shibuya_kaho</id>
   <title>@shibuya_kaho | TikTok</title>
-  <updated>2023-11-18T23:16:04+00:00</updated>
+  <updated>2023-11-19T12:36:22+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @shibuya_kaho</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@shibuya_kaho/video/7299450948764699905</id>
-    <title>Promo shoot for the clothing I produced! Wait for more info about the heart shirt and heart cow skirt~ プロデュースしたお洋服のPR撮影！</title>
-    <updated>2023-11-09T13:17:48+00:00</updated>
-    <content>Promo shoot for the clothing I produced! Wait for more info about the heart shirt and heart cow skirt~ プロデュースしたお洋服のPR撮影！</content>
-    <link href="https://www.tiktok.com/@shibuya_kaho/video/7299450948764699905" rel="alternate"/>
-    <published>2023-11-09T13:17:48+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@shibuya_kaho/video/7299471036079148289</id>
     <title>Okonomiyaki🤎 is what Uchan in Ranma 1/2 is cooks al the time! 恒例の飯テロ、今夜は #お好み焼き です。</title>
@@ -37,19 +29,27 @@
     <published>2023-11-18T04:24:03+00:00</published>
   </entry>
   <entry>
-    <id>https://www.tiktok.com/@shibuya_kaho/video/7302941691785399554</id>
-    <title>Fist of North star Exhibit was so amazingly cool✊ 本日まで開催中！#北斗の拳原画展 </title>
-    <updated>2023-11-18T23:04:02+00:00</updated>
-    <content>Fist of North star Exhibit was so amazingly cool✊ 本日まで開催中！#北斗の拳原画展 </content>
-    <link href="https://www.tiktok.com/@shibuya_kaho/video/7302941691785399554" rel="alternate"/>
-    <published>2023-11-18T23:04:02+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.tiktok.com/@shibuya_kaho/video/7302944833512017154</id>
     <title>Fist of North Star cafe during the exhibit is also unique and tasty❤️‍🔥 コラボカフェも楽しみの１つ〜！#北斗の拳原画展 </title>
     <updated>2023-11-18T23:16:04+00:00</updated>
     <content>Fist of North Star cafe during the exhibit is also unique and tasty❤️‍🔥 コラボカフェも楽しみの１つ〜！#北斗の拳原画展 </content>
     <link href="https://www.tiktok.com/@shibuya_kaho/video/7302944833512017154" rel="alternate"/>
     <published>2023-11-18T23:16:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@shibuya_kaho/video/7303101461750189314</id>
+    <title>Fist of North star Exhibit was so amazingly cool✊ 本日まで開催中！#北斗の拳原画展 </title>
+    <updated>2023-11-19T09:23:41+00:00</updated>
+    <content>Fist of North star Exhibit was so amazingly cool✊ 本日まで開催中！#北斗の拳原画展 </content>
+    <link href="https://www.tiktok.com/@shibuya_kaho/video/7303101461750189314" rel="alternate"/>
+    <published>2023-11-19T09:23:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@shibuya_kaho/video/7303151113748991233</id>
+    <title>NIKKE's Viper on call📲 台北での衣装、これが一番チェキ好評だったようです！</title>
+    <updated>2023-11-19T12:36:22+00:00</updated>
+    <content>NIKKE's Viper on call📲 台北での衣装、これが一番チェキ好評だったようです！</content>
+    <link href="https://www.tiktok.com/@shibuya_kaho/video/7303151113748991233" rel="alternate"/>
+    <published>2023-11-19T12:36:22+00:00</published>
   </entry>
 </feed>
