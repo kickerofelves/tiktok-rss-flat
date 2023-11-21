@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@izzg__</id>
   <title>@izzg__ | TikTok</title>
-  <updated>2023-11-18T18:42:04+00:00</updated>
+  <updated>2023-11-20T19:59:34+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -13,43 +13,43 @@
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @izzg__</subtitle>
   <entry>
-    <id>https://www.tiktok.com/@izzg__/video/7302119520615828766</id>
-    <title>[no title]</title>
-    <updated>2023-11-16T17:53:20+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@izzg__/video/7302119520615828766" rel="alternate"/>
-    <published>2023-11-16T17:53:20+00:00</published>
+    <id>https://www.tiktok.com/@izzg__/video/7303620647345720606</id>
+    <title>draft</title>
+    <updated>2023-11-20T18:58:34+00:00</updated>
+    <content>draft</content>
+    <link href="https://www.tiktok.com/@izzg__/video/7303620647345720606" rel="alternate"/>
+    <published>2023-11-20T18:58:34+00:00</published>
   </entry>
   <entry>
-    <id>https://www.tiktok.com/@izzg__/video/7302120163011333406</id>
+    <id>https://www.tiktok.com/@izzg__/video/7303621093321870622</id>
     <title>[no title]</title>
-    <updated>2023-11-16T17:55:48+00:00</updated>
+    <updated>2023-11-20T19:00:14+00:00</updated>
     <content>[no description]</content>
-    <link href="https://www.tiktok.com/@izzg__/video/7302120163011333406" rel="alternate"/>
-    <published>2023-11-16T17:55:48+00:00</published>
+    <link href="https://www.tiktok.com/@izzg__/video/7303621093321870622" rel="alternate"/>
+    <published>2023-11-20T19:00:14+00:00</published>
   </entry>
   <entry>
-    <id>https://www.tiktok.com/@izzg__/video/7302123337092844830</id>
+    <id>https://www.tiktok.com/@izzg__/video/7303633275048807710</id>
     <title>[no title]</title>
-    <updated>2023-11-16T18:08:09+00:00</updated>
+    <updated>2023-11-20T19:47:33+00:00</updated>
     <content>[no description]</content>
-    <link href="https://www.tiktok.com/@izzg__/video/7302123337092844830" rel="alternate"/>
-    <published>2023-11-16T18:08:09+00:00</published>
+    <link href="https://www.tiktok.com/@izzg__/video/7303633275048807710" rel="alternate"/>
+    <published>2023-11-20T19:47:33+00:00</published>
   </entry>
   <entry>
-    <id>https://www.tiktok.com/@izzg__/video/7302873384680017182</id>
+    <id>https://www.tiktok.com/@izzg__/video/7303634347620338975</id>
     <title>[no title]</title>
-    <updated>2023-11-18T18:39:10+00:00</updated>
+    <updated>2023-11-20T19:51:41+00:00</updated>
     <content>[no description]</content>
-    <link href="https://www.tiktok.com/@izzg__/video/7302873384680017182" rel="alternate"/>
-    <published>2023-11-18T18:39:10+00:00</published>
+    <link href="https://www.tiktok.com/@izzg__/video/7303634347620338975" rel="alternate"/>
+    <published>2023-11-20T19:51:41+00:00</published>
   </entry>
   <entry>
-    <id>https://www.tiktok.com/@izzg__/video/7302874238807969055</id>
+    <id>https://www.tiktok.com/@izzg__/video/7303636360680819998</id>
     <title>[no title]</title>
-    <updated>2023-11-18T18:42:04+00:00</updated>
+    <updated>2023-11-20T19:59:34+00:00</updated>
     <content>[no description]</content>
-    <link href="https://www.tiktok.com/@izzg__/video/7302874238807969055" rel="alternate"/>
-    <published>2023-11-18T18:42:04+00:00</published>
+    <link href="https://www.tiktok.com/@izzg__/video/7303636360680819998" rel="alternate"/>
+    <published>2023-11-20T19:59:34+00:00</published>
   </entry>
 </feed>
