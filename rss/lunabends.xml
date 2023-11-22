@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@lunabends</id>
   <title>@lunabends | TikTok</title>
-  <updated>2023-11-21T00:38:39+00:00</updated>
+  <updated>2023-11-21T20:19:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @lunabends</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@lunabends/video/7303313558958263582</id>
-    <title>Chaie class this week was steamy 🔥  #chairclass #dancing #dancer #pleaserheels #chairtricks </title>
-    <updated>2023-11-19T23:06:47+00:00</updated>
-    <content>Chaie class this week was steamy 🔥  #chairclass #dancing #dancer #pleaserheels #chairtricks </content>
-    <link href="https://www.tiktok.com/@lunabends/video/7303313558958263582" rel="alternate"/>
-    <published>2023-11-19T23:06:47+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@lunabends/video/7303592357746707755</id>
     <title>I just love being dark 🖤🧟‍♀️ #fypシ </title>
@@ -35,6 +27,14 @@
     <content>Splits from a different perspective 🧐 #yogi #yoga #flexible </content>
     <link href="https://www.tiktok.com/@lunabends/video/7303708331464461599" rel="alternate"/>
     <published>2023-11-21T00:38:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lunabends/video/7304012692124110122</id>
+    <title>I saw @kitty 🐾 throwing money &amp; had to join 🤭 #fypシ </title>
+    <updated>2023-11-21T20:19:50+00:00</updated>
+    <content>I saw @kitty 🐾 throwing money &amp; had to join 🤭 #fypシ </content>
+    <link href="https://www.tiktok.com/@lunabends/video/7304012692124110122" rel="alternate"/>
+    <published>2023-11-21T20:19:50+00:00</published>
   </entry>
   <entry>
     <id>https://www.tiktok.com/@lunabends/video/7219307826949131562</id>
