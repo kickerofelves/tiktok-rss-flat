@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@harunahana1108</id>
   <title>@harunahana1108 | TikTok</title>
-  <updated>2023-11-16T12:16:57+00:00</updated>
+  <updated>2023-11-22T13:23:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @harunahana1108</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@harunahana1108/video/7296618900479921416</id>
-    <title>縄跳びできるかなできるかな #春菜はな #春菜はなのできるかなできるかな #youtube</title>
-    <updated>2023-11-01T22:08:00+00:00</updated>
-    <content>縄跳びできるかなできるかな #春菜はな #春菜はなのできるかなできるかな #youtube</content>
-    <link href="https://www.tiktok.com/@harunahana1108/video/7296618900479921416" rel="alternate"/>
-    <published>2023-11-01T22:08:00+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@harunahana1108/video/7297939264560516360</id>
     <title>#春菜はな #春菜はなのできるかなできるかな</title>
@@ -51,5 +43,13 @@
     <content>#蒙古タンメン中本 #春菜はなのできるかなできるかな #春菜はな #カップラーメン</content>
     <link href="https://www.tiktok.com/@harunahana1108/video/7302032875673636114" rel="alternate"/>
     <published>2023-11-16T12:16:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@harunahana1108/video/7304276456325025032</id>
+    <title>#春菜はな#ラジオ体操 #ado #春菜はなのできるかなできるかな</title>
+    <updated>2023-11-22T13:23:12+00:00</updated>
+    <content>#春菜はな#ラジオ体操 #ado #春菜はなのできるかなできるかな</content>
+    <link href="https://www.tiktok.com/@harunahana1108/video/7304276456325025032" rel="alternate"/>
+    <published>2023-11-22T13:23:12+00:00</published>
   </entry>
 </feed>
