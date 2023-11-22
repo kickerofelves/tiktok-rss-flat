@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@shibuya_kaho</id>
   <title>@shibuya_kaho | TikTok</title>
-  <updated>2023-11-21T09:55:43+00:00</updated>
+  <updated>2023-11-22T01:24:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @shibuya_kaho</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@shibuya_kaho/video/7302944833512017154</id>
-    <title>Fist of North Star cafe during the exhibit is also unique and tasty❤️‍🔥 コラボカフェも楽しみの１つ〜！#北斗の拳原画展 </title>
-    <updated>2023-11-18T23:16:04+00:00</updated>
-    <content>Fist of North Star cafe during the exhibit is also unique and tasty❤️‍🔥 コラボカフェも楽しみの１つ〜！#北斗の拳原画展 </content>
-    <link href="https://www.tiktok.com/@shibuya_kaho/video/7302944833512017154" rel="alternate"/>
-    <published>2023-11-18T23:16:04+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@shibuya_kaho/video/7303101461750189314</id>
     <title>Fist of North star Exhibit was so amazingly cool✊ 本日まで開催中！#北斗の拳原画展 </title>
@@ -51,5 +43,13 @@
     <content>Kaho to Mina Ashido transaformaiton! Full video coming soon👍 メイク自体は主にピンクしか使わないから簡単？本格的に撮影＆編集したフルメイク動画も上げます〜</content>
     <link href="https://www.tiktok.com/@shibuya_kaho/video/7303851900812774657" rel="alternate"/>
     <published>2023-11-21T09:55:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@shibuya_kaho/video/7304091217581608193</id>
+    <title>Opened a loooot of OP card packs🏴‍☠️ 結構いいの出ました〜꒰⑅•͈o•͈⑅꒱ #ワンピースカード開封 </title>
+    <updated>2023-11-22T01:24:35+00:00</updated>
+    <content>Opened a loooot of OP card packs🏴‍☠️ 結構いいの出ました〜꒰⑅•͈o•͈⑅꒱ #ワンピースカード開封 </content>
+    <link href="https://www.tiktok.com/@shibuya_kaho/video/7304091217581608193" rel="alternate"/>
+    <published>2023-11-22T01:24:35+00:00</published>
   </entry>
 </feed>
