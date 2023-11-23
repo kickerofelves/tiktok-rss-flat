@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ellietheempress</id>
   <title>@ellietheempress | TikTok</title>
-  <updated>2023-11-22T13:16:46+00:00</updated>
+  <updated>2023-11-23T12:26:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -13,20 +13,20 @@
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ellietheempress</subtitle>
   <entry>
-    <id>https://www.tiktok.com/@ellietheempress/video/7303994966961900831</id>
-    <title>Memories from Cartagena #travel </title>
-    <updated>2023-11-21T19:11:03+00:00</updated>
-    <content>Memories from Cartagena #travel </content>
-    <link href="https://www.tiktok.com/@ellietheempress/video/7303994966961900831" rel="alternate"/>
-    <published>2023-11-21T19:11:03+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.tiktok.com/@ellietheempress/video/7304274662790303019</id>
     <title>#fyp #foryou #viral </title>
     <updated>2023-11-22T13:16:46+00:00</updated>
     <content>#fyp #foryou #viral </content>
     <link href="https://www.tiktok.com/@ellietheempress/video/7304274662790303019" rel="alternate"/>
     <published>2023-11-22T13:16:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ellietheempress/video/7304632620401347882</id>
+    <title>#foryou #fyp #viral </title>
+    <updated>2023-11-23T12:26:00+00:00</updated>
+    <content>#foryou #fyp #viral </content>
+    <link href="https://www.tiktok.com/@ellietheempress/video/7304632620401347882" rel="alternate"/>
+    <published>2023-11-23T12:26:00+00:00</published>
   </entry>
   <entry>
     <id>https://www.tiktok.com/@ellietheempress/video/7043947524117384495</id>
