@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@mzkora</id>
   <title>@mzkora | TikTok</title>
-  <updated>2023-11-21T05:15:13+00:00</updated>
+  <updated>2023-11-25T06:22:53+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @mzkora</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@mzkora/video/7299527676962868511</id>
-    <title>Get Ready with me! My face routine is super simple. I have sensitive skin and applying too much of anything can cause my skin to go crazy!  Products used:  Cerave Hydrating Face Wash Keihl’s Facial Essense Mabeline Fit-Me Matte Primer NYX Matte Fini Spray</title>
-    <updated>2023-11-09T18:15:49+00:00</updated>
-    <content>Get Ready with me! My face routine is super simple. I have sensitive skin and applying too much of anything can cause my skin to go crazy!  Products used:  Cerave Hydrating Face Wash Keihl’s Facial Essense Mabeline Fit-Me Matte Primer NYX Matte Fini Spray Ilia Mascara Elf Eyebrow Pencil Burts Bees Lip Balm #fyp #fypシ #skincare #grwm #grwmroutine #grwmmakeup #simplemakeup #simplehairstyle </content>
-    <link href="https://www.tiktok.com/@mzkora/video/7299527676962868511" rel="alternate"/>
-    <published>2023-11-09T18:15:49+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@mzkora/video/7300367113175223582</id>
     <title>Replying to @JemMu503 This is a pretty good compromise. 😁 #fyp #fypシ #largefamily #loveofmylife #adulting #homedecor #compromise #familyof10 </title>
@@ -43,6 +35,14 @@
     <content>Replying to @HaileyB17 #fyp #fypシ #momof9 #parenting #money #adulting #branding #childstar #creator </content>
     <link href="https://www.tiktok.com/@mzkora/video/7303779582245735711" rel="alternate"/>
     <published>2023-11-21T05:15:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@mzkora/video/7305281323382476063</id>
+    <title>Happy Friday! #fyp #fypシ #momof9 #ceilingchallenge #family #largefamily #fambam #dance #kids </title>
+    <updated>2023-11-25T06:22:53+00:00</updated>
+    <content>Happy Friday! #fyp #fypシ #momof9 #ceilingchallenge #family #largefamily #fambam #dance #kids </content>
+    <link href="https://www.tiktok.com/@mzkora/video/7305281323382476063" rel="alternate"/>
+    <published>2023-11-25T06:22:53+00:00</published>
   </entry>
   <entry>
     <id>https://www.tiktok.com/@mzkora/video/7299227019202612510</id>
