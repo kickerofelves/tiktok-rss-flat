@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@lunabends</id>
   <title>@lunabends | TikTok</title>
-  <updated>2023-11-25T02:42:31+00:00</updated>
+  <updated>2023-11-25T18:23:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @lunabends</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@lunabends/video/7304414193678028074</id>
-    <title>New boots 🖤 #pleaserheels </title>
-    <updated>2023-11-22T22:17:54+00:00</updated>
-    <content>New boots 🖤 #pleaserheels </content>
-    <link href="https://www.tiktok.com/@lunabends/video/7304414193678028074" rel="alternate"/>
-    <published>2023-11-22T22:17:54+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@lunabends/video/7304728888427416878</id>
     <title>It was a good night  #nightlife #dancer #poledance #poletok #miami #miamilife </title>
@@ -35,6 +27,14 @@
     <content>Got some studio time 😻🖤 #poletok #dancer #poledance #pleaserheels #splits #flexible </content>
     <link href="https://www.tiktok.com/@lunabends/video/7305224531898207534" rel="alternate"/>
     <published>2023-11-25T02:42:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lunabends/video/7305466944449203498</id>
+    <title>Thankfully i dont have one 🫡 #poletok #dancer #poledance #poletricks #floorwork #pleaserheels </title>
+    <updated>2023-11-25T18:23:05+00:00</updated>
+    <content>Thankfully i dont have one 🫡 #poletok #dancer #poledance #poletricks #floorwork #pleaserheels </content>
+    <link href="https://www.tiktok.com/@lunabends/video/7305466944449203498" rel="alternate"/>
+    <published>2023-11-25T18:23:05+00:00</published>
   </entry>
   <entry>
     <id>https://www.tiktok.com/@lunabends/video/7219307826949131562</id>
