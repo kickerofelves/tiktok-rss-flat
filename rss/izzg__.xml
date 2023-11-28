@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@izzg__</id>
   <title>@izzg__ | TikTok</title>
-  <updated>2023-11-27T19:08:33+00:00</updated>
+  <updated>2023-11-28T17:57:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -37,19 +37,19 @@
     <published>2023-11-21T18:25:48+00:00</published>
   </entry>
   <entry>
-    <id>https://www.tiktok.com/@izzg__/video/7306199161194548510</id>
-    <title>[no title]</title>
-    <updated>2023-11-27T17:44:38+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@izzg__/video/7306199161194548510" rel="alternate"/>
-    <published>2023-11-27T17:44:38+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.tiktok.com/@izzg__/video/7306220793778720031</id>
     <title>[no title]</title>
     <updated>2023-11-27T19:08:33+00:00</updated>
     <content>[no description]</content>
     <link href="https://www.tiktok.com/@izzg__/video/7306220793778720031" rel="alternate"/>
     <published>2023-11-27T19:08:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@izzg__/video/7306573534271245598</id>
+    <title>[no title]</title>
+    <updated>2023-11-28T17:57:28+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@izzg__/video/7306573534271245598" rel="alternate"/>
+    <published>2023-11-28T17:57:28+00:00</published>
   </entry>
 </feed>
