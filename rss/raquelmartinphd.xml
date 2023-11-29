@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@raquelmartinphd</id>
   <title>@raquelmartinphd | TikTok</title>
-  <updated>2023-11-28T23:41:02+00:00</updated>
+  <updated>2023-11-29T16:38:16+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @raquelmartinphd</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@raquelmartinphd/video/7304799471920041259</id>
-    <title>#stitch with @Destini Ann #holiday #parenting #boundaries </title>
-    <updated>2023-11-23T23:12:56+00:00</updated>
-    <content>#stitch with @Destini Ann #holiday #parenting #boundaries </content>
-    <link href="https://www.tiktok.com/@raquelmartinphd/video/7304799471920041259" rel="alternate"/>
-    <published>2023-11-23T23:12:56+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@raquelmartinphd/video/7305523714223869230</id>
     <title>#parenting #sensoryoverload </title>
@@ -51,5 +43,13 @@
     <content>Black people get punished for showing up as their true selves. That’s why masking is so prevalent. But do NOT allow individuals the ability to do this to you. You have every right to address these concerns.  Whether it is with HR, a supervisor, or manager here are some ways to deal with concerns when you feel like you are being penalized for factors that do not impact your performance in any way, like being introverted: -Come through with the SPECIFIC examples to illustrate your concerns -Request a meeting to discuss the concerns -In the meeting, explain how your introversion is being misconstrued as poor performance -HIGHLIGHT your strengths and contributions -Ask for clarification on performance expectations with TANGIBLE examples and propose solutions that accommodate your working style.  -Ask for specific, concrete examples for how you have missed expectations that are not linked to your mood  After the meeting, send a follow-up email summarizing the discussion and any agreed-upon steps, and consider scheduling a follow-up meeting to monitor progress. #work #introvert </content>
     <link href="https://www.tiktok.com/@raquelmartinphd/video/7306662115299888427" rel="alternate"/>
     <published>2023-11-28T23:41:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@raquelmartinphd/video/7306924206942457118</id>
+    <title>#onthisday </title>
+    <updated>2023-11-29T16:38:16+00:00</updated>
+    <content>#onthisday </content>
+    <link href="https://www.tiktok.com/@raquelmartinphd/video/7306924206942457118" rel="alternate"/>
+    <published>2023-11-29T16:38:16+00:00</published>
   </entry>
 </feed>
