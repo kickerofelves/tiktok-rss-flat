@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@shibuya_kaho</id>
   <title>@shibuya_kaho | TikTok</title>
-  <updated>2023-11-30T05:15:56+00:00</updated>
+  <updated>2023-11-30T14:31:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @shibuya_kaho</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@shibuya_kaho/video/7304368419686583553</id>
-    <title>How to make "Monjayaki", more runny than Okonomiyaki and it's rooted in Tokyo🔥 もんじゃ焼きは明太子モチが好きっ(っ ॑꒳ ॑c)</title>
-    <updated>2023-11-22T19:20:13+00:00</updated>
-    <content>How to make "Monjayaki", more runny than Okonomiyaki and it's rooted in Tokyo🔥 もんじゃ焼きは明太子モチが好きっ(っ ॑꒳ ॑c)</content>
-    <link href="https://www.tiktok.com/@shibuya_kaho/video/7304368419686583553" rel="alternate"/>
-    <published>2023-11-22T19:20:13+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@shibuya_kaho/video/7306801511252659458</id>
     <title>New video on CDawgVA's channel is out! Go watch how cool I look😁 特撮体験めっちゃ良かった〜</title>
@@ -51,5 +43,13 @@
     <content>Behind the scenes at Mt. Iwafune💣 爆破体験の撮影裏側！8月なので、めっちゃ暑かったです‥</content>
     <link href="https://www.tiktok.com/@shibuya_kaho/video/7307119564301585666" rel="alternate"/>
     <published>2023-11-30T05:15:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@shibuya_kaho/video/7307262747144637697</id>
+    <title>Just like last uear and the year before, my 1st event of the new year is #AnimeLA ❣️ I'll see you there~ 来年も最初のイベントはLAから始まります♡ 2024年は新しい地域や日本でも会える機会がまた増えると思うので、発表をお待ちください(*´ｰ`*人)</title>
+    <updated>2023-11-30T14:31:33+00:00</updated>
+    <content>Just like last uear and the year before, my 1st event of the new year is #AnimeLA ❣️ I'll see you there~ 来年も最初のイベントはLAから始まります♡ 2024年は新しい地域や日本でも会える機会がまた増えると思うので、発表をお待ちください(*´ｰ`*人)</content>
+    <link href="https://www.tiktok.com/@shibuya_kaho/video/7307262747144637697" rel="alternate"/>
+    <published>2023-11-30T14:31:33+00:00</published>
   </entry>
 </feed>
