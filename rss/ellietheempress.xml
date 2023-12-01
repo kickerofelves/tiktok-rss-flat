@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ellietheempress</id>
   <title>@ellietheempress | TikTok</title>
-  <updated>2023-11-30T13:22:41+00:00</updated>
+  <updated>2023-12-01T14:41:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -13,20 +13,20 @@
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ellietheempress</subtitle>
   <entry>
-    <id>https://www.tiktok.com/@ellietheempress/video/7306485895560203566</id>
-    <title>Im going to start lying about my age now lol #foryou #viral </title>
-    <updated>2023-11-28T12:17:39+00:00</updated>
-    <content>Im going to start lying about my age now lol #foryou #viral </content>
-    <link href="https://www.tiktok.com/@ellietheempress/video/7306485895560203566" rel="alternate"/>
-    <published>2023-11-28T12:17:39+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.tiktok.com/@ellietheempress/video/7307244860489354542</id>
     <title>#viral #foryou </title>
     <updated>2023-11-30T13:22:41+00:00</updated>
     <content>#viral #foryou </content>
     <link href="https://www.tiktok.com/@ellietheempress/video/7307244860489354542" rel="alternate"/>
     <published>2023-11-30T13:22:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ellietheempress/video/7307636382753738030</id>
+    <title>##viral##foryou##fyp</title>
+    <updated>2023-12-01T14:41:32+00:00</updated>
+    <content>##viral##foryou##fyp</content>
+    <link href="https://www.tiktok.com/@ellietheempress/video/7307636382753738030" rel="alternate"/>
+    <published>2023-12-01T14:41:32+00:00</published>
   </entry>
   <entry>
     <id>https://www.tiktok.com/@ellietheempress/video/7043947524117384495</id>
