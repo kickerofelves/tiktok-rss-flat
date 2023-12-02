@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@lunabends</id>
   <title>@lunabends | TikTok</title>
-  <updated>2023-11-30T22:37:42+00:00</updated>
+  <updated>2023-12-01T20:17:53+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @lunabends</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@lunabends/video/7307277347588214062</id>
-    <title>Zombie mode  #dancer #miami #fypシ </title>
-    <updated>2023-11-30T15:28:29+00:00</updated>
-    <content>Zombie mode  #dancer #miami #fypシ </content>
-    <link href="https://www.tiktok.com/@lunabends/video/7307277347588214062" rel="alternate"/>
-    <published>2023-11-30T15:28:29+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@lunabends/video/7307344329675230506</id>
     <title>Chair day once again  #chairtricks #chairdance #dance #dancer #acrochair #handstand #pleaserheels </title>
@@ -35,6 +27,14 @@
     <content>💜🙇🏽‍♀️🖤 #chair #chairdance #dancer #pleaserheels </content>
     <link href="https://www.tiktok.com/@lunabends/video/7307387986201791790" rel="alternate"/>
     <published>2023-11-30T22:37:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@lunabends/video/7307723035660864811</id>
+    <title>Guess my fave color 🤭 #fypシ #longhair #pleaserheels </title>
+    <updated>2023-12-01T20:17:53+00:00</updated>
+    <content>Guess my fave color 🤭 #fypシ #longhair #pleaserheels </content>
+    <link href="https://www.tiktok.com/@lunabends/video/7307723035660864811" rel="alternate"/>
+    <published>2023-12-01T20:17:53+00:00</published>
   </entry>
   <entry>
     <id>https://www.tiktok.com/@lunabends/video/7219307826949131562</id>
