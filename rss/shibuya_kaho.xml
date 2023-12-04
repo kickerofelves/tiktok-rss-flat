@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@shibuya_kaho</id>
   <title>@shibuya_kaho | TikTok</title>
-  <updated>2023-12-02T23:04:31+00:00</updated>
+  <updated>2023-12-04T08:35:19+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @shibuya_kaho</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@shibuya_kaho/video/7306977005445123330</id>
-    <title>Behind the scenes at Bandai Museum🤍 大きいガンダムは栃木にも！</title>
-    <updated>2023-11-29T20:03:00+00:00</updated>
-    <content>Behind the scenes at Bandai Museum🤍 大きいガンダムは栃木にも！</content>
-    <link href="https://www.tiktok.com/@shibuya_kaho/video/7306977005445123330" rel="alternate"/>
-    <published>2023-11-29T20:03:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@shibuya_kaho/video/7307119564301585666</id>
-    <title>Behind the scenes at Mt. Iwafune💣 爆破体験の撮影裏側！8月なので、めっちゃ暑かったです‥</title>
-    <updated>2023-11-30T05:15:56+00:00</updated>
-    <content>Behind the scenes at Mt. Iwafune💣 爆破体験の撮影裏側！8月なので、めっちゃ暑かったです‥</content>
-    <link href="https://www.tiktok.com/@shibuya_kaho/video/7307119564301585666" rel="alternate"/>
-    <published>2023-11-30T05:15:56+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@shibuya_kaho/video/7307262747144637697</id>
     <title>Just like last uear and the year before, my 1st event of the new year is #AnimeLA ❣️ I'll see you there~ 来年も最初のイベントはLAから始まります♡ 2024年は新しい地域や日本でも会える機会がまた増えると思うので、発表をお待ちください(*´ｰ`*人)</title>
@@ -51,5 +35,21 @@
     <content>Walking around Nagoya -the castle and "shachihoko" decoration on it🏯✨ 初めての名古屋観光（お仕事の時は全然時間が無かったので‥）やっぱりお城とシャチホコは必見！</content>
     <link href="https://www.tiktok.com/@shibuya_kaho/video/7308137014287764738" rel="alternate"/>
     <published>2023-12-02T23:04:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@shibuya_kaho/video/7308443720456604929</id>
+    <title>Ribbon transformation dress inspired by Sailor Moon🌙 It'll be another cool outfit besides Pochita saeater~ ワイヤーで形を作ってるので、畳めるようにしてもらいました！ポチタセーターに続き、クリエイティブ衣装作りは楽しい‥</title>
+    <updated>2023-12-03T18:54:29+00:00</updated>
+    <content>Ribbon transformation dress inspired by Sailor Moon🌙 It'll be another cool outfit besides Pochita saeater~ ワイヤーで形を作ってるので、畳めるようにしてもらいました！ポチタセーターに続き、クリエイティブ衣装作りは楽しい‥</content>
+    <link href="https://www.tiktok.com/@shibuya_kaho/video/7308443720456604929" rel="alternate"/>
+    <published>2023-12-03T18:54:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@shibuya_kaho/video/7308655272766065921</id>
+    <title>Pockemon Xmas at Mister Donut🍩 発売すると売り切れ続出なので事前予約がオススメです！（し忘れて、3店舗行きました‥）</title>
+    <updated>2023-12-04T08:35:19+00:00</updated>
+    <content>Pockemon Xmas at Mister Donut🍩 発売すると売り切れ続出なので事前予約がオススメです！（し忘れて、3店舗行きました‥）</content>
+    <link href="https://www.tiktok.com/@shibuya_kaho/video/7308655272766065921" rel="alternate"/>
+    <published>2023-12-04T08:35:19+00:00</published>
   </entry>
 </feed>
