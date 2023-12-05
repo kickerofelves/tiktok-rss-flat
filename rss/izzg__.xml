@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@izzg__</id>
   <title>@izzg__ | TikTok</title>
-  <updated>2023-12-04T17:59:33+00:00</updated>
+  <updated>2023-12-04T19:35:15+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @izzg__</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@izzg__/video/7308049617407495455</id>
-    <title>[no title]</title>
-    <updated>2023-12-02T17:25:08+00:00</updated>
-    <content>[no description]</content>
-    <link href="https://www.tiktok.com/@izzg__/video/7308049617407495455" rel="alternate"/>
-    <published>2023-12-02T17:25:08+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@izzg__/video/7308049923818212638</id>
     <title>[no title]</title>
@@ -45,11 +37,19 @@
     <published>2023-12-04T17:41:11+00:00</published>
   </entry>
   <entry>
-    <id>https://www.tiktok.com/@izzg__/video/7308800620486462750</id>
+    <id>https://www.tiktok.com/@izzg__/video/7308809010528914718</id>
     <title>[no title]</title>
-    <updated>2023-12-04T17:59:33+00:00</updated>
+    <updated>2023-12-04T18:32:08+00:00</updated>
     <content>[no description]</content>
-    <link href="https://www.tiktok.com/@izzg__/video/7308800620486462750" rel="alternate"/>
-    <published>2023-12-04T17:59:33+00:00</published>
+    <link href="https://www.tiktok.com/@izzg__/video/7308809010528914718" rel="alternate"/>
+    <published>2023-12-04T18:32:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@izzg__/video/7308825053276245278</id>
+    <title>[no title]</title>
+    <updated>2023-12-04T19:35:15+00:00</updated>
+    <content>[no description]</content>
+    <link href="https://www.tiktok.com/@izzg__/video/7308825053276245278" rel="alternate"/>
+    <published>2023-12-04T19:35:15+00:00</published>
   </entry>
 </feed>
