@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@shibuya_kaho</id>
   <title>@shibuya_kaho | TikTok</title>
-  <updated>2023-12-04T08:35:19+00:00</updated>
+  <updated>2023-12-05T12:16:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @shibuya_kaho</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@shibuya_kaho/video/7307262747144637697</id>
-    <title>Just like last uear and the year before, my 1st event of the new year is #AnimeLA ❣️ I'll see you there~ 来年も最初のイベントはLAから始まります♡ 2024年は新しい地域や日本でも会える機会がまた増えると思うので、発表をお待ちください(*´ｰ`*人)</title>
-    <updated>2023-11-30T14:31:33+00:00</updated>
-    <content>Just like last uear and the year before, my 1st event of the new year is #AnimeLA ❣️ I'll see you there~ 来年も最初のイベントはLAから始まります♡ 2024年は新しい地域や日本でも会える機会がまた増えると思うので、発表をお待ちください(*´ｰ`*人)</content>
-    <link href="https://www.tiktok.com/@shibuya_kaho/video/7307262747144637697" rel="alternate"/>
-    <published>2023-11-30T14:31:33+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@shibuya_kaho/video/7307848669137620225</id>
     <title>"Latte Pocket" newly opened in Harajuku today💝 Congrats, Runa~ 大好きなリシューさんのテイクアウト向け姉妹店が本日開店！私もバルーンスタンドを贈ったので見つけてください♪</title>
@@ -51,5 +43,13 @@
     <content>Pockemon Xmas at Mister Donut🍩 発売すると売り切れ続出なので事前予約がオススメです！（し忘れて、3店舗行きました‥）</content>
     <link href="https://www.tiktok.com/@shibuya_kaho/video/7308655272766065921" rel="alternate"/>
     <published>2023-12-04T08:35:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@shibuya_kaho/video/7309083252210404609</id>
+    <title>1st night arriving LA during AX last summer☀️ (I was only drinking viegin cocktail and Coke, yet ain't my cheeks seem red... with excitement?🧐) 夏のアニメイベントでロス行った時のメキシコ料理店かわいかったです！画像も動画も溜まってて‥ 師走だし片付けていきますね💦</title>
+    <updated>2023-12-05T12:16:03+00:00</updated>
+    <content>1st night arriving LA during AX last summer☀️ (I was only drinking viegin cocktail and Coke, yet ain't my cheeks seem red... with excitement?🧐) 夏のアニメイベントでロス行った時のメキシコ料理店かわいかったです！画像も動画も溜まってて‥ 師走だし片付けていきますね💦</content>
+    <link href="https://www.tiktok.com/@shibuya_kaho/video/7309083252210404609" rel="alternate"/>
+    <published>2023-12-05T12:16:03+00:00</published>
   </entry>
 </feed>
