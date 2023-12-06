@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ellietheempress</id>
   <title>@ellietheempress | TikTok</title>
-  <updated>2023-12-05T16:28:55+00:00</updated>
+  <updated>2023-12-06T13:25:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -13,20 +13,20 @@
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ellietheempress</subtitle>
   <entry>
-    <id>https://www.tiktok.com/@ellietheempress/video/7308797946332499230</id>
-    <title>#travel #foryou #fyp </title>
-    <updated>2023-12-04T17:49:17+00:00</updated>
-    <content>#travel #foryou #fyp </content>
-    <link href="https://www.tiktok.com/@ellietheempress/video/7308797946332499230" rel="alternate"/>
-    <published>2023-12-04T17:49:17+00:00</published>
-  </entry>
-  <entry>
     <id>https://www.tiktok.com/@ellietheempress/video/7309148332960517419</id>
     <title>#foryou #fyp #viral </title>
     <updated>2023-12-05T16:28:55+00:00</updated>
     <content>#foryou #fyp #viral </content>
     <link href="https://www.tiktok.com/@ellietheempress/video/7309148332960517419" rel="alternate"/>
     <published>2023-12-05T16:28:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ellietheempress/video/7309472123611811114</id>
+    <title>My tour started at 7am so I suggest getting there sooner! #foryou #viral #travel #riodejaneiro #telegraphrock </title>
+    <updated>2023-12-06T13:25:12+00:00</updated>
+    <content>My tour started at 7am so I suggest getting there sooner! #foryou #viral #travel #riodejaneiro #telegraphrock </content>
+    <link href="https://www.tiktok.com/@ellietheempress/video/7309472123611811114" rel="alternate"/>
+    <published>2023-12-06T13:25:12+00:00</published>
   </entry>
   <entry>
     <id>https://www.tiktok.com/@ellietheempress/video/7043947524117384495</id>
