@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@lisettrey</id>
   <title>@lisettrey | TikTok</title>
-  <updated>2023-12-06T13:32:13+00:00</updated>
+  <updated>2023-12-06T00:57:21+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://kickerofelves.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @lisettrey</subtitle>
+  <entry>
+    <id>https://www.tiktok.com/@lisettrey/video/7309278013403778310</id>
+    <title>Love this song😻</title>
+    <updated>2023-12-06T00:51:50+00:00</updated>
+    <content>Love this song😻</content>
+    <link href="https://www.tiktok.com/@lisettrey/video/7309278013403778310" rel="alternate"/>
+    <published>2023-12-06T00:51:50+00:00</published>
+  </entry>
   <entry>
     <id>https://www.tiktok.com/@lisettrey/video/7309278712632069381</id>
     <title>😼</title>
@@ -27,14 +35,6 @@
     <content>La morena 😘</content>
     <link href="https://www.tiktok.com/@lisettrey/video/7309279441211903237" rel="alternate"/>
     <published>2023-12-06T00:57:21+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www.tiktok.com/@lisettrey/video/7309473974306491654</id>
-    <title>Good morning  #wednesday #viralvideo #fyp #latina </title>
-    <updated>2023-12-06T13:32:13+00:00</updated>
-    <content>Good morning  #wednesday #viralvideo #fyp #latina </content>
-    <link href="https://www.tiktok.com/@lisettrey/video/7309473974306491654" rel="alternate"/>
-    <published>2023-12-06T13:32:13+00:00</published>
   </entry>
   <entry>
     <id>https://www.tiktok.com/@lisettrey/video/7099099482150685957</id>
